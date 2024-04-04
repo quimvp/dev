@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background-color: #eee;
+        }
+        /* 一个通用选择器，给所有的盒子都加黑色边框 */
+        * {
+            border: 1px solid #333;
+        }
+        /* 需要显示flex盒子。就先设置一个。 */
+        .flex {
+            display: flex;
+        }
+        /* 主区域要占满除侧边栏外所有的区域
+        flex1：占满剩余空间。 */
+        .flex1 {
+            flex: 1;
+        }
+        .baise {
+            background-color: white;
+        }
+        /* 第二层：主区域的竖向排列 */
+        .column{
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body class="flex">
+    <!-- 侧边栏 -->
+    <div style="width: 200px " class="baise">        
+    </div>
+    <!-- 主区域 -->
+    <!-- flex1:占满比例
+         flex：声明使用弹性盒子，子标签使用弹性盒子，父标签一定要声明。
+         column：声明要竖向排列
+     -->
+    <div class="flex1 flex column">
+        <!-- 头部栏 -->
+        <div style="height: 60px;" class="baise"></div>
+        <!-- 内容区  -->
+        <!--  第三层 
+             flex：默认左右排列 -->
+        <div class="flex1 flex">
+            <!-- 左区 
+                子标签有颜色，父标签就不用使用baise样式-->
+            <div style="flex: 3;" class="flex column">
+                <!-- 数据区  -->
+                <div class="flex">
+                    <!-- 数据快 -->
+                    <div style="height: 100px;" class="flex1 baise"></div>
+                </div>
+                <!-- 列表区 -->
+                <div></div>
+            </div>
+            <!-- 右区 -->
+            <div style="flex: 1;" class="flex column">
+                <!-- 提示区 -->
+                <div style="height: 150px;" class="baise"></div>
+                <!-- 消息区 -->
+                <div style="height: 300px;" class="baise"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
