@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        background-color: #eee;
+      }
+      /* 一个通用选择器，给所有的盒子都加黑色边框 */
+      /* * {
+            border: 1px solid #000000;
+        } */
+      /* 需要显示flex盒子。就先设置一个。 */
+      .flex {
+        display: flex;
+      }
+      /* 主区域要占满除侧边栏外所有的区域
+            flex1：占满剩余空间。 */
+      .flex1 {
+        flex: 1;
+      }
+      .baise {
+        background-color: white;
+      }
+      .yinying {
+        box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+          rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+      }
+      /* 第二层：主区域的竖向排列 */
+      .column {
+        flex-direction: column;
+      }
+      .mg8 {
+        margin: 8px;
+      }
+      .mgr8 {
+        margin-right: 8px;
+      }
+      .mgt8 {
+        margin-top: 8px;
+      }
+    </style>
+  </head>
+  <body class="flex">
+    <!-- 侧边栏 -->
+    <div style="width: 200px; z-index: 2" class="baise yinying">
+        <!-- 头像栏 -->
+        <div style="
+              padding: 10px;
+              align-items: center; justify-content: center; border-bottom: 1px solid ghostwhite;" class="flex">
+            <img src="https://th.bing.com/th/id/R.3d68613058210eb8682aeedf6281ad82?rik=ug8RJTylVeGCmQ&riu=http%3a%2f%2fpiccn.ihuaben.com%2fpic%2fbook%2f202201%2f1802%2f1642445019530-UP07nem0Fa_960-1278.jpeg%40210w&ehk=OrnDnZ6TDIaQ7AIANFNWBBskxNE5cqpUPA2GENPeuro%3d&risl=&pid=ImgRaw&r=0" 
+            height="40px" width="40px" alt="">
+        </div>
+        <!-- 导航栏 -->
+        <div></div>
+    </div>
+    <!-- 主区域  
+        flex1:占满比例
+         flex：声明使用弹性盒子，子标签使用弹性盒子，父标签一定要声明。
+         column：声明要竖向排列-->
+    <div class="flex1 flex column">
+      <!-- 头部栏 -->
+      <!-- z-index：z轴高度，在滚动时让头部栏不会隐藏。类似冻结窗格。
+                     小值会被大值覆盖，不设是0，所以下面的div标签z轴高度是0，会被1覆盖，
+                     也就有了隐藏或者说被隐藏的效果。 -->
+      <div style="height: 60px; z-index: 1" class="baise yinying"></div>
+      <!-- 内容区  -->
+      <!--  第三层 
+             flex：默认左右排列 
+            overflow只会在内容区的盒子内上下滚动，不会超出盒子-->
+      <div style="overflow: auto" class="flex1 flex">
+        <!-- 左区 
+                子标签有颜色，父标签就不用使用baise样式-->
+        <div style="flex: 3" class="flex column mg8">
+          <!-- 数据区  -->
+          <div class="flex">
+            <!-- 数据快 -->
+            <div style="height: 100px" class="flex1 baise mgr8 yinying"></div>
+            <div style="height: 100px" class="flex1 baise mgr8 yinying"></div>
+            <div style="height: 100px" class="flex1 baise mgr8 yinying"></div>
+            <div style="height: 100px" class="flex1 baise yinying"></div>
+          </div>
+          <!-- 列表区 -->
+          <div class="flex column">
+            <!-- 数据区 -->
+            <div style="height: 150px" class="baise mgt8 yinying"></div>
+            <div style="height: 150px" class="baise mgt8 yinying"></div>
+            <div style="height: 150px" class="baise mgt8 yinying"></div>
+          </div>
+        </div>
+        <!-- 右区 -->
+        <div style="flex: 1" class="flex column mgr8 mgt8">
+          <!-- 提示区 -->
+          <div style="height: 150px" class="baise yinying"></div>
+          <!-- 消息区 -->
+          <div style="height: 300px" class="baise mgt8 yinying"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
