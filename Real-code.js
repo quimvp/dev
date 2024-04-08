@@ -1955,7 +1955,48 @@ const productData = {
 			comment: "",
 		  },
 		], 
-	  },  
+	  },
+	  "Mini Projector 4K 1080P Support, Portable Projector WiFi6 BT 5.0 Android 11": { 
+		averageRating: 4.5,
+		reviews: [ 
+			{
+				name: "Emily W.",
+				rating: 5,
+				comment: "The picture quality is amazing for the price. Highly recommended!",
+				image: "https://i.postimg.cc/NjbSQfSn/61-Zo-Tspmsx-L-SL1600.jpg"
+			  },
+			  {
+				name: "Nathan S.",
+				rating: 4.5, 
+				comment: "I'm impressed with the performance, although I'm still figuring out how to optimize it further."
+			  },
+			  {
+				name: "Olivia R.",
+				rating: 5,
+				comment: "Arrived promptly and exceeded my expectations. Perfect addition to my home theater setup!"
+			  },
+			  {
+				name: "William L.",
+				rating: 5,
+				comment: "The delivery was quick, and the product is of excellent quality. Very satisfied with my purchase."
+			  },
+			  {
+				name: "Emma T.",
+				rating: 5,
+				comment: "This projector is a game-changer! It's like having a cinema in my living room."
+			  },
+			  {
+				name: "Daniel M.",
+				rating: 4,
+				comment: "Overall, a great product. Still exploring its features, but so far, I'm enjoying it."
+			  },
+			  {
+				name: "Sophie K.",
+				rating: 5,
+				comment: "Absolutely blown away by this Mini device. It's worth every penny!"
+			  }, 
+		], 
+	  },      
 	  "RoséGlam™ Luxury Red Zircon Pendant Necklace with Rose Flower Gift Box": {  
 		averageRating: 4.5,
 		reviews: [
