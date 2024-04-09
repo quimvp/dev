@@ -2023,6 +2023,53 @@ const productData = {
       }, 
     ],  
   }, 
+    "AOCHUAN 3-Axis Gimbal Stabilizer for Smartphone, Gimbal w/RGB Magnetic, Upgraded Face Tracer": {  
+    averageRating: 4.5,
+    reviews: [
+      {
+        name: "Alex C.",
+        rating: 5,
+        comment:
+          "Exceeded expectations. Smooth activation, top-notch quality. Minor responsiveness issues.",
+		image: "https://i.postimg.cc/qR4Q6D3M/81-y-Af9-XS4-L.jpg"
+		}, 
+      {
+        name: "Brandon M.",
+        rating: 5,
+        comment: "Quick shipping, high quality. Small and easy to use. Highly recommended!",
+      }, 
+      {
+        name: "Sarah C.",
+        rating: 4,
+        comment: "Great starter gimbal. Auto tracking needs improvement, but decent overall.",
+      },
+      {
+        name: "Flo D.",
+        rating: 5,
+        comment: "Remarkable packaging. Product presentation is astonishing.",
+      },
+      {
+        name: "Olivia A.",
+        rating: 5,
+        comment: "Super beautiful. Highly recommend!",
+      },
+      {
+        name: "Noah B.",
+        rating: 4,
+        comment: "My girlfriend loves it. Very sweet.",
+      },
+      {
+        name: "Isabella C.",
+        rating: 5,
+        comment: "Lovely and well packaged. Thank you!",
+      },
+      {
+        name: "Ethan E.",
+        rating: 5,
+        comment: "Fast delivery. Excellent quality.",
+      }, 
+    ],  
+  },
 	  "RoséGlam™ Luxury Red Zircon Pendant Necklace with Rose Flower Gift Box": {  
 		averageRating: 4.5,
 		reviews: [
