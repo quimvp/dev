@@ -2023,12 +2023,68 @@ const productData = {
       }, 
     ],  
   }, 
+  "Surveillance Camera, 8MP 4K PTZ WiFi Camera Dual Lens AI Tracking Security Protection (WiFi)": {  
+    averageRating: 4,
+    reviews: [
+        {
+            name: "Jordan",
+            rating: 5,
+            comment: "Affordable and high-quality camera. Great for monitoring livestock."
+        },
+        {
+            name: "Craig",
+            rating: 4,
+            comment: "Excellent day camera with long-range detection. Night vision could be improved."
+        },
+        {
+            name: "Rudy van Bree",
+            rating: 4,
+            comment: "Good tracking capabilities but could be better at close-range zoom."
+        },
+        {
+            name: "Alex",
+            rating: 5,
+            comment: "Impressive camera with smooth installation and excellent image quality."
+        },
+        {
+            name: "Emily",
+            rating: 4,
+            comment: "Overall satisfied, some issues with motion detection sensitivity."
+        },
+        {
+            name: "Daniel",
+            rating: 5,
+            comment: "Advanced features and reliable performance. Highly recommended."
+        },
+        {
+            name: "Sophia",
+            rating: 3,
+            comment: "Connectivity issues but decent features."
+        },
+        {
+            name: "Liam",
+            rating: 4,
+            comment: "Good camera for the price, occasional lag in live feed."
+        },
+        {
+            name: "Isabella",
+            rating: 5,
+            comment: "Very satisfied with wide coverage range and clear image quality."
+        },
+        {
+            name: "James",
+            rating: 4,
+            comment: "Reliable camera with easy setup and user-friendly app."
+        }
+    ]
+}, 
+
     "AOCHUAN 3-Axis Gimbal Stabilizer for Smartphone, Gimbal w/RGB Magnetic, Upgraded Face Tracer": {  
     averageRating: 4.5,
     reviews: [
       {
         name: "Alex C.",
-        rating: 5,
+        rating: 4.5,
         comment:
           "Exceeded expectations. Smooth activation, top-notch quality. Minor responsiveness issues.",
 		image: "https://i.postimg.cc/qR4Q6D3M/81-y-Af9-XS4-L.jpg"
@@ -2055,7 +2111,7 @@ const productData = {
       },
       {
         name: "Noah B.",
-        rating: 4,
+        rating: 5,
         comment: "My girlfriend loves it. Very sweet.",
       },
       {
