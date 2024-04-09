@@ -2029,7 +2029,8 @@ const productData = {
         {
             name: "Jordan",
             rating: 5,
-            comment: "Affordable and high-quality camera. Great for monitoring livestock."
+            comment: "Affordable and high-quality camera. Great for monitoring livestock.",
+			image:"https://i.postimg.cc/vT6p3S0F/819g1b-y-Gs-L-SL1600.jpg" 
         },
         {
             name: "Craig",
