@@ -2132,7 +2132,7 @@ const productData = {
         name: "Alan L",
         rating: 5,
         comment: "Easy to use, adjustable strength, and comfortable.",
-		image:"https://i.postimg.cc/6QcC72Ds/711-Vt-Js-CBHL.jpg" 
+        image: "https://i.postimg.cc/6QcC72Ds/711-Vt-Js-CBHL.jpg" 
       },
       {
         name: "Adam C",
@@ -2210,7 +2210,7 @@ const productData = {
         comment: "Exactly what I needed. Sticks firmly to the floor and provides great stability."
       }
     ]
-  }, 
+  },  
     "AOCHUAN 3-Axis Gimbal Stabilizer for Smartphone, Gimbal w/RGB Magnetic, Upgraded Face Tracer": {  
     averageRating: 4.5,
     reviews: [
