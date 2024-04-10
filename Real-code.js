@@ -2023,63 +2023,194 @@ const productData = {
       }, 
     ],  
   }, 
-  "Surveillance Camera, 8MP 4K PTZ WiFi Camera Dual Lens AI Tracking Security Protection (WiFi)": {  
+  
+  "Surveillance Camera, 8MP 4K PTZ WiFi Camera Dual Lens AI Tracking Security Protection (WiFi)": {
     averageRating: 4,
     reviews: [
-        {
-            name: "Jordan",
-            rating: 5,
-            comment: "Affordable and high-quality camera. Great for monitoring livestock.",
-			image:"https://i.postimg.cc/vT6p3S0F/819g1b-y-Gs-L-SL1600.jpg" 
-        },
-        {
-            name: "Craig",
-            rating: 4,
-            comment: "Excellent day camera with long-range detection. Night vision could be improved."
-        },
-        {
-            name: "Rudy van Bree",
-            rating: 4,
-            comment: "Good tracking capabilities but could be better at close-range zoom."
-        },
-        {
-            name: "Alex",
-            rating: 5,
-            comment: "Impressive camera with smooth installation and excellent image quality."
-        },
-        {
-            name: "Emily",
-            rating: 4,
-            comment: "Overall satisfied, some issues with motion detection sensitivity."
-        },
-        {
-            name: "Daniel",
-            rating: 5,
-            comment: "Advanced features and reliable performance. Highly recommended."
-        },
-        {
-            name: "Sophia",
-            rating: 3,
-            comment: "Connectivity issues but decent features."
-        },
-        {
-            name: "Liam",
-            rating: 4,
-            comment: "Good camera for the price, occasional lag in live feed."
-        },
-        {
-            name: "Isabella",
-            rating: 5,
-            comment: "Very satisfied with wide coverage range and clear image quality."
-        },
-        {
-            name: "James",
-            rating: 4,
-            comment: "Reliable camera with easy setup and user-friendly app."
-        }
+      {
+        name: "John D",
+        rating: 5,
+        comment: "Affordable and high-quality camera. Great for monitoring livestock.",
+        image: "https://i.postimg.cc/vT6p3S0F/819g1b-y-Gs-L-SL1600.jpg"
+      },
+      {
+        name: "Chris H",
+        rating: 4,
+        comment: "Excellent day camera with long-range detection. Night vision could be improved."
+      },
+      {
+        name: "Ryan V",
+        rating: 4,
+        comment: "Good tracking capabilities but could be better at close-range zoom."
+      },
+      {
+        name: "Alex C",
+        rating: 5,
+        comment: "Impressive camera with smooth installation and excellent image quality."
+      },
+      {
+        name: "Emma R",
+        rating: 4,
+        comment: "Overall satisfied, some issues with motion detection sensitivity."
+      },
+      {
+        name: "David K",
+        rating: 5,
+        comment: "Advanced features and reliable performance. Highly recommended."
+      },
+      {
+        name: "Sophie T",
+        rating: 3,
+        comment: "Connectivity issues but decent features."
+      },
+      {
+        name: "Luke J",
+        rating: 4,
+        comment: "Good camera for the price, occasional lag in live feed."
+      },
+      {
+        name: "Isaac G",
+        rating: 5,
+        comment: "Very satisfied with wide coverage range and clear image quality."
+      },
+      {
+        name: "Jake D",
+        rating: 4,
+        comment: "Reliable camera with easy setup and user-friendly app."
+      }
     ]
-}, 
-
+  },
+  "Tuya WiFi Smoke Detector Sensor Fire Alarm Works With Smart Life APP Information Push": {
+    averageRating: 4.5,
+    reviews: [
+      {
+        name: "Mark C",
+        rating: 5,
+        comment: "Great product, easy to install as advised."
+      },
+      {
+        name: "Robert L",
+        rating: 5,
+        comment: "Bon produit. Détecteur de fumée."
+      },
+      {
+        name: "Adam M",
+        rating: 4,
+        comment: "This small battery-operated alarm packs a punch. Easy to install with screws or double-sided tape."
+      },
+      {
+        name: "Eric C",
+        rating: 5,
+        comment: "Well made and easy to install. No need for screws, a sticky disc does the job."
+      },
+      {
+        name: "Tim S",
+        rating: 1,
+        comment: "Avoid. Smoke or fire does not trigger this alarm. Waste of money."
+      },
+      {
+        name: "Ron M",
+        rating: 5,
+        comment: "For $20, this alarm does the job perfectly. Perfect size, excellent quality."
+      },
+      {
+        name: "Mike H",
+        rating: 5,
+        comment: "Very good quality for the money. I like everything about this alarm."
+      },
+      {
+        name: "Carl A",
+        rating: 5,
+        comment: "Tres satisfait. Vient meme avec la batterie."
+      }
+    ]
+  },
+  "Digital Thigh Master Exerciser Strength Adjustable Pelvic Floor Training Device Battery Powered Men": {
+    averageRating: 3.5,
+    reviews: [
+      {
+        name: "Alan L",
+        rating: 5,
+        comment: "Easy to use, adjustable strength, and comfortable.",
+		image:"https://i.postimg.cc/6QcC72Ds/711-Vt-Js-CBHL.jpg" 
+      },
+      {
+        name: "Adam C",
+        rating: 5,
+        comment: "Very easy to assemble and use. Convenient replacement for expensive gym equipment."
+      },
+      {
+        name: "Brandon H",
+        rating: 4,
+        comment: "Fits well and decent quality for the price. Appreciate the adjustable tension."
+      },
+      {
+        name: "Jessica T",
+        rating: 1,
+        comment: "Not good quality. Red screw comes off and pin gets stuck. Seller offered refund then declined."
+      },
+      {
+        name: "Vincent G",
+        rating: 4,
+        comment: "OK product, but could have stronger resistance. Suitable for beginners."
+      },
+      {
+        name: "Nathan G",
+        rating: 5,
+        comment: "Works as expected. Easy to assemble, adjustable knob, resolved squeaky sound issue with customer service help."
+      },
+      {
+        name: "Matt",
+        rating: 4,
+        comment: "Pretty good overall. Feels a bit cheap but works well. Bands are a nice addition."
+      } 
+    ]
+  },
+  "Sit Up Assistant Abdominal Core Workout Sit Up Bar Fitness Sit Ups Exercise Equipment": {
+    averageRating: 4.0,
+    reviews: [
+      {
+        name: "Emma",
+        rating: 5,
+        comment: "Strong suction power as long as floor and pads are clean. Very comfortable even barefoot."
+      },
+      {
+        name: "Alex",
+        rating: 1,
+        comment: "Doesn’t suction well, unsticks at the slightest touch."
+      },
+      {
+        name: "Luke M",
+        rating: 5,
+        comment: "Works like a champ. The suction is really strong and sufficient."
+      },
+      {
+        name: "Daniel B",
+        rating: 3,
+        comment: "Ok product. Didn't stick to my hardwood floors despite the sticky film provided."
+      },
+      {
+        name: "Sam G",
+        rating: 5,
+        comment: "Impressive suction power, very stable even during intense workouts."
+      },
+      {
+        name: "Sophie T",
+        rating: 4,
+        comment: "Good quality and strong suction, but could be more comfortable on the feet."
+      },
+      {
+        name: "Nick",
+        rating: 4,
+        comment: "Works well on most surfaces, but could have better cushioning for barefoot use."
+      },
+      {
+        name: "Michael J",
+        rating: 5,
+        comment: "Exactly what I needed. Sticks firmly to the floor and provides great stability."
+      }
+    ]
+  }, 
     "AOCHUAN 3-Axis Gimbal Stabilizer for Smartphone, Gimbal w/RGB Magnetic, Upgraded Face Tracer": {  
     averageRating: 4.5,
     reviews: [
