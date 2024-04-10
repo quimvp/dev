@@ -2024,7 +2024,7 @@ const productData = {
     ],  
   }, 
   
-  "Surveillance Camera, 8MP 4K PTZ WiFi Camera Dual Lens AI Tracking Security Protection (WiFi)": {
+  "Surveillance Camera, 8MP 4K PTZ WiFi Camera Dual Lens AI Tracking Security Protection": {
     averageRating: 4,
     reviews: [
       {
