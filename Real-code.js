@@ -2623,6 +2623,61 @@ const productData = {
 		  }
 		]
 	  }, 
+	  "Breathing Trainer Lung Respirator Fitness Equipment Respiratory Silicone High Altitude Training": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Sarah L",
+			rating: 5,
+			comment: "Excellent respiratory trainer. Helps improve lung capacity. Easy to use and comfortable."
+		  },
+		  {
+			name: "John M",
+			rating: 4,
+			comment: "Good device for respiratory training. Noticeable improvement in breathing after regular use."
+		  },
+		  {
+			name: "Ella B",
+			rating: 5,
+			comment: "Love this breathing trainer. It has helped me with my asthma. Highly recommend."
+		  },
+		  {
+			name: "Max T",
+			rating: 5,
+			comment: "Decent product. Takes some time to get used to. Could be more comfortable to wear."
+		  },
+		  {
+			name: "Sophie R",
+			rating: 5,
+			comment: "Very effective training tool. Noticed significant improvement in lung capacity and endurance."
+		  },
+		  {
+			name: "Adam K",
+			rating: 5,
+			comment: "Satisfied with this trainer. Helps with my breathing exercises. Easy to adjust."
+		  },
+		  {
+			name: "Olivia H",
+			rating: 4,
+			comment: "Good quality trainer. Helps with breathing exercises. Portable and easy to carry."
+		  },
+		  {
+			name: "Lucas P",
+			rating: 5,
+			comment: "Noticeable improvement in breathing after using this trainer for a few weeks. Worth the investment."
+		  },
+		  {
+			name: "Emma W",
+			rating: 4,
+			comment: "Effective device for respiratory training. Helps strengthen lungs and improve breathing technique."
+		  },
+		  {
+			name: "Daniel S",
+			rating: 4,
+			comment: "Decent trainer but could be more durable. Works well for basic respiratory exercises."
+		  }
+		]
+	  }, 
 	  "PU Desktop Boxing Ball Stress Relief Fighting Speed Training Punching Bag Muay Tai MMA": {
 		averageRating: 4.7,
 		reviews: [
