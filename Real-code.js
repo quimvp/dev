@@ -2953,7 +2953,7 @@ const productData = {
 		  }
 		]
 	  },
-	  "Beautiful! Full of colors and joy! Very happy to receive this real work of art. Arrived well packed! No breakdowns. Thank you!!!!": {
+	  "Colorful Cat Statue Oil Painting Cat Couple Sculptures Set Modern Resin Statue for Home Decor": { 
 		averageRating: 4.7,
 		reviews: [
 		  {
