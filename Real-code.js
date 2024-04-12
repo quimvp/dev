@@ -2953,6 +2953,129 @@ const productData = {
 		  }
 		]
 	  },
+	  "Beautiful! Full of colors and joy! Very happy to receive this real work of art. Arrived well packed! No breakdowns. Thank you!!!!": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Wesley O",
+			rating: 5,
+			comment: "Very beautiful, arrived on time, good material.",
+			image:"https://i.postimg.cc/RZCr0C6Y/A12a9cd4a2cd54ec4994a7edc2cecaecbl.webp"
+		  },
+		  {
+			name: "Joe L",
+			rating: 5,
+			comment: "Very fulfilled arrived in excellent condition.",
+			image:"https://i.postimg.cc/Nfdtmrct/A08c49193de6e403f94af63d9d8883774-H.webp"
+		  },
+		  {
+			name: "Zara E",
+			rating: 5,
+			comment: "Very beautiful, I recommend them. 😊",
+			image:"https://i.postimg.cc/k4s1zKwX/A391e5e21a1bb44228fe72431924a1374-L.webp"
+		  },
+		  {
+			name: "MSL Shopper",
+			rating: 5,
+			comment: "Beautiful."
+		  },
+		  {
+			name: "Brooke R",
+			rating: 5,
+			comment: "These are most definitely beautiful. Got them as a present for a friend. I may have to buy a second set for me!"
+		  },
+		  {
+			name: "Paul L",
+			rating: 5,
+			comment: "The product is accurately described, very satisfied, beautifully indeed."
+		  },
+		  {
+			name: "MSL Shopper",
+			rating: 5,
+			comment: "They are beautiful and elegant, they came to me early."
+		  },
+		  {
+			name: "Rosa R",
+			rating: 5,
+			comment: "Very beautiful. Good packaging, all whole. Thank you."
+		  },
+		  {
+			name: "Fred R",
+			rating: 5,
+			comment: "Very beautiful cats. Well packed. Fast delivery. I'm delighted with my purchase."
+		  },
+		  {
+			name: "Daisy Y",
+			rating: 5,
+			comment: "Excellent, very well packed."
+		  },
+		  {
+			name: "Diana E",
+			rating: 5,
+			comment: "Very cute."
+		  },
+		  {
+			name: "Tom M",
+			rating: 5,
+			comment: "Fantastic, better than photos."
+		  },
+		  {
+			name: "Qin 4",
+			rating: 5,
+			comment: "They are very beautiful, small but beautiful."
+		  },
+		  {
+			name: "Monica L",
+			rating: 4,
+			comment: "Cute statuettes, not totally exact to the photos, they are not glossy, I would say matte, they are not painted in oil."
+		  },
+		  {
+			name: "Rayna C",
+			rating: 5,
+			comment: "Excellent product, as described."
+		  },
+		  {
+			name: "Eva A",
+			rating: 4,
+			comment: "Arrived well packed."
+		  },
+		  {
+			name: "Paul N",
+			rating: 4,
+			comment: "Arrived in good condition."
+		  },
+		  {
+			name: "Chris I",
+			rating: 4,
+			comment: "Good quality."
+		  },
+		  {
+			name: "Vladimir V",
+			rating: 4,
+			comment: "Nice."
+		  },
+		  {
+			name: "Rita O",
+			rating: 4,
+			comment: "Good."
+		  },
+		  {
+			name: "Nathan N",
+			rating: 4,
+			comment: "Great."
+		  },
+		  {
+			name: "Shopper",
+			rating: 4,
+			comment: "Satisfied."
+		  },
+		  {
+			name: "Tom E",
+			rating: 4,
+			comment: "Pleased."
+		  }
+		]
+	  },
 	"HydraSound Pro 6: Wireless Hi-Fi Earbuds": {
 		averageRating: 4.5,
 		reviews: [{
