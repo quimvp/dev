@@ -2895,6 +2895,64 @@ const productData = {
 		  }
 		]
 	  },
+	  "39 Key Mechanical Keyboard Gaming, RGB USB Wired Mouse Gamer Keypad Backlight Game Controller": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Emma P",
+			rating: 5,
+			comment: "Absolutely love this gaming keyboard and mouse combo! The RGB lighting is stunning and the keys feel great to type on.",
+			image:"https://i.postimg.cc/PrHn1bNL/A1312193744a74bb6ba424ea205185109-Y.webp"
+
+		  },
+		  {
+			name: "Liam W",
+			rating: 4,
+			comment: "Solid keyboard and mouse for gaming. The RGB lighting adds a nice touch to my setup. Only downside is that the keys are a bit loud.",
+			image:"https://i.postimg.cc/d0fhX4D6/A8bc51a2403534ddba05f259b87b2120b2-1.webp"
+		  }, 
+		  {
+			name: "Olivia H",
+			rating: 5,
+			comment: "Excellent build quality and responsiveness. The RGB lighting effects are customizable and look amazing. Great value for the price."
+		  },
+		  {
+			name: "Noah C",
+			rating: 4,
+			comment: "Very satisfied with this gaming keyboard and mouse. The keys are tactile and responsive, and the RGB lighting adds a cool aesthetic to my gaming setup."
+		  },
+		  {
+			name: "Sophia M",
+			rating: 5,
+			comment: "The keyboard and mouse combo exceeded my expectations. The keys have a nice tactile feel and the RGB lighting is vibrant. Overall, a great buy!"
+		  },
+		  {
+			name: "Ethan D",
+			rating: 4,
+			comment: "Good gaming keyboard and mouse combo. The RGB lighting is a nice touch and the keys are responsive. The only downside is that the mouse could be a bit more ergonomic."
+		  },
+		  {
+			name: "Isabella S",
+			rating: 5,
+			comment: "Highly recommend this gaming keyboard and mouse. The RGB lighting is stunning and the keys have a satisfying click to them. Great for gaming!"
+		  },
+		  {
+			name: "Jacob R",
+			rating: 4,
+			comment: "Solid build quality and nice RGB lighting effects. The keyboard is comfortable to type on for long gaming sessions. The mouse could be a bit larger for better grip."
+		  },
+		  {
+			name: "Ava L",
+			rating: 5,
+			comment: "Love the RGB lighting options on this gaming keyboard and mouse combo. The keys are responsive and the mouse tracks well. Great for gaming!"
+		  },
+		  {
+			name: "Lucas B",
+			rating: 5,
+			comment: "This gaming keyboard and mouse combo is fantastic! The RGB lighting effects are mesmerizing and the keys feel great to type on. Highly recommend!"
+		  }
+		]
+	  },
 	"HydraSound Pro 6: Wireless Hi-Fi Earbuds": {
 		averageRating: 4.5,
 		reviews: [{
