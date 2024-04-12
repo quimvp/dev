@@ -2132,7 +2132,7 @@ const productData = {
         name: "Alan L",
         rating: 5,
         comment: "Easy to use, adjustable strength, and comfortable.",
-        image: "https://i.postimg.cc/6QcC72Ds/711-Vt-Js-CBHL.jpg" 
+        image: "https://i.postimg.cc/6QcC72Ds/711-Vt-Js-CBHL.jpg", 
       },
       {
         name: "Adam C",
@@ -2177,7 +2177,7 @@ const productData = {
       {
         name: "Alex",
         rating: 1,
-        comment: "Doesn’t suction well, unsticks at the slightest touch."
+        comment: "Doesnt suction well, unsticks at the slightest touch."
       },
       {
         name: "Luke M",
@@ -2458,6 +2458,226 @@ const productData = {
 		  }, 
 		],  
 	  }, 
+	  "WOSWEIR Kick Boxing Helmet PU Karate Muay Thai Guantes De Boxeo Free Fight MMA Sanda Men and women": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Mark S",
+			rating: 5,
+			comment: "Excellent helmet. Provides great protection and fits comfortably."
+		  },
+		  {
+			name: "Rachel W",
+			rating: 4,
+			comment: "Good quality for the price. Provides good coverage and padding."
+		  },
+		  {
+			name: "Gregory H",
+			rating: 5,
+			comment: "Very satisfied with the purchase. The helmet feels sturdy and offers good visibility."
+		  },
+		  {
+			name: "Laura F",
+			rating: 5,
+			comment: "Highly recommend this helmet. It's comfortable and provides excellent protection."
+		  },
+		  {
+			name: "Daniel M",
+			rating: 4,
+			comment: "Great helmet for sparring. Comfortable fit and good ventilation."
+		  },
+		  {
+			name: "Sarah T",
+			rating: 4,
+			comment: "Happy with the purchase. The helmet offers good protection and feels durable."
+		  },
+		  {
+			name: "Steven K",
+			rating: 5,
+			comment: "Impressed with the quality. The helmet is lightweight yet provides ample protection."
+		  },
+		  {
+			name: "Jessica L",
+			rating: 4,
+			comment: "Good helmet overall. Provides good coverage and cushioning."
+		  },
+		  {
+			name: "Andrew B",
+			rating: 4,
+			comment: "Satisfied with the helmet. It's comfortable and offers good protection."
+		  },
+		  {
+			name: "Emily C",
+			rating: 5,
+			comment: "Great fit and comfortable to wear. Provides excellent protection during training."
+		  }
+		]
+	  },
+	  "Vegetable Slicer Manual Kitchen Accessories Vegetable Chopper 3 in 1 Round Grater Cutter": {
+		averageRating: 4.2,
+		reviews: [
+		  {
+			name: "Michael P",
+			rating: 5,
+			comment: "Very convenient tool. Makes slicing vegetables much easier and faster."
+		  },
+		  {
+			name: "Rachel L",
+			rating: 4,
+			comment: "Good quality slicer. Works well for various vegetables. Happy with the purchase."
+		  },
+		  {
+			name: "David S",
+			rating: 4,
+			comment: "Useful kitchen gadget. Makes chopping vegetables a breeze. Would recommend."
+		  },
+		  {
+			name: "Jessica K",
+			rating: 3,
+			comment: "Decent slicer, but the blades could be sharper. Requires some effort to use."
+		  },
+		  {
+			name: "Jennifer M",
+			rating: 5,
+			comment: "Love this slicer. Makes meal prep so much faster. Easy to clean as well."
+		  },
+		  {
+			name: "Daniel H",
+			rating: 4,
+			comment: "Handy kitchen tool. Works well for slicing and grating. Happy with the purchase."
+		  },
+		  {
+			name: "Sophie T",
+			rating: 4,
+			comment: "Good value for the price. Makes slicing vegetables more efficient. Would recommend."
+		  },
+		  {
+			name: "Alex B",
+			rating: 5,
+			comment: "Excellent slicer. Very versatile and easy to use. Great addition to the kitchen."
+		  },
+		  {
+			name: "Emily R",
+			rating: 3,
+			comment: "Average slicer. Not as sharp as expected. Takes some effort to get clean cuts."
+		  },
+		  {
+			name: "Benjamin C",
+			rating: 5,
+			comment: "Fantastic product. Makes meal prep a breeze. Highly recommended."
+		  }
+		]
+	  },
+	  "Automatic Electric Milk Frother Mini Portable Blender Foam Coffee Machine Blenders for Kitchen": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Michael P",
+			rating: 5,
+			comment: "Impressive little frother. Works quickly and efficiently. Great for making lattes at home."
+		  },
+		  {
+			name: "Rachel L",
+			rating: 4,
+			comment: "Good frother for the price. Creates nice foam for my morning coffee."
+		  },
+		  {
+			name: "David S",
+			rating: 5,
+			comment: "Very handy frother. Easy to use and clean. Produces excellent froth for cappuccinos."
+		  },
+		  {
+			name: "Jessica K",
+			rating: 4,
+			comment: "Decent frother. Works well for making hot chocolate. Happy with the purchase."
+		  },
+		  {
+			name: "Jennifer M",
+			rating: 5,
+			comment: "Love this frother. Compact and efficient. Makes delicious frothy milk for my coffee."
+		  },
+		  {
+			name: "Daniel H",
+			rating: 4,
+			comment: "Good little frother. Works as expected. Perfect for making foam for my morning latte."
+		  },
+		  {
+			name: "Sophie T",
+			rating: 5,
+			comment: "Excellent frother. Easy to operate and clean. Makes creamy foam for my cappuccinos."
+		  },
+		  {
+			name: "Alex B",
+			rating: 4,
+			comment: "Satisfied with this frother. Works well for frothing milk for my beverages."
+		  },
+		  {
+			name: "Emily R",
+			rating: 5,
+			comment: "Great frother. Compact size and powerful frothing. Perfect for making cafe-quality drinks at home."
+		  },
+		  {
+			name: "Benjamin C",
+			rating: 4,
+			comment: "Very pleased with this frother. Makes creamy foam for my morning coffee."
+		  }
+		]
+	  }, 
+	  "PU Desktop Boxing Ball Stress Relief Fighting Speed Training Punching Bag Muay Tai MMA": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "John D",
+			rating: 5,
+			comment: "Great stress reliever. Helps improve focus and hand-eye coordination."
+		  },
+		  {
+			name: "Chris H",
+			rating: 4,
+			comment: "Fun and effective way to release tension. Sticks firmly to the desk surface."
+		  },
+		  {
+			name: "Ryan V",
+			rating: 5,
+			comment: "Good quality for the price. Provides a good workout during breaks."
+		  },
+		  {
+			name: "Alex C",
+			rating: 5,
+			comment: "Love this thing! It's a great stress reliever and helps me stay focused."
+		  },
+		  {
+			name: "Emma R",
+			rating: 4,
+			comment: "Nice addition to my desk setup. Helps me stay active during long work hours."
+		  },
+		  {
+			name: "David K",
+			rating: 5,
+			comment: "Highly recommend! Helps me blow off steam and stay productive."
+		  },
+		  {
+			name: "Sophie T",
+			rating: 4,
+			comment: "Fun to use but the suction cup could be stronger. Falls off occasionally."
+		  },
+		  {
+			name: "Luke J",
+			rating: 5,
+			comment: "Enjoyable and effective stress relief. Good for short breaks."
+		  },
+		  {
+			name: "Isaac G",
+			rating: 5,
+			comment: "Surprisingly durable and well-made. Provides a good workout during breaks."
+		  },
+		  {
+			name: "Jake D",
+			rating: 4,
+			comment: "Great for stress relief and improving reflexes. Suction cup could be better."
+		  }
+		]
+	  },
 	"HydraSound Pro 6: Wireless Hi-Fi Earbuds": {
 		averageRating: 4.5,
 		reviews: [{
