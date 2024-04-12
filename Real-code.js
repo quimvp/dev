@@ -2733,6 +2733,168 @@ const productData = {
 		  }
 		]
 	  },
+	  "2PCS 2M Boxing Training Bandages Cotton Sports Bandages Sanda Kick Boxing Mma Hand Gloves": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Ethan M",
+			rating: 5,
+			comment: "Arrived ahead of schedule. Seem good quality. My hands are small and it falls a little short to pass it between my fingers, but without passing them, something better goes. Good price.",
+			image:"https://i.postimg.cc/mrxWJpvL/A53bc7a26d0404c6fbf11e497893420cfk.webp"
+		  },
+		  {
+			name: "Samantha E",
+			rating: 5,
+			comment: "It is a good material, it is not the thin one, it fits well in the hand. Nothing to complain, I believe that the product will have a good durability.",
+			image:"https://i.postimg.cc/BnmM1jCd/A8ddbdcdeeb2c4810b5c986e25570b5afg.webp"
+		  },
+		  {
+			name: "Jack R",
+			rating: 5,
+			comment: "Exactly the same as in the photo, they have good quality. Delivered before the indicated time. I like them very much, I will make another order."
+		  },
+		  {
+			name: "Sophie L",
+			rating: 5,
+			comment: "No details to make the purchase and the order arrived before the estimated date."
+		  },
+		  {
+			name: "Ryan S",
+			rating: 5,
+			comment: "They arrived faster than expected, I also bought boxing gloves with another supplier and they arrived at the same time. The bandage looks good and suitable, it is not elastic but also not hard, it is suitable to fit the wrist, hand and fingers correctly. It did arrive 3 meters long as I requested."
+		  },
+		  {
+			name: "Molly M",
+			rating: 5,
+			comment: "They arrived on time and are a chulada. Excellent quality."
+		  },
+		  {
+			name: "Frank R",
+			rating: 5,
+			comment: "The product complies with the description. All good, thank you."
+		  },
+		  {
+			name: "Yusuf B",
+			rating: 5,
+			comment: "Exactly what I wanted. Perfect."
+		  },
+		  {
+			name: "Ella E",
+			rating: 5,
+			comment: "Very satisfied. As in the description."
+		  },
+		  {
+			name: "Kylie R",
+			rating: 5,
+			comment: "Come on. Come on."
+		  },
+		  {
+			name: "Steven S",
+			rating: 5,
+			comment: "I arrived well."
+		  },
+		  {
+			name: "Benjamin Z",
+			rating: 5,
+			comment: "Strong."
+		  },
+		  {
+			name: "Caitlin A",
+			rating: 5,
+			comment: "buenas."
+		  },
+		  {
+			name: "Mark M",
+			rating: 5,
+			comment: "Shvidko was bulked up. Binti I'll describe it very much. Recommend."
+		  },
+		  {
+			name: "Sarah S",
+			rating: 5,
+			comment: "I loved the quality, I will train the correct way to tie on the hand."
+		  },
+		  {
+			name: "Henry O",
+			rating: 5,
+			comment: "Very good product. Already used and very good quality. Fast arrival. Everything OK."
+		  },
+		  {
+			name: "Rory C",
+			rating: 5,
+			comment: "The goods are as in the picture. Kudos to the merchant."
+		  },
+		  {
+			name: "Michael R",
+			rating: 5,
+			comment: "Very good excellent article. I recommend it works perfectly."
+		  },
+		  {
+			name: "Samuel R",
+			rating: 5,
+			comment: "Great product; as good as advertised. Delivered fast."
+		  },
+		  {
+			name: "Ryan S",
+			rating: 5,
+			comment: "Are like the description of the page. As is. Very beautiful and gene the personal, thick."
+		  }
+		]
+	  },
+	  "Fitness Exercise Wall Punching Pad Agility Boxing Sports Reaction Training Reaction Exercise Sports": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Ethan M",
+			rating: 5,
+			comment: "Great for improving hand-eye coordination and reaction speed. Very durable material."
+		  },
+		  {
+			name: "Sophie L",
+			rating: 5,
+			comment: "Excellent addition to my home gym. Helps me release stress and improve my boxing skills."
+		  },
+		  {
+			name: "Jack R",
+			rating: 4,
+			comment: "Good quality padding. Provides a satisfying punch sound. Could be a bit larger for better coverage."
+		  },
+		  {
+			name: "Molly M",
+			rating: 5,
+			comment: "Easy to install and sturdy construction. Perfect for practicing different punching techniques."
+		  },
+		  {
+			name: "Frank R",
+			rating: 5,
+			comment: "Love this wall punching pad. It's a great way to stay active and relieve tension."
+		  },
+		  {
+			name: "Yusuf B",
+			rating: 4,
+			comment: "Overall good product. The padding is firm and provides a good rebound for punches."
+		  },
+		  {
+			name: "Ella E",
+			rating: 5,
+			comment: "Exactly what I was looking for. Helps me improve my boxing skills at home."
+		  },
+		  {
+			name: "Kylie R",
+			rating: 5,
+			comment: "Highly recommend this wall punching pad. It's well-made and withstands heavy punches."
+		  },
+		  {
+			name: "Steven S",
+			rating: 4,
+			comment: "Satisfied with my purchase. It's a great addition to my workout routine."
+		  },
+		  {
+			name: "Benjamin Z",
+			rating: 5,
+			comment: "Great quality and easy to mount. Provides a good workout and helps with stress relief."
+		  }
+		]
+	  },
 	"HydraSound Pro 6: Wireless Hi-Fi Earbuds": {
 		averageRating: 4.5,
 		reviews: [{
