@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "star.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kansas1295/dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kansas1295/dev/issues"
+  },
+  "homepage": "https://github.com/kansas1295/dev#readme"
+}
