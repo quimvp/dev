@@ -2953,6 +2953,357 @@ const productData = {
 		  }
 		]
 	  },
+	  "Hair Remover Brush Dog and Cat Non-slip Beauty Brush Dog Grooming Equipment Pets Stainless Steel": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Emily P",
+			rating: 5,
+			comment: "This brush works wonders! My dog's shedding has decreased significantly since using it."
+		  },
+		  {
+			name: "Lucas S",
+			rating: 4,
+			comment: "Great brush for removing loose fur. My cat doesn't mind it and it's easy to clean."
+		  },
+		  {
+			name: "Sophia R",
+			rating: 5,
+			comment: "Love this brush! It's gentle on my dog's skin and really effective at removing loose hair."
+		  },
+		  {
+			name: "Ethan H",
+			rating: 4,
+			comment: "Good quality brush. It's comfortable to hold and my dog seems to enjoy the grooming."
+		  },
+		  {
+			name: "Ava M",
+			rating: 5,
+			comment: "Highly recommend! This brush is sturdy and does a great job at getting rid of excess hair."
+		  },
+		  {
+			name: "Liam C",
+			rating: 4,
+			comment: "Works well on my cat's fur. It's a bit small for my liking but gets the job done."
+		  },
+		  {
+			name: "Isabella W",
+			rating: 5,
+			comment: "Impressed with the results! My dog's coat looks shinier and healthier after using this brush."
+		  },
+		  {
+			name: "Mia L",
+			rating: 4,
+			comment: "Decent brush for the price. It's easy to use and my cat doesn't seem bothered by it."
+		  },
+		  {
+			name: "Noah B",
+			rating: 5,
+			comment: "Great for long-haired dogs! This brush gets through tangles easily and reduces shedding."
+		  },
+		  {
+			name: "Ella S",
+			rating: 5,
+			comment: "Fantastic brush! It's comfortable to use and my cat's coat looks much neater after brushing."
+		  },
+		  {
+			name: "Oliver R",
+			rating: 4,
+			comment: "Good grooming brush. It's effective at removing loose hair but could be a bit sturdier."
+		  },
+		  {
+			name: "Charlotte D",
+			rating: 5,
+			comment: "Very happy with this purchase! My dog's shedding has decreased and grooming is much easier."
+		  },
+		  {
+			name: "Jack M",
+			rating: 4,
+			comment: "Solid brush for daily grooming. My cat's fur looks smoother and shinier after using it."
+		  },
+		  {
+			name: "Amelia K",
+			rating: 5,
+			comment: "Excellent brush! It's gentle on my dog's sensitive skin and removes a lot of loose hair."
+		  },
+		  {
+			name: "Henry P",
+			rating: 4,
+			comment: "Good value for money. This brush is effective and easy to clean."
+		  },
+		  {
+			name: "Grace L",
+			rating: 5,
+			comment: "Love this brush! It's made grooming my dog much easier and less time-consuming."
+		  },
+		  {
+			name: "Ethan W",
+			rating: 5,
+			comment: "Great brush for my long-haired cat. It's comfortable to use and keeps her fur looking neat."
+		  },
+		  {
+			name: "Natalie B",
+			rating: 4,
+			comment: "Decent brush. It gets the job done but could have stronger bristles."
+		  },
+		  {
+			name: "Lily C",
+			rating: 5,
+			comment: "Amazing brush! My dog's shedding has decreased noticeably and her coat is softer."
+		  },
+		  {
+			name: "William M",
+			rating: 4,
+			comment: "Works well for my short-haired dog. It's effective at removing loose fur and he enjoys the grooming."
+		  },
+		  {
+			name: "Zoe R",
+			rating: 5,
+			comment: "Highly recommend this brush! It's comfortable to use and my cat's fur looks so much better."
+		  },
+		  {
+			name: "Ryan H",
+			rating: 4,
+			comment: "Decent brush for the price. It's lightweight and easy to use on my dog's coat."
+		  },
+		  {
+			name: "Emma S",
+			rating: 5,
+			comment: "Very impressed with this brush! It's durable, easy to clean, and my dog loves it."
+		  },
+		  {
+			name: "Aiden L",
+			rating: 4,
+			comment: "Good grooming brush. It's gentle on my dog's skin and reduces shedding."
+		  },
+		  {
+			name: "Madison W",
+			rating: 5,
+			comment: "Excellent brush for my long-haired cat. It's effective and comfortable to hold."
+		  },
+		  {
+			name: "Sophie C",
+			rating: 5,
+			comment: "Love this brush! It's made grooming my dog much more enjoyable and less messy."
+		  },
+		  {
+			name: "Landon P",
+			rating: 4,
+			comment: "Solid brush for my cat. It's easy to use and helps keep her fur in good condition."
+		  },
+		  {
+			name: "Avery B",
+			rating: 5,
+			comment: "Great for my double-coated dog! This brush removes a lot of loose hair and keeps his coat tidy."
+		  }
+		]
+	},
+	"Pet Cat Hair Removal Comb Brush Dog Grooming Shedding Tools Puppy Hair Shedding Trimmer": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Emma P",
+			rating: 5,
+			comment: "Fantastic tool! Works great on my cat's fur, reduces shedding noticeably."
+		  },
+		  {
+			name: "Lucas S",
+			rating: 4,
+			comment: "Good comb for grooming. My dog doesn't mind it and it's easy to clean."
+		  },
+		  {
+			name: "Sophie R",
+			rating: 5,
+			comment: "Love this comb! It's gentle yet effective on my pet's skin and coat."
+		  },
+		  {
+			name: "Ethan H",
+			rating: 4,
+			comment: "Solid comb. Comfortable to hold and helps with my dog's shedding."
+		  },
+		  {
+			name: "Ava M",
+			rating: 5,
+			comment: "Highly recommend! Sturdy build and removes excess hair easily."
+		  },
+		  {
+			name: "Liam C",
+			rating: 4,
+			comment: "Works well on my cat's fur. Could be a bit bigger but gets the job done."
+		  },
+		  {
+			name: "Isabella W",
+			rating: 5,
+			comment: "Impressed with how much hair this removes! My pet's coat looks amazing."
+		  },
+		  {
+			name: "Mia L",
+			rating: 4,
+			comment: "Decent comb for the price. My pet seems comfortable during grooming."
+		  },
+		  {
+			name: "Noah B",
+			rating: 5,
+			comment: "Great for long-haired pets! Reduces tangles and keeps fur neat."
+		  },
+		  {
+			name: "Ella S",
+			rating: 5,
+			comment: "Comfortable to use and effective. My pet's fur looks much better after use."
+		  },
+		  {
+			name: "Oliver R",
+			rating: 4,
+			comment: "Good grooming tool. Removes hair well but could be sturdier."
+		  },
+		  {
+			name: "Charlotte D",
+			rating: 5,
+			comment: "Very pleased with this purchase! Makes grooming easier and less messy."
+		  },
+		]
+	  },
+	  "Pet Automatic Cat Drinking Bowl Cat Bowl Large Capacity Dog Bowl 3.8L Combination Food Storage": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Emma S",
+			rating: 5,
+			comment: "Excellent bowl, large capacity is perfect for my big dog. The combination food storage is very convenient."
+		  },
+		  {
+			name: "Mark H",
+			rating: 4,
+			comment: "Good quality bowl and the food storage is a nice addition. Wish it came in more colors."
+		  },
+		  {
+			name: "Lucy M",
+			rating: 5,
+			comment: "I love this bowl! Makes feeding time so much easier with the food storage. Very sturdy."
+		  },
+		  {
+			name: "Michael B",
+			rating: 3,
+			comment: "Decent bowl, but the lid on the food storage could be more secure. Still works fine though."
+		  },
+		  {
+			name: "Sophie L",
+			rating: 5,
+			comment: "Perfect for my cat and dog. They both love it! The food storage keeps everything organized."
+		  },
+		  {
+			name: "Oliver D",
+			rating: 4,
+			comment: "Nice bowl, good size, and the food storage is handy. Wish it was easier to clean."
+		  },
+		  {
+			name: "Jessica R",
+			rating: 5,
+			comment: "Great design! The food storage compartment is a game-changer. No more messy feeding times."
+		  },
+		  {
+			name: "Samuel K",
+			rating: 4,
+			comment: "Very practical bowl, especially for those with multiple pets. Would recommend."
+		  },
+		  {
+			name: "Emily T",
+			rating: 3,
+			comment: "Decent bowl, but the food storage lid doesn't seal well. Not ideal for keeping food fresh."
+		  },
+		  {
+			name: "Daniel C",
+			rating: 5,
+			comment: "Exactly what I needed! The food storage is brilliant and the bowl itself is durable."
+		  },
+		  {
+			name: "Megan S",
+			rating: 4,
+			comment: "Good value for money. The food storage is a nice touch. Would buy again."
+		  },
+		  {
+			name: "Ryan W",
+			rating: 4,
+			comment: "Nice bowl, works well. The food storage compartment is handy for keeping things organized."
+		  },
+		  {
+			name: "Lily B",
+			rating: 5,
+			comment: "Love this bowl! The food storage is genius. Makes feeding my cat and dog a breeze."
+		  },
+		  {
+			name: "Alex D",
+			rating: 5,
+			comment: "Beautiful! Full of colors and joy! Very happy to receive this real work of art. Arrived well packed! No breakdowns. Thank you!!!!"
+		  },
+		  {
+			name: "Julia M",
+			rating: 4,
+			comment: "Very beautiful, arrived on time, good material."
+		  },
+		  {
+			name: "Zoe E",
+			rating: 5,
+			comment: "Very beautiful, I recommend them😊"
+		  },
+		  {
+			name: "AliExpress Shopper",
+			rating: 4,
+			comment: "Beautiful"
+		  },
+		  {
+			name: "Benjamin R",
+			rating: 5,
+			comment: "These are most definitely beautiful. Got them as a present for a friend, I may have to buy a second set for me!!"
+		  },
+		  {
+			name: "Patricia L",
+			rating: 5,
+			comment: "The product is accurately described, very satisfied, beautifully indeed."
+		  },
+		  {
+			name: "Alice R",
+			rating: 4,
+			comment: "Nice bowl, good size, and the food storage is handy. Wish it was easier to clean."
+		  },
+		  {
+			name: "Kevin M",
+			rating: 5,
+			comment: "Great design! The food storage compartment is a game-changer. No more messy feeding times."
+		  },
+		  {
+			name: "Laura B",
+			rating: 4,
+			comment: "Very practical bowl, especially for those with multiple pets. Would recommend."
+		  },
+		  {
+			name: "Emily T",
+			rating: 3,
+			comment: "Decent bowl, but the food storage lid doesn't seal well. Not ideal for keeping food fresh."
+		  },
+		  {
+			name: "David C",
+			rating: 5,
+			comment: "Exactly what I needed! The food storage is brilliant and the bowl itself is durable."
+		  },
+		  {
+			name: "Megan S",
+			rating: 4,
+			comment: "Good value for money. The food storage is a nice touch. Would buy again."
+		  },
+		  {
+			name: "Ryan W",
+			rating: 4,
+			comment: "Nice bowl, works well. The food storage compartment is handy for keeping things organized."
+		  },
+		  {
+			name: "Lily B",
+			rating: 5,
+			comment: "Love this bowl! The food storage is genius. Makes feeding my cat and dog a breeze."
+		  }
+		]
+	  },
+	  
 	  "FelineFolio: Cat Bag, Pet Backpacks, & Space Capsules": {
 		averageRating: 4.8,
 		reviews: [
