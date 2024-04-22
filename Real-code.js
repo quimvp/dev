@@ -2959,12 +2959,14 @@ const productData = {
 		  {
 			name: "Emily P",
 			rating: 5,
-			comment: "This brush works wonders! My dog's shedding has decreased significantly since using it."
+			comment: "This brush works wonders! My dog's shedding has decreased significantly since using it.",
+			image:"https://i.postimg.cc/501XFcpd/Ad680cdb838934e00baba37f320ebfe2ej.webp"
 		  },
 		  {
 			name: "Lucas S",
 			rating: 4,
-			comment: "Great brush for removing loose fur. My cat doesn't mind it and it's easy to clean."
+			comment: "Great brush for removing loose fur. My cat doesn't mind it and it's easy to clean.",
+			image:"https://i.postimg.cc/wMj30hSw/A39c84122576e4e3ba597d14a757ebc19-V.webp" 
 		  },
 		  {
 			name: "Sophia R",
@@ -3098,13 +3100,64 @@ const productData = {
 		  }
 		]
 	},
-	"Pet Cat Hair Removal Comb Brush Dog Grooming Shedding Tools Puppy Hair Shedding Trimmer": {
+	"3 in 1 Pet Brush Cat Steam Brush Comb Dog Brush Electric Spray Cat Hair Brushes Massage Pet Grooming": {
+		averageRating: 4.3,
+		reviews: [
+		  {
+			name: "Sarah M",
+			rating: 5,
+			comment: "This brush is amazing! It detangles my cat's fur so easily and the massage function seems to relax her. Very happy with this purchase!"
+		  },
+		  {
+			name: "Jake H",
+			rating: 4,
+			comment: "Good brush overall. The steam feature helps with grooming my dog's thick coat. Wish the water tank was a bit bigger."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "Excellent quality brush. The electric spray feature is a game-changer for detangling my long-haired cat. Highly recommend!"
+		  },
+		  {
+			name: "Noah C",
+			rating: 4,
+			comment: "I like the concept of this brush. Works well for my cat and dog, but the water spray is a bit weak."
+		  },
+		  {
+			name: "Ella P",
+			rating: 5,
+			comment: "Love this brush! It's so versatile with the 3-in-1 design. The massage function is a nice touch for my pets."
+		  },
+		  {
+			name: "Liam R",
+			rating: 4,
+			comment: "The brush works well, especially for my cat's shedding. The massage feature is gentle and seems to calm my pet."
+		  },
+		  {
+			name: "Ava K",
+			rating: 4,
+			comment: "Nice brush, helps with tangles in my cat's fur. The steam function is interesting but not sure how much it helps."
+		  },
+		  {
+			name: "Olivia B",
+			rating: 3,
+			comment: "Decent brush, but the electric spray stopped working after a few uses. Disappointing."
+		  },
+		  {
+			name: "Jack D",
+			rating: 5,
+			comment: "Great grooming tool! The steam function really helps with knots in my dog's fur. Would recommend!"
+		  }
+		]
+	  },
+	"Pet Cat Hair Removal Comb Brush Dog Grooming Shedding Tools Puppy Hair Shedding Trimmer" : {
 		averageRating: 4.6,
 		reviews: [
 		  {
 			name: "Emma P",
 			rating: 5,
-			comment: "Fantastic tool! Works great on my cat's fur, reduces shedding noticeably."
+			comment: "Fantastic tool! Works great on my cat's fur, reduces shedding noticeably.",
+			image:"https://i.postimg.cc/XYS4vfQt/71r-DZk-VXgo-L.jpg"
 		  },
 		  {
 			name: "Lucas S",
@@ -3160,9 +3213,9 @@ const productData = {
 			name: "Charlotte D",
 			rating: 5,
 			comment: "Very pleased with this purchase! Makes grooming easier and less messy."
-		  },
-		]
-	  },
+		}
+	]
+  }, 
 	  "Pet Automatic Cat Drinking Bowl Cat Bowl Large Capacity Dog Bowl 3.8L Combination Food Storage": {
 		averageRating: 4.7,
 		reviews: [
