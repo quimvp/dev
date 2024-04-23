@@ -5,9 +5,7 @@ using namespace std;
 class student{
     private:
         double num;
-        double privateMethod(double num){
-            return num+1;
-        }
+        double privateMethod(double num){return num+1;}
     public:
         double get(){return num;}
         void set(double n){num = n;}
