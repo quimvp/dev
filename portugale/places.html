@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietas apmeklējumam Portugālē</title>
+    <style>
+        body
+	{   
+            zoom: 80%;
+            background-image: url('bingasda.png');
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+    }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .zigzag {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .item {
+            width: 45%;
+            margin: 2.5%;
+            text-align: justify;
+        }
+        .item img {
+            max-width: 100%;
+            height: auto;
+        }
+        .item:nth-child(odd) {
+            float: left;
+        }
+        .item:nth-child(even) {
+            float: right;
+        }
+        #button {
+            position: fixed;
+            top: 20px;
+            right: 20px; 
+            cursor: pointer;
+            background-color: transparent;
+            border: none;
+            color: #000; 
+            font-size: 25px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <button id="button" onclick="window.location.href='Webfront.html'">sākums</button>
+    <div class="container">
+        <h1>Vietas apmeklējumam Portugālē</h1>
+        <div class="zigzag">
+            <div class="item">
+                <img src="lisbon.jpg" alt="Lisabona">
+                <p>Lisabona, Portugāles galvaspilsēta, ir pazīstama ar savu iespaidīgo arhitektūru, dzīvo kultūru un garšīgo virtuvi.</p>
+            </div>
+            <div class="item">
+                <p>Algarve reģions, kas atrodas Portugāles dienvidos, lepojas ar apburošām pludmalēm, gleznainām klintīm un burvīgām piekrastes pilsētiņām.</p>
+                <img src="algarve.jpg" alt="Algarve">
+            </div>
+            <div class="item">
+                <img src="porto.jpg" alt="Portu">
+                <p>Portu ir slavens ar savu vēsturisko centru, portveinu un Douro upi. Nepalaist garām izpētīt tās šaurās ielas un garšot vietējos delikateses.</p>
+            </div>
+            <div class="item">
+                <p>Sintra, UNESCO Pasaules mantojuma sarakstā, ir slavens ar savām romantiskajām pilsētām, bagātīgajiem dārziem un mistisko atmosfēru.</p>
+                <img src="sintra.jpg" alt="Sintra">
+            </div>
+            <div class="item">
+                <img src="faro.jpg" alt="Faro">
+                <p>Faro, Algarves vārti, piedāvā vēstures un modernitātes savienojumu, ar savām viduslaiku sienām, bruģētām ielām un dzīvo nakti.</p>
+            </div>
+            <div class="item">
+                <p>Azoru salas, vidusatlantijas arhipelāgs, vilina apmeklētājus ar savām iespaidīgajām ainavām, vulkāniskajiem krāteriem un dabiskajām termālajām avotām.</p>
+                <img src="azores.jpg" alt="Azoru salas">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
