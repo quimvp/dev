@@ -3846,7 +3846,21 @@ const productData = {
 				comment: ""
 			}
 		] 
-	}
+	},
+	"Costway 8000 BTU Portable Air Conditioner 3-in-1 AC Unit With Cool Dehum Fan Sleep Mode": {
+		averageRating: 4.5,
+		reviews: [{
+				name: "Emma W.",
+				rating: 5,
+				comment: "It's affordable, a breeze to install. Highly recommended.",
+			},
+			{
+				name: "Mike G.",
+				rating: 5,
+				comment: "I won’t lie when I first ordered my costoway ac I was kind of unsure I would like it but it is far the best air conditioner I ever had I like mine so much I’m thinking of buying another and storing it away"
+			}, 
+		] 
+	} 
 };
 
 
