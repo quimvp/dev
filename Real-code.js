@@ -3861,7 +3861,7 @@ const productData = {
 			}, 
 		] 
 	},
-	"Costway 8000 BTU Portable Air Conditioner 3-in-1 AC Unit With Cool Dehum Fan Sleep Mode": {
+	"Insignia Window Air Conditioner - 5000 BTU - White": { 
 		averageRating: 4.5,
 		reviews: [{
 				name: "Alex T.",
