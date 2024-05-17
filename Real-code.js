@@ -3871,8 +3871,8 @@ const productData = {
 			{
 				name: "Midna C.",
 				rating: 5,
-				comment: "I won’t lie when I first ordered my costoway ac I was kind of unsure I would like it but it is far the best air conditioner I ever had I like mine so much I’m thinking of buying another and storing it away"
-			}, 
+				comment: "I agree with other reviewers in that this is a great AC for it's price and MSL provided me with free delivery. Extra bonus. Also, it comes with some foam to help insulate it in the window. I just installed it 4 days ago, myy small apartment is nice and cool and it's not too noisy for a window AC. All window AC's create noise, and this one is pretty quiet considering other ones I've heard."
+			},  
 		] 
 	}, 
 };
