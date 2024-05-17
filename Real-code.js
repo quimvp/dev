@@ -3860,7 +3860,21 @@ const productData = {
 				comment: "I won’t lie when I first ordered my costoway ac I was kind of unsure I would like it but it is far the best air conditioner I ever had I like mine so much I’m thinking of buying another and storing it away"
 			}, 
 		] 
-	} 
+	},
+	"Costway 8000 BTU Portable Air Conditioner 3-in-1 AC Unit With Cool Dehum Fan Sleep Mode": {
+		averageRating: 4.5,
+		reviews: [{
+				name: "Alex T.",
+				rating: 5,
+				comment: "I should have bought two of these units when it was on sale. The one I bought has been very good so far. Slightly longer at 1.5-2 hours to cool my larger 175 sq ft bedroom and the compressor turning on and off at night is clunky. But both are perfectly acceptable for the price.",
+			}, 
+			{
+				name: "Midna C.",
+				rating: 5,
+				comment: "I won’t lie when I first ordered my costoway ac I was kind of unsure I would like it but it is far the best air conditioner I ever had I like mine so much I’m thinking of buying another and storing it away"
+			}, 
+		] 
+	}, 
 };
 
 
