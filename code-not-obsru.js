@@ -4245,6 +4245,663 @@ const productData = {
 		  }
 		]
 	  }, 
+	  "ZELOTES F-35B Wireless Gaming Mouse 2.4G+BT3.0+BT5.0 Three-mode Ergonomic Vertical Mouse 3-gear": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Evan W",
+			rating: 5,
+			comment: "Excellent mouse with ergonomic design. The three-mode feature is very convenient. Highly recommend!"
+		  },
+		  {
+			name: "Lily K",
+			rating: 5,
+			comment: "Love this mouse! It's comfortable to use for long hours of gaming. The wireless connectivity is reliable."
+		  },
+		  {
+			name: "Max C",
+			rating: 4,
+			comment: "Great mouse overall. The ergonomic design helps reduce wrist strain. The different modes are a nice touch."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "Fantastic mouse! Works flawlessly with all three modes. Very comfortable grip and smooth operation."
+		  },
+		  {
+			name: "Nathan B",
+			rating: 5,
+			comment: "Impressive mouse with versatile connectivity options. The ergonomic design is comfortable for extended use."
+		  },
+		  {
+			name: "Grace M",
+			rating: 4,
+			comment: "Good mouse with ergonomic design. The Bluetooth connectivity works well, but the scroll wheel is a bit sensitive."
+		  }
+		]
+	  },
+	  "Steamy Dog Brush Electric Spray Cat Hair Brush 3 in1 Dog Steamer Brush for Massage Pet Grooming": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Alice L",
+			rating: 5,
+			comment: "This brush is amazing! It detangles my cat's fur so easily and the massage function seems to relax her. Very happy with this purchase!"
+		  },
+		  {
+			name: "Ryan C",
+			rating: 5,
+			comment: "Love this brush! It's so versatile with the 3-in-1 design. The massage function is a nice touch for my pets."
+		  },
+		  {
+			name: "Emily M",
+			rating: 5,
+			comment: "Fantastic brush! Works flawlessly with all three functions. The steam feature helps with grooming my dog's thick coat. Highly recommend!"
+		  }
+		]
+	  },
+	  "Dog Toy Tumbler Leaky Food Ball Elliptical Track Rolling Ball Slowly Feeding Protects Stomach": {
+		averageRating: 4.9,
+		reviews: [
+		  {
+			name: "Ethan S",
+			rating: 5,
+			comment: "Great toy for keeping my dog entertained! The tumbler design and slow feeding feature are perfect for slowing down my dog's eating pace and preventing stomach issues."
+		  },
+		  {
+			name: "Lily W",
+			rating: 5,
+			comment: "My dog absolutely loves this toy! The leaky food ball keeps him engaged and the elliptical track adds an extra layer of fun. Highly recommend!"
+		  },
+		  {
+			name: "Noah T",
+			rating: 5,
+			comment: "Excellent dog toy! It's durable, keeps my dog entertained for hours, and helps with slow feeding to prevent stomach problems. Very satisfied with this purchase."
+		  },
+		  {
+			name: "Ava L",
+			rating: 4,
+			comment: "Good quality toy with a clever design. The leaky food ball is a great feature, although my dog took some time to get used to it."
+		  },
+		  {
+			name: "Mia K",
+			rating: 5,
+			comment: "This toy is a game-changer! It keeps my dog engaged and entertained while also slowing down his eating. Plus, it's durable and easy to clean. Highly recommend!"
+		  },
+		  {
+			name: "Jack M",
+			rating: 5,
+			comment: "Very impressed with this toy! It's well-made, durable, and keeps my dog entertained for hours. The slow feeding feature is a bonus!"
+		  },
+		  {
+			name: "Sophie C",
+			rating: 5,
+			comment: "Fantastic dog toy! The tumbler design and leaky food ball are brilliant for keeping my dog engaged and mentally stimulated. Highly recommend!"
+		  },
+		  {
+			name: "Olivia H",
+			rating: 4,
+			comment: "Overall, a good toy for my dog. It's well-made and helps with slow feeding. However, it can be a bit noisy when the food ball tumbles around."
+		  }
+		]
+	  },
+	  "Pet automatic cat drinking bowl cat bowl large capacity dog bowl 3.8L combination food storage": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Andrew R.",
+			rating: 5,
+			comment: "Great product! The large capacity is perfect for my pets, and the combination food storage is very convenient. Highly recommend!"
+		  },
+		  {
+			name: "Sophia L.",
+			rating: 5,
+			comment: "Love this bowl! It's so convenient having both the drinking bowl and food storage in one. Plus, the 3.8L capacity is perfect for my pets."
+		  },
+		  {
+			name: "Matthew H.",
+			rating: 4,
+			comment: "Good bowl overall. The large capacity is great, but the food storage could be improved. Still, it's a convenient option for feeding my pets."
+		  },
+		  {
+			name: "Jacob D.",
+			rating: 5,
+			comment: "Very satisfied with this bowl! The combination food storage is a game-changer, and the 3.8L capacity is perfect for my pets' needs."
+		  },
+		  {
+			name: "Charlotte G.",
+			rating: 4,
+			comment: "Nice bowl with decent capacity. The food storage is convenient, although it could be a bit larger. Overall, a good purchase."
+		  },
+		  {
+			name: "Emily B.",
+			rating: 5,
+			comment: "Excellent bowl! The large capacity and combination food storage make feeding my pets so much easier. Very happy with this product."
+		  },
+		  {
+			name: "Nathan W.",
+			rating: 4,
+			comment: "Good bowl with adequate capacity. The food storage is handy, but I wish it were a bit more spacious. Otherwise, no complaints."
+		  },
+		  {
+			name: "Kayla T.",
+			rating: 4,
+			comment: "This bowl works well for my pets. The combination food storage is convenient, although I wish it were larger. Overall, satisfied with the purchase."
+		  },
+		  {
+			name: "Ryan S.",
+			rating: 4,
+			comment: "Decent bowl with good capacity. The food storage is a nice addition, although it could be improved. Overall, a good buy."
+		  },
+		  {
+			name: "Grace P.",
+			rating: 5,
+			comment: "Very happy with this bowl! The 3.8L capacity is perfect for my pets, and the combination food storage is a great feature."
+		  },
+		  {
+			name: "Landon M.",
+			rating: 4,
+			comment: "Satisfied with this bowl. The large capacity is great, but the food storage could be improved. Still, it's a convenient option for feeding my pets."
+		  },
+		  {
+			name: "Hailey L.",
+			rating: 5,
+			comment: "Great bowl with a large capacity. The combination food storage is very convenient, and it's well-made overall. Highly recommend!"
+		  },
+		  {
+			name: "Faith C.",
+			rating: 5,
+			comment: "Excellent bowl! The 3.8L capacity is perfect for my pets, and the combination food storage makes feeding them so much easier."
+		  },
+		  {
+			name: "Benjamin M.",
+			rating: 4,
+			comment: "Good bowl with a decent capacity. The food storage is a handy feature, although I wish it were a bit larger. Overall, satisfied with the purchase."
+		  },
+		  {
+			name: "Thomas K.",
+			rating: 5,
+			comment: "Very satisfied with this bowl! The 3.8L capacity is just right for my pets, and the combination food storage is very convenient."
+		  },
+		  {
+			name: "Samantha H.",
+			rating: 4,
+			comment: "Decent bowl with good capacity. The food storage is convenient, although it could be a bit more spacious. Otherwise, no complaints."
+		  },
+		  {
+			name: "Joseph R.",
+			rating: 5,
+			comment: "Love this bowl! The large capacity and combination food storage make feeding my pets so much easier. Highly recommend!"
+		  },
+		  {
+			name: "Emma S.",
+			rating: 4,
+			comment: "Good bowl overall. The 3.8L capacity is great, but the food storage could be improved. Still, it's a convenient option for feeding my pets."
+		  }
+		]
+	  },
+	  "De’Longhi 3-in-1 Portable Air Conditioner - 12000 BTU (SACC 6900 BTU) - White": {
+		averageRating: 3,
+		reviews: [
+		  {
+			name: "Lisa D.",
+			rating: 3,
+			comment: "Decent portable air conditioner. It does the job of cooling the room, but it's a bit noisy compared to other models I've used. The remote control is convenient, though."
+		  }
+		]
+	  }, 
+	  "4 in 1 Handheld Electric Vegetable Slicer USB Rechargeable Portable Food Processor Garlic Chili Onio": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Emily P",
+			rating: 5,
+			comment: "This slicer is a game-changer in the kitchen! It's so convenient to use and makes meal prep a breeze. The USB rechargeable feature is great, and it's easy to clean too!"
+		  },
+		  {
+			name: "John S",
+			rating: 5,
+			comment: "Absolutely love this slicer! It's incredibly versatile and saves me so much time when preparing meals. The USB rechargeable battery is a fantastic feature."
+		  },
+		  {
+			name: "Sarah L",
+			rating: 5,
+			comment: "I'm impressed with the quality of this slicer. It's sturdy, easy to use, and the rechargeable battery lasts a long time. Highly recommend!"
+		  },
+		  {
+			name: "Michael B",
+			rating: 4,
+			comment: "Great slicer overall. It's convenient to have multiple blades for different slicing options. The USB rechargeable feature is handy, but I wish the battery lasted a bit longer."
+		  },
+		  {
+			name: "Jessica F",
+			rating: 5,
+			comment: "I use this slicer almost every day! It's so easy to use and saves me a lot of time in the kitchen. The USB rechargeable battery is a fantastic feature."
+		  },
+		  {
+			name: "David K",
+			rating: 5,
+			comment: "Highly impressed with the performance of this slicer! It's efficient, easy to clean, and the USB rechargeable battery is very convenient. Definitely recommend it!"
+		  },
+		  {
+			name: "Michelle W",
+			rating: 5,
+			comment: "Excellent slicer! It's very versatile with the different blades and works like a charm. The USB rechargeable battery is a huge plus. Very satisfied with this purchase!"
+		  },
+		  {
+			name: "Ryan M",
+			rating: 4,
+			comment: "Overall, a great slicer. It's easy to use and clean. The USB rechargeable battery is convenient, but I wish it held a charge a bit longer."
+		  },
+		  {
+			name: "Karen T",
+			rating: 5,
+			comment: "Love this slicer! It's made meal prep so much easier. The USB rechargeable feature is a game-changer. Highly recommend it to anyone looking for a convenient kitchen tool!"
+		  },
+		  {
+			name: "Daniel H",
+			rating: 5,
+			comment: "I'm very happy with this slicer. It's versatile, easy to use, and the USB rechargeable battery makes it very convenient. Definitely worth the investment!"
+		  },
+		  {
+			name: "Rebecca C",
+			rating: 4,
+			comment: "Good slicer overall. It's easy to use and clean, and the USB rechargeable feature is handy. My only complaint is that it could be a bit more powerful."
+		  },
+		  {
+			name: "Andrew G",
+			rating: 5,
+			comment: "Fantastic slicer! It's made meal prep so much easier. The USB rechargeable battery is very convenient, and the different blades offer great versatility. Highly recommend!"
+		  },
+		  {
+			name: "Jennifer L",
+			rating: 5,
+			comment: "I absolutely love this slicer! It's so convenient and easy to use. The USB rechargeable feature is great, and the different blades work well for various slicing needs. Highly recommend it!"
+		  },
+		  {
+			name: "Jonathan P",
+			rating: 4,
+			comment: "Very pleased with this slicer. It's easy to use and clean. The USB rechargeable battery is convenient, but I wish it lasted a bit longer on a single charge."
+		  },
+		  {
+			name: "Lauren R",
+			rating: 5,
+			comment: "Great slicer! It's versatile, easy to use, and the USB rechargeable battery is very convenient. Makes meal prep so much easier!"
+		  },
+		  {
+			name: "Matthew S",
+			rating: 5,
+			comment: "I'm impressed with the quality and performance of this slicer! It's very convenient to use, and the USB rechargeable battery is a great feature. Highly recommend it!"
+		  },
+		  {
+			name: "Olivia W",
+			rating: 5,
+			comment: "This slicer has been a game-changer in the kitchen! It's so convenient and easy to use. The USB rechargeable battery is a fantastic feature. Highly recommend!"
+		  },
+		  {
+			name: "Tyler B",
+			rating: 4,
+			comment: "Overall, a good slicer. It's easy to use and clean, and the USB rechargeable battery is a nice feature. My only complaint is that the blades could be a bit sharper."
+		  },
+		  {
+			name: "Emma H",
+			rating: 5,
+			comment: "Love this slicer! It's versatile, easy to use, and the USB rechargeable battery makes it very convenient. Would highly recommend it to others!"
+		  },
+		  {
+			name: "Christopher M",
+			rating: 5,
+			comment: "Very satisfied with this slicer! It's made meal prep so much easier. The USB rechargeable battery is a great feature, and the different blades work well. Highly recommend!"
+		  },
+		]
+	  },
+	  "12-in-1 Multi-Functional Vegetable Chopper and Slicer - Perfect for Commercial Kitchens Cutting": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Emily M",
+			rating: 5,
+			comment: "This vegetable chopper is amazing! It's very versatile and saves me so much time in the kitchen. The various blades work well for different cutting needs."
+		  },
+		  {
+			name: "John S",
+			rating: 4,
+			comment: "Overall, a great product. It's made chopping vegetables much easier and quicker. The different blades offer good versatility."
+		  },
+		  {
+			name: "Sarah L",
+			rating: 5,
+			comment: "Highly impressed with this vegetable chopper! It's sturdy, easy to use, and the different blades provide great options for cutting. Highly recommend!"
+		  },
+		  {
+			name: "Michael B",
+			rating: 4,
+			comment: "Good vegetable chopper overall. It's well-made and efficient. The various blades are handy for different cutting tasks."
+		  },
+		  {
+			name: "Jessica F",
+			rating: 5,
+			comment: "Love this vegetable chopper! It's very efficient and the multiple blades make it very versatile. Makes meal prep a breeze!"
+		  },
+		  {
+			name: "David K",
+			rating: 5,
+			comment: "Excellent vegetable chopper! It's very sturdy and the different blades work well for various cutting needs. Highly recommend!"
+		  },
+		  {
+			name: "Michelle W",
+			rating: 4,
+			comment: "Very satisfied with this vegetable chopper. It's made chopping vegetables much easier. My only complaint is that it could be a bit easier to clean."
+		  },
+		  {
+			name: "Ryan M",
+			rating: 4,
+			comment: "Good product overall. It's efficient and the different blades are useful. My only suggestion would be to include clearer instructions on how to use it."
+		  }
+		]
+	  },
+	  "USB Wireless Electric Kitchen Blender Mixer Garlic Masher Meat Grinder Mini Vegetable Chili": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Sophia D",
+			rating: 5,
+			comment: "This kitchen blender mixer is fantastic! It's very versatile and makes cooking so much easier. The wireless feature is especially convenient."
+		  },
+		  {
+			name: "Liam H",
+			rating: 5,
+			comment: "Love this kitchen blender mixer! It's powerful and easy to use. Perfect for making sauces, grinding meat, and mashing garlic. Highly recommend!"
+		  }
+		]
+	  },
+	  "BORUIT SK301B Smoker Infuser Portable Molecular Cuisine Smoking Gun Added Flavor for Meat BBQ": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Emma J",
+			rating: 5,
+			comment: "Absolutely love this smoker infuser! It adds such a delicious flavor to my BBQ meats. Very easy to use and portable too."
+		  },
+		  {
+			name: "Oliver L",
+			rating: 5,
+			comment: "This smoking gun is a game-changer for BBQ! The added flavor it gives to the meat is incredible. Highly recommend!"
+		  },
+		  {
+			name: "Sophie M",
+			rating: 5,
+			comment: "The BORUIT SK301B smoker infuser is fantastic! It's easy to use and adds such a delicious smoky flavor to my dishes. Very satisfied!"
+		  },
+		  {
+			name: "William R",
+			rating: 5,
+			comment: "Love this smoking gun! It's perfect for adding flavor to my BBQ meats. The results are always amazing!"
+		  },
+		  {
+			name: "Ava S",
+			rating: 5,
+			comment: "Highly recommend the BORUIT SK301B smoker infuser! It's easy to use, portable, and adds such a delicious smoky flavor to my meats."
+		  },
+		  {
+			name: "Jack C",
+			rating: 5,
+			comment: "This smoking gun is incredible! It adds such a rich flavor to my BBQ meats. Very satisfied with the purchase!"
+		  },
+		  {
+			name: "Isabella K",
+			rating: 5,
+			comment: "Absolutely love this smoker infuser! It's so easy to use and adds such a delicious smoky flavor to my dishes. Highly recommend!"
+		  }
+		]
+	  },
+	  "Ceramic Knives Kitchen knives Set 3 4 5 6 inch Chef knife Cook Set Chef Utility Slicer": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "Love these ceramic knives! They're sharp and durable. Perfect for all my kitchen needs."
+		  },
+		  {
+			name: "Daniel M",
+			rating: 4,
+			comment: "Great set of knives! They're sharp and easy to use. Very satisfied with the purchase."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "These ceramic knives are amazing! They make slicing and dicing so effortless. Highly recommend!"
+		  },
+		  {
+			name: "William R",
+			rating: 4,
+			comment: "Very impressed with the quality of these knives. They're sharp and durable. Would buy again!"
+		  },
+		  {
+			name: "Ava C",
+			rating: 4,
+			comment: "Good set of ceramic knives. They're sharp and lightweight. Great addition to my kitchen!"
+		  },
+		  {
+			name: "Jack H",
+			rating: 5,
+			comment: "Fantastic set of knives! They're sharp and precise. Very happy with the purchase."
+		  },
+		  {
+			name: "Isabella K",
+			rating: 4,
+			comment: "These ceramic knives are great! They make cooking so much easier. Would recommend to anyone!"
+		  },
+		  {
+			name: "Olivia P",
+			rating: 5,
+			comment: "Absolutely love these knives! They're sharp and durable. Couldn't ask for more!"
+		  },
+		  {
+			name: "Noah L",
+			rating: 4,
+			comment: "Good quality knives. They're sharp and comfortable to hold. Very satisfied with the purchase."
+		  }
+		]
+	  },
+	  "Portable Electric Coffee Grinder TYPE C USB Charge Ceramic Grinding Core Home Coffee Beans": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "This portable coffee grinder is fantastic! It grinds coffee beans quickly and efficiently. Highly recommended!"
+		  },
+		  {
+			name: "Daniel M",
+			rating: 4,
+			comment: "Great little coffee grinder! Perfect for traveling or home use. Love the USB charging feature."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "I love this electric coffee grinder! It's compact and easy to use. The ceramic grinding core works like a charm."
+		  },
+		  {
+			name: "William R",
+			rating: 5,
+			comment: "Highly impressed with the performance of this coffee grinder. It's convenient and grinds coffee beans to perfection."
+		  },
+		  {
+			name: "Ava C",
+			rating: 5,
+			comment: "This coffee grinder is a game-changer! It's so easy to use and produces consistent results every time."
+		  },
+		  {
+			name: "Jack H",
+			rating: 4,
+			comment: "Very pleased with this coffee grinder. It's compact and efficient. Great value for the price."
+		  },
+		  {
+			name: "Isabella K",
+			rating: 5,
+			comment: "Absolutely love this coffee grinder! It's sleek, compact, and grinds coffee beans effortlessly. Highly recommend!"
+		  },
+		  {
+			name: "Olivia P",
+			rating: 5,
+			comment: "Fantastic coffee grinder! It's lightweight and easy to carry around. Perfect for my morning coffee routine."
+		  },
+		  {
+			name: "Noah L",
+			rating: 4,
+			comment: "Good quality coffee grinder. It's easy to use and does a decent job of grinding coffee beans. Happy with the purchase."
+		  },
+		  {
+			name: "Liam M",
+			rating: 5,
+			comment: "This coffee grinder exceeded my expectations! It's compact, efficient, and grinds coffee beans with precision. Couldn't be happier!"
+		  },
+		  {
+			name: "Emma R",
+			rating: 4,
+			comment: "Nice little coffee grinder. It's convenient for traveling and does the job well. Would recommend to coffee lovers!"
+		  },
+		  {
+			name: "Jacob S",
+			rating: 5,
+			comment: "Impressed with the performance of this coffee grinder. It's easy to use, clean, and produces consistent results. Definitely recommend!"
+		  }
+		]
+	  },
+	  "Couple Hugging Figurine Ceramic Couple Statue Abstract Modern Sculpture Love Figurines Art Craft": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Emily H",
+			rating: 5,
+			comment: "Absolutely beautiful figurine! The design is elegant and modern. Looks great as a centerpiece on our mantle."
+		  },
+		  {
+			name: "Daniel R",
+			rating: 5,
+			comment: "Love this ceramic couple statue! It's a perfect representation of love and affection. Great addition to our home decor."
+		  },
+		  {
+			name: "Sophia A",
+			rating: 5,
+			comment: "This abstract modern sculpture is stunning! The couple hugging figurine adds a touch of romance to any room. Highly recommend!"
+		  },
+		  {
+			name: "William M",
+			rating: 5,
+			comment: "Beautifully crafted figurine! The love figurines art craft is a symbol of love and unity. Very happy with this purchase!"
+		  }
+		]
+	  },
+	  "French Bulldog Statue Graffiti Art Sculpture for Home Office Decor Accents Living Room Entrance": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Ella F",
+			rating: 5,
+			comment: "Absolutely love this bulldog statue! The graffiti art style adds a unique touch to our home decor. Great quality and looks fantastic in our living room."
+		  },
+		  {
+			name: "Lucas B",
+			rating: 4,
+			comment: "Nice addition to our home decor. The bulldog statue has a cool graffiti art design. Solid craftsmanship, but a bit smaller than expected."
+		  },
+		  {
+			name: "Lily C",
+			rating: 5,
+			comment: "This French bulldog statue is adorable! The graffiti art sculpture brings life to our living room. Excellent quality and fast shipping."
+		  },
+		  {
+			name: "Max D",
+			rating: 5,
+			comment: "Fantastic bulldog statue! The graffiti art style is very artistic and adds character to our home decor. Highly recommend this piece!"
+		  },
+		  {
+			name: "Olivia R",
+			rating: 4,
+			comment: "Unique piece of art! The French bulldog statue has an interesting graffiti art design. Happy with the purchase, but a bit pricey for the size."
+		  },
+		  {
+			name: "Isaac H",
+			rating: 5,
+			comment: "Love this bulldog statue! The graffiti art sculpture is eye-catching and looks great in our entrance. Great quality and fast delivery."
+		  },
+		  {
+			name: "Sophie L",
+			rating: 5,
+			comment: "Absolutely adorable! The French bulldog statue adds a playful vibe to our home decor. Great conversation starter. Very satisfied with this purchase!"
+		  },
+		  {
+			name: "Noah K",
+			rating: 4,
+			comment: "Cool sculpture! The bulldog statue has a unique graffiti art style. Good quality, but a bit smaller than anticipated."
+		  },
+		  {
+			name: "Ava M",
+			rating: 5,
+			comment: "Perfect addition to our home decor! The French bulldog statue is well-made and looks exactly like the picture. Highly recommend!"
+		  },
+		  {
+			name: "Jack S",
+			rating: 5,
+			comment: "Great piece of art! The graffiti art sculpture is very stylish and looks amazing in our living room. Very happy with this purchase!"
+		  },
+		  {
+			name: "Emma T",
+			rating: 4,
+			comment: "Unique design! The French bulldog statue has a cool graffiti art style. Good quality, but a bit smaller than expected. Overall, happy with the purchase."
+		  },
+		  {
+			name: "Liam W",
+			rating: 5,
+			comment: "Love it! The bulldog statue is a great addition to our home decor. The graffiti art style is very eye-catching. Highly recommend!"
+		  }
+		]
+	  },
+	  "4 Pack Security Window/Door Alarm, Door Open Chime, Magnetic Burglar Alert Sensor, Loud Door Alarms": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Ethan S",
+			rating: 5,
+			comment: "Great product! Easy to install and very loud alarm. Provides peace of mind knowing when doors/windows are opened. Highly recommend!"
+		  },
+		  {
+			name: "Olivia R",
+			rating: 5,
+			comment: "Very effective alarms! Easy to set up and loud enough to alert you if a door or window is opened. Provides added security to our home. Very satisfied!"
+		  },
+		  {
+			name: "Mason T",
+			rating: 4,
+			comment: "Good alarms for the price! Easy to install and loud enough to hear throughout the house. Sometimes triggers accidentally if not aligned perfectly, but overall satisfied."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "Excellent security alarms! Very loud and easy to install. Great for alerting us when doors/windows are opened. Highly recommend for added home security."
+		  },
+		  {
+			name: "Noah K",
+			rating: 5,
+			comment: "Highly recommend these alarms! Loud enough to hear from anywhere in the house. Easy to install and provide peace of mind knowing when doors/windows are opened."
+		  },
+		  {
+			name: "Ava M",
+			rating: 4,
+			comment: "Good quality alarms! Easy to install and loud enough to hear from other rooms. The only downside is that they are a bit sensitive and can trigger accidentally."
+		  },
+		  {
+			name: "Jack S",
+			rating: 5,
+			comment: "Great value for the price! Easy to install and very loud alarms. Provide added security to our home. Would recommend to anyone looking for affordable door/window alarms."
+		  }
+		]
+	  },
+	  
+
 };
 
 
