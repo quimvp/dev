@@ -3875,6 +3875,376 @@ const productData = {
 			},  
 		] 
 	}, 
+	"PulseRelief Mini Massage Gun By MSL": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Anna J",
+			rating: 5,
+			comment: "This mini massage gun is incredibly powerful for its size! Perfect for targeting sore muscles after workouts."
+		  },
+		  {
+			name: "Mike T",
+			rating: 4,
+			comment: "Great portable massager. Battery life is decent, but could be longer. Overall, very satisfied with the purchase."
+		  },
+		  {
+			name: "Emily R",
+			rating: 5,
+			comment: "The best mini massage gun I've tried. It's lightweight, easy to use, and really helps with muscle recovery."
+		  },
+		  {
+			name: "John K",
+			rating: 4,
+			comment: "Effective massage gun with good power. It gets the job done, but it's a bit noisy."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "Compact and powerful! I love how convenient it is to carry around and use after workouts. Highly recommended!"
+		  }
+		]
+	  },
+	  "Mini Electric Portable Body Massage Gun For Deep Muscle Relaxation By MYSMARTLIFE": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Sarah M",
+			rating: 5,
+			comment: "Absolutely love this massage gun! It's compact, easy to use, and provides deep muscle relaxation. Great for post-workout recovery."
+		  },
+		  {
+			name: "Chris D",
+			rating: 4,
+			comment: "Very effective for muscle tension relief. The battery life could be longer, but overall, it's a great product."
+		  },
+		  {
+			name: "Jessica R",
+			rating: 5,
+			comment: "Impressive massage gun! It's powerful and helps soothe sore muscles after intense workouts. Highly recommend!"
+		  },
+		  {
+			name: "Ryan L",
+			rating: 4,
+			comment: "Good quality massage gun. It's compact and easy to carry around. The only downside is that it's a bit noisy."
+		  },
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "This massage gun is a game-changer! It's powerful, yet quiet, and provides relief for tense muscles. Definitely worth the investment."
+		  }
+		]
+	  },
+	  "MSL Knee Massager Physiotherapy Infrared Knee Pads for Relief Heating Temperature Air Pressure": {
+		averageRating: 4.2,
+		reviews: [
+		  {
+			name: "Sophia R",
+			rating: 5,
+			comment: "This knee massager is a lifesaver! The combination of infrared heating and air pressure provides incredible relief for my knee pain. Highly recommend!"
+		  },
+		  {
+			name: "Michael T",
+			rating: 4,
+			comment: "I've been using this knee massager for a few weeks now, and it's helped alleviate some of my knee discomfort. The heating function is particularly soothing."
+		  },
+		  {
+			name: "Jessica L",
+			rating: 5,
+			comment: "Love this knee massager! It's easy to use, and the different temperature settings allow for customized relief. Great for anyone with knee issues."
+		  },
+		  {
+			name: "David H",
+			rating: 3,
+			comment: "The knee massager works okay, but I expected more pressure from the air compression feature. It's comfortable to wear, but not as effective as I hoped."
+		  },
+		  {
+			name: "Emily K",
+			rating: 4,
+			comment: "Overall, I'm satisfied with this knee massager. It's helped reduce my knee pain, especially after long days of standing. The heating feature is a nice bonus."
+		  }
+		]
+	  },
+	  "Multifunctional Car Fault Code Reader Accurate Engine Diagnostic Scanner ToolScanner Read & Erase": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Ryan S",
+			rating: 5,
+			comment: "This car fault code reader is a lifesaver! It accurately diagnosed the engine issue in my car, and the ability to read and erase codes saved me a trip to the mechanic. Highly recommend!"
+		  },
+		  {
+			name: "Jessica M",
+			rating: 4,
+			comment: "I'm impressed with this diagnostic scanner tool. It's easy to use, and the interface is intuitive. It helped me identify and clear the fault codes in my car without any hassle."
+		  },
+		  {
+			name: "Andrew L",
+			rating: 5,
+			comment: "Great product! I've used it to diagnose several cars in my family, and it's been accurate every time. The ability to read and erase fault codes makes it a valuable tool for any car owner."
+		  },
+		  {
+			name: "Emily H",
+			rating: 4,
+			comment: "Overall, I'm satisfied with this car fault code reader. It's helped me diagnose minor issues in my car, although it took a bit of time to figure out all the features."
+		  },
+		  {
+			name: "Chris R",
+			rating: 5,
+			comment: "I couldn't be happier with this diagnostic scanner tool. It's saved me so much time and money by allowing me to diagnose and fix issues with my car on my own. A must-have for any car enthusiast!"
+		  }
+		]
+	  },
+	  "Independent Smoke Alarm Fire Protection Smokehouse Home Security System Smoke Detector": {
+		averageRating: 4.2,
+		reviews: [
+		  {
+			name: "John A",
+			rating: 5,
+			comment: "This smoke alarm is essential for home safety. It's loud and responsive, giving me peace of mind knowing that my family is protected."
+		  },
+		  {
+			name: "Emily B",
+			rating: 4,
+			comment: "Good value for money. Easy to install and seems reliable so far. Provides an extra layer of security for my home."
+		  },
+		  {
+			name: "Michael C",
+			rating: 4,
+			comment: "I like the simplicity of this smoke detector. It's effective and does the job well. Haven't had any false alarms so far."
+		  },
+		  {
+			name: "Sophie D",
+			rating: 3,
+			comment: "Decent smoke alarm for the price. It gets the job done, but the build quality could be better."
+		  },
+		  {
+			name: "David E",
+			rating: 5,
+			comment: "Very satisfied with this smoke detector. It's reliable, easy to install, and provides peace of mind knowing that my family is protected in case of fire."
+		  }
+		]
+	  },
+	  "3MP Tuya Smart Mini WiFi IP Camera Indoor Wireless Home Security AI Human Detect CCTV": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Sarah M",
+			rating: 5,
+			comment: "Impressive camera with high-quality video. The AI human detection feature is accurate and provides added security."
+		  },
+		  {
+			name: "Jake H",
+			rating: 4,
+			comment: "Good value for money. Easy to set up and configure. The wireless feature is convenient."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 5,
+			comment: "Very pleased with this camera. The AI human detection works flawlessly, and the video quality is excellent."
+		  },
+		  {
+			name: "Noah C",
+			rating: 4,
+			comment: "Reliable camera with useful features. The wireless connection is stable, and the app interface is user-friendly."
+		  },
+		  {
+			name: "Ella P",
+			rating: 5,
+			comment: "Great camera for home security. The AI human detection helps filter out false alarms, and the video quality is impressive even in low light."
+		  }
+		]
+	  }, 
+	  "6K 9MP HD IP Camera Outdoor 8x Zoom Dual Screen External WiFi Camera 4K 8MP Security PTZ Cam": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Ethan P",
+			rating: 5,
+			comment: "The camera quality is outstanding. It captures clear images and videos even at night. Impressed with the zoom feature."
+		  },
+		  {
+			name: "Olivia M",
+			rating: 4,
+			comment: "Easy to install and set up. The dual-screen feature is convenient, and the camera provides a wide coverage area. Good value for the price."
+		  },
+		  {
+			name: "Noah S",
+			rating: 5,
+			comment: "Excellent camera with impressive zoom capabilities. It's sturdy and weatherproof, making it ideal for outdoor use."
+		  },
+		  {
+			name: "Ava H",
+			rating: 4,
+			comment: "Very satisfied with the camera's performance. The WiFi connection is stable, and the PTZ function works smoothly."
+		  },
+		  {
+			name: "Jack L",
+			rating: 5,
+			comment: "Great camera for home security. The image quality is superb, and the zoom function allows me to see details clearly. Highly recommended."
+		  },
+		  {
+			name: "Emma J",
+			rating: 4,
+			comment: "I've been using this camera for a few weeks now, and it has exceeded my expectations. The setup was straightforward, and the image quality is top-notch."
+		  },
+		  {
+			name: "Liam T",
+			rating: 5,
+			comment: "Impressive camera with excellent resolution. The zoom feature is handy for monitoring distant areas. Overall, very satisfied with the purchase."
+		  },
+		  {
+			name: "Sophia D",
+			rating: 4,
+			comment: "Good camera with reliable performance. The night vision mode works well, and the PTZ function provides flexibility in monitoring different angles."
+		  },
+		  {
+			name: "Mia W",
+			rating: 5,
+			comment: "I love how clear the images are, even at night. The camera setup was easy, and the mobile app is user-friendly. Would recommend to anyone looking for a quality outdoor camera."
+		  },
+		  {
+			name: "William B",
+			rating: 4,
+			comment: "Overall, a solid camera for the price. The zoom feature works smoothly, and the build quality seems durable."
+		  },
+		  {
+			name: "Charlotte G",
+			rating: 5,
+			comment: "The camera exceeded my expectations. It's well-built, easy to install, and provides crystal-clear images. Very impressed with the zoom capabilities."
+		  },
+		  {
+			name: "James R",
+			rating: 4,
+			comment: "Great camera overall. The only downside is that the app interface could be improved for easier navigation."
+		  }
+		]
+	  },
+	  "WiFi Doorbell Home Tuya WiFi Wireless Doorbell DC AC Battery Powered Camera Bell with Alexa G": {
+		averageRating: 4.2,
+		reviews: [
+		  {
+			name: "Alex D",
+			rating: 5,
+			comment: "Excellent doorbell with easy installation. The camera quality is impressive, and the connection with Alexa works seamlessly."
+		  },
+		  {
+			name: "Sophia L",
+			rating: 4,
+			comment: "Good doorbell overall. The WiFi connection is stable, and the camera provides clear images. It's a convenient addition to our home security system."
+		  },
+		  {
+			name: "Oliver M",
+			rating: 5,
+			comment: "Very satisfied with this doorbell. The battery life is excellent, and the camera's motion detection feature works well. Highly recommend!"
+		  },
+		  {
+			name: "Ava H",
+			rating: 4,
+			comment: "Impressed with the doorbell's performance. The app interface is user-friendly, and the notifications are prompt. The only drawback is that it drains the battery quickly."
+		  },
+		  {
+			name: "Jack L",
+			rating: 5,
+			comment: "Great doorbell for the price. The camera quality is fantastic, and the night vision mode works perfectly. Easy to set up and use."
+		  },
+		  {
+			name: "Emma J",
+			rating: 4,
+			comment: "Overall, a reliable doorbell with good features. It's responsive, and the two-way audio communication works well. Would give it five stars if the battery life was longer."
+		  },
+		  {
+			name: "Liam T",
+			rating: 5,
+			comment: "Highly recommend this doorbell. The WiFi connection is stable, and the video quality is excellent. The motion detection alerts are very useful."
+		  },
+		  {
+			name: "Sophia D",
+			rating: 4,
+			comment: "Good doorbell with clear video quality. It's easy to install, and the app provides convenient access to the camera feed. However, the setup process could be smoother."
+		  },
+		  {
+			name: "Mia W",
+			rating: 5,
+			comment: "Very impressed with this doorbell. The camera resolution is sharp, and the audio quality is clear. It's a great addition to our home security system."
+		  }
+		]
+	  }, 
+	  "Next Level Racing GTlite Foldable Simulator Cockpit": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Dylan H",
+			rating: 5,
+			comment: "Absolutely love this simulator cockpit! The build quality is excellent, and it's surprisingly sturdy for a foldable design. Setup was straightforward, and it's compatible with most racing wheels and pedals. Highly recommend!"
+		  },
+		  {
+			name: "Sophie B",
+			rating: 5,
+			comment: "This simulator cockpit exceeded my expectations! It's incredibly well-built, and the foldable design makes it easy to store when not in use. Racing feels so immersive with this setup. Definitely worth the investment!"
+		  }
+		]
+	  }, 
+	  "Gaming Desk Computer Desk 47.2 inches Writing Desk Office Desk Student PC Desk Extra Large": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Alex D",
+			rating: 5,
+			comment: "Love this desk! It's spacious enough for all my gaming gear and has a sleek design. Assembly was straightforward, and the build quality is excellent."
+		  },
+		  {
+			name: "Emily F",
+			rating: 4,
+			comment: "Great desk overall. It's sturdy and provides ample space for my work setup. The cable management system is a nice touch."
+		  },
+		  {
+			name: "Daniel M",
+			rating: 4,
+			comment: "Solid desk for the price. It's large enough to accommodate my dual monitor setup and feels sturdy. Happy with my purchase."
+		  },
+		  {
+			name: "Sophia G",
+			rating: 5,
+			comment: "This desk is fantastic! It's spacious, sturdy, and looks great in my office. Perfect for gaming or working."
+		  },
+		  {
+			name: "Jack C",
+			rating: 4,
+			comment: "Very satisfied with this desk. It's a good size and feels durable. Provides plenty of room for my PC and accessories."
+		  },
+		  {
+			name: "Olivia L",
+			rating: 5,
+			comment: "Excellent desk! Easy to assemble, spacious, and well-built. It's exactly what I needed for my gaming setup."
+		  }
+		]
+	  },
+	  "GamingChair Ergonomic PU Leather Racing Gaming Chair with Footrest & Reclining Backrest (White)": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Emma H",
+			rating: 5,
+			comment: "Comfortable chair with good back support. The footrest is a nice addition. Assembly was straightforward."
+		  },
+		  {
+			name: "Ryan S",
+			rating: 5,
+			comment: "Sleek design and comfortable padding. The footrest is a great feature for relaxing during gaming sessions."
+		  },
+		  {
+			name: "Sophie M",
+			rating: 5,
+			comment: "Love this chair! It's stylish, comfortable, and supports my back well. The footrest is a game-changer."
+		  },
+		  {
+			name: "Jake L",
+			rating: 4,
+			comment: "Decent chair for the price. The footrest is a bit flimsy, but overall, it's comfortable enough for long gaming sessions."
+		  }
+		]
+	  }, 
 };
 
 
