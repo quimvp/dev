@@ -4900,7 +4900,463 @@ const productData = {
 		  }
 		]
 	  },
+	  "SereneSoothe 3D Shiatsu Foot Massager with Heat": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "Absolutely fantastic! I use this foot massager every evening after work and it's incredibly soothing. The heat function is a game-changer!"
+		  },
+		  {
+			name: "Daniel L",
+			rating: 4,
+			comment: "Great foot massager! The shiatsu massage feels amazing and really helps to relieve tension in my feet. Would have given it 5 stars if it were a bit quieter."
+		  },
+		  {
+			name: "Sophia T",
+			rating: 5,
+			comment: "Love it! This foot massager is my new favorite relaxation tool. The heat combined with the shiatsu massage is pure bliss."
+		  },
+		  {
+			name: "Ryan C",
+			rating: 4,
+			comment: "Very pleased with this purchase. It's easy to use and feels wonderful on tired feet. My only minor complaint is that it's a bit bulky to store."
+		  },
+		  {
+			name: "Emma W",
+			rating: 5,
+			comment: "Highly recommend! This foot massager has become a daily essential for me. It's incredibly effective at relieving foot pain and promoting relaxation."
+		  },
+		  {
+			name: "Liam M",
+			rating: 4,
+			comment: "Good product overall. The massage intensity is just right and the heat adds an extra level of comfort. Only downside is that it's not very portable."
+		  },
+		  {
+			name: "Olivia R",
+			rating: 5,
+			comment: "Excellent foot massager! It's like having a spa experience at home. The 3D shiatsu massage targets all the right pressure points. Love it!"
+		  },
+		  {
+			name: "Ethan B",
+			rating: 4,
+			comment: "Soothing and effective. The heat feature really enhances the massage experience. Would be perfect if it had a remote control for convenience."
+		  },
+		  {
+			name: "Ava K",
+			rating: 5,
+			comment: "This foot massager is amazing! I look forward to using it every day. It's helped to alleviate my foot pain and improve circulation. Couldn't be happier!"
+		  },
+		  {
+			name: "Noah S",
+			rating: 4,
+			comment: "Very impressed with the quality of this foot massager. The heat function is nice and the massage nodes feel great. Wish it had more speed options."
+		  },
+		  {
+			name: "Isabella T",
+			rating: 5,
+			comment: "Incredible foot massager! It's been a lifesaver for my tired feet. The heat and massage combo is incredibly relaxing. Highly recommend!"
+		  },
+		  {
+			name: "Jack H",
+			rating: 4,
+			comment: "Overall, a good foot massager. The shiatsu massage feels wonderful and the heat is a nice touch. It's a bit pricey, but worth it for the relief it provides."
+		  }
+		]
+	  },
+	  "SerenitySoul 3D Shiatsu Foot Massager": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "Absolutely fantastic! I use this foot massager every evening after work and it's incredibly soothing. The heat function is a game-changer!"
+		  },
+		  {
+			name: "Daniel L",
+			rating: 4,
+			comment: "Great foot massager! The shiatsu massage feels amazing and really helps to relieve tension in my feet. Would have given it 5 stars if it were a bit quieter."
+		  },
+		  {
+			name: "Sophia T",
+			rating: 5,
+			comment: "Love it! This foot massager is my new favorite relaxation tool. The heat combined with the shiatsu massage is pure bliss."
+		  },
+		  {
+			name: "Ryan C",
+			rating: 4,
+			comment: "Very pleased with this purchase. It's easy to use and feels wonderful on tired feet. My only minor complaint is that it's a bit bulky to store."
+		  },
+		  {
+			name: "Emma W",
+			rating: 5,
+			comment: "Highly recommend! This foot massager has become a daily essential for me. It's incredibly effective at relieving foot pain and promoting relaxation."
+		  },
+		  {
+			name: "Liam M",
+			rating: 4,
+			comment: "Good product overall. The massage intensity is just right and the heat adds an extra level of comfort. Only downside is that it's not very portable."
+		  },
+		  {
+			name: "Olivia R",
+			rating: 5,
+			comment: "Excellent foot massager! It's like having a spa experience at home. The 3D shiatsu massage targets all the right pressure points. Love it!"
+		  },
+		  {
+			name: "Ethan B",
+			rating: 4,
+			comment: "Soothing and effective. The heat feature really enhances the massage experience. Would be perfect if it had a remote control for convenience."
+		  },
+		  {
+			name: "Ava K",
+			rating: 5,
+			comment: "This foot massager is amazing! I look forward to using it every day. It's helped to alleviate my foot pain and improve circulation. Couldn't be happier!"
+		  },
+		  {
+			name: "Noah S",
+			rating: 4,
+			comment: "Very impressed with the quality of this foot massager. The heat function is nice and the massage nodes feel great. Wish it had more speed options."
+		  },
+		  {
+			name: "Isabella T",
+			rating: 5,
+			comment: "Incredible foot massager! It's been a lifesaver for my tired feet. The heat and massage combo is incredibly relaxing. Highly recommend!"
+		  },
+		  {
+			name: "Jack H",
+			rating: 4,
+			comment: "Overall, a good foot massager. The shiatsu massage feels wonderful and the heat is a nice touch. It's a bit pricey, but worth it for the relief it provides."
+		  }
+		]
+	  },
+	  "GameSync Deluxe Headphone Hanger Stand & Drink Cup Holder": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Alex C",
+			rating: 5,
+			comment: "Fantastic product! It's so convenient having my headphones and drink right next to me while gaming. Sturdy build and looks great on my desk."
+		  },
+		  {
+			name: "Sophie T",
+			rating: 5,
+			comment: "Love this headphone hanger! It's the perfect solution for keeping my gaming setup organized. The cup holder is a nice bonus."
+		  },
+		  {
+			name: "Ethan D",
+			rating: 5,
+			comment: "Highly recommend! This hanger stand is exactly what I needed for my gaming setup. Holds my headphones securely and the cup holder is a convenient addition."
+		  },
+		  {
+			name: "Olivia M",
+			rating: 5,
+			comment: "Great product! It's well-made and does exactly what it's supposed to. Now I can keep my headphones off the desk and my drink within easy reach."
+		  }
+		]
+	  },
+	  "PowerFlex Rechargeable Body Massager Belt": {
+		averageRating: 4.6,
+		reviews: [
+		  {
+			name: "Cynthia R",
+			rating: 5,
+			comment: "This massager belt is a game-changer! It's so convenient to use and provides amazing relief after a long day."
+		  },
+		  {
+			name: "Michael T",
+			rating: 4,
+			comment: "Pretty impressed with this massager belt. It's easy to use and provides a good massage experience."
+		  },
+		  {
+			name: "Jennifer W",
+			rating: 5,
+			comment: "I absolutely love my PowerFlex massager belt! It's helped alleviate my back pain significantly. Highly recommend!"
+		  },
+		  {
+			name: "David L",
+			rating: 4,
+			comment: "Great product overall. Provides relief for sore muscles and helps me relax after workouts."
+		  },
+		  {
+			name: "Sarah M",
+			rating: 4,
+			comment: "Very satisfied with my purchase. The massager belt is effective and easy to adjust for different body sizes."
+		  },
+		  {
+			name: "Kevin B",
+			rating: 5,
+			comment: "Highly recommend the PowerFlex massager belt. It's versatile, portable, and provides effective relief."
+		  },
+		  {
+			name: "Emily K",
+			rating: 4,
+			comment: "Good quality massager belt. Provides relief for muscle tension and feels comfortable to wear."
+		  }
+		]
+	  },
+	  "ErgoVision™ M618XSD Seeker Vertical Mouse with OLED Screen": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Daniel G",
+			rating: 5,
+			comment: "The OLED screen on this mouse is a game-changer! It's so convenient to see important information at a glance. Plus, the ergonomic design is comfortable to use for long periods."
+		  },
+		  {
+			name: "Sophia M",
+			rating: 5,
+			comment: "Absolutely love this vertical mouse! The OLED screen adds a whole new level of functionality. It's comfortable to use and has improved my productivity."
+		  },
+		  {
+			name: "Alex H",
+			rating: 5,
+			comment: "This mouse is fantastic! The OLED screen is incredibly useful, and the vertical design reduces strain on my wrist. Highly recommend for anyone who spends a lot of time on the computer."
+		  },
+		  {
+			name: "Jessica L",
+			rating: 5,
+			comment: "I can't imagine going back to a traditional mouse after using the ErgoVision M618XSD. The OLED screen is so handy, and the vertical design feels much more natural."
+		  },
+		  {
+			name: "Ryan T",
+			rating: 5,
+			comment: "Excellent mouse! The OLED screen is a brilliant addition, providing useful information without needing to glance at my computer. Plus, the ergonomic design is comfortable to use all day."
+		  },
+		  {
+			name: "Emma C",
+			rating: 5,
+			comment: "I'm thrilled with this vertical mouse! The OLED screen is a game-changer for keeping track of battery life and DPI settings. Plus, the ergonomic design helps alleviate wrist strain."
+		  },
+		  {
+			name: "Oliver W",
+			rating: 5,
+			comment: "This mouse is fantastic! The OLED screen is incredibly useful, and the vertical design feels much more comfortable than a traditional mouse. Highly recommend!"
+		  },
+		  {
+			name: "Megan S",
+			rating: 5,
+			comment: "Love the ErgoVision M618XSD! The OLED screen is a great addition, and the vertical design feels much more natural. Plus, it's comfortable to use for long periods."
+		  }
+		]
+	  },
+	  "SonicShift V8S Sound Card with Voice Changer Effects": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Tyler S",
+			rating: 5,
+			comment: "This sound card is incredible! The voice changer effects are so much fun to play with, and the sound quality is excellent. Highly recommend!"
+		  },
+		  {
+			name: "Emily R",
+			rating: 5,
+			comment: "Love the SonicShift V8S! The voice changer effects are so entertaining, and the sound card itself is high-quality. Great for adding some fun to voice chats!"
+		  },
+		  {
+			name: "Benjamin L",
+			rating: 4,
+			comment: "Great sound card with some fun voice changer effects. The only downside is that the software interface could be a bit more user-friendly."
+		  },
+		  {
+			name: "Sophie M",
+			rating: 5,
+			comment: "Really impressed with the SonicShift V8S! The voice changer effects work flawlessly, and the sound quality is top-notch. Definitely recommend it!"
+		  },
+		  {
+			name: "Nathan W",
+			rating: 5,
+			comment: "The SonicShift V8S is fantastic! The voice changer effects are a blast, and the sound card itself is well-built. Definitely worth the purchase!"
+		  },
+		  {
+			name: "Amanda C",
+			rating: 4,
+			comment: "Overall, a great sound card with some fun voice changer effects. Would have given it 5 stars, but the setup process was a bit tricky."
+		  }
+		]
+	  },
+	  "Rotating Grain Master Storage Box": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Emma L",
+			rating: 5,
+			comment: "I love this storage box! It's so convenient to organize my grains, and the rotating feature makes it easy to access everything. Highly recommended!"
+		  },
+		  {
+			name: "David M",
+			rating: 4,
+			comment: "Great storage solution! The rotating design is clever, and the build quality is sturdy. Would have given it 5 stars if it had a larger capacity."
+		  },
+		  {
+			name: "Sophia K",
+			rating: 5,
+			comment: "This rotating storage box is a game-changer! It fits perfectly in my pantry and makes it effortless to keep my grains organized. Love it!"
+		  }
+		]
+	  },
+	  "TwinChef Pro 2.38gal Dual Basket Air Fryer": {
+		averageRating: 4.9,
+		reviews: [
+		  {
+			name: "Emily R",
+			rating: 5,
+			comment: "Absolutely love this air fryer! It's so versatile with the dual baskets, and the cooking results are fantastic. Highly recommended!"
+		  },
+		  {
+			name: "Michael D",
+			rating: 5,
+			comment: "This air fryer is a game-changer! The dual baskets allow me to cook different foods simultaneously, and the food comes out crispy and delicious every time."
+		  },
+		  {
+			name: "Sophie B",
+			rating: 5,
+			comment: "I'm so impressed with this air fryer! It's easy to use, easy to clean, and cooks food to perfection. Couldn't ask for more!"
+		  },
+		  {
+			name: "Liam S",
+			rating: 5,
+			comment: "Great air fryer with plenty of cooking space. The dual baskets are a huge plus, and it cooks food evenly and quickly. Highly recommend!"
+		  },
+		  {
+			name: "Olivia T",
+			rating: 5,
+			comment: "I've been using this air fryer almost every day since I got it, and it hasn't disappointed me yet. The dual baskets are so convenient, and the food comes out delicious."
+		  },
+		  {
+			name: "Noah H",
+			rating: 4,
+			comment: "Overall, I'm satisfied with this air fryer. The dual baskets are handy, but I wish it had more preset cooking options."
+		  },
+		  {
+			name: "Ava L",
+			rating: 5,
+			comment: "This air fryer is a game-changer in my kitchen! It cooks food quickly, evenly, and with less oil. The dual baskets are a fantastic feature."
+		  },
+		  {
+			name: "Ethan C",
+			rating: 5,
+			comment: "I'm so glad I bought this air fryer! It makes cooking so much easier and healthier. The dual baskets are perfect for preparing multiple dishes at once."
+		  },
+		  {
+			name: "Isabella M",
+			rating: 5,
+			comment: "Love, love, love this air fryer! The dual baskets are a game-changer, and the food comes out perfectly crispy every time. Highly recommend!"
+		  },
+		  {
+			name: "Daniel W",
+			rating: 5,
+			comment: "This air fryer has exceeded my expectations! The dual baskets are so convenient, and the food comes out delicious. Couldn't be happier with my purchase."
+		  },
+		  {
+			name: "Madison P",
+			rating: 5,
+			comment: "I'm impressed with the performance of this air fryer! The dual baskets are a fantastic feature, and it cooks food perfectly every time."
+		  },
+		  {
+			name: "Jacob R",
+			rating: 5,
+			comment: "Great air fryer with plenty of cooking space. The dual baskets make it easy to prepare multiple dishes at once, and the food comes out delicious."
+		  }
+		]
+	  },
+	  "ExecutiveEssence™ Men's 6-in-1 Business Luxury Gift Set": {
+		averageRating: 5,
+		reviews: [
+		  {
+			name: "Samantha L",
+			rating: 5,
+			comment: "Surprised my husband with this gift set for his promotion, and he absolutely loved it! The items are all high-quality and perfect for his professional look. Highly recommend!"
+		  },
+		  {
+			name: "Jessica M",
+			rating: 5,
+			comment: "Bought this as a surprise gift for my boyfriend, and he was thrilled with it! The set is beautifully packaged, and the items are all stylish and useful. Definitely recommend it for surprising your man!"
+		  },
+		  {
+			name: "Alexandra K",
+			rating: 5,
+			comment: "I surprised my dad with this gift set for Father's Day, and he was so happy with it! The quality of the items is outstanding, and it's such a thoughtful and practical gift. Highly recommend for surprising the men in your life!"
+		  },
+		  {
+			name: "Emily S",
+			rating: 5,
+			comment: "Got this gift set as a surprise for my brother's birthday, and he couldn't stop raving about it! The items are all top-notch quality, and it's such a classy and useful gift. Definitely recommend for surprising the special men in your life!"
+		  },
+		  {
+			name: "Madison C",
+			rating: 5,
+			comment: "I surprised my fiancé with this gift set for our anniversary, and he was blown away by it! The items are all so stylish and practical, and it's such a perfect gift for any occasion. Highly recommend for surprising your man!"
+		  },
+		  {
+			name: "Hannah W",
+			rating: 5,
+			comment: "Surprised my husband with this gift set for Christmas, and he was so impressed! The quality of the items exceeded our expectations, and it's such a thoughtful and useful gift. Definitely recommend for surprising the men in your life!"
+		  }
+		]
+	  },
+	  "TurboChase™ Wireless Gravity Sports Car Remote Control Electric Cat Toy": {
+		averageRating: 4.8,
+		reviews: [
+		  {
+			name: "Oliver D",
+			rating: 5,
+			comment: "I'm an avid pet lover, always on the lookout for toys to keep my cat entertained. The TurboChase™ car is a fantastic addition to our playtime routine. It's durable, easy to control, and provides endless fun for both me and my furry friend!"
+		  },
+		  {
+			name: "Emily F",
+			rating: 4,
+			comment: "As a devoted cat owner, I'm constantly seeking out new toys to stimulate my pet. The TurboChase™ car is a hit in our household! My cat goes wild for it, and I enjoy watching him chase after it with excitement. My only wish is for a longer battery life."
+		  },
+		  {
+			name: "Nathan G",
+			rating: 5,
+			comment: "Being a passionate pet enthusiast, I'm always eager to find toys that engage my cat's interest. The TurboChase™ car is a winner! It keeps my cat active and entertained, and the remote control feature adds an extra element of fun. Highly recommend for fellow pet lovers!"
+		  },
+		  {
+			name: "Sophie L",
+			rating: 5,
+			comment: "As a dedicated pet parent, I'm constantly seeking ways to enrich my cat's life. The TurboChase™ car is a brilliant find! It captivates my cat's attention and provides hours of entertainment. I love seeing my furry friend so engaged and happy."
+		  },
+		  {
+			name: "Max B",
+			rating: 4,
+			comment: "I'm a caring pet lover, always looking for ways to keep my cat entertained. The TurboChase™ car is a fun addition to our playtime repertoire! My cat enjoys chasing after it, and I appreciate the interactive nature of the toy. It's brought us many moments of joy together."
+		  },
+		  {
+			name: "Grace M",
+			rating: 5,
+			comment: "Being a committed pet enthusiast, I'm delighted to have found the TurboChase™ car for my cat. It's an absolute hit! My cat loves chasing after it, and the remote control feature adds an exciting twist to our play sessions. It's a must-have for any pet lover!"
+		  },
+		  {
+			name: "Liam H",
+			rating: 5,
+			comment: "As a dedicated cat lover, I'm always searching for toys to keep my feline friend happy. The TurboChase™ car is a game-changer! It provides mental and physical stimulation for my cat, and I love seeing him so engaged. It's a fantastic toy for any pet enthusiast."
+		  }
+		]
+	  },
+	  "ComfortFlow™ Menstrual Harmony Belt 2023": {
+		averageRating: 4.5,
+		reviews: [
+		  {
+			name: "Emily R",
+			rating: 4,
+			comment: "During my period, I often struggle with discomfort and cramps. The ComfortFlow™ Menstrual Harmony Belt has been a lifesaver! It provides gentle compression and support, easing my discomfort and allowing me to go about my day with greater ease. Highly recommend!"
+		  },
+		  {
+			name: "Sophia K",
+			rating: 5,
+			comment: "As a woman who experiences painful periods, I've found the ComfortFlow™ Menstrual Harmony Belt to be incredibly helpful. It provides comforting compression that alleviates my cramps and helps me feel more at ease during that time of the month. It's become an essential part of my period care routine."
+		  },
+		  {
+			name: "Isabella T",
+			rating: 4,
+			comment: "During menstruation, I often experience discomfort and bloating. This belt has been a game-changer for me! It offers gentle support and helps relieve my symptoms, allowing me to feel more comfortable and confident during my period."
+		  }
+		]
+	  },
 	  
+
 
 };
 
