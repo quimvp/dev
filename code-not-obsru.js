@@ -46,7 +46,7 @@ const productData = {
 			comment: "I was skeptical about this diffuser, but it exceeded my expectations."
 		}]
 	},
-	"iWatch Series 8 (45mm)": {
+	"S8 Smart Watch - Sleek 45mm Design with Advanced Features": { 
 		averageRating: 4.7,
 		reviews: [{
 				name: "Bella T.",
@@ -69,7 +69,7 @@ const productData = {
 			{
 				name: "Charlie M.",
 				rating: 5,
-				comment: "I was scared to order at first, but it's definitely worth it. I recommend.",
+				comment: "it's definitely worth it. I recommend.", 
 				image: "https://i.postimg.cc/HL9XQJvf/71-Bx1s-F4r-OL-1.webp"
 			},
 			{
@@ -5355,7 +5355,71 @@ const productData = {
 		  }
 		]
 	  },
-	  
+	  "Livingbasics Oil Free Air Fryer, 6qt Hot Air Fryers With 8 Cooking Preset And Digital Touch Screen Electric": {
+		averageRating: 4.7,
+		reviews: [
+		  {
+			name: "Jessica L",
+			rating: 5,
+			comment: "I absolutely love this air fryer! It's so easy to use and cooks food perfectly every time. I've tried various recipes, and everything comes out delicious. It has become an essential appliance in my kitchen."
+		  },
+		  {
+			name: "Michael W",
+			rating: 4,
+			comment: "I've been using this air fryer for a few weeks now, and it's been great. It's easy to operate, and the presets make cooking a breeze. My only complaint is that it's a bit bulky on the countertop."
+		  },
+		  {
+			name: "Sarah H",
+			rating: 5,
+			comment: "I'm amazed at how versatile and efficient this air fryer is! It's perfect for making healthier versions of my favorite fried foods. The digital touch screen makes it easy to select the right settings, and the results are always delicious."
+		  },
+		  {
+			name: "David M",
+			rating: 4,
+			comment: "This air fryer has exceeded my expectations. It's large enough to cook meals for my family, and the cooking presets take the guesswork out of preparing different dishes. Cleaning is also a breeze. Highly recommended!"
+		  },
+		  {
+			name: "Jennifer K",
+			rating: 5,
+			comment: "I'm so glad I purchased this air fryer! It has simplified meal preparation in my household. I love how crispy and evenly cooked the food turns out, and the digital touch screen makes it very user-friendly."
+		  },
+		  {
+			name: "Daniel S",
+			rating: 4,
+			comment: "Overall, I'm pleased with this air fryer. It cooks food quickly and evenly, and the presets are convenient. However, I wish the cord was a bit longer for better placement options on my kitchen counter."
+		  },
+		  {
+			name: "Rachel P",
+			rating: 5,
+			comment: "This air fryer has made healthy cooking so much easier! I appreciate the variety of presets available, and the food always comes out tasting great. It's a fantastic addition to any kitchen."
+		  },
+		  {
+			name: "Jason L",
+			rating: 4,
+			comment: "I've been enjoying using this air fryer for the past month. It's simple to operate, and the food comes out nicely cooked and flavorful. My only minor gripe is that the cooking basket could be a bit larger."
+		  },
+		  {
+			name: "Amanda C",
+			rating: 5,
+			comment: "This air fryer has become my go-to appliance for preparing quick and healthy meals. It's incredibly easy to use, and the food comes out perfectly cooked every time. I highly recommend it to anyone looking to eat healthier."
+		  },
+		  {
+			name: "Matthew B",
+			rating: 4,
+			comment: "I've been impressed with the performance of this air fryer so far. It heats up quickly, and the presets make cooking different dishes a breeze. My only suggestion would be to include a recipe booklet for more inspiration."
+		  },
+		  {
+			name: "Nicole W",
+			rating: 5,
+			comment: "I'm loving this air fryer! It's so convenient and cooks food to perfection. The digital touch screen is intuitive, and the presets make it easy to cook a variety of dishes. Definitely worth the investment!"
+		  },
+		  {
+			name: "Jonathan G",
+			rating: 4,
+			comment: "I've been using this air fryer regularly, and it's been performing well. It's easy to clean, and the food turns out delicious. My only minor issue is that the cooking times can sometimes be longer than expected."
+		  }
+		]
+	  }, 
 
 
 };
