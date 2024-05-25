@@ -5891,6 +5891,140 @@ const productData = {
 			}
 		]
 	},
+	"WiFi Smart Universal IR Remote Controller - APP Remote Control, Works With Alexa and Google Home, Smart Home": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "John D",
+				rating: 5,
+				comment: "This IR remote controller is a game-changer! It was easy to set up and integrates perfectly with Alexa. I can control all my devices from one app. Highly recommend!",
+				image:"https://i.postimg.cc/8cTxDqNs/Ad8e9d85aa34c468ba95b3ba5637299bd-E.webp" 
+			},
+			{
+				name: "Emily R",
+				rating: 4,
+				comment: "Great product for smart home enthusiasts. The setup was straightforward, and it works well with Google Home. My only issue is that the range could be a bit better."
+			},
+			{
+				name: "Alex P",
+				rating: 5,
+				comment: "Perfect for managing multiple devices. The Smart Life app is user-friendly, and the integration with Alexa is flawless. A must-have for smart homes!"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "This remote controller has made managing my home entertainment system so much easier. It works well with Google Home, and the app control is very convenient. Setup took a bit longer than expected."
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Fantastic product! It’s reliable and easy to use. The voice control feature with Alexa makes it very convenient."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The controller is reliable, and the app is easy to navigate. Would have given 5 stars if the range was a bit better."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home automation setup even better. The controller is precise and easy to install. I love that I can control it using voice commands."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent controller for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this IR remote controller! It’s so convenient and makes managing my devices a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
+	"Wireless Hub Gateway For Smart Home Automation for Zigbee Devices Via Smart Life": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Emily R",
+				rating: 5,
+				comment: "This hub is amazing! It was easy to set up and integrates perfectly with all my Zigbee devices. The Smart Life app makes it super easy to control everything. Highly recommend!",
+				image:"https://i.postimg.cc/0j5XhD0w/Adc2b8bf1c779438db9ef8cdaaab24ec2-K.webp"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great hub for smart home automation. The setup was straightforward, and it works well with the Smart Life app. My only issue is that the range could be a bit better.",
+				image:"https://i.postimg.cc/L6bQ0qYJ/A3f206af87c3740b584838f5fa84f2526-T.webp"
+			},
+			{
+				name: "Alex P",
+				rating: 5,
+				comment: "Perfect for managing multiple Zigbee devices. The app is user-friendly, and the integration with Alexa is flawless. A must-have for smart homes!"
+			},
+			{
+				name: "Sarah H",
+				rating: 4,
+				comment: "This hub has made managing my smart home so much easier. It works well with Google Home, and the app control is very convenient. Setup took a bit longer than expected."
+			},
+			{
+				name: "David M",
+				rating: 5,
+				comment: "Fantastic product! It’s reliable and easy to use. The voice control feature with Alexa makes it very convenient."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The hub is reliable, and the app is easy to navigate. Would have given 5 stars if the range was a bit better."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home automation setup even better. The hub is precise and easy to install. I love that I can control it using voice commands."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent hub for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this hub! It’s so convenient and makes managing my devices a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
+
 };
 
 
