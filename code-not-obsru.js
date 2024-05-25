@@ -5405,7 +5405,7 @@ const productData = {
 		  },
 		  {
 			name: "Matthew B",
-			rating: 4,
+			rating: 5,
 			comment: "I've been impressed with the performance of this air fryer so far. It heats up quickly, and the presets make cooking different dishes a breeze. My only suggestion would be to include a recipe booklet for more inspiration."
 		  },
 		  {
@@ -5431,7 +5431,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "Great addition to my smart home. Setup was straightforward. Works well with Google Home. Instructions could be clearer.",
 				image:"https://i.postimg.cc/cH9VcFfz/A2ff5028cb0ee48ab9e89417185bf5233u.webp"
 			},
@@ -5443,7 +5443,7 @@ const productData = {
 			},
 			{
 				name: "David M",
-				rating: 4,
+				rating: 5,
 				comment: "Exceeds expectations. Smooth and quiet motor, easy to control via app. Setup was a bit tricky but manageable."
 			},
 			{
@@ -5473,7 +5473,7 @@ const productData = {
 			},
 			{
 				name: "Matthew B",
-				rating: 4,
+				rating: 5,
 				comment: "Impressive performance. Heats up quickly, and the presets are very convenient. Would appreciate a longer cord."
 			},
 			{
@@ -5499,7 +5499,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "Works well with Google Home. Installation was a bit tricky, but the performance is excellent. Highly recommend!",
 				image:"https://i.postimg.cc/XNTVSvyz/A967b94dcd45b4cb5b682b50fd285d3d73.webp"
 			}, 
@@ -5550,7 +5550,7 @@ const productData = {
 			},
 			{
 				name: "Jonathan G",
-				rating: 4,
+				rating: 5,
 				comment: "Regularly using it with great results. Easy to clean, and the blinds move smoothly. Minor issue with setup instructions."
 			}
 		]
@@ -5566,7 +5566,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "A great addition to my smart home setup. Installation was straightforward, and it works well with both Zigbee and WiFi devices. My only complaint is that the Bluetooth range could be better.",
 				image:"https://i.postimg.cc/htD6HFMY/A8b4aef5b38a4430abaac0bcab49a3165-W.webp"
 			},
@@ -5578,7 +5578,7 @@ const productData = {
 			},
 			{
 				name: "David M",
-				rating: 4,
+				rating: 5,
 				comment: "The panel is very user-friendly and has made controlling my smart home devices much easier. It works well with Google Home. The setup took a bit longer than expected, but overall, it's a great product."
 			},
 			{
@@ -5635,7 +5635,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "Great product for smart home enthusiasts. The setup was a breeze, and it works well with Google Home. My only issue is the range could be a bit better.",
 				image:"https://i.postimg.cc/1XMcFd6g/A285eeffe3a75409186e2a07e9ebda7b3-M.webp"
 			},
@@ -5656,7 +5656,7 @@ const productData = {
 			},
 			{
 				name: "Daniel S",
-				rating: 4,
+				rating: 5,
 				comment: "Works well with my smart home setup. The app is intuitive, and the device is reliable. Wish the range was a bit better though."
 			},
 			{
@@ -5686,7 +5686,7 @@ const productData = {
 			},
 			{
 				name: "Jonathan G",
-				rating: 4,
+				rating: 5,
 				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
 			}
 		]
@@ -5702,7 +5702,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "Great addition to my smart home. The setup was straightforward, and it works well with Google Home. My only complaint is that the battery life could be longer."
 			},
 			{
@@ -5768,7 +5768,7 @@ const productData = {
 			},
 			{
 				name: "Michael W",
-				rating: 4,
+				rating: 5,
 				comment: "Great addition to my home security. The setup was straightforward, and it works well with Google Home. My only issue is that the battery life could be longer."
 			},
 			{
@@ -5798,7 +5798,7 @@ const productData = {
 			},
 			{
 				name: "Jason L",
-				rating: 4,
+				rating: 5,
 				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
 			},
 			{
@@ -5846,7 +5846,7 @@ const productData = {
 			},
 			{
 				name: "David M",
-				rating: 4,
+				rating: 5,
 				comment: "This switch has made controlling my blinds so much easier. It works well with Alexa, and the app control is very convenient. Setup took a bit longer than expected."
 			},
 			{
@@ -5866,7 +5866,7 @@ const productData = {
 			},
 			{
 				name: "Jason L",
-				rating: 4,
+				rating: 5,
 				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
 			},
 			{
@@ -5902,7 +5902,7 @@ const productData = {
 			},
 			{
 				name: "Emily R",
-				rating: 4,
+				rating: 5,
 				comment: "Great product for smart home enthusiasts. The setup was straightforward, and it works well with Google Home. My only issue is that the range could be a bit better."
 			},
 			{
@@ -5942,7 +5942,7 @@ const productData = {
 			},
 			{
 				name: "Matthew B",
-				rating: 4,
+				rating: 5,
 				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
 			},
 			{
