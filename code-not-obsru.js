@@ -5420,9 +5420,346 @@ const productData = {
 		  }
 		]
 	  }, 
+	  "Tuya Zigbee Smart Curtain Motor - Electric Automatic Curtain Robot with App and Voice Control": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "This curtain motor is a game-changer for home automation! Easy to set up, works perfectly with Alexa. Highly recommend!",
+				image:"https://i.postimg.cc/k593M6nT/A1cdf85ef918749b1a4eb13ad95ac9ae7n.webp"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great addition to my smart home. Setup was straightforward. Works well with Google Home. Instructions could be clearer.",
+				image:"https://i.postimg.cc/cH9VcFfz/A2ff5028cb0ee48ab9e89417185bf5233u.webp"
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for smart home enthusiasts. Seamless integration with Tuya devices and smooth, quiet operation. Worth every penny.",
+				image:"https://i.postimg.cc/HWNqcPYc/A2b658f2141694bcb88a09030881b79db6.webp"
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "Exceeds expectations. Smooth and quiet motor, easy to control via app. Setup was a bit tricky but manageable."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic product! Makes my curtains smart with minimal effort. The voice control feature is a real plus."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as advertised. Quiet and efficient. Would have given 5 stars if the instructions were more detailed."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my curtains smart in seconds! Easy setup, smooth operation, and integrates well with Alexa."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Simple to use and very effective. My only gripe is that the setup was a bit challenging at first."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent product! Makes opening and closing curtains a breeze. Highly recommend for any smart home."
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressive performance. Heats up quickly, and the presets are very convenient. Would appreciate a longer cord."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this smart curtain motor! Convenient and user-friendly with an intuitive app. Worth the investment."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and food turns out delicious. Minor issue with cooking times."
+			}
+		]
+	},
+	"AVATTO WiFi Tuya Smart Roller Blinds Motor": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "Amazing product! Easy to install and works perfectly with Alexa. My blinds are now smart and convenient to use.",
+				image:"https://i.postimg.cc/XNZVz5X5/A8db2c977aa164f77bd98c816199b4eb19.webp"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Works well with Google Home. Installation was a bit tricky, but the performance is excellent. Highly recommend!",
+				image:"https://i.postimg.cc/XNTVSvyz/A967b94dcd45b4cb5b682b50fd285d3d73.webp"
+			}, 
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for smart home enthusiasts. Seamless integration with Tuya devices and smooth operation. Worth every penny."
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "Exceeds expectations. Smooth and quiet motor, easy to control via app. Setup was a bit challenging but manageable."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic product! Makes my roller blinds smart with minimal effort. The voice control feature is a real plus."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as advertised. Quiet and efficient. Would have given 5 stars if the instructions were more detailed."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my blinds smart in seconds! Easy setup, smooth operation, and integrates well with Alexa."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Simple to use and very effective. My only gripe is that the setup was a bit challenging at first."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent product! Makes opening and closing blinds a breeze. Highly recommend for any smart home."
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressive performance. Heats up quickly, and the presets are very convenient. Would appreciate a longer cord."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this smart roller blinds motor! Convenient and user-friendly with an intuitive app. Worth the investment."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the blinds move smoothly. Minor issue with setup instructions."
+			}
+		]
+	},
+	"SIXWGH Smart Home Automation Touch Control Panel Hub - Compatible with WiFi, Zigbee, Bluetooth": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "This control panel hub is amazing! It integrated seamlessly with my existing smart home devices and is very easy to use. The touch panel is intuitive, and voice commands via Alexa work perfectly.",
+				image:"https://i.postimg.cc/Lsh78zcB/Abf7eb605e40b4327837a7ddd3c6865bd-P.webp" 
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "A great addition to my smart home setup. Installation was straightforward, and it works well with both Zigbee and WiFi devices. My only complaint is that the Bluetooth range could be better.",
+				image:"https://i.postimg.cc/htD6HFMY/A8b4aef5b38a4430abaac0bcab49a3165-W.webp"
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for managing all my smart devices from one place. The touch screen is responsive, and the compatibility with multiple protocols is a huge plus. Highly recommend!",
+				image:""
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "The panel is very user-friendly and has made controlling my smart home devices much easier. It works well with Google Home. The setup took a bit longer than expected, but overall, it's a great product."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic product! It has simplified my smart home management. The voice control feature with Alexa is super convenient, and the panel itself looks sleek and modern."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The touch control is smooth, and it integrates well with my existing devices. I wish the setup instructions were a bit clearer, but overall, I'm very satisfied."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my smart home setup so much more efficient. The panel is easy to use, and the compatibility with various devices is fantastic. Installation was a breeze."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The touch interface is nice, and it works well with Google Home. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent hub for smart home automation. The touch panel is intuitive, and the voice control via Alexa is a great feature. Highly recommend for anyone looking to simplify their smart home."
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance so far. It connects well with my devices, and the touch control is easy to use. Would love to see more detailed setup instructions included."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this control panel hub! It’s so convenient and makes managing all my smart devices a breeze. The voice commands and touch interface are both excellent."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. It’s easy to clean, and the touch panel is responsive. My only issue is that the Bluetooth connectivity could be stronger."
+			}
+		]
+	},
+	"Tuya WiFi IR Remote Control - Smart Home Universal Infrared Controller for Alexa, Google Home": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "This IR remote control is fantastic! It was easy to set up, and now I can control all my devices with Alexa. Highly recommend!",
+				image:"https://i.postimg.cc/0QYCkjy0/A89339f3618104ce9ab99967241fa4ca43.webp",
 
-
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great product for smart home enthusiasts. The setup was a breeze, and it works well with Google Home. My only issue is the range could be a bit better.",
+				image:"https://i.postimg.cc/1XMcFd6g/A285eeffe3a75409186e2a07e9ebda7b3-M.webp"
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for managing multiple IR devices. The Tuya app is user-friendly, and voice control works flawlessly. A must-have for smart homes!"
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "This remote control has simplified my life. Easy to set up and works seamlessly with my home automation system. Instructions could be clearer."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic addition to my smart home. The integration with Alexa is seamless, and it controls all my devices perfectly. Very satisfied!"
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works well with my smart home setup. The app is intuitive, and the device is reliable. Wish the range was a bit better though."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home automation much easier. Controls all my IR devices effortlessly and integrates well with Google Home. Highly recommend!"
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. Setup was a bit challenging but worth it."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent product for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this IR remote control! It’s so convenient and makes managing all my devices a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
+	"Temperature and Humidity Sensor Indoor Thermometer Monitor - Smart Home Device Compatible with Alexa and Google Home": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "This sensor is fantastic! It was easy to set up and provides accurate readings. I love being able to check the temperature and humidity with Alexa.",
+				image:"https://i.postimg.cc/Hx9QGN6S/Ac01fc8d3400f4ef5a5ad14bb2b046666-X.webp" 
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great addition to my smart home. The setup was straightforward, and it works well with Google Home. My only complaint is that the battery life could be longer."
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for monitoring indoor conditions. The Tuya app is user-friendly, and the sensor integrates seamlessly with my other smart devices."
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "This thermometer monitor has made managing my home environment so much easier. It works well with Alexa, and the alerts are very helpful. Setup took a bit longer than expected."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic product! It’s very accurate and easy to use. The integration with Google Home makes checking indoor conditions very convenient."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The sensor is reliable, and the app is easy to navigate. Would have given 5 stars if the battery life was a bit better."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home automation setup even better. The sensor is precise and easy to install. I love that I can check the conditions using voice commands."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent sensor for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this thermometer monitor! It’s so convenient and makes managing all my devices a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
+	
 };
 
 
 
+ 
