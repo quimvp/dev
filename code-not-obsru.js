@@ -5757,7 +5757,140 @@ const productData = {
 			}
 		]
 	},
-	
+	"Smart Home Burglar Alarm Automation - Ewelink Remote Control for Alexa and Google Home": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Jessica L",
+				rating: 5,
+				comment: "This alarm system is fantastic! Easy to set up and provides peace of mind. I love being able to control it with Alexa and the Ewelink app.",
+
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great addition to my home security. The setup was straightforward, and it works well with Google Home. My only issue is that the battery life could be longer."
+			},
+			{
+				name: "Sarah H",
+				rating: 5,
+				comment: "Perfect for enhancing home security. The Ewelink app is user-friendly, and the alarm integrates seamlessly with my other smart devices."
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "This alarm has made my home security so much easier. It works well with Alexa, and the real-time alerts are very helpful. Setup took a bit longer than expected."
+			},
+			{
+				name: "Jennifer K",
+				rating: 5,
+				comment: "Fantastic product! It’s very reliable and easy to use. The integration with Google Home makes managing security very convenient."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The alarm is reliable, and the app is easy to navigate. Would have given 5 stars if the battery life was a bit better."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home security setup even better. The alarm is precise and easy to install. I love that I can control it using voice commands."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent alarm for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this alarm system! It’s so convenient and makes managing all my devices a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
+	"WiFi Curtain Light Switch for Roller Shutter Blinds App Remote Control Google Home Alexa" : {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Alex P",
+				rating: 5,
+				comment: "This switch is fantastic! It was easy to set up and provides seamless control through Alexa. Highly recommend for anyone looking to automate their blinds.",
+				image:"https://i.postimg.cc/y8h6Tzxr/A19f0c33869fa4bcaaa76c6fa1d2ac2bet.webp"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great product for smart home enthusiasts. The setup was straightforward, and it works well with Google Home. My only issue is that the Wi-Fi range could be better.",
+				image:"https://i.postimg.cc/43JfLFh4/A0348ead7b4ef46a4bb1949f002f9bdbf8.webp"
+			},
+			{
+				name: "Samantha T",
+				rating: 5,
+				comment: "Perfect for managing my roller shutters. The Tuya app is user-friendly, and the integration with Alexa is flawless. A must-have for smart homes!",
+				image:"https://i.postimg.cc/W4X2Q6MG/Ae0cbe7fa6856423c8bf9f7f220dac660-V.webp"
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "This switch has made controlling my blinds so much easier. It works well with Alexa, and the app control is very convenient. Setup took a bit longer than expected."
+			},
+			{
+				name: "Emily R",
+				rating: 5,
+				comment: "Fantastic product! It’s reliable and easy to use. The voice control feature with Google Home makes it very convenient."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The switch is reliable, and the app is easy to navigate. Would have given 5 stars if the Wi-Fi range was a bit better."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "Made my home automation setup even better. The switch is precise and easy to install. I love that I can control it using voice commands."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The app control is nice, and it works well with Alexa. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent switch for smart home enthusiasts. Easy to use and integrates well with my devices. The voice control feature is great!"
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. Connects well with my devices, and the app is easy to use. Could use a bit more range though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this switch! It’s so convenient and makes managing my blinds a breeze. The voice commands work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. Easy to clean, and the app is intuitive. My only issue is the range could be stronger."
+			}
+		]
+	},
 };
 
 
