@@ -5691,7 +5691,7 @@ const productData = {
 			}
 		]
 	},
-	"Temperature and Humidity Sensor Indoor Thermometer Monitor - Smart Home Device Compatible with Alexa and Google Home": {
+	"Temperature And Humidity Sensor Indoor Thermometer Monitor Work With Alexa Google Home": {
 		averageRating: 4.6,
 		reviews: [
 			{
@@ -5757,7 +5757,7 @@ const productData = {
 			}
 		]
 	},
-	"Smart Home Burglar Alarm Automation - Ewelink Remote Control for Alexa and Google Home": {
+	"Smart Home Burglar Alarm Automation Ewelink Remote Control For Alexa,Google Home": {
 		averageRating: 4.6,
 		reviews: [
 			{
@@ -5891,7 +5891,7 @@ const productData = {
 			}
 		]
 	},
-	"WiFi Smart Universal IR Remote Controller - APP Remote Control, Works With Alexa and Google Home, Smart Home": {
+	"WiFi Smart Universal IR Remote Controller - APP Remote Control, Works With Alexa and Google Home": {
 		averageRating: 4.6,
 		reviews: [
 			{
