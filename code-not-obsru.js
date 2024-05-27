@@ -1957,46 +1957,134 @@ const productData = {
 		], 
 	  },
 	  "Mini Projector 4K 1080P Support, Portable Projector WiFi6 BT 5.0 Android 11": { 
-		averageRating: 4.5,
+		averageRating: 4.8,
 		reviews: [ 
-			{
-				name: "Emily W.",
-				rating: 5,
-				comment: "The picture quality is amazing for the price. Highly recommended!",
-				image: "https://i.postimg.cc/NjbSQfSn/61-Zo-Tspmsx-L-SL1600.jpg"
-			  },
-			  {
-				name: "Nathan S.",
-				rating: 4.5, 
-				comment: "I'm impressed with the performance, although I'm still figuring out how to optimize it further."
-			  },
-			  {
-				name: "Olivia R.",
-				rating: 5,
-				comment: "Arrived promptly and exceeded my expectations. Perfect addition to my home theater setup!"
-			  },
-			  {
-				name: "William L.",
-				rating: 5,
-				comment: "The delivery was quick, and the product is of excellent quality. Very satisfied with my purchase."
-			  },
-			  {
-				name: "Emma T.",
-				rating: 5,
-				comment: "This projector is a game-changer! It's like having a cinema in my living room."
-			  },
-			  {
-				name: "Daniel M.",
-				rating: 4,
-				comment: "Overall, a great product. Still exploring its features, but so far, I'm enjoying it."
-			  },
-			  {
-				name: "Sophie K.",
-				rating: 5,
-				comment: "Absolutely blown away by this Mini device. It's worth every penny!"
-			  }, 
-		], 
-	  },      
+		  {
+			name: "Emily W.",
+			rating: 5,
+			comment: "The picture quality is amazing for the price. Highly recommended!",
+			image: "https://i.postimg.cc/mgg8NMTz/61-SD5lkw-Gi-L.jpg" 
+		  },
+		  {
+			name: "Nathan S.",
+			rating: 4.5, 
+			comment: "I'm impressed with the performance, although I'm still figuring out how to optimize it further.",
+			image: "https://i.postimg.cc/bvGg4hDq/51o90x-W28y-L.jpg"
+		  },
+		  {
+			name: "Olivia R.",
+			rating: 5,
+			comment: "Arrived promptly and exceeded my expectations. Perfect addition to my home theater setup!",
+			image: "https://i.postimg.cc/J73qfKnH/71-AORJKbxr-L.jpg"
+		  },
+		  {
+			name: "William L.",
+			rating: 5,
+			comment: "The delivery was quick, and the product is of excellent quality. Very satisfied with my purchase.",
+			image: "https://i.postimg.cc/hPSrcxzy/61r-Qa-L2rhz-L.jpg"
+		  },
+		  {
+			name: "Emma T.",
+			rating: 5,
+			comment: "This projector is a game-changer! It's like having a cinema in my living room."
+		  },
+		  {
+			name: "Daniel M.",
+			rating: 4,
+			comment: "Overall, a great product. Still exploring its features, but so far, I'm enjoying it."
+		  },
+		  {
+			name: "Sophie K.",
+			rating: 5,
+			comment: "Absolutely blown away by this mini device. It's worth every penny!"
+		  },
+		  {
+			name: "Liam H.",
+			rating: 4.5,
+			comment: "Fantastic value for money. The WiFi6 support is a great addition."
+		  },
+		  {
+			name: "Isabella M.",
+			rating: 5,
+			comment: "Crystal clear picture quality and easy to set up. Highly recommend this projector."
+		  },
+		  {
+			name: "James C.",
+			rating: 4,
+			comment: "Great projector, though I wish the sound was a bit louder. Overall, very happy with it."
+		  },
+		  {
+			name: "Charlotte R.",
+			rating: 5,
+			comment: "The Android 11 integration makes it so convenient to use. Superb quality!"
+		  },
+		  {
+			name: "Lucas B.",
+			rating: 4.5,
+			comment: "Perfect for movie nights. The picture quality is top-notch, and the setup was straightforward."
+		  },
+		  {
+			name: "Amelia P.",
+			rating: 5,
+			comment: "Exceeded all my expectations! It's like having a cinema at home."
+		  },
+		  {
+			name: "Mason D.",
+			rating: 4,
+			comment: "Very good projector for the price. The Bluetooth feature is a nice touch."
+		  },
+		  {
+			name: "Ava K.",
+			rating: 5,
+			comment: "Brilliant picture quality and very portable. Love the WiFi and Bluetooth features."
+		  },
+		  {
+			name: "Ethan T.",
+			rating: 4.5,
+			comment: "Solid performance and easy to use. Great addition to our home entertainment system."
+		  },
+		  {
+			name: "Mia N.",
+			rating: 5,
+			comment: "Absolutely love this projector! It works flawlessly with my streaming apps."
+		  },
+		  {
+			name: "Henry F.",
+			rating: 4,
+			comment: "Good quality for the price, but the remote could be more responsive."
+		  },
+		  {
+			name: "Sophia L.",
+			rating: 5,
+			comment: "This projector has transformed our movie nights. Incredible value for money."
+		  },
+		  {
+			name: "Benjamin G.",
+			rating: 4.5,
+			comment: "Excellent product, easy to set up and use. The image quality is fantastic."
+		  },
+		  {
+			name: "Grace H.",
+			rating: 5,
+			comment: "This projector is everything I wanted and more. The kids love it!"
+		  },
+		  {
+			name: "Jack P.",
+			rating: 4,
+			comment: "Good projector, but it took a while to arrive. Otherwise, very satisfied."
+		  },
+		  {
+			name: "Chloe S.",
+			rating: 5,
+			comment: "Amazing device! Perfect for outdoor movie nights with friends."
+		  },
+		  {
+			name: "Matthew D.",
+			rating: 4.5,
+			comment: "Great projector for the price. Setup was simple and the picture is clear."
+		  }
+		] 
+	  } , 
 	  "Wall Mount Key Lock Box 4 Digit Password Code Security Lock No Key for Home Office Key Safe box": {  
     averageRating: 4.5,
     reviews: [
