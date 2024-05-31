@@ -6112,7 +6112,989 @@ const productData = {
 			}
 		]
 	},
-
+	"1080P Wireless Indoor Security Camera - Motion Detection, Two-Way Audio, Night Vision, Phone App": {
+		averageRating: 4.6,
+		reviews: [
+			{
+				name: "Emily R",
+				rating: 5,
+				comment: "This camera is fantastic! The motion detection is very accurate, and the night vision is crystal clear. I feel so much safer with this camera in my home.",
+				image: "https://i.postimg.cc/zVqx60nH/63db7493-ce4b-4979-9c61-c20eb72bb142-675x1200.webp"
+			},
+			{
+				name: "Michael W",
+				rating: 4,
+				comment: "Great security camera. The two-way audio works well, and the phone app is easy to use. The only downside is that it took a while to set up.",
+				image: "https://i.postimg.cc/rz1hfvtL/fac739c0-db37-4961-9e18-b295d4a5ac45.webp"
+			},
+			{
+				name: "Alex P",
+				rating: 5,
+				comment: "I love this camera! The video quality is excellent, and it was very easy to connect to my phone. Highly recommend for home security."
+			},
+			{
+				name: "Sarah H",
+				rating: 4,
+				comment: "This security camera has made me feel much more secure. The night vision is impressive, and the motion detection is very responsive."
+			},
+			{
+				name: "David M",
+				rating: 5,
+				comment: "Excellent product! The two-way audio feature is very convenient, and the night vision is very clear. It’s great for keeping an eye on things when I’m not home."
+			},
+			{
+				name: "Daniel S",
+				rating: 4,
+				comment: "Works as described. The camera is reliable, and the app is easy to navigate. Would have given 5 stars if the setup was a bit quicker."
+			},
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "This camera has exceeded my expectations. The motion detection is spot-on, and the night vision is top-notch. I feel much safer with this in my home."
+			},
+			{
+				name: "Jason L",
+				rating: 4,
+				comment: "Very effective and easy to use. The two-way audio is a nice feature, and it works well with the app. My only minor gripe is that the initial setup was a bit challenging."
+			},
+			{
+				name: "Amanda C",
+				rating: 5,
+				comment: "Excellent camera for home security. Easy to use and integrates well with my devices. The night vision is particularly impressive."
+			},
+			{
+				name: "Matthew B",
+				rating: 4,
+				comment: "Impressed with the performance. The motion detection is very accurate, and the video quality is great. Could use a bit more ease in setup though."
+			},
+			{
+				name: "Nicole W",
+				rating: 5,
+				comment: "Loving this security camera! It’s so convenient and makes monitoring my home a breeze. The night vision and motion detection work perfectly."
+			},
+			{
+				name: "Jonathan G",
+				rating: 4,
+				comment: "Regularly using it with great results. The two-way audio is a nice touch, and the app is intuitive. My only issue is the setup could be faster."
+			}
+		]
+	},
+	"1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
+		averageRating: 4.7,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard."
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better."
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze."
+			},
+			{
+				name: "William D",
+				rating: 4,
+				comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
+			},
+			{
+				name: "Emma B",
+				rating: 5,
+				comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer."
+			},
+			{
+				name: "Liam K",
+				rating: 4,
+				comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time."
+			},
+			{
+				name: "Ava L",
+				rating: 5,
+				comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system."
+			},
+			{
+				name: "Noah F",
+				rating: 4,
+				comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions."
+			},
+			{
+				name: "Isabella H",
+				rating: 5,
+				comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment."
+			},
+			{
+				name: "Mason C",
+				rating: 4,
+				comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process."
+			},
+			{
+				name: "Mia S",
+				rating: 5,
+				comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use."
+			},
+			{
+				name: "Lucas P",
+				rating: 4,
+				comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
+			}
+		]
+	},
+	"Fingerprint Smart Deadbolt Lock - Backlit Keypad, Auto Lock, Voice Prompt, Long Battery Life": {
+		averageRating: 4.8,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "This smart deadbolt lock is a game-changer! The fingerprint sensor is highly responsive, and the backlit keypad is perfect for night use. Highly recommend!",
+				image: "https://i.postimg.cc/ZKzzLm12/4f75b71f-f558-4be7-86c1-138f1ac5ef6c-900x1200.webp"
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Great lock with fantastic features. The auto-lock function is very convenient, and the voice prompts are a nice touch. Installation was a bit tricky, but worth it."
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly secure and easy to use. The battery life is impressive, and the fingerprint reader works flawlessly. I feel much safer with this lock on my door."
+			},
+			{
+				name: "William D",
+				rating: 5,
+				comment: "Excellent product! The backlit keypad is very helpful, especially at night. The auto-lock feature ensures my door is always secure."
+			},
+			{
+				name: "Emma B",
+				rating: 5,
+				comment: "Love this smart lock! The voice prompts make it easy to use, and the fingerprint sensor is very accurate. It's a must-have for any home."
+			},
+			{
+				name: "Liam K",
+				rating: 4,
+				comment: "Very good smart lock. The battery life is great, and the fingerprint recognition is quick. Installation instructions could be clearer, but overall a solid lock."
+			},
+			{
+				name: "Ava L",
+				rating: 5,
+				comment: "I'm very impressed with this lock. The backlit keypad and auto-lock features are fantastic. The fingerprint sensor works every time."
+			},
+			{
+				name: "Noah F",
+				rating: 4,
+				comment: "Reliable and effective. The voice prompts are a nice addition, and the lock feels very secure. Took a bit to set up, but worth it in the end."
+			},
+			{
+				name: "Isabella H",
+				rating: 5,
+				comment: "This smart deadbolt lock has exceeded my expectations. The battery life is outstanding, and the fingerprint sensor is very reliable. Highly recommend!"
+			},
+			{
+				name: "Mason C",
+				rating: 4,
+				comment: "Great lock with useful features. The backlit keypad is a nice touch, and the auto-lock function works well. Setup was a bit challenging, but it's a solid lock overall."
+			},
+			{
+				name: "Mia S",
+				rating: 5,
+				comment: "Fantastic smart lock! The fingerprint recognition is very accurate, and the voice prompts make it easy to use. I feel much safer with this on my door."
+			},
+			{
+				name: "Lucas P",
+				rating: 4,
+				comment: "Effective and reliable. The auto-lock and backlit keypad are very useful features. Setup took a bit longer than expected, but the lock works great."
+			}
+		]
+	},
+	"WiFi Camera Clock - 1080P HD Security Cam, Motion Detection, Night Vision, Real-Time App Monitoring": {
+		averageRating: 4.7,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "This camera clock is perfect for discreet monitoring. The video quality is excellent, and the night vision is clear. The real-time app monitoring is a great feature.",
+				image: "https://i.postimg.cc/TLVrc53v/61-Q4v-Ppzia-L-SL1600.jpg"
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Great hidden camera for security. The motion detection works well, and the app is easy to use. Setup was a bit tricky, but overall, I'm happy with it.",
+				image: "https://i.postimg.cc/2LCn9j1b/61ugawiv-C8-L-SL1600.jpg"
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly recommend this camera clock! The HD video quality is superb, and the app makes it easy to monitor in real-time. Setup was straightforward."
+			},
+			{
+				name: "William D",
+				rating: 5,
+				comment: "Excellent product! The motion detection is very sensitive, and the night vision works perfectly. It's a great addition to my home security."
+			},
+			{
+				name: "Emma B",
+				rating: 5,
+				comment: "Love this camera clock! The app monitoring is very convenient, and the video quality is top-notch. It's perfect for keeping an eye on things discreetly."
+			},
+			{
+				name: "Liam K",
+				rating: 4,
+				comment: "Very good hidden camera. The night vision is clear, and the motion detection is accurate. Setup instructions could be clearer, but overall a solid product."
+			},
+			{
+				name: "Ava L",
+				rating: 5,
+				comment: "I'm very impressed with this camera clock. The HD quality is amazing, and the app makes it easy to monitor everything. A fantastic security device."
+			},
+			{
+				name: "Noah F",
+				rating: 4,
+				comment: "Reliable and effective. The night vision and motion detection are very useful features. Took a bit to set up, but worth it in the end."
+			},
+			{
+				name: "Isabella H",
+				rating: 5,
+				comment: "This WiFi camera clock has exceeded my expectations. The real-time app monitoring is very convenient, and the video quality is excellent. Highly recommend!"
+			},
+			{
+				name: "Mason C",
+				rating: 4,
+				comment: "Great camera clock with useful features. The motion detection is very sensitive, and the night vision is clear. Setup was a bit challenging, but it's a solid product overall."
+			},
+			{
+				name: "Mia S",
+				rating: 5,
+				comment: "Fantastic hidden camera! The HD video quality and real-time app monitoring make it perfect for security. Easy to set up and use."
+			},
+			{
+				name: "Lucas P",
+				rating: 4,
+				comment: "Effective and reliable. The motion detection and night vision are very useful features. Setup took a bit longer than expected, but the camera works great."
+			}
+		]
+	},
+	"Solar Security Light Alarm - Waterproof PIR LED Motion Sensor, 129dB Loud Siren, Outdoor Use": {
+		averageRating: 4.8,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "This solar security light alarm is fantastic! The motion sensor is very sensitive, and the loud siren is a great deterrent. It's perfect for outdoor use and very easy to install."
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Great security light with a loud alarm. The waterproof feature is excellent for outdoor use. Installation was straightforward, but the siren could be a bit louder."
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly recommend this security light! The LED is bright, and the motion detection works flawlessly. The 129dB siren is incredibly loud and effective."
+			},
+			{
+				name: "William D",
+				rating: 5,
+				comment: "Excellent product! The motion sensor is very accurate, and the solar power feature is convenient. It's been a great addition to my home security."
+			},
+			{
+				name: "Emma B",
+				rating: 5,
+				comment: "Love this security light! The alarm is very loud, and the light is bright enough to cover a large area. It's perfect for my backyard."
+			},
+			{
+				name: "Liam K",
+				rating: 4,
+				comment: "Very good security light. The waterproof design is great for outdoor use, and the solar power ensures it works even during power outages. The siren could be a bit louder, though."
+			},
+			{
+				name: "Ava L",
+				rating: 5,
+				comment: "I'm very impressed with this security light alarm. The motion sensor is highly sensitive, and the siren is extremely loud. Installation was quick and easy."
+			},
+			{
+				name: "Noah F",
+				rating: 4,
+				comment: "Reliable and effective. The light is bright, and the motion detection is very responsive. Setup was easy, but the siren could be a touch louder."
+			},
+			{
+				name: "Isabella H",
+				rating: 5,
+				comment: "This solar security light has exceeded my expectations. The LED light is very bright, and the siren is loud enough to alert the whole neighborhood. Highly recommend!"
+			},
+			{
+				name: "Mason C",
+				rating: 4,
+				comment: "Great security light with useful features. The motion detection is very sensitive, and the light is bright. Installation was a bit challenging, but it's a solid product overall."
+			},
+			{
+				name: "Mia S",
+				rating: 5,
+				comment: "Fantastic security light! The LED is bright, and the siren is very loud. It's perfect for deterring intruders and lighting up my yard at night."
+			},
+			{
+				name: "Lucas P",
+				rating: 4,
+				comment: "Effective and reliable. The motion detection and bright LED light are very useful features. Setup took a bit longer than expected, but the light works great."
+			}
+		]
+	},
+	"Mini Surveillance Camera - Built-in Battery, Night Vision, Motion Detection, No WiFi, No App": {
+		averageRating: 4.5,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "This mini surveillance camera is great! The built-in battery lasts long, and the night vision is surprisingly clear. It's perfect for discreet monitoring without needing WiFi."
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Good quality camera with useful features. The motion detection is sensitive and accurate. It's simple to use without needing any app, which is a plus."
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly recommend this mini camera! The battery life is excellent, and the night vision works perfectly. It's easy to set up and does not require WiFi or an app."
+			},
+			{
+				name: "William D",
+				rating: 4,
+				comment: "Very effective surveillance camera. The built-in battery and motion detection work well. It's a bit small, but it does the job nicely without needing any internet connection."
+			}
+		]
+	},
+	"Fifth-Generation Capsule Phone - Android Type-C, Infrared Remote Control, Smart Home Adapter": {
+		averageRating: 4.7,
+		reviews: [
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "This capsule phone is amazing! The Android Type-C is very convenient, and the infrared remote control feature is a great addition. Works perfectly with my smart home devices.",
+				image: "https://i.postimg.cc/r0ygP90N/75ec4e1d-244f-46b0-ab10-f815ac673f09.webp"
+			},
+			{
+				name: "James T",
+				rating: 4,
+				comment: "Great device with useful features. The smart home adapter works seamlessly, and the infrared remote control is very handy. The battery life could be better, but overall, I'm satisfied.",
+				image: "https://i.postimg.cc/1grJBdtz/a51e7ade-562a-4fdc-bf44-ef50dd604e00.webp"
+			},
+			{
+				name: "Olivia M",
+				rating: 5,
+				comment: "Highly recommend this capsule phone! The Android Type-C connection is fast and reliable. The infrared remote control makes it easy to manage my smart home devices."
+			},
+			{
+				name: "William D",
+				rating: 5,
+				comment: "Excellent product! The smart home adapter is very useful, and the infrared remote control works flawlessly. It's a versatile and powerful device."
+			}
+		]
+	},
+	"Portable Electric Travel Kettle - Stainless Steel, 16.91oz, Auto Shut-off, 4 Preset Heating Settings": {
+		averageRating: 4.7,
+		reviews: [
+			{
+				name: "Rachel P",
+				rating: 5,
+				comment: "This travel kettle is fantastic! The stainless steel design is very durable, and the 4 preset heating settings are very convenient. It heats up quickly and the auto shut-off feature is a great safety addition."
+			},
+			{
+				name: "David M",
+				rating: 4,
+				comment: "Great travel kettle. The 16.91oz capacity is perfect for my needs, and it’s very easy to use. The only downside is that it could be a bit faster in heating."
+			},
+			{
+				name: "Ava L",
+				rating: 5,
+				comment: "Highly recommend this kettle! It’s perfect for travel with its compact size. The auto shut-off feature gives me peace of mind, and the preset heating settings are very useful."
+			},
+			{
+				name: "Noah F",
+				rating: 4,
+				comment: "Very handy travel kettle. The stainless steel makes it sturdy, and the different heating settings are great for making various drinks. It’s a bit on the heavier side, but overall a great product."
+			},
+			{
+				name: "Mia S",
+				rating: 5,
+				comment: "This kettle is a lifesaver when traveling. The quick heating and auto shut-off feature make it very convenient. I love the preset temperatures for different drinks."
+			},
+			{
+				name: "Lucas P",
+				rating: 4,
+				comment: "Solid travel kettle with good features. The stainless steel is durable and the heating settings are useful. It’s a bit heavier than expected but still very practical."
+			},
+			{
+				name: "Emma B",
+				rating: 5,
+				comment: "Excellent product for travelers! The auto shut-off is a great safety feature, and the stainless steel design is both stylish and durable."
+			},
+			{
+				name: "Liam K",
+				rating: 4,
+				comment: "Good travel kettle with fast heating. The preset settings are convenient, but I wish it was a bit lighter for easier portability."
+			},
+			{
+				name: "Sophia J",
+				rating: 5,
+				comment: "Fantastic travel kettle! The stainless steel build is sturdy, and the auto shut-off feature is very reassuring. Perfect for making tea on the go."
+			}
+		]
+	},
+		"Mini Air Purifier - Plug-in Negative Ion Generator, No Filter, Household Odor Eliminator": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "John D",
+					rating: 5,
+					comment: "This air purifier is fantastic! It really helps with household odors and is very easy to use."
+				},
+				{
+					name: "Emily R",
+					rating: 4,
+					comment: "Great product, but I wish it had a filter option as well. It works well for small rooms."
+				},
+				{
+					name: "Alex P",
+					rating: 5,
+					comment: "Highly recommend this air purifier. It makes a noticeable difference in air quality."
+				},
+				{
+					name: "Sophia J",
+					rating: 4,
+					comment: "Good value for the price. It’s compact and efficient."
+				}
+			]
+		},
+		"Auto Vehicle Odor Eliminator - USB Rechargeable Ozone Generator, Car Air Purifier, Smoke Remover": {
+			averageRating: 4.5,
+			reviews: [
+				{
+					name: "James T",
+					rating: 5,
+					comment: "This is a must-have for any car owner. It completely removes smoke odors."
+				},
+				{
+					name: "Olivia M",
+					rating: 4,
+					comment: "Works well, but takes a bit of time to see the full effect. Overall, satisfied."
+				},
+				{
+					name: "William D",
+					rating: 5,
+					comment: "Excellent product. My car smells fresh all the time now."
+				},
+				{
+					name: "Emma B",
+					rating: 4,
+					comment: "Good, but the charging time could be improved."
+				}
+			]
+		},
+		"Wireless Car Vacuum Cleaner - 15000Pa Strong Suction, Portable Handheld Dust Collector": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Mia S",
+					rating: 5,
+					comment: "Fantastic suction power! Cleans my car thoroughly."
+				},
+				{
+					name: "Lucas P",
+					rating: 4,
+					comment: "Very powerful and easy to use, but it’s a bit noisy."
+				},
+				{
+					name: "Rachel P",
+					rating: 5,
+					comment: "Love this vacuum. It's compact and very effective."
+				},
+				{
+					name: "David M",
+					rating: 5,
+					comment: "Highly recommend for anyone needing a portable car vacuum."
+				}
+			]
+		},
+		"MSL Black Gift Card - $500": {
+			averageRating: 4.8,
+			reviews: [
+				{
+					name: "Ava L",
+					rating: 5,
+					comment: "Perfect gift! My friend loved it."
+				},
+				{
+					name: "Noah F",
+					rating: 4,
+					comment: "Great gift card, but I wish it came in different denominations."
+				},
+				{
+					name: "Isabella H",
+					rating: 5,
+					comment: "Very convenient and easy to use."
+				},
+				{
+					name: "Mason C",
+					rating: 5,
+					comment: "Excellent gift option for any occasion."
+				}
+			]
+		},
+		"USB Monitor Light - RGB Gaming LED, Touch Control, Stepless Dimming, Eye Protection, Space-Saving": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "This monitor light is amazing! The RGB feature is perfect for my gaming setup."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Works well and saves space. The touch control is a nice feature."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Highly recommend this light. It reduces eye strain significantly."
+				},
+				{
+					name: "James T",
+					rating: 4,
+					comment: "Good product, but the touch control can be a bit sensitive."
+				}
+			]
+		},
+		"Master C18 Rocker Vertical Gaming Mouse - Wired E-sports Mouse, Custom Macro Programming": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Olivia M",
+					rating: 5,
+					comment: "Best gaming mouse I’ve used! The custom macros are a game-changer."
+				},
+				{
+					name: "William D",
+					rating: 4,
+					comment: "Great mouse, very comfortable to use. The software could be more user-friendly."
+				},
+				{
+					name: "Emma B",
+					rating: 5,
+					comment: "Love this mouse. It’s perfect for long gaming sessions."
+				},
+				{
+					name: "Liam K",
+					rating: 4,
+					comment: "Very ergonomic and responsive. Worth the price."
+				}
+			]
+		},
+		"XXL Premium Tempered Glass Mouse Pad - Gaming E-sports Professional Pad, Smooth Desk Pad": {
+			averageRating: 4.8,
+			reviews: [
+				{
+					name: "Mia S",
+					rating: 5,
+					comment: "This mouse pad is incredible! The smooth surface makes a big difference."
+				},
+				{
+					name: "Lucas P",
+					rating: 4,
+					comment: "Very durable and stylish. It’s a bit heavy but worth it."
+				},
+				{
+					name: "Rachel P",
+					rating: 5,
+					comment: "Perfect for gaming. The size is just right."
+				},
+				{
+					name: "David M",
+					rating: 5,
+					comment: "Highly recommend this mouse pad for any gamer."
+				}
+			]
+		},
+		"Mini Vacuum Sealer - 2-in-1 Heat Sealer & Cutter, Portable Thermal Sealer for Plastic Bag Storage": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Ava L",
+					rating: 5,
+					comment: "This vacuum sealer is a must-have in the kitchen. Very easy to use."
+				},
+				{
+					name: "Noah F",
+					rating: 4,
+					comment: "Works well for sealing bags. The cutter is a nice addition."
+				},
+				{
+					name: "Isabella H",
+					rating: 5,
+					comment: "Highly recommend this sealer. It’s compact and efficient."
+				},
+				{
+					name: "Mason C",
+					rating: 5,
+					comment: "Great product! Perfect for keeping food fresh."
+				}
+			]
+		},
+		"Household Vacuum Sealing Machine Set - 60pcs, Easy to Operate, Ideal for Dry and Soft Food Storage": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "This vacuum sealing machine is excellent. Very easy to use and comes with everything you need."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Good machine, but it’s a bit noisy. Overall, satisfied with its performance."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Highly recommend this vacuum sealer. It keeps my food fresh for longer."
+				},
+				{
+					name: "James T",
+					rating: 4,
+					comment: "Great product, but the instructions could be clearer. Once set up, it works perfectly."
+				}
+			]
+		},
+		"Smart Watch - Round Fitness Tracker with Blood Pressure & Heart Rate Monitor": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "This smartwatch is amazing! It tracks my fitness accurately and the heart rate monitor is very useful."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Great fitness tracker. The round design is sleek, but the battery life could be longer."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Highly recommend this watch. It's perfect for monitoring my workouts and health metrics."
+				},
+				{
+					name: "James T",
+					rating: 4,
+					comment: "Good smartwatch with useful features. The blood pressure monitor is a nice addition."
+				}
+			]
+		},
+		"EMS Muscle Stimulator - 8 Pad Abs Trainer, USB Rechargeable Abdominal Muscle Toner": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "Olivia M",
+					rating: 5,
+					comment: "Fantastic muscle stimulator! It’s really helping me tone my abs. Easy to use and effective."
+				},
+				{
+					name: "William D",
+					rating: 4,
+					comment: "Good product. The USB rechargeable feature is convenient. Takes time to see results but worth it."
+				},
+				{
+					name: "Emma B",
+					rating: 5,
+					comment: "Love this muscle stimulator. It’s compact and easy to use. Definitely feel the difference."
+				},
+				{
+					name: "Liam K",
+					rating: 4,
+					comment: "Works well, but the pads could be a bit stickier. Overall, very satisfied."
+				}
+			]
+		},
+		"Interactive Mini RC Robot Toys - Talking, Singing, Dancing & Storytelling, Perfect Gift for Kids": {
+			averageRating: 4.8,
+			reviews: [
+				{
+					name: "Mia S",
+					rating: 5,
+					comment: "These robot toys are perfect for my kids! They love the talking and dancing features."
+				},
+				{
+					name: "Lucas P",
+					rating: 4,
+					comment: "Great toy, very entertaining. The battery life could be longer, but my kids love it."
+				},
+				{
+					name: "Rachel P",
+					rating: 5,
+					comment: "Perfect gift for kids. The storytelling feature is very engaging."
+				},
+				{
+					name: "David M",
+					rating: 5,
+					comment: "Highly recommend these robots. They are fun and educational for kids."
+				}
+			]
+		},
+		"4K 8MP IP Camera - Audio, Outdoor POE, H.265, Onvif Metal Bullet CCTV, 4MP Color Night Vision": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Ava L",
+					rating: 5,
+					comment: "This IP camera is fantastic! The night vision is clear, and the POE feature is very convenient."
+				},
+				{
+					name: "Noah F",
+					rating: 4,
+					comment: "Great camera with excellent video quality. Setup was a bit tricky, but it's worth it."
+				},
+				{
+					name: "Isabella H",
+					rating: 5,
+					comment: "Highly recommend this camera. The audio and video quality are both excellent."
+				},
+				{
+					name: "Mason C",
+					rating: 4,
+					comment: "Good outdoor camera. The color night vision is impressive, but the instructions could be clearer."
+				}
+			]
+		},
+		"3rd Generation X3 Violent Blower - Turbo Jet Fan, Handheld Brushless Motor, 130,000 RPM, 52m/s Wind": {
+			averageRating: 4.8,
+			reviews: [
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "This blower is incredibly powerful! It handles all my yard work with ease."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Great blower with strong performance. It's a bit heavy, but very effective."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Highly recommend this blower. The turbo jet fan is extremely powerful."
+				},
+				{
+					name: "James T",
+					rating: 4,
+					comment: "Good product, but a bit noisy. Overall, very satisfied with its performance."
+				}
+			]
+		},
+		"3-In-1 Smart Sweeping Robot - Mini Wireless Vacuum Cleaner, Sweeping and Vacuuming, For Home Use": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "Olivia M",
+					rating: 5,
+					comment: "This sweeping robot is great for keeping my floors clean. It's small but powerful."
+				},
+				{
+					name: "William D",
+					rating: 4,
+					comment: "Good little vacuum. It works well, but the battery life could be better."
+				},
+				{
+					name: "Emma B",
+					rating: 5,
+					comment: "Love this robot vacuum. It’s very efficient and easy to use."
+				},
+				{
+					name: "Liam K",
+					rating: 4,
+					comment: "Works well for small spaces. The sweeping and vacuuming features are very handy."
+				}
+			]
+		},
+		"Wireless Handheld Vacuum Cleaner - Powerful Suction, Smart Cordless Design, Detachable Box for Easy Cleaning": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Mia S",
+					rating: 5,
+					comment: "This handheld vacuum is perfect for quick cleanups. The suction is strong, and it’s very convenient."
+				},
+				{
+					name: "Lucas P",
+					rating: 4,
+					comment: "Great vacuum cleaner. The cordless design makes it easy to use, but the battery life could be longer."
+				},
+				{
+					name: "Rachel P",
+					rating: 5,
+					comment: "Highly recommend this vacuum. It's powerful and easy to clean."
+				},
+				{
+					name: "David M",
+					rating: 4,
+					comment: "Good vacuum with strong suction. The detachable box is very convenient for cleaning."
+				}
+			]
+		},
+		"Portable Ultrasonic Aromatherapy Diffuser - USB Smart Air Purifier, Car Air Freshener": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "Ava L",
+					rating: 5,
+					comment: "This diffuser is amazing! It keeps my car smelling fresh and is very easy to use."
+				},
+				{
+					name: "Noah F",
+					rating: 4,
+					comment: "Great diffuser for the car. The ultrasonic feature works well, but it could be a bit quieter."
+				},
+				{
+					name: "Isabella H",
+					rating: 5,
+					comment: "Highly recommend this air purifier. It's compact and effective in keeping the air fresh."
+				},
+				{
+					name: "Mason C",
+					rating: 4,
+					comment: "Good product. The USB feature is convenient, but the water tank could be larger."
+				}
+			]
+		},
+		"Mini Fan Heater - Wall Electric Heater, Desktop Warm Blower, Household Radiator Warmer for Winter": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "This mini heater is perfect for my office. It warms up quickly and is very efficient."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Great little heater. It’s very effective, but it can be a bit noisy at times."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Highly recommend this heater. It’s compact, powerful, and perfect for small spaces."
+				},
+				{
+					name: "James T",
+					rating: 4,
+					comment: "Good heater for the price. It heats up quickly, but the fan could be a bit quieter."
+				}
+			]
+		},
+		"COOSPO H808S Heart Rate Sensor - Dual Mode ANT+ & Bluetooth with Chest Strap, Compatible with Wahoo": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Rachel P",
+					rating: 5,
+					comment: "This heart rate sensor is fantastic! It pairs easily with my devices and the data is very accurate. The chest strap is comfortable to wear even during long workouts."
+				},
+				{
+					name: "David M",
+					rating: 4,
+					comment: "Great heart rate monitor. The dual mode connectivity is very useful, but it took me a bit of time to set it up initially."
+				},
+				{
+					name: "Ava L",
+					rating: 5,
+					comment: "Highly recommend this sensor! It works seamlessly with my Wahoo and provides precise heart rate data. Very happy with my purchase."
+				},
+				{
+					name: "Noah F",
+					rating: 4,
+					comment: "Good product. The heart rate data is accurate and it fits comfortably. Just wish the battery life was a bit longer."
+				},
+				{
+					name: "Isabella H",
+					rating: 5,
+					comment: "Excellent heart rate sensor. The Bluetooth connectivity is flawless and the chest strap is very comfortable. Perfect for my training needs."
+				},
+				{
+					name: "Mason C",
+					rating: 4,
+					comment: "Works well and provides accurate readings. The setup was a bit tricky but once done, it works perfectly."
+				},
+				{
+					name: "Emily R",
+					rating: 5,
+					comment: "Love this heart rate sensor. It's very reliable and the chest strap is soft and doesn't chafe. Great for all my workouts."
+				},
+				{
+					name: "Michael W",
+					rating: 4,
+					comment: "Very good sensor. The dual mode is helpful for different devices. The only downside is the initial setup process."
+				},
+				{
+					name: "Sophia J",
+					rating: 5,
+					comment: "Fantastic product! Accurate and comfortable. The ANT+ and Bluetooth connectivity is a big plus for my training."
+				}
+			]
+		},
+		"Running Speed Training Resistance Parachute - Fitness Explosive Power Trainer for Sprint Running": {
+			averageRating: 4.6,
+			reviews: [
+				{
+					name: "James T",
+					rating: 5,
+					comment: "This training parachute is excellent! It really adds resistance to my sprints and helps build my speed and power. Highly recommend."
+				},
+				{
+					name: "Olivia M",
+					rating: 4,
+					comment: "Great training tool. The resistance is perfect for sprint workouts. It takes a bit of getting used to, but very effective."
+				},
+				{
+					name: "William D",
+					rating: 5,
+					comment: "Love this parachute. It's very durable and provides great resistance. Perfect for improving my sprint performance."
+				},
+				{
+					name: "Emma B",
+					rating: 4,
+					comment: "Good product. The resistance is good and it’s easy to use. The only issue is that it can be tricky to fold back up."
+				},
+				{
+					name: "Liam K",
+					rating: 5,
+					comment: "Highly recommend this parachute. It adds a great challenge to my sprint training and is built to last."
+				},
+				{
+					name: "Mia S",
+					rating: 4,
+					comment: "Very effective for resistance training. It has improved my speed and power significantly. Just wish it came with better storage options."
+				},
+				{
+					name: "Lucas P",
+					rating: 5,
+					comment: "Fantastic training tool! It’s easy to use and really helps increase my running speed and power."
+				},
+				{
+					name: "Rachel P",
+					rating: 4,
+					comment: "Great resistance parachute. It’s very effective but can be a bit difficult to manage in windy conditions."
+				},
+				{
+					name: "David M",
+					rating: 5,
+					comment: "Excellent for sprint training. The resistance it provides is perfect for building explosive power. Highly recommend."
+				}
+			]
+		}, 
+ 	
 };
 
 
