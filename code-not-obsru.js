@@ -1963,7 +1963,7 @@ const productData = {
 			name: "Emily W.",
 			rating: 5,
 			comment: "The picture quality is amazing for the price. Highly recommended!",
-			image: "https://i.postimg.cc/mgg8NMTz/61-SD5lkw-Gi-L.jpg" 
+			image:"https://i.postimg.cc/kXt68PL2/Abd6426b248f64e1584bee66beb47aeafz.webp" 
 		  },
 		  {
 			name: "Nathan S.",
@@ -1986,8 +1986,9 @@ const productData = {
 		  {
 			name: "Emma T.",
 			rating: 5,
-			comment: "This projector is a game-changer! It's like having a cinema in my living room."
-		  },
+			comment: "This projector is a game-changer! It's like having a cinema in my living room.",
+			image: "https://i.postimg.cc/mgg8NMTz/61-SD5lkw-Gi-L.jpg" 
+		},
 		  {
 			name: "Daniel M.",
 			rating: 4,
