@@ -4369,26 +4369,7 @@ const productData = {
 		  }
 		]
 	  },
-	  "Steamy Dog Brush Electric Spray Cat Hair Brush 3 in1 Dog Steamer Brush for Massage Pet Grooming": {
-		averageRating: 5,
-		reviews: [
-		  {
-			name: "Alice L",
-			rating: 5,
-			comment: "This brush is amazing! It detangles my cat's fur so easily and the massage function seems to relax her. Very happy with this purchase!"
-		  },
-		  {
-			name: "Ryan C",
-			rating: 5,
-			comment: "Love this brush! It's so versatile with the 3-in-1 design. The massage function is a nice touch for my pets."
-		  },
-		  {
-			name: "Emily M",
-			rating: 5,
-			comment: "Fantastic brush! Works flawlessly with all three functions. The steam feature helps with grooming my dog's thick coat. Highly recommend!"
-		  }
-		]
-	  },
+
 	  "Dog Toy Tumbler Leaky Food Ball Elliptical Track Rolling Ball Slowly Feeding Protects Stomach": {
 		averageRating: 4.9,
 		reviews: [
@@ -7093,7 +7074,7 @@ const productData = {
 					rating: 5,
 					comment: "Excellent for sprint training. The resistance it provides is perfect for building explosive power. Highly recommend."
 				}
-			]
+			] 
 		}, 
 		"Steamy Dog Brush Electric Spray Cat Hair Brush 3 in1 Dog Steamer Brush for Massage Pet Grooming": {
 			averageRating: 4.7,
