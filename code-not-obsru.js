@@ -7095,7 +7095,100 @@ const productData = {
 				}
 			]
 		}, 
- 	
+		"Steamy Dog Brush Electric Spray Cat Hair Brush 3 in1 Dog Steamer Brush for Massage Pet Grooming": {
+			averageRating: 4.7,
+			reviews: [
+				{
+					name: "Hannah K",
+					rating: 5,
+					comment: "This dog brush is fantastic! It makes grooming so much easier, and my dog loves the massage feature. The electric spray is a nice touch.",
+					image: "https://i.postimg.cc/14ZG5XTw/download.jpg"
+				},
+				{
+					name: "Chris M",
+					rating: 4,
+					comment: "Great grooming tool. The steamer helps to detangle fur without hurting my cat. The brush could be a bit sturdier though.",
+					image: "https://i.postimg.cc/D8PbzcsK/download-1.jpg"
+				},
+				{
+					name: "Laura P",
+					rating: 5,
+					comment: "Highly recommend this brush. My pets enjoy the grooming sessions now, and the electric spray makes it very efficient.",
+					image: "https://i.postimg.cc/T5qhpRKc/download-10.jpg"
+				},
+				{
+					name: "Mike R",
+					rating: 4,
+					comment: "Good product. The steamer works well, but it takes a bit of time to get used to it. Overall, very satisfied with the results.",
+					image: "https://i.postimg.cc/D8n8RbNp/download-11.jpg"
+				},
+				{
+					name: "Sarah J",
+					rating: 5,
+					comment: "Excellent brush for pet grooming. The massage feature is amazing, and the spray helps to keep the fur smooth and clean.",
+					image: "https://i.postimg.cc/5XkyHK2D/download-12.jpg"
+				},
+				{
+					name: "David L",
+					rating: 4,
+					comment: "This brush works great on my dog. The electric spray and massage function are very useful. Only wish the battery life was longer.",
+					image: "https://i.postimg.cc/3y4R2jyN/download-13.jpg"
+				},
+				{
+					name: "Anna B",
+					rating: 5,
+					comment: "Love this brush! It's very effective for grooming and my pets seem to enjoy it. The steamer is a great feature.",
+					image: "https://i.postimg.cc/fVbkRQDx/download-14.jpg"
+				},
+				{
+					name: "Tom W",
+					rating: 4,
+					comment: "Very useful grooming tool. The steam and spray functions make a big difference, but it could be a bit lighter for ease of use.",
+					image: "https://i.postimg.cc/SYqx0wgY/download-15.jpg"
+				},
+				{
+					name: "Jessica H",
+					rating: 5,
+					comment: "Fantastic brush! Makes grooming so much easier and enjoyable for my pets. Highly recommend it.",
+					image: "https://i.postimg.cc/vg5ZNQtd/download-16.jpg"
+				},
+				{
+					name: "Megan S",
+					rating: 5,
+					comment: "The brush is great for both dogs and cats. The massage feature is a favorite for my pets.",
+					image: "https://i.postimg.cc/sBk2mBSc/download-17.jpg"
+				},
+				{
+					name: "Jake B",
+					rating: 4,
+					comment: "Good product overall. The spray function is particularly useful during baths.",
+					image: "https://i.postimg.cc/4nbzKZkM/download-18.jpg"
+				},
+				{
+					name: "Nina D",
+					rating: 5,
+					comment: "This steamer brush has made grooming so much easier. My dog loves it!",
+					image: "https://i.postimg.cc/0Kf29c4W/download-19.jpg"
+				},
+				{
+					name: "Oliver T",
+					rating: 5,
+					comment: "Excellent tool for pet grooming. Highly recommend for pet owners."
+				},
+				{
+					name: "Zoe P",
+					rating: 4,
+					comment: "Great brush for the price. The electric spray is a useful feature."
+				},
+				{
+					name: "Brian L",
+					rating: 5,
+					comment: "Very satisfied with this purchase. My pets are much happier during grooming sessions."
+				}
+			]
+		},
+		
+ 		
 };
 
 
