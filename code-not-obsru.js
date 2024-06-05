@@ -7176,21 +7176,21 @@ const productData = {
 					name: "Hannah K",
 					rating: 5,
 					comment: "This projector is incredible! The 4K resolution is crystal clear, and the Android 11 interface is very user-friendly. Dual WiFi6 is a game-changer for streaming.",
-					image: "https://i.postimg.cc/T5TQLdBx/A149bd172a099414a9762f173ba394f0b-W-jpg.webp"
+					image: "https://i.postimg.cc/T5TQLdBx/A149bd172a099414a9762f173ba394f0b-W-jpg.webphttps://i.postimg.cc/jw3Q5H6H/61qx-VA7-KJNL.jpg"
 				},
 				{
 					name: "Chris M",
 					rating: 4,
 					comment: "Great projector with excellent picture quality. The 390ANSI brightness is perfect for my living room. Setup was easy but it’s a bit noisy.",
-					image: "https://i.postimg.cc/sBZTb05k/A57b7ec80f38e454d8d7eb1a6c76c6019c-jpg.webp"
+					image: "https://i.postimg.cc/Z0gxzL5Z/71kqdl-O71-FL.jpg"
 				},
 				{
 					name: "Laura P",
 					rating: 5,
 					comment: "Highly recommend this projector. The dual WiFi6 ensures smooth streaming, and the Android 11 OS is fantastic.",
-					image: "https://i.postimg.cc/mzfm4Nwt/A73745b66379c4ece8c9e971532b500798-jpg.webp"
+					image: "https://i.postimg.cc/Z00xQQZV/71np-GDVK9-OL.jpg"
 				},
-				{
+				{ 
 					name: "Mike R",
 					rating: 4,
 					comment: "Good product with great features. The 4K resolution is sharp, and the WiFi6 connectivity is reliable. Just wish it had better built-in speakers.",
