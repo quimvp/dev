@@ -7169,6 +7169,60 @@ const productData = {
 			]
 		},
 		
+		"Magcubic 4K Native Projector | HY320, Android 11, 390ANSI, Dual WiFi6": {
+			averageRating: 4.8,
+			reviews: [
+				{
+					name: "Hannah K",
+					rating: 5,
+					comment: "This projector is incredible! The 4K resolution is crystal clear, and the Android 11 interface is very user-friendly. Dual WiFi6 is a game-changer for streaming.",
+					image: "https://i.postimg.cc/T5TQLdBx/A149bd172a099414a9762f173ba394f0b-W-jpg.webp"
+				},
+				{
+					name: "Chris M",
+					rating: 4,
+					comment: "Great projector with excellent picture quality. The 390ANSI brightness is perfect for my living room. Setup was easy but it’s a bit noisy.",
+					image: "https://i.postimg.cc/sBZTb05k/A57b7ec80f38e454d8d7eb1a6c76c6019c-jpg.webp"
+				},
+				{
+					name: "Laura P",
+					rating: 5,
+					comment: "Highly recommend this projector. The dual WiFi6 ensures smooth streaming, and the Android 11 OS is fantastic.",
+					image: "https://i.postimg.cc/mzfm4Nwt/A73745b66379c4ece8c9e971532b500798-jpg.webp"
+				},
+				{
+					name: "Mike R",
+					rating: 4,
+					comment: "Good product with great features. The 4K resolution is sharp, and the WiFi6 connectivity is reliable. Just wish it had better built-in speakers.",
+					image: "https://i.postimg.cc/476Bx7Lw/Aa49af64b4d014049b7c4faaf715c2862-R-jpg.webp"
+				},
+				{
+					name: "Sarah J",
+					rating: 5,
+					comment: "Excellent projector! The picture quality is superb and it’s very easy to use. The Android interface makes it very versatile."
+				},
+				{
+					name: "David L",
+					rating: 5,
+					comment: "Love this projector. The image quality is stunning, and the WiFi6 ensures there are no buffering issues during streaming."
+				},
+				{
+					name: "Anna B",
+					rating: 5,
+					comment: "This projector exceeded my expectations. The 4K quality is amazing, and it’s great for both movies and gaming."
+				},
+				{
+					name: "Tom W",
+					rating: 4,
+					comment: "Very good projector. The dual WiFi6 and Android 11 are excellent features. The only downside is the fan noise."
+				},
+				{
+					name: "Jessica H",
+					rating: 5,
+					comment: "Fantastic projector! The Android OS and 4K resolution make it perfect for home entertainment. Highly recommend it."
+				}
+			]
+		}
  		
 };
 
