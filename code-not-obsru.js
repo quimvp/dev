@@ -7170,59 +7170,125 @@ const productData = {
 		},
 		
 		"Magcubic 4K Native Projector | HY320, Android 11, 390ANSI, Dual WiFi6": {
-			averageRating: 4.8,
+			averageRating: 5.0,
 			reviews: [
-				{
-					name: "Hannah K",
-					rating: 5,
-					comment: "This projector is incredible! The 4K resolution is crystal clear, and the Android 11 interface is very user-friendly. Dual WiFi6 is a game-changer for streaming.",
-					image: "https://i.postimg.cc/T5TQLdBx/A149bd172a099414a9762f173ba394f0b-W-jpg.webphttps://i.postimg.cc/jw3Q5H6H/61qx-VA7-KJNL.jpg"
-				},
-				{
-					name: "Chris M",
-					rating: 4,
-					comment: "Great projector with excellent picture quality. The 390ANSI brightness is perfect for my living room. Setup was easy but it’s a bit noisy.",
-					image: "https://i.postimg.cc/Z0gxzL5Z/71kqdl-O71-FL.jpg"
-				},
-				{
-					name: "Laura P",
-					rating: 5,
-					comment: "Highly recommend this projector. The dual WiFi6 ensures smooth streaming, and the Android 11 OS is fantastic.",
-					image: "https://i.postimg.cc/Z00xQQZV/71np-GDVK9-OL.jpg"
-				},
-				{ 
-					name: "Mike R",
-					rating: 4,
-					comment: "Good product with great features. The 4K resolution is sharp, and the WiFi6 connectivity is reliable. Just wish it had better built-in speakers.",
-					image: "https://i.postimg.cc/476Bx7Lw/Aa49af64b4d014049b7c4faaf715c2862-R-jpg.webp"
-				},
-				{
-					name: "Sarah J",
-					rating: 5,
-					comment: "Excellent projector! The picture quality is superb and it’s very easy to use. The Android interface makes it very versatile."
-				},
-				{
-					name: "David L",
-					rating: 5,
-					comment: "Love this projector. The image quality is stunning, and the WiFi6 ensures there are no buffering issues during streaming."
-				},
-				{
-					name: "Anna B",
-					rating: 5,
-					comment: "This projector exceeded my expectations. The 4K quality is amazing, and it’s great for both movies and gaming."
-				},
-				{
-					name: "Tom W",
-					rating: 4,
-					comment: "Very good projector. The dual WiFi6 and Android 11 are excellent features. The only downside is the fan noise."
-				},
-				{
-					name: "Jessica H",
-					rating: 5,
-					comment: "Fantastic projector! The Android OS and 4K resolution make it perfect for home entertainment. Highly recommend it."
-				}
+			  { 
+				name: "John D.", 
+				rating: 5, 
+				comment: "The picture quality is outstanding. Best projector I've ever owned.", 
+				image: "https://i.postimg.cc/25JqR8Qn/A09c408e9f7f44ac3b8fdcd55938c48e2h.webp"
+			  },
+			  { 
+				name: "Emma F.", 
+				rating: 5, 
+				comment: "Super easy to set up and the Android OS is very user-friendly.", 
+				image: "https://i.postimg.cc/bY1ZWPs2/A1fa91c769f3a46e9bb2858fb97dedeae-X.webp"
+			  },
+			  { 
+				name: "Oliver G.", 
+				rating: 5, 
+				comment: "Love the dual WiFi6 feature. Streaming is seamless.", 
+				image: "https://i.postimg.cc/7LbCWT2x/A1fc1440337f8447380169a8a99a8fe71i.webp"
+			  },
+			  { 
+				name: "Sophia H.", 
+				rating: 5, 
+				comment: "390ANSI brightness is perfect for my living room.", 
+				image: "https://i.postimg.cc/15HfRK0m/A3149640d170f458e9fc7f3cfda3d1bcbr.webp"
+			  },
+			  { 
+				name: "Lucas J.", 
+				rating: 5, 
+				comment: "Projector works great for movies and gaming.", 
+				image: "https://i.postimg.cc/sDyMRLhH/A411d0d9086f1486087c540beaa29dd39-A.webp"
+			  },
+			  { 
+				name: "Mia K.", 
+				rating: 5, 
+				comment: "Incredible value for the price. Highly recommend.", 
+				image: "https://i.postimg.cc/N0W0CCt4/A448f4a5d914c4f098c6952076b4344c9-H.webp"
+			  },
+			  { 
+				name: "Noah L.", 
+				rating: 5, 
+				comment: "The picture is sharp and clear even in daylight.", 
+				image: "https://i.postimg.cc/rsGzr1v9/A50c095b527d341e9b57d1949493ba357-G.webp"
+			  },
+			  { 
+				name: "Ava M.", 
+				rating: 5, 
+				comment: "I love the Android 11 interface, very smooth and responsive.", 
+				image: "https://i.postimg.cc/Znm549Cv/A81bebff5e59b42fd9834fd2ff68114c8-R.webp"
+			  },
+			  { 
+				name: "Liam N.", 
+				rating: 5, 
+				comment: "Best projector for the money. Picture quality is fantastic.", 
+				image: "https://i.postimg.cc/85671Q49/A8c1a300df9c54d0da85308667de258bf-E.webp"
+			  },
+			  { 
+				name: "Isabella O.", 
+				rating: 5, 
+				comment: "Perfect for home theater. Bright and clear image.", 
+				image: "https://i.postimg.cc/QCZHC4nt/A9d5b527afb944ed884ecd5d638247ce3h.webp"
+			  },
+			  { 
+				name: "Ethan P.", 
+				rating: 5, 
+				comment: "Excellent projector for movies and presentations.", 
+				image: "https://i.postimg.cc/2SS31BT4/Aa30e73450cdc49e4889912fd076cc07a8.webp"
+			  },
+			  { 
+				name: "Charlotte Q.", 
+				rating: 5, 
+				comment: "Easy to connect and use with multiple devices.", 
+				image: "https://i.postimg.cc/52KyLNkD/Aaa97476ee56a438c8d1007a1f364f5e6v.webp"
+			  },
+			  { 
+				name: "James R.", 
+				rating: 5, 
+				comment: "High quality projector at an affordable price.", 
+				image: "https://i.postimg.cc/SsCxBLNp/Ac8c0c2bff80b4e0888ad3d24b5fb56c1b.webp"
+			  },
+			  { 
+				name: "Amelia S.", 
+				rating: 5, 
+				comment: "Very bright and the colors are vivid.", 
+				image: "https://i.postimg.cc/8CF5HQ2c/Acbf016cfde7c417c9771bd771d8cad10l.webp"
+			  },
+			  { 
+				name: "Benjamin T.", 
+				rating: 5, 
+				comment: "Perfect for movie nights with the family.", 
+				image: "https://i.postimg.cc/wMkTv6mf/Ad85df712608f452b9eeb097fed2d2f71-D.webp"
+			  },
+			  { 
+				name: "Lucas U.", 
+				rating: 5, 
+				comment: "The image is clear and the sound quality is great.", 
+				image: "https://i.postimg.cc/wT6jrsCS/Adb82781946824d7fb0e66b0b79b477ees.webp"
+			  },
+			  { 
+				name: "Mia V.", 
+				rating: 5, 
+				comment: "Very impressed with the performance and build quality.", 
+				image: "https://i.postimg.cc/c4XLGLZ6/Adbbf09971192426eb672fce87fef859c-J.webp"
+			  },
+			  { 
+				name: "Noah W.", 
+				rating: 5, 
+				comment: "Highly recommend this projector for any home theater setup.", 
+				image: "https://i.postimg.cc/t4JCqGCk/Aea19821f876d4ad182492ae6a0781c45p.webp"
+			  },
+			  { 
+				name: "Ava X.", 
+				rating: 5, 
+				comment: "Incredible projector. Very happy with the purchase.", 
+				image: "https://i.postimg.cc/595tpmRB/Aed5f12d099b4497ca16f99c6510274aaa.webp"
+			  }
 			]
-		},
+		  },
+	
 		"Brain-Boosting Smart Dog Training Dispenser | Tennis Ball Feeder Toy": {
 			averageRating: 4.5,
 			reviews: [
