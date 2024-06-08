@@ -1955,7 +1955,7 @@ const productData = {
 			comment: "",
 		  },
 		], 
-	  },
+	  }, 
 	  "Mini Projector 4K 1080P Support, Portable Projector WiFi6 BT 5.0 Android 11": { 
 		averageRating: 4.8,
 		reviews: [ 
@@ -1989,36 +1989,42 @@ const productData = {
 			comment: "This projector is a game-changer! It's like having a cinema in my living room.",
 			image: "https://i.postimg.cc/mgg8NMTz/61-SD5lkw-Gi-L.jpg" 
 		},
-		  {
+		{
 			name: "Daniel M.",
 			rating: 4,
-			comment: "Overall, a great product. Still exploring its features, but so far, I'm enjoying it."
+			comment: "Overall, a great product. Still exploring its features, but so far, I'm enjoying it.",
+			image: "https://i.postimg.cc/zfNPrKN1/download.jpg"
 		  },
 		  {
 			name: "Sophie K.",
 			rating: 5,
-			comment: "Absolutely blown away by this mini device. It's worth every penny!"
+			comment: "Absolutely blown away by this mini device. It's worth every penny!",
+			image: "https://i.postimg.cc/Y2DVWv61/download-1.jpg"
 		  },
 		  {
 			name: "Liam H.",
 			rating: 4.5,
-			comment: "Fantastic value for money. The WiFi6 support is a great addition."
+			comment: "Fantastic value for money. The WiFi6 support is a great addition.",
+			image: "https://i.postimg.cc/TYZ4tBH1/download-2.jpg"
 		  },
 		  {
 			name: "Isabella M.",
 			rating: 5,
-			comment: "Crystal clear picture quality and easy to set up. Highly recommend this projector."
+			comment: "Crystal clear picture quality and easy to set up. Highly recommend this projector.",
+			image: "https://i.postimg.cc/YCYyZ8J3/download-3.jpg"
 		  },
 		  {
 			name: "James C.",
 			rating: 4,
-			comment: "Great projector, though I wish the sound was a bit louder. Overall, very happy with it."
+			comment: "Great projector, though I wish the sound was a bit louder. Overall, very happy with it.",
+			image: "https://i.postimg.cc/Xvg17qNB/download-4.jpg"
 		  },
 		  {
 			name: "Charlotte R.",
 			rating: 5,
-			comment: "The Android 11 integration makes it so convenient to use. Superb quality!"
-		  },
+			comment: "The Android 11 integration makes it so convenient to use. Superb quality!",
+			image: "https://i.postimg.cc/kXVHF7sL/download-5.jpg"
+		  }, 
 		  {
 			name: "Lucas B.",
 			rating: 4.5,
