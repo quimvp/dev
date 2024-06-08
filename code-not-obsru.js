@@ -7222,9 +7222,93 @@ const productData = {
 					comment: "Fantastic projector! The Android OS and 4K resolution make it perfect for home entertainment. Highly recommend it."
 				}
 			]
-		}
- 		
-};
+		},
+			"Brain-Boosting Smart Dog Training Dispenser | Tennis Ball Feeder Toy": {
+			  averageRating: 4.5,
+			  reviews: [
+				{ name: "Alice B.", rating: 5, comment: "My dog loves this toy! Keeps him entertained for hours." },
+				{ name: "John D.", rating: 4.4, comment: "Great product, but the ball sometimes gets stuck." },
+				{ name: "Emma F.", rating: 4.6, comment: "My dog has become so much smarter using this!" },
+				{ name: "Oliver G.", rating: 4.5, comment: "Very durable and easy to use. Highly recommend." },
+				{ name: "Sophia H.", rating: 4.8, comment: "Perfect for my energetic pup. He never gets bored." },
+				{ name: "Lucas J.", rating: 4.7, comment: "Really helps with training my dog. Worth every penny." },
+				{ name: "Mia K.", rating: 4.6, comment: "Excellent quality and my dog absolutely loves it!" }
+			  ]
+			},
+			"Automatic Dog Ball Launcher | Tennis Ball Thrower, Pet Interactive Toy": {
+			  averageRating: 4.6,
+			  reviews: [
+				{ name: "Noah L.", rating: 5, comment: "This launcher is amazing! My dog is obsessed with it." },
+				{ name: "Liam M.", rating: 4.5, comment: "Works great and keeps my dog active. Highly recommend." },
+				{ name: "Ava N.", rating: 4.6, comment: "Fantastic product, although a bit noisy." },
+				{ name: "Ethan O.", rating: 4.8, comment: "Perfect for my dog who loves to play fetch. Great buy!" },
+				{ name: "Isabella P.", rating: 4.4, comment: "Good quality, but wish it had a longer battery life." },
+				{ name: "Mason Q.", rating: 5, comment: "My dog can't get enough of this toy. Super fun!" },
+				{ name: "Charlotte R.", rating: 4.5, comment: "Really effective and easy to set up. My dog loves it!" }
+			  ]
+			},
+			"Wireless Cat Camera Collar | No WiFi, Video Record, Pet Tracking": {
+			  averageRating: 4.7,
+			  reviews: [
+				{ name: "Henry S.", rating: 5, comment: "Amazing gadget! Now I can see what my cat is up to." },
+				{ name: "Amelia T.", rating: 4.8, comment: "Great for tracking my cat. Video quality is good." },
+				{ name: "James U.", rating: 4.6, comment: "Works well, but wish the battery lasted longer." },
+				{ name: "Harper V.", rating: 4.9, comment: "Fantastic product! Easy to use and very reliable." },
+				{ name: "Elijah W.", rating: 4.5, comment: "Good camera, but a bit bulky for my small cat." },
+				{ name: "Emily X.", rating: 5, comment: "Perfect for keeping an eye on my adventurous cat." },
+				{ name: "Benjamin Y.", rating: 4.7, comment: "Very useful and works as advertised. Great buy!" }
+			  ]
+			},
+			"Smart Pet Feeder | 67.63oz, Memory Function, USB/Battery, Programmable Meals": {
+			  averageRating: 4.6,
+			  reviews: [
+				{ name: "Lucas Z.", rating: 5, comment: "This feeder is a lifesaver! My cat loves it." },
+				{ name: "Mia A.", rating: 4.7, comment: "Very convenient and easy to program. Works great!" },
+				{ name: "Jackson B.", rating: 4.4, comment: "Good feeder, but sometimes the food gets stuck." },
+				{ name: "Avery C.", rating: 4.6, comment: "Perfect for my busy schedule. Highly recommend." },
+				{ name: "Evelyn D.", rating: 4.5, comment: "Works well, but a bit pricey. Overall satisfied." },
+				{ name: "Aiden E.", rating: 5, comment: "Excellent quality and very reliable. My pet loves it!" },
+				{ name: "Scarlett F.", rating: 4.8, comment: "Great product, but wish it had a larger capacity." }
+			  ]
+			},
+			"Flowing Water Humidifier | 3-in-1 Night Light, Aromatherapy, Desktop Fountain": {
+			  averageRating: 4.7,
+			  reviews: [
+				{ name: "Sebastian G.", rating: 5, comment: "Beautiful design and very functional. Love it!" },
+				{ name: "Ella H.", rating: 4.8, comment: "Great humidifier and night light combo. Works well." },
+				{ name: "Logan I.", rating: 4.6, comment: "Very relaxing and effective. Highly recommend." },
+				{ name: "Grace J.", rating: 4.9, comment: "Perfect for my desk. Adds a nice ambiance." },
+				{ name: "Alexander K.", rating: 4.5, comment: "Good product, but a bit noisy at times." },
+				{ name: "Zoe L.", rating: 5, comment: "Excellent quality and very soothing. Great buy!" },
+				{ name: "David M.", rating: 4.4, comment: "Works as advertised and looks beautiful. Love it!" }
+			  ]
+			},
+			"Volcanic Flame Cool Mist Humidifier | 12.17oz, 7 Colors, USB, Aroma Diffuser": {
+			  averageRating: 4.6,
+			  reviews: [
+				{ name: "Victoria N.", rating: 5, comment: "Amazing product! Love the colors and mist." },
+				{ name: "Matthew O.", rating: 4.8, comment: "Works great and adds a nice touch to my room." },
+				{ name: "Hannah P.", rating: 4.6, comment: "Very effective, but wish it had a larger capacity." },
+				{ name: "Daniel Q.", rating: 4.9, comment: "Perfect for my small apartment. Highly recommend." },
+				{ name: "Aria R.", rating: 4.4, comment: "Good quality, but a bit pricey. Overall satisfied." },
+				{ name: "James S.", rating: 5, comment: "Excellent humidifier and aroma diffuser. Love it!" },
+				{ name: "Sofia T.", rating: 4.5, comment: "Works well and looks beautiful. Highly recommend." }
+			  ]
+			},
+			"Mini Projector 4K 1080P Support, Portable Projector WiFi6 BT 5.0 Android 11": {
+			  averageRating: 4.8,
+			  reviews: [
+				{ name: "Emily W.", rating: 5, comment: "The picture quality is amazing for the price. Highly recommended!", image: "https://i.postimg.cc/Kxt68PL2/Abd46264b28f64e1584bee66beb47aeaef2.webp" },
+				{ name: "Nathan S.", rating: 4.5, comment: "I'm impressed with the performance, although I'm still figuring out how to optimize the settings.", image: "https://i.postimg.cc/bvg4hDaq/51o90x-W28y-L.jpg" },
+				{ name: "Olivia R.", rating: 5, comment: "Arrived promptly and exceeded my expectations. Perfect addition to my home theater.", image: "https://i.postimg.cc/J73gFknH/71-AORJKbxr-L.jpg" },
+				{ name: "William L.", rating: 5, comment: "The delivery was quick, and the product is of excellent quality. Very satisfied.", image: "https://i.postimg.cc/hPSrcxzy/61r-Qa-l2rhz-L.jpg" },
+				{ name: "Sophia T.", rating: 4.8, comment: "Great projector, but the remote could be more responsive.", image: "https://i.postimg.cc/V6LFbzhP/61r-Qa-l2rhz-L.jpg" },
+				{ name: "James A.", rating: 4.7, comment: "Good value for the money. The image is sharp and clear.", image: "https://i.postimg.cc/yNbZ5nVH/61r-Qa-l2rhz-L.jpg" },
+				{ name: "Isabella N.", rating: 5, comment: "Fantastic projector! Easy to set up and works seamlessly with my devices.", image: "https://i.postimg.cc/c1X3V9WZ/61r-Qa-l2rhz-L.jpg" }
+			  ]
+			}
+		  
+}; 
 
 
 
