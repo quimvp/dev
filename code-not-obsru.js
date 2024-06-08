@@ -7390,13 +7390,56 @@ const productData = {
 			  { name: "Noah M.", rating: 4.5, comment: "Nice light strip, but the adhesive is weak." },
 			  { name: "Emma N.", rating: 5, comment: "Excellent light strip, very bright and easy to install." }
 			]
-		  }
+		  },
 
+			"AeroCrisp Pro 8L Large Capacity Digital Air Fryer": {
+			  averageRating: 5.0,
+			  reviews: [
+				{ 
+				  name: "Emily W.", 
+				  rating: 5, 
+				  comment: "This air fryer is amazing! Cooks food quickly and evenly. Highly recommend.", 
+				  image: "https://i.postimg.cc/9DHDvL9s/A4a29014435bf4729be3152b8b0e6c942r.webp"
+				},
+				{ 
+				  name: "Nathan S.", 
+				  rating: 5, 
+				  comment: "Works great, but it's a bit bulky for my kitchen counter.", 
+				  image: "https://i.postimg.cc/VSYdN5DR/A984865ae6b4243f988d51b30b56bc597-F.webp"
+				},
+				{ 
+				  name: "Olivia R.", 
+				  rating: 5, 
+				  comment: "The large capacity is perfect for my family. Food comes out crispy and delicious.", 
+				  image: "https://i.postimg.cc/McdXfxL8/A9f77ec54f66f4ebbaacbae920608e372-X.webp"
+				},
+				{ 
+				  name: "William L.", 
+				  rating: 5, 
+				  comment: "Very easy to use and clean. A great addition to my kitchen.", 
+				  image: "https://i.postimg.cc/G4P4rvJt/Ab9143a34be8a4f12b98378b0d01f83409.webp"
+				},
+				{ 
+				  name: "Sophia T.", 
+				  rating: 5, 
+				  comment: "I love the digital controls and preset cooking options. Makes cooking a breeze."
+				},
+				{ 
+				  name: "James A.", 
+				  rating: 5, 
+				  comment: "Good value for the money. The fryer works perfectly."
+				},
+				{ 
+				  name: "Isabella N.", 
+				  rating: 5, 
+				  comment: "Fantastic air fryer! It has become a staple in our kitchen."
+				}
+			  ]
+			},
 
+			
+		  };
 		  
-		};
-
-
 
 
  
