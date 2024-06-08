@@ -7223,92 +7223,179 @@ const productData = {
 				}
 			]
 		},
-			"Brain-Boosting Smart Dog Training Dispenser | Tennis Ball Feeder Toy": {
-			  averageRating: 4.5,
-			  reviews: [
-				{ name: "Alice B.", rating: 5, comment: "My dog loves this toy! Keeps him entertained for hours." },
-				{ name: "John D.", rating: 4.4, comment: "Great product, but the ball sometimes gets stuck." },
-				{ name: "Emma F.", rating: 4.6, comment: "My dog has become so much smarter using this!" },
-				{ name: "Oliver G.", rating: 4.5, comment: "Very durable and easy to use. Highly recommend." },
-				{ name: "Sophia H.", rating: 4.8, comment: "Perfect for my energetic pup. He never gets bored." },
-				{ name: "Lucas J.", rating: 4.7, comment: "Really helps with training my dog. Worth every penny." },
-				{ name: "Mia K.", rating: 4.6, comment: "Excellent quality and my dog absolutely loves it!" }
-			  ]
-			},
-			"Automatic Dog Ball Launcher | Tennis Ball Thrower, Pet Interactive Toy": {
-			  averageRating: 4.6,
-			  reviews: [
-				{ name: "Noah L.", rating: 5, comment: "This launcher is amazing! My dog is obsessed with it." },
-				{ name: "Liam M.", rating: 4.5, comment: "Works great and keeps my dog active. Highly recommend." },
-				{ name: "Ava N.", rating: 4.6, comment: "Fantastic product, although a bit noisy." },
-				{ name: "Ethan O.", rating: 4.8, comment: "Perfect for my dog who loves to play fetch. Great buy!" },
-				{ name: "Isabella P.", rating: 4.4, comment: "Good quality, but wish it had a longer battery life." },
-				{ name: "Mason Q.", rating: 5, comment: "My dog can't get enough of this toy. Super fun!" },
-				{ name: "Charlotte R.", rating: 4.5, comment: "Really effective and easy to set up. My dog loves it!" }
-			  ]
-			},
-			"Wireless Cat Camera Collar | No WiFi, Video Record, Pet Tracking": {
-			  averageRating: 4.7,
-			  reviews: [
-				{ name: "Henry S.", rating: 5, comment: "Amazing gadget! Now I can see what my cat is up to." },
-				{ name: "Amelia T.", rating: 4.8, comment: "Great for tracking my cat. Video quality is good." },
-				{ name: "James U.", rating: 4.6, comment: "Works well, but wish the battery lasted longer." },
-				{ name: "Harper V.", rating: 4.9, comment: "Fantastic product! Easy to use and very reliable." },
-				{ name: "Elijah W.", rating: 4.5, comment: "Good camera, but a bit bulky for my small cat." },
-				{ name: "Emily X.", rating: 5, comment: "Perfect for keeping an eye on my adventurous cat." },
-				{ name: "Benjamin Y.", rating: 4.7, comment: "Very useful and works as advertised. Great buy!" }
-			  ]
-			},
-			"Smart Pet Feeder | 67.63oz, Memory Function, USB/Battery, Programmable Meals": {
-			  averageRating: 4.6,
-			  reviews: [
-				{ name: "Lucas Z.", rating: 5, comment: "This feeder is a lifesaver! My cat loves it." },
-				{ name: "Mia A.", rating: 4.7, comment: "Very convenient and easy to program. Works great!" },
-				{ name: "Jackson B.", rating: 4.4, comment: "Good feeder, but sometimes the food gets stuck." },
-				{ name: "Avery C.", rating: 4.6, comment: "Perfect for my busy schedule. Highly recommend." },
-				{ name: "Evelyn D.", rating: 4.5, comment: "Works well, but a bit pricey. Overall satisfied." },
-				{ name: "Aiden E.", rating: 5, comment: "Excellent quality and very reliable. My pet loves it!" },
-				{ name: "Scarlett F.", rating: 4.8, comment: "Great product, but wish it had a larger capacity." }
-			  ]
-			},
-			"Flowing Water Humidifier | 3-in-1 Night Light, Aromatherapy, Desktop Fountain": {
-			  averageRating: 4.7,
-			  reviews: [
-				{ name: "Sebastian G.", rating: 5, comment: "Beautiful design and very functional. Love it!" },
-				{ name: "Ella H.", rating: 4.8, comment: "Great humidifier and night light combo. Works well." },
-				{ name: "Logan I.", rating: 4.6, comment: "Very relaxing and effective. Highly recommend." },
-				{ name: "Grace J.", rating: 4.9, comment: "Perfect for my desk. Adds a nice ambiance." },
-				{ name: "Alexander K.", rating: 4.5, comment: "Good product, but a bit noisy at times." },
-				{ name: "Zoe L.", rating: 5, comment: "Excellent quality and very soothing. Great buy!" },
-				{ name: "David M.", rating: 4.4, comment: "Works as advertised and looks beautiful. Love it!" }
-			  ]
-			},
-			"Volcanic Flame Cool Mist Humidifier | 12.17oz, 7 Colors, USB, Aroma Diffuser": {
-			  averageRating: 4.6,
-			  reviews: [
-				{ name: "Victoria N.", rating: 5, comment: "Amazing product! Love the colors and mist." },
-				{ name: "Matthew O.", rating: 4.8, comment: "Works great and adds a nice touch to my room." },
-				{ name: "Hannah P.", rating: 4.6, comment: "Very effective, but wish it had a larger capacity." },
-				{ name: "Daniel Q.", rating: 4.9, comment: "Perfect for my small apartment. Highly recommend." },
-				{ name: "Aria R.", rating: 4.4, comment: "Good quality, but a bit pricey. Overall satisfied." },
-				{ name: "James S.", rating: 5, comment: "Excellent humidifier and aroma diffuser. Love it!" },
-				{ name: "Sofia T.", rating: 4.5, comment: "Works well and looks beautiful. Highly recommend." }
-			  ]
-			},
-			"Mini Projector 4K 1080P Support, Portable Projector WiFi6 BT 5.0 Android 11": {
-			  averageRating: 4.8,
-			  reviews: [
-				{ name: "Emily W.", rating: 5, comment: "The picture quality is amazing for the price. Highly recommended!", image: "https://i.postimg.cc/Kxt68PL2/Abd46264b28f64e1584bee66beb47aeaef2.webp" },
-				{ name: "Nathan S.", rating: 4.5, comment: "I'm impressed with the performance, although I'm still figuring out how to optimize the settings.", image: "https://i.postimg.cc/bvg4hDaq/51o90x-W28y-L.jpg" },
-				{ name: "Olivia R.", rating: 5, comment: "Arrived promptly and exceeded my expectations. Perfect addition to my home theater.", image: "https://i.postimg.cc/J73gFknH/71-AORJKbxr-L.jpg" },
-				{ name: "William L.", rating: 5, comment: "The delivery was quick, and the product is of excellent quality. Very satisfied.", image: "https://i.postimg.cc/hPSrcxzy/61r-Qa-l2rhz-L.jpg" },
-				{ name: "Sophia T.", rating: 4.8, comment: "Great projector, but the remote could be more responsive.", image: "https://i.postimg.cc/V6LFbzhP/61r-Qa-l2rhz-L.jpg" },
-				{ name: "James A.", rating: 4.7, comment: "Good value for the money. The image is sharp and clear.", image: "https://i.postimg.cc/yNbZ5nVH/61r-Qa-l2rhz-L.jpg" },
-				{ name: "Isabella N.", rating: 5, comment: "Fantastic projector! Easy to set up and works seamlessly with my devices.", image: "https://i.postimg.cc/c1X3V9WZ/61r-Qa-l2rhz-L.jpg" }
-			  ]
-			}
+		"Brain-Boosting Smart Dog Training Dispenser | Tennis Ball Feeder Toy": {
+			averageRating: 4.5,
+			reviews: [
+			  { name: "Alice B.", rating: 5, comment: "My dog loves this toy! Keeps him entertained for hours." },
+			  { name: "John D.", rating: 4.4, comment: "Great product, but the ball sometimes gets stuck." },
+			  { name: "Emma F.", rating: 4.6, comment: "My dog has become so much smarter using this!" },
+			  { name: "Oliver G.", rating: 4.5, comment: "Very durable and easy to use. Highly recommend." },
+			  { name: "Sophia H.", rating: 4.8, comment: "Perfect for my energetic pup. He never gets bored." },
+			  { name: "Lucas J.", rating: 4.7, comment: "Really helps with training my dog. Worth every penny." },
+			  { name: "Mia K.", rating: 4.6, comment: "Excellent quality and my dog absolutely loves it!" }
+			]
+		  },
+		  "Automatic Dog Ball Launcher | Tennis Ball Thrower, Pet Interactive Toy": {
+			averageRating: 4.6,
+			reviews: [
+			  { name: "Noah L.", rating: 5, comment: "This launcher is amazing! My dog is obsessed with it." },
+			  { name: "Liam M.", rating: 4.5, comment: "Works great and keeps my dog active. Highly recommend." },
+			  { name: "Ava N.", rating: 4.6, comment: "Fantastic product, although a bit noisy." },
+			  { name: "Ethan O.", rating: 4.8, comment: "Perfect for my dog who loves to play fetch. Great buy!" },
+			  { name: "Isabella P.", rating: 4.4, comment: "Good quality, but wish it had a longer battery life." },
+			  { name: "Mason Q.", rating: 5, comment: "My dog can't get enough of this toy. Super fun!" },
+			  { name: "Charlotte R.", rating: 4.5, comment: "Really effective and easy to set up. My dog loves it!" }
+			]
+		  },
+		  "Wireless Cat Camera Collar | No WiFi, Video Record, Pet Tracking": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Henry S.", rating: 5, comment: "Amazing gadget! Now I can see what my cat is up to." },
+			  { name: "Amelia T.", rating: 4.8, comment: "Great for tracking my cat. Video quality is good." },
+			  { name: "James U.", rating: 4.6, comment: "Works well, but wish the battery lasted longer." },
+			  { name: "Harper V.", rating: 4.9, comment: "Fantastic product! Easy to use and very reliable." },
+			  { name: "Elijah W.", rating: 4.5, comment: "Good camera, but a bit bulky for my small cat." },
+			  { name: "Emily X.", rating: 5, comment: "Perfect for keeping an eye on my adventurous cat." },
+			  { name: "Benjamin Y.", rating: 4.7, comment: "Very useful and works as advertised. Great buy!" }
+			]
+		  },
+		  "Smart Pet Feeder | 67.63oz, Memory Function, USB/Battery, Programmable Meals": {
+			averageRating: 4.6,
+			reviews: [
+			  { name: "Lucas Z.", rating: 5, comment: "This feeder is a lifesaver! My cat loves it." },
+			  { name: "Mia A.", rating: 4.7, comment: "Very convenient and easy to program. Works great!" },
+			  { name: "Jackson B.", rating: 4.4, comment: "Good feeder, but sometimes the food gets stuck." },
+			  { name: "Avery C.", rating: 4.6, comment: "Perfect for my busy schedule. Highly recommend." },
+			  { name: "Evelyn D.", rating: 4.5, comment: "Works well, but a bit pricey. Overall satisfied." },
+			  { name: "Aiden E.", rating: 5, comment: "Excellent quality and very reliable. My pet loves it!" },
+			  { name: "Scarlett F.", rating: 4.8, comment: "Great product, but wish it had a larger capacity." }
+			]
+		  },
+		  "Flowing Water Humidifier | 3-in-1 Night Light, Aromatherapy, Desktop Fountain": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Sebastian G.", rating: 5, comment: "Beautiful design and very functional. Love it!" },
+			  { name: "Ella H.", rating: 4.8, comment: "Great humidifier and night light combo. Works well." },
+			  { name: "Logan I.", rating: 4.6, comment: "Very relaxing and effective. Highly recommend." },
+			  { name: "Grace J.", rating: 4.9, comment: "Perfect for my desk. Adds a nice ambiance." },
+			  { name: "Alexander K.", rating: 4.5, comment: "Good product, but a bit noisy at times." },
+			  { name: "Zoe L.", rating: 5, comment: "Excellent quality and very soothing. Great buy!" },
+			  { name: "David M.", rating: 4.4, comment: "Works as advertised and looks beautiful. Love it!" }
+			]
+		  },
+		  "Volcanic Flame Cool Mist Humidifier | 12.17oz, 7 Colors, USB, Aroma Diffuser": {
+			averageRating: 4.6,
+			reviews: [
+			  { name: "Victoria N.", rating: 5, comment: "Amazing product! Love the colors and mist." },
+			  { name: "Matthew O.", rating: 4.8, comment: "Works great and adds a nice touch to my room." },
+			  { name: "Hannah P.", rating: 4.6, comment: "Very effective, but wish it had a larger capacity." },
+			  { name: "Daniel Q.", rating: 4.9, comment: "Perfect for my small apartment. Highly recommend." },
+			  { name: "Aria R.", rating: 4.4, comment: "Good quality, but a bit pricey. Overall satisfied." },
+			  { name: "James S.", rating: 5, comment: "Excellent humidifier and aroma diffuser. Love it!" },
+			  { name: "Sofia T.", rating: 4.5, comment: "Works well and looks beautiful. Highly recommend." }
+			]
+		  },
+		  "Essential Oil Diffuser, 3D Fireworks Glass, Ultrasonic, Timer, Auto Off, 6.76oz": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Sophia K.", rating: 5, comment: "Beautiful diffuser! The 3D fireworks glass is stunning." },
+			  { name: "Liam L.", rating: 4.8, comment: "Works perfectly and the timer function is very convenient." },
+			  { name: "Olivia M.", rating: 4.6, comment: "Lovely design and very effective. Highly recommend." },
+			  { name: "James N.", rating: 4.9, comment: "Excellent diffuser, adds a great ambiance to the room." },
+			  { name: "Ava O.", rating: 4.5, comment: "Good quality, but wish it had a larger water capacity." },
+			  { name: "Noah P.", rating: 5, comment: "Great product, works as described and looks beautiful." },
+			  { name: "Emma Q.", rating: 4.4, comment: "Very nice diffuser, but a bit noisy at times." }
+			]
+		  },
+		  "Volcano Cool Mist Humidifier | 12.17oz, 7 Colors, USB, Fire Flame Design": {
+			averageRating: 4.8,
+			reviews: [
+			  { name: "Ella R.", rating: 5, comment: "The fire flame design is so cool! Love this humidifier." },
+			  { name: "Mason S.", rating: 4.7, comment: "Works great and the colors are vibrant." },
+			  { name: "Isabella T.", rating: 4.8, comment: "Very effective and looks amazing in my room." },
+			  { name: "Logan U.", rating: 5, comment: "Fantastic humidifier, the fire flame design is unique." },
+			  { name: "Lucas V.", rating: 4.9, comment: "Great product, works well and looks awesome." },
+			  { name: "Avery W.", rating: 4.6, comment: "Good quality, but a bit small for large rooms." },
+			  { name: "Mia X.", rating: 4.7, comment: "Love the design and functionality. Highly recommend." }
+			]
+		  },
+		  "Large Room Essential Oil Diffuser | 18.6oz, Remote Control, Timer, 7 Colors": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Harper Y.", rating: 5, comment: "Perfect for large rooms, the remote control is a great feature." },
+			  { name: "Elijah Z.", rating: 4.8, comment: "Works well and the timer function is very convenient." },
+			  { name: "Aria A.", rating: 4.7, comment: "Lovely diffuser, adds a great ambiance to the room." },
+			  { name: "James B.", rating: 4.6, comment: "Good quality, but wish it had a longer timer setting." },
+			  { name: "Ava C.", rating: 4.9, comment: "Great product, works as described and looks beautiful." },
+			  { name: "Liam D.", rating: 4.5, comment: "Very nice diffuser, but a bit noisy at times." },
+			  { name: "Olivia E.", rating: 5, comment: "Excellent diffuser, adds a great ambiance to the room." }
+			]
+		  },
+		  "Wireless Door Window Alarm 3-Pack | Magnetic Sensor, 120 DB, Home Security, Batteries Included": {
+			averageRating: 4.6,
+			reviews: [
+			  { name: "Henry F.", rating: 5, comment: "Easy to install and very loud. Great for security." },
+			  { name: "Amelia G.", rating: 4.8, comment: "Works well and the batteries are included." },
+			  { name: "James H.", rating: 4.7, comment: "Very effective, but the adhesive could be stronger." },
+			  { name: "Harper I.", rating: 4.6, comment: "Good product, but wish it had a longer battery life." },
+			  { name: "Elijah J.", rating: 4.9, comment: "Fantastic alarm, very loud and easy to install." },
+			  { name: "Emily K.", rating: 4.5, comment: "Great for added security, but the adhesive is weak." },
+			  { name: "Benjamin L.", rating: 5, comment: "Very loud and easy to set up. Highly recommend." }
+			]
+		  },
+		  "Wireless Solar Motion Sensor Light | LED Flood Light, Remote Control, Outdoor Security": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Sophia M.", rating: 5, comment: "Very bright and the remote control is a great feature." },
+			  { name: "Liam N.", rating: 4.8, comment: "Works well and the solar power is very convenient." },
+			  { name: "Olivia O.", rating: 4.7, comment: "Good quality, but wish it had a longer range." },
+			  { name: "James P.", rating: 4.6, comment: "Very effective, but the installation was tricky." },
+			  { name: "Ava Q.", rating: 4.9, comment: "Great product, works as described and very bright." },
+			  { name: "Noah R.", rating: 4.5, comment: "Nice light, but the remote range could be better." },
+			  { name: "Emma S.", rating: 5, comment: "Excellent light, very bright and easy to install." }
+			]
+		  },
+		  "Smart Fingerprint Door Lock | Keypad, OLED, Auto Lock, DIY Install, Black, 300 Users": {
+			averageRating: 4.8,
+			reviews: [
+			  { name: "William T.", rating: 5, comment: "Easy to install and works perfectly. Highly recommend." },
+			  { name: "Sophia U.", rating: 4.9, comment: "Great lock, the fingerprint sensor is very responsive." },
+			  { name: "Liam V.", rating: 4.7, comment: "Good quality, but wish it had more user capacity." },
+			  { name: "Olivia W.", rating: 4.8, comment: "Very effective and looks great on my door." },
+			  { name: "James X.", rating: 5, comment: "Fantastic lock, very secure and easy to use." },
+			  { name: "Ava Y.", rating: 4.6, comment: "Great product, but the installation was tricky." },
+			  { name: "Noah Z.", rating: 4.7, comment: "Excellent lock, very secure and easy to install." }
+			]
+		  },
+		  "2MP Indoor Security Camera | Dual-Band WiFi, Night Vision, Motion Detection, Alexa Compatible": {
+			averageRating: 4.7,
+			reviews: [
+			  { name: "Henry A.", rating: 5, comment: "Great camera, very clear and easy to set up." },
+			  { name: "Amelia B.", rating: 4.8, comment: "Works well and the night vision is excellent." },
+			  { name: "James C.", rating: 4.7, comment: "Good quality, but wish it had a wider field of view." },
+			  { name: "Harper D.", rating: 4.6, comment: "Very effective, but the app could be better." },
+			  { name: "Elijah E.", rating: 4.9, comment: "Fantastic camera, very clear and easy to use." },
+			  { name: "Emily F.", rating: 4.5, comment: "Nice camera, but the motion detection is too sensitive." },
+			  { name: "Benjamin G.", rating: 5, comment: "Excellent camera, very clear and easy to set up." }
+			]
+		  },
+		  "USB Motion Sensor LED Light Strip | 3-16 Ft Cold White | Automatic for Stairs, Wardrobes, Kitchens": {
+			averageRating: 4.6,
+			reviews: [
+			  { name: "Sophia H.", rating: 5, comment: "Very bright and the motion sensor works perfectly." },
+			  { name: "Liam I.", rating: 4.8, comment: "Great light strip, very bright and easy to install." },
+			  { name: "Olivia J.", rating: 4.7, comment: "Good quality, but wish it had a longer range." },
+			  { name: "James K.", rating: 4.6, comment: "Very effective, but the adhesive could be stronger." },
+			  { name: "Ava L.", rating: 4.9, comment: "Great product, works as described and very bright." },
+			  { name: "Noah M.", rating: 4.5, comment: "Nice light strip, but the adhesive is weak." },
+			  { name: "Emma N.", rating: 5, comment: "Excellent light strip, very bright and easy to install." }
+			]
+		  }
+
+
 		  
-}; 
+		};
+
 
 
 
