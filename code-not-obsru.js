@@ -7399,26 +7399,26 @@ const productData = {
 				  name: "Emily W.", 
 				  rating: 5, 
 				  comment: "This air fryer is amazing! Cooks food quickly and evenly. Highly recommend.", 
-				  image: "https://i.postimg.cc/9DHDvL9s/A4a29014435bf4729be3152b8b0e6c942r.webp"
+				  image: "https://i.postimg.cc/3xd206xr/A4a29014435bf4729be3152b8b0e6c942r.webp"
 				},
-				{ 
+				{  
 				  name: "Nathan S.", 
 				  rating: 5, 
 				  comment: "Works great, but it's a bit bulky for my kitchen counter.", 
-				  image: "https://i.postimg.cc/VSYdN5DR/A984865ae6b4243f988d51b30b56bc597-F.webp"
+				  image: "https://i.postimg.cc/0NSmcwSL/A984865ae6b4243f988d51b30b56bc597-F.webp"
 				},
 				{ 
-				  name: "Olivia R.", 
+				  name: "Olivia R.",
 				  rating: 5, 
 				  comment: "The large capacity is perfect for my family. Food comes out crispy and delicious.", 
-				  image: "https://i.postimg.cc/McdXfxL8/A9f77ec54f66f4ebbaacbae920608e372-X.webp"
+				  image: "https://i.postimg.cc/NMwXVj7L/A9f77ec54f66f4ebbaacbae920608e372-X.webp"
 				},
 				{ 
-				  name: "William L.", 
+				  name: "William L.",  
 				  rating: 5, 
 				  comment: "Very easy to use and clean. A great addition to my kitchen.", 
-				  image: "https://i.postimg.cc/G4P4rvJt/Ab9143a34be8a4f12b98378b0d01f83409.webp"
-				},
+				  image: "https://i.postimg.cc/mgJCYwPY/Ab9143a34be8a4f12b98378b0d01f83409.webp"
+				}, 
 				{ 
 				  name: "Sophia T.", 
 				  rating: 5, 
