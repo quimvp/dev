@@ -4150,71 +4150,84 @@ const productData = {
 		  }
 		]
 	  }, 
-	  "6K 9MP HD IP Camera Outdoor 8x Zoom Dual Screen External WiFi Camera 4K 8MP Security PTZ Cam": {
-		averageRating: 4.6,
-		reviews: [
-		  {
-			name: "Ethan P",
-			rating: 5,
-			comment: "The camera quality is outstanding. It captures clear images and videos even at night. Impressed with the zoom feature."
-		  },
-		  {
-			name: "Olivia M",
-			rating: 4,
-			comment: "Easy to install and set up. The dual-screen feature is convenient, and the camera provides a wide coverage area. Good value for the price."
-		  },
-		  {
-			name: "Noah S",
-			rating: 5,
-			comment: "Excellent camera with impressive zoom capabilities. It's sturdy and weatherproof, making it ideal for outdoor use."
-		  },
-		  {
-			name: "Ava H",
-			rating: 4,
-			comment: "Very satisfied with the camera's performance. The WiFi connection is stable, and the PTZ function works smoothly."
-		  },
-		  {
-			name: "Jack L",
-			rating: 5,
-			comment: "Great camera for home security. The image quality is superb, and the zoom function allows me to see details clearly. Highly recommended."
-		  },
-		  {
-			name: "Emma J",
-			rating: 4,
-			comment: "I've been using this camera for a few weeks now, and it has exceeded my expectations. The setup was straightforward, and the image quality is top-notch."
-		  },
-		  {
-			name: "Liam T",
-			rating: 5,
-			comment: "Impressive camera with excellent resolution. The zoom feature is handy for monitoring distant areas. Overall, very satisfied with the purchase."
-		  },
-		  {
-			name: "Sophia D",
-			rating: 4,
-			comment: "Good camera with reliable performance. The night vision mode works well, and the PTZ function provides flexibility in monitoring different angles."
-		  },
-		  {
-			name: "Mia W",
-			rating: 5,
-			comment: "I love how clear the images are, even at night. The camera setup was easy, and the mobile app is user-friendly. Would recommend to anyone looking for a quality outdoor camera."
-		  },
-		  {
-			name: "William B",
-			rating: 4,
-			comment: "Overall, a solid camera for the price. The zoom feature works smoothly, and the build quality seems durable."
-		  },
-		  {
-			name: "Charlotte G",
-			rating: 5,
-			comment: "The camera exceeded my expectations. It's well-built, easy to install, and provides crystal-clear images. Very impressed with the zoom capabilities."
-		  },
-		  {
-			name: "James R",
-			rating: 4,
-			comment: "Great camera overall. The only downside is that the app interface could be improved for easier navigation."
-		  }
-		]
-	  },
+		"6K 9MP HD IP Camera Outdoor 8x Zoom Dual Screen External WiFi Camera 4K 8MP Security PTZ Cam": {
+		  averageRating: 4.6,
+		  reviews: [
+			{
+			  name: "Ethan P",
+			  rating: 5,
+			  comment: "The camera quality is outstanding. It captures clear images and videos even at night. Impressed with the zoom feature.",
+			  image: "https://i.postimg.cc/g22gCT2v/download.jpg"
+			},
+			{
+			  name: "Olivia M",
+			  rating: 4,
+			  comment: "Easy to install and set up. The dual-screen feature is convenient, and the camera provides a wide coverage area. Good value for the price.",
+			  image: "https://i.postimg.cc/13md9zJV/download-1.jpg"
+			},
+			{
+			  name: "Noah S",
+			  rating: 5,
+			  comment: "Excellent camera with impressive zoom capabilities. It's sturdy and weatherproof, making it ideal for outdoor use.",
+			  image: "https://i.postimg.cc/bN8CTJXV/download-10.jpg"
+			},
+			{
+			  name: "Ava H",
+			  rating: 4,
+			  comment: "Very satisfied with the camera's performance. The WiFi connection is stable, and the PTZ function works smoothly.",
+			  image: "https://i.postimg.cc/pXZ01HRW/download-11.jpg"
+			},
+			{
+			  name: "Jack L",
+			  rating: 5,
+			  comment: "Great camera for home security. The image quality is superb, and the zoom function allows me to see details clearly. Highly recommended.",
+			  image: "https://i.postimg.cc/TPhHD48R/download-2.jpg"
+			},
+			{
+			  name: "Emma J",
+			  rating: 4,
+			  comment: "I've been using this camera for a few weeks now, and it has exceeded my expectations. The setup was straightforward, and the image quality is top-notch.",
+			  image: "https://i.postimg.cc/8kLXMvYr/download-3.jpg"
+			},
+			{
+			  name: "Liam T",
+			  rating: 5,
+			  comment: "Impressive camera with excellent resolution. The zoom feature is handy for monitoring distant areas. Overall, very satisfied with the purchase.",
+			  image: "https://i.postimg.cc/GtPMR0Dj/download-4.jpg"
+			},
+			{
+			  name: "Sophia D",
+			  rating: 4,
+			  comment: "Good camera with reliable performance. The night vision mode works well, and the PTZ function provides flexibility in monitoring different angles.",
+			  image: "https://i.postimg.cc/FHTB1QBW/download-5.jpg"
+			},
+			{
+			  name: "Mia W",
+			  rating: 5,
+			  comment: "I love how clear the images are, even at night. The camera setup was easy, and the mobile app is user-friendly. Would recommend to anyone looking for a quality outdoor camera.",
+			  image: "https://i.postimg.cc/DzDpdPF1/download-6.jpg"
+			},
+			{
+			  name: "William B",
+			  rating: 4,
+			  comment: "Overall, a solid camera for the price. The zoom feature works smoothly, and the build quality seems durable.",
+			  image: "https://i.postimg.cc/YqfVKFfw/download-7.jpg"
+			},
+			{
+			  name: "Charlotte G",
+			  rating: 5,
+			  comment: "The camera exceeded my expectations. It's well-built, easy to install, and provides crystal-clear images. Very impressed with the zoom capabilities.",
+			  image: "https://i.postimg.cc/HxyZS8sR/download-8.jpg"
+			},
+			{
+			  name: "James R",
+			  rating: 4,
+			  comment: "Great camera overall. The only downside is that the app interface could be improved for easier navigation.",
+			  image: "https://i.postimg.cc/6qxHF683/download-9.jpg"
+			}
+		  ]
+		},
+	  
 	  "WiFi Doorbell Home Tuya WiFi Wireless Doorbell DC AC Battery Powered Camera Bell with Alexa G": {
 		averageRating: 4.2,
 		reviews: [
