@@ -7521,7 +7521,156 @@ const productData = {
 				}
 			  ]
 			},
-
+			"Portable 5V 2W Solar Panel with USB Charger - Ideal for Power Banks, Phones, Camping, and Home Use": {
+				averageRating: 4.6,
+				reviews: [
+					{
+						name: "John D.",
+						rating: 5,
+						comment: "I took this solar panel on a camping trip, and it was a lifesaver. It kept my phone charged all weekend. Compact and easy to use, highly recommend!"
+					},
+					{
+						name: "Emily H.",
+						rating: 4,
+						comment: "Great for outdoor use! I use it while hiking, and it charges my power bank efficiently. Just wish it had a slightly faster charging time, but overall very satisfied."
+					},
+					{
+						name: "Michael P.",
+						rating: 5,
+						comment: "Perfect for emergency power. I keep it in my car for any unexpected situations. Works great and charges my devices quickly in direct sunlight."
+					},
+					{
+						name: "Sarah W.",
+						rating: 4,
+						comment: "Durable and reliable. It performed well on a recent fishing trip. Lightweight and easy to pack. Could use a longer cable, but otherwise excellent."
+					},
+					{
+						name: "Tom R.",
+						rating: 5,
+						comment: "I use this for my backyard and it's fantastic. Charges my phone while I'm gardening. Good build quality and very efficient."
+					}
+				]
+			},
+			"60W Emergency Light - USB Rechargeable LED Lantern for Outdoor Camping, Hiking, and Sports": {
+				averageRating: 4.8,
+				reviews: [
+					{
+						name: "Alice B.",
+						rating: 5,
+						comment: "This lantern is incredibly bright and lasts a long time on a single charge. Perfect for camping trips!"
+					},
+					{
+						name: "James K.",
+						rating: 4,
+						comment: "Very handy for hiking and outdoor activities. Lightweight and easy to pack. Only wish it charged a bit faster."
+					},
+					{
+						name: "Linda M.",
+						rating: 5,
+						comment: "Used this during a power outage, and it worked great. Highly recommend for emergencies."
+					},
+					{
+						name: "Mark T.",
+						rating: 5,
+						comment: "Fantastic light for outdoor use. We used it on our recent camping trip, and it performed flawlessly."
+					},
+					{
+						name: "Sophia L.",
+						rating: 5,
+						comment: "Excellent build quality and brightness. A must-have for any outdoor enthusiast."
+					}
+				]
+			},
+			"Portable Camping Electric Fan with Remote Control - USB Mini Fan with LED Light, Tripod, and Desktop Stand": {
+				averageRating: 4.7,
+				reviews: [
+					{
+						name: "Kevin J.",
+						rating: 5,
+						comment: "This fan is a game changer for camping trips. The remote control and timer function are super convenient."
+					},
+					{
+						name: "Rachel S.",
+						rating: 4,
+						comment: "Great little fan! The LED light is a nice touch. Perfect for my desk and camping. Only downside is that it's a bit noisy at high speed."
+					},
+					{
+						name: "Alex W.",
+						rating: 5,
+						comment: "Highly recommend! The tripod makes it very versatile, and the USB charging is very convenient."
+					},
+					{
+						name: "Megan T.",
+						rating: 5,
+						comment: "Love this fan! I use it in my tent and on my desk. The remote control is a great feature."
+					},
+					{
+						name: "John P.",
+						rating: 4,
+						comment: "Very useful fan. The LED light is bright and the fan is powerful. Could be quieter, but overall very satisfied."
+					}
+				]
+			},
+			"Portable Work Light - Double-Sided Waterproof LED Flashlight for Camping, Fishing, and Hiking": {
+				averageRating: 4.8,
+				reviews: [
+					{
+						name: "Chris B.",
+						rating: 5,
+						comment: "This flashlight is incredibly bright and durable. Perfect for my fishing trips, even in the rain."
+					},
+					{
+						name: "Samantha K.",
+						rating: 5,
+						comment: "Love the double-sided lighting feature. It really makes a difference when camping. Highly recommend!"
+					},
+					{
+						name: "David L.",
+						rating: 4,
+						comment: "Great light for hiking. Very bright and lasts a long time. Would have liked a bit lighter weight, but still very good."
+					},
+					{
+						name: "Patricia M.",
+						rating: 5,
+						comment: "This is the best camping light I've ever used. Waterproof and super bright. A must-have for outdoor activities."
+					},
+					{
+						name: "George H.",
+						rating: 5,
+						comment: "Fantastic flashlight for outdoor use. The double-sided design is really handy. Excellent battery life too."
+					}
+				]
+			} ,
+			"Powerful LED Flashlight - 100000 Lumen Tactical, USB Rechargeable, Waterproof with Zoom for Fishing and Hunting": {
+				averageRating: 4.9,
+				reviews: [
+					{
+						name: "John D.",
+						rating: 5,
+						comment: "This flashlight is incredibly bright! Perfect for night fishing and hunting. The zoom feature is very handy."
+					},
+					{
+						name: "Emily H.",
+						rating: 5,
+						comment: "Super bright and durable. The USB rechargeable feature is very convenient. Highly recommended for outdoor use."
+					},
+					{
+						name: "Michael P.",
+						rating: 5,
+						comment: "Excellent flashlight for tactical use. Bright, waterproof, and the battery lasts a long time. Very satisfied."
+					},
+					{
+						name: "Sarah W.",
+						rating: 4,
+						comment: "Great flashlight with amazing brightness. A bit heavy, but the performance makes up for it."
+					},
+					{
+						name: "Tom R.",
+						rating: 5,
+						comment: "The best flashlight I've ever owned. Perfect for hunting and night activities. The zoom and waterproof features are fantastic."
+					}
+				]
+			}, 
 			
 		  };
 		  
