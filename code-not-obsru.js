@@ -7581,7 +7581,7 @@ const productData = {
 					}
 				]
 			},
-			"Portable Camping Electric Fan with Remote Control - USB Mini Fan with LED Light, Tripod, and Desktop Stand": {
+			"Portable Camping Electric Fan with Remote Control - USB Mini Fan with LED Light, Tripod, and Desktop": {
 				averageRating: 4.7,
 				reviews: [
 					{
@@ -7641,7 +7641,7 @@ const productData = {
 					}
 				]
 			} ,
-			"Powerful LED Flashlight - 100000 Lumen Tactical, USB Rechargeable, Waterproof with Zoom for Fishing and Hunting": {
+			"Powerful LED Flashlight - 100000 Lumen Tactical, USB Rechargeable, Waterproof with Zoom for Fishing": {
 				averageRating: 4.9,
 				reviews: [
 					{
@@ -7671,6 +7671,36 @@ const productData = {
 					}
 				]
 			}, 
+			"Remax Mini Power Bank 5000mAh - Built-in Cable, Portable Charger for iPhone, Emergency Power Bank": {
+        averageRating: 4.7, 
+        reviews: [
+            {
+                name: "Alice B.",
+                rating: 5,
+                comment: "This power bank is so convenient! The built-in cable means I never have to worry about forgetting my charger."
+            },
+            {
+                name: "James K.",
+                rating: 4,
+                comment: "Very handy for emergencies. Compact size fits easily in my pocket. Would love a bit more capacity, but overall very satisfied."
+            },
+            {
+                name: "Linda M.",
+                rating: 5,
+                comment: "Perfect for my iPhone. Charges quickly and the size is just right for carrying around."
+            },
+            {
+                name: "Mark T.",
+                rating: 5,
+                comment: "Great portable charger. The built-in cable is a lifesaver and the power bank itself is very reliable."
+            },
+            {
+                name: "Sophia L.",
+                rating: 4,
+                comment: "Works well and is very compact. The built-in cable is a great feature. Slightly heavier than expected but not a big issue."
+            }
+        ]
+    },
 			
 		  };
 		  
