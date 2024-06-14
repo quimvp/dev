@@ -7701,6 +7701,94 @@ const productData = {
             }
         ]
     },
+	"50000mAh Power Bank - Magnetic Qi Wireless Charger, 22.5W Fast Charging for iPhone, Samsung": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris B.",
+                rating: 5,
+                comment: "This power bank is a beast! The 50000mAh capacity is incredible and the wireless charging works flawlessly with my iPhone.",
+                image: "https://i.postimg.cc/XqyTyN0F/download.jpg"
+            },
+            {
+                name: "Samantha K.",
+                rating: 5,
+                comment: "Love the Magsafe compatibility. It charges my phone super fast and the magnetic alignment is perfect.",
+                image: "https://i.postimg.cc/y8XCPN3y/download-1.jpg"
+            },
+            {
+                name: "David L.",
+                rating: 4,
+                comment: "Great power bank with huge capacity. A bit heavy, but that's expected with 50000mAh. Overall, very satisfied.",
+                image: "https://i.postimg.cc/q71fPZLt/download-2.jpg"
+            },
+            {
+                name: "Patricia M.",
+                rating: 5,
+                comment: "Perfect for my Samsung and Huawei devices. The fast charging feature is a game-changer, and the build quality is excellent.",
+                image: "https://i.postimg.cc/g0zFBPvF/download-5.jpg"
+            },
+            {
+                name: "George H.",
+                rating: 5,
+                comment: "Fantastic power bank. Charges multiple devices at once and the wireless charging is super convenient. Highly recommend!",
+                image: "https://i.postimg.cc/fLPGLt1D/download-6.jpg"
+            }
+        ]
+    },
+	"200000mAh Portable Solar Power Bank - Fast Charging, Waterproof with SOS Flashlight": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Lisa G.",
+                rating: 5,
+                comment: "This power bank is fantastic for camping trips! The solar charging feature is a game-changer.",
+                image: "https://i.postimg.cc/2ymK3Q2p/download.jpg"
+            },
+            {
+                name: "John P.",
+                rating: 5,
+                comment: "Incredibly durable and the SOS flashlight is very useful. Fast charging works great for my devices.",
+                image: "https://i.postimg.cc/7Y9pGWFK/download-1.jpg"
+            },
+            {
+                name: "Emily R.",
+                rating: 4,
+                comment: "Love the capacity and waterproof feature. It's a bit heavy, but worth it for the power it provides.",
+                image: "https://i.postimg.cc/ht36M7Px/download-2.jpg"
+            },
+            {
+                name: "Mike T.",
+                rating: 5,
+                comment: "Perfect for hiking and long trips. The solar panel works well, and the flashlight is a great addition.",
+                image: "https://i.postimg.cc/XvGhP7pP/download-3.jpg"
+            },
+            {
+                name: "Sophia H.",
+                rating: 5,
+                comment: "Excellent power bank with amazing battery life. The fast charging is very efficient and reliable.",
+                image: "https://i.postimg.cc/W14xM7jT/download-4.jpg"
+            },
+            {
+                name: "Daniel R.",
+                rating: 5,
+                comment: "Great for emergencies. The SOS flashlight is a brilliant feature and the solar charging is very effective.",
+                image: "https://i.postimg.cc/FKMqX5SH/download-5.jpg"
+            },
+            {
+                name: "Jessica F.",
+                rating: 5,
+                comment: "This power bank has been a lifesaver on multiple occasions. Highly recommend it for anyone who loves the outdoors.",
+                image: "https://i.postimg.cc/85LY1KdB/download-6.jpg"
+            },
+            {
+                name: "Mark W.",
+                rating: 5,
+                comment: "The best power bank I've ever owned. It holds a charge for a long time and the solar feature is very convenient.",
+                image: "https://i.postimg.cc/sxc0WMNM/download-7.jpg"
+            }
+        ]
+    },
 			
 		  };
 		  
