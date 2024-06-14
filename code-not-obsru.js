@@ -7789,6 +7789,251 @@ const productData = {
             }
         ]
     },
+	"Electric Posture Corrector Back Brace - USB Rechargeable, Lumbar Massager, Spine Stretcher": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Alice B.",
+                rating: 5,
+                comment: "This posture corrector has been amazing for my back pain. The lumbar massager is a fantastic feature.",
+                image: "https://i.postimg.cc/mgFyfcy7/download.jpg"
+            },
+            {
+                name: "James K.",
+                rating: 4,
+                comment: "Great support and very comfortable to wear. The USB rechargeable feature is very convenient.",
+                image: "https://i.postimg.cc/HsN9h0Xp/download-1.jpg"
+            },
+            {
+                name: "Linda M.",
+                rating: 5,
+                comment: "I love this device! It helps with my posture and the vibration massager is very soothing.",
+                image: "https://i.postimg.cc/W4L6225C/download-2.jpg"
+            },
+            {
+                name: "Mark T.",
+                rating: 4,
+                comment: "Good product for posture correction. The spine stretcher function is useful, but it's a bit bulky."
+            },
+            {
+                name: "Sophia L.",
+                rating: 5,
+                comment: "Excellent product. The adjustable design makes it comfortable, and it really helps with my lower back pain."
+            },
+            {
+                name: "Daniel R.",
+                rating: 5,
+                comment: "The back brace provides great support and the massager is a nice touch. Highly recommended."
+            },
+            {
+                name: "Jessica F.",
+                rating: 4,
+                comment: "Very effective for posture correction. The lumbar vibration is a bit noisy but works well."
+            },
+            {
+                name: "Mark W.",
+                rating: 5,
+                comment: "I've noticed a significant improvement in my posture since using this. The rechargeable battery is very convenient."
+            }
+        ]
+    },
+	"AICARE Medical Digital Oximeter - Blood Oxygen, Heart Rate for Adult & Child": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Emma W.",
+                rating: 5,
+                comment: "This oximeter is very accurate and easy to use. Perfect for keeping track of my child's health.",
+                image: "https://i.postimg.cc/xCHCyzMT/A24c5a0d812f44bf9925c835eceef7bcbx.webp"
+            },
+            {
+                name: "John D.",
+                rating: 5,
+                comment: "Great product! Works well for both adults and kids. The readings are quick and reliable.",
+                image: "https://i.postimg.cc/bNRZBkMZ/A25b1488fdc684130b4cee488f6b44449-K.webp"
+            },
+            {
+                name: "Sophia H.",
+                rating: 4,
+                comment: "Easy to use and very portable. The display is bright and clear, making it simple to read the results.",
+                image: "https://i.postimg.cc/cL9rsZdZ/A2b2a414291e04d5c8519de8733ed4a94-A.webp"
+            },
+            {
+                name: "James L.",
+                rating: 5,
+                comment: "I use this oximeter regularly and it has been very reliable. Highly recommended for home use.",
+                image: "https://i.postimg.cc/nhcXbMb0/A3445a412e1694a79a7b90e81648e4422-I.webp"
+            },
+            {
+                name: "Olivia M.",
+                rating: 5,
+                comment: "Excellent device for monitoring health at home. The accuracy and ease of use are top-notch.",
+                image: "https://i.postimg.cc/jjB27XWF/A37ccf097dd9543f38a94cfc6ae456f90i.webp"
+            },
+            {
+                name: "Lucas R.",
+                rating: 4,
+                comment: "Works well and the size is perfect for carrying around. Just wish it came with rechargeable batteries.",
+                image: "https://i.postimg.cc/N0KLFV0X/A7991ef1f045143528e84b6294fface7eq.webp"
+            },
+            {
+                name: "Ava T.",
+                rating: 5,
+                comment: "Very satisfied with this purchase. It fits both my fingers and my child's fingers comfortably.",
+                image: "https://i.postimg.cc/6qXQHpfV/Ac5ba47948cd14a728fdac3bb95763549-I.webp"
+            },
+            {
+                name: "Ethan P.",
+                rating: 5,
+                comment: "Accurate and easy to use. The LED display is very clear, making it easy to read the results quickly.",
+                image: "https://i.postimg.cc/gjH21bgC/Aca7553791abb48638108833e588bf26d-S.webp"
+            },
+            {
+                name: "Mia F.",
+                rating: 5,
+                comment: "This oximeter is a great tool for keeping track of my family's health. Easy to use and very accurate.",
+                image: "https://i.postimg.cc/wT9vL3vg/Acc6761a80c07483bb1ac380edea3efd9-I.webp"
+            },
+            {
+                name: "Liam G.",
+                rating: 5,
+                comment: "Highly reliable and easy to carry. The readings are quick and the display is easy to read.",
+                image: "https://i.postimg.cc/7P3h5SqK/Ad5e00aa793ce44ae88f1d4860987ea43j.webp"
+            }
+        ]
+    }, 
+	"Digital LCD Blood Pressure Monitor - Heart Rate, Large Cuff, Portable": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Alice B.",
+                rating: 5,
+                comment: "This blood pressure monitor is very accurate and easy to use. The large cuff is comfortable and fits well.",
+                image: "https://i.postimg.cc/GpDrZ12X/download.jpg"
+            },
+            {
+                name: "James K.",
+                rating: 5,
+                comment: "Great product! The large LCD display makes it easy to read the results. Highly recommend for home use.",
+                image: "https://i.postimg.cc/L5DmNBXR/download-1.jpg"
+            },
+            {
+                name: "Linda M.",
+                rating: 4,
+                comment: "Accurate readings and very portable. The one-button operation is very convenient.",
+                image: "https://i.postimg.cc/RFQmZQwf/download-10.jpg"
+            },
+            {
+                name: "Mark T.",
+                rating: 5,
+                comment: "Excellent blood pressure monitor. The large cuff is very comfortable and the device is easy to use.",
+                image: "https://i.postimg.cc/sf4fjyJ8/download-2.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 5,
+                comment: "Very satisfied with this purchase. The monitor is accurate and easy to carry around.",
+                image: "https://i.postimg.cc/025kr3WN/download-3.jpg"
+            },
+            {
+                name: "Daniel R.",
+                rating: 5,
+                comment: "Great for monitoring blood pressure at home. The large display is clear and easy to read.",
+                image: "https://i.postimg.cc/FsP9SZ8V/download-4.jpg"
+            },
+            {
+                name: "Jessica F.",
+                rating: 4,
+                comment: "Reliable and easy to use. The large cuff is a plus, but the device is a bit bulky.",
+                image: "https://i.postimg.cc/6pyBfZNJ/download-5.jpg"
+            },
+            {
+                name: "Mark W.",
+                rating: 5,
+                comment: "I've noticed a significant improvement in my health tracking since using this. Very convenient for home use.",
+                image: "https://i.postimg.cc/4xqsL3JK/download-6.jpg"
+            },
+            {
+                name: "Mia F.",
+                rating: 5,
+                comment: "Highly reliable and accurate. The monitor is easy to use and the large cuff is very comfortable.",
+                image: "https://i.postimg.cc/yxsVmr7v/download-7.jpg"
+            },
+            {
+                name: "Liam G.",
+                rating: 5,
+                comment: "This monitor is very easy to use and provides accurate readings. The large display is very clear.",
+                image: "https://i.postimg.cc/k4d9ChRq/download-8.jpg"
+            },
+            {
+                name: "Ethan T.",
+                rating: 4,
+                comment: "Good monitor with accurate readings. The large cuff is a bit tight for me, but overall it's a great device.",
+                image: "https://i.postimg.cc/j2xbwwh1/download-9.jpg"
+            }
+        ]
+    },
+	"Digital Infrared Forehead Thermometer - Non-Contact, Medical for Baby & Adults": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Emma W.",
+                rating: 5,
+                comment: "This thermometer is very accurate and easy to use. Perfect for my baby and for checking my own temperature."
+            },
+            {
+                name: "John D.",
+                rating: 5,
+                comment: "Great product! The non-contact feature is excellent for quick temperature checks. Highly recommend."
+            },
+            {
+                name: "Sophia H.",
+                rating: 4,
+                comment: "Easy to use and very reliable. The digital display is clear and easy to read."
+            },
+            {
+                name: "James L.",
+                rating: 5,
+                comment: "I use this thermometer regularly and it has been very reliable. The non-contact feature is great for my kids."
+            },
+            {
+                name: "Olivia M.",
+                rating: 5,
+                comment: "Excellent device for monitoring fever at home. The accuracy and ease of use are top-notch."
+            },
+            {
+                name: "Lucas R.",
+                rating: 4,
+                comment: "Works well and the size is perfect for carrying around. Just wish it came with a storage case."
+            },
+            {
+                name: "Ava T.",
+                rating: 5,
+                comment: "Very satisfied with this purchase. It provides quick and accurate readings for my entire family."
+            },
+            {
+                name: "Ethan P.",
+                rating: 5,
+                comment: "Accurate and easy to use. The non-contact feature is very convenient, especially for babies."
+            },
+            {
+                name: "Mia F.",
+                rating: 5,
+                comment: "This thermometer is a great tool for keeping track of my family's health. Easy to use and very accurate."
+            },
+            {
+                name: "Liam G.",
+                rating: 5,
+                comment: "Highly reliable and easy to carry. The readings are quick and the display is easy to read."
+            },
+            {
+                name: "Ella T.",
+                rating: 4,
+                comment: "Good thermometer with accurate readings. The non-contact feature is a plus for hygienic use."
+            }
+        ]
+    },
+
 			
 		  };
 		  
