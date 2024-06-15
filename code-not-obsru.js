@@ -8033,6 +8033,37 @@ const productData = {
             }
         ]
     },
+	"OmniGrip 3-in-1 Gaming Headphone & Controller Holder": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This holder is perfect for my gaming setup. It keeps everything organized and looks great.",
+                image: "https://i.postimg.cc/MHfZ402Q/611-GVJWn-Bi-L.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Sturdy and easy to install. The extra weight adds to its stability, making it perfect for my desk."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this product! It fits my headphones and controllers perfectly and keeps my desk clean and tidy."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great holder with a non-slip base. It keeps everything organized and looks fantastic."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed to keep my gaming area organized. Highly recommend!"
+            }
+        ]
+    }, 
 
 			
 		  };
