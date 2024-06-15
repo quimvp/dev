@@ -8064,7 +8064,36 @@ const productData = {
             }
         ]
     }, 
-
+    "Gym Abdominal Muscle Stimulator Hip Trainer EMS Fitness Equipment": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This muscle stimulator is amazing! It's easy to use and I've seen great results in my abs and hips."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "I love how portable this device is. Perfect for home workouts and really effective."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Fantastic product! The EMS technology really works, and I can feel my muscles getting stronger."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great addition to my fitness routine. The adjustable intensity levels are perfect for customizing my workouts."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed to tone my abs and hips. Highly recommend this stimulator!"
+            }
+        ]
+    },
 			
 		  };
 		  
