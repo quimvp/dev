@@ -1,3 +1,4 @@
+package flowChart;
 // Save this as LeapYearChecker.java in your controlflow folder
 
 import java.util.Scanner;

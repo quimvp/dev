@@ -1,3 +1,4 @@
+package flowChart;
 import java.util.Scanner;
 public class LcmAndHCF {
     public static void main (String [] args){

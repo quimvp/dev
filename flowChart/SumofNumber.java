@@ -1,3 +1,4 @@
+package flowChart;
 import java.util.Scanner;
 public class SumofNumber {
     public static void main(String [] args){
