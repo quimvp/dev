@@ -8094,6 +8094,126 @@ const productData = {
             }
         ]
     },
+	"1080P HD Mini Camera - Portable BodyCam with Night Vision": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This mini camera is fantastic! The video quality is excellent, and it's so easy to carry around."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my bike rides. The night vision works great, and the videos are very clear."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this camera! It's small, portable, and the 1080P resolution is amazing. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great body cam for daily use. The battery life is impressive and it captures clear videos even at night."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my security job. The night vision is excellent, and it's very easy to use."
+            }
+        ]
+    },
+	"172LED Solar Light Outdoor Waterproof Motion Sensor Floodlight with Remote Control": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This solar light is amazing! The motion sensor works perfectly, and it lights up my backyard beautifully."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Excellent product! The remote control is very convenient, and the light is bright and reliable."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this floodlight! It’s easy to install and provides great illumination for my patio."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great quality and the three lighting modes are very useful. Highly recommend for any outdoor space."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my garage. The waterproof design is perfect for any weather conditions."
+            }
+        ]
+    },
+	"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for discreet home security. The P2P technology ensures a secure connection."
+            }
+        ]
+    },
+	"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for discreet home security. The P2P technology ensures a secure connection."
+            },
+        ]
+    },
 			
 		  };
 		  
