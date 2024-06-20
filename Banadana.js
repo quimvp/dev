@@ -8190,7 +8190,7 @@ const productData = {
         ]
     },
 	"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
-        averageRating: 5.0,
+        averageRating: 4.7,
         reviews: [
             {
                 name: "Chris M.",
@@ -8209,7 +8209,7 @@ const productData = {
             },
             {
                 name: "Taylor R.",
-                rating: 5,
+                rating: 4,
                 comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
             },
             {
@@ -8220,7 +8220,7 @@ const productData = {
         ]
     },
 	"COOSPO HW9 Armband Heart Rate Monitor - HR Zones, Calories, BLE5.0, ANT+": {
-        averageRating: 5.0,
+        averageRating: 4.9,
         reviews: [
             {
                 name: "Chris M.",
