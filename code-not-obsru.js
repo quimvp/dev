@@ -8219,6 +8219,36 @@ const productData = {
             },
         ]
     },
+	"COOSPO HW9 Armband Heart Rate Monitor - HR Zones, Calories, BLE5.0, ANT+": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This heart rate monitor is fantastic! Accurate readings and very comfortable to wear."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my cycling sessions. The BLE5.0 and ANT+ connectivity is seamless."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this HRM! It works great with Zwift and Peloton. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4,
+                comment: "Great addition to my fitness gear. The HR zones and calorie tracking are very helpful."
+            },
+            {
+                name: "Sam K.",
+                rating: 4,
+                comment: "Exactly what I needed for accurate heart rate monitoring during workouts."
+            },
+        ]
+    },
 			
 		  };
 		  
