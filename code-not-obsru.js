@@ -6312,72 +6312,77 @@ const productData = {
 		]
 	},
 	"WiFi Camera Clock - 1080P HD Security Cam, Motion Detection, Night Vision, Real-Time App Monitoring": {
-		averageRating: 4.7,
-		reviews: [
-			{
-				name: "Sophia J",
-				rating: 5,
-				comment: "This camera clock is perfect for discreet monitoring. The video quality is excellent, and the night vision is clear. The real-time app monitoring is a great feature.",
-				image: "https://i.postimg.cc/TLVrc53v/61-Q4v-Ppzia-L-SL1600.jpg"
-			},
-			{
-				name: "James T",
-				rating: 4,
-				comment: "Great hidden camera for security. The motion detection works well, and the app is easy to use. Setup was a bit tricky, but overall, I'm happy with it.",
-				image: "https://i.postimg.cc/2LCn9j1b/61ugawiv-C8-L-SL1600.jpg"
-			},
-			{
-				name: "Olivia M",
-				rating: 5,
-				comment: "Highly recommend this camera clock! The HD video quality is superb, and the app makes it easy to monitor in real-time. Setup was straightforward."
-			},
-			{
-				name: "William D",
-				rating: 5,
-				comment: "Excellent product! The motion detection is very sensitive, and the night vision works perfectly. It's a great addition to my home security."
-			},
-			{
-				name: "Emma B",
-				rating: 5,
-				comment: "Love this camera clock! The app monitoring is very convenient, and the video quality is top-notch. It's perfect for keeping an eye on things discreetly."
-			},
-			{
-				name: "Liam K",
-				rating: 4,
-				comment: "Very good hidden camera. The night vision is clear, and the motion detection is accurate. Setup instructions could be clearer, but overall a solid product."
-			},
-			{
-				name: "Ava L",
-				rating: 5,
-				comment: "I'm very impressed with this camera clock. The HD quality is amazing, and the app makes it easy to monitor everything. A fantastic security device."
-			},
-			{
-				name: "Noah F",
-				rating: 4,
-				comment: "Reliable and effective. The night vision and motion detection are very useful features. Took a bit to set up, but worth it in the end."
-			},
-			{
-				name: "Isabella H",
-				rating: 5,
-				comment: "This WiFi camera clock has exceeded my expectations. The real-time app monitoring is very convenient, and the video quality is excellent. Highly recommend!"
-			},
-			{
-				name: "Mason C",
-				rating: 4,
-				comment: "Great camera clock with useful features. The motion detection is very sensitive, and the night vision is clear. Setup was a bit challenging, but it's a solid product overall."
-			},
-			{
-				name: "Mia S",
-				rating: 5,
-				comment: "Fantastic hidden camera! The HD video quality and real-time app monitoring make it perfect for security. Easy to set up and use."
-			},
-			{
-				name: "Lucas P",
-				rating: 4,
-				comment: "Effective and reliable. The motion detection and night vision are very useful features. Setup took a bit longer than expected, but the camera works great."
-			}
-		]
-	},
+    averageRating: 4.7,
+    reviews: [
+        {
+            name: "Sophia J",
+            rating: 5,
+            comment: "This camera clock is perfect for discreet monitoring. The video quality is excellent, and the night vision is clear. The real-time app monitoring is a great feature.",
+            image: "https://i.postimg.cc/15zswSWT/download.jpg"
+        },
+        {
+            name: "James T",
+            rating: 4,
+            comment: "Great hidden camera for security. The motion detection works well, and the app is easy to use. Setup was a bit tricky, but overall, I'm happy with it.",
+            image: "https://i.postimg.cc/6qMKgbQY/download-1.jpg"
+        },
+        {
+            name: "Olivia M",
+            rating: 5,
+            comment: "Highly recommend this camera clock! The HD video quality is superb, and the app makes it easy to monitor in real-time. Setup was straightforward.",
+            image: "https://i.postimg.cc/sxjynC3M/download-2.jpg"
+        },
+        {
+            name: "William D",
+            rating: 5,
+            comment: "Excellent product! The motion detection is very sensitive, and the night vision works perfectly. It's a great addition to my home security.",
+            image: "https://i.postimg.cc/QtrjTWPk/download-3.jpg"
+        },
+        {
+            name: "Emma B",
+            rating: 5,
+            comment: "Love this camera clock! The app monitoring is very convenient, and the video quality is top-notch. It's perfect for keeping an eye on things discreetly.",
+            image: "https://i.postimg.cc/tRk9sJzW/download-4.jpg"
+        },
+        {
+            name: "Liam K",
+            rating: 4,
+            comment: "Very good hidden camera. The night vision is clear, and the motion detection is accurate. Setup instructions could be clearer, but overall a solid product.",
+            image: "https://i.postimg.cc/Kzrxr8hX/download-5.jpg"
+        },
+        {
+            name: "Ava L",
+            rating: 5,
+            comment: "I'm very impressed with this camera clock. The HD quality is amazing, and the app makes it easy to monitor everything. A fantastic security device.",
+            image: "https://i.postimg.cc/yYrBTGtN/download-6.jpg"
+        },
+        {
+            name: "Noah F",
+            rating: 4,
+            comment: "Reliable and effective. The night vision and motion detection are very useful features. Took a bit to set up, but worth it in the end."
+        },
+        {
+            name: "Isabella H",
+            rating: 5,
+            comment: "This WiFi camera clock has exceeded my expectations. The real-time app monitoring is very convenient, and the video quality is excellent. Highly recommend!"
+        },
+        {
+            name: "Mason C",
+            rating: 4,
+            comment: "Great camera clock with useful features. The motion detection is very sensitive, and the night vision is clear. Setup was a bit challenging, but it's a solid product overall."
+        },
+        {
+            name: "Mia S",
+            rating: 5,
+            comment: "Fantastic hidden camera! The HD video quality and real-time app monitoring make it perfect for security. Easy to set up and use."
+        },
+        {
+            name: "Lucas P",
+            rating: 4,
+            comment: "Effective and reliable. The motion detection and night vision are very useful features. Setup took a bit longer than expected, but the camera works great."
+        }
+    ]
+}, 
 	"Solar Security Light Alarm - Waterproof PIR LED Motion Sensor, 129dB Loud Siren, Outdoor Use": {
 		averageRating: 4.8,
 		reviews: [
