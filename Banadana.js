@@ -6180,71 +6180,7 @@ const productData = {
 			}
 		]
 	},
-	"1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
-		averageRating: 4.7,
-		reviews: [
-			{
-				name: "Sophia J",
-				rating: 5,
-				comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard."
-			},
-			{
-				name: "James T",
-				rating: 4,
-				comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better."
-			},
-			{
-				name: "Olivia M",
-				rating: 5,
-				comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze."
-			},
-			{
-				name: "William D",
-				rating: 4,
-				comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
-			},
-			{
-				name: "Emma B",
-				rating: 5,
-				comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer."
-			},
-			{
-				name: "Liam K",
-				rating: 4,
-				comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time."
-			},
-			{
-				name: "Ava L",
-				rating: 5,
-				comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system."
-			},
-			{
-				name: "Noah F",
-				rating: 4,
-				comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions."
-			},
-			{
-				name: "Isabella H",
-				rating: 5,
-				comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment."
-			},
-			{
-				name: "Mason C",
-				rating: 4,
-				comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process."
-			},
-			{
-				name: "Mia S",
-				rating: 5,
-				comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use."
-			},
-			{
-				name: "Lucas P",
-				rating: 4,
-				comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
-			}
-		]
-	},
+
 	"Fingerprint Smart Deadbolt Lock - Backlit Keypad, Auto Lock, Voice Prompt, Long Battery Life": {
 		averageRating: 4.8,
 		reviews: [
@@ -8347,7 +8283,161 @@ const productData = {
                 comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
             },
         ]
-    } 
+    },
+	
+	"1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Sophia J",
+                rating: 5,
+                comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard.",
+                image: "https://i.postimg.cc/Kj54D2GQ/A06dccdda61e14ce9b1e317e6441ebbf02.webp"
+            },
+            {
+                name: "James T",
+                rating: 4,
+                comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better.",
+                image: "https://i.postimg.cc/RZp6Y4cD/A1a529c7b97514d4fbfd2c670bdba4a49o.webp"
+            },
+            {
+                name: "Olivia M",
+                rating: 5,
+                comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze.",
+                image: "https://i.postimg.cc/HsBVJdPk/A225d44270f4d47078cbeb74e5ec03668p.webp"
+            },
+            {
+                name: "William D",
+                rating: 4,
+                comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase.",
+                image: "https://i.postimg.cc/wBSt6245/A34b47c5b4ad5404e9ccf6b51d5ce8216-N.webp"
+            },
+            {
+                name: "Emma B",
+                rating: 5,
+                comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer.",
+                image: "https://i.postimg.cc/Cx5dkXWH/A42991ec3758443239dc3c43a418a2699a.webp"
+            },
+            {
+                name: "Liam K",
+                rating: 4,
+                comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time.",
+                image: "https://i.postimg.cc/rpd0X3jF/A6a59818e87e64640acbae4b87afa0cd5t.webp"
+            },
+            {
+                name: "Ava L",
+                rating: 5,
+                comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system.",
+                image: "https://i.postimg.cc/pTzmyj3w/A6e78d7d8f58d4e319a222840a5f7b58e-B.webp"
+            },
+            {
+                name: "Noah F",
+                rating: 4,
+                comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions.",
+                image: "https://i.postimg.cc/y6hJHFm9/A769beb9eda0e4e7fa194110c2331aad0d.webp"
+            },
+            {
+                name: "Isabella H",
+                rating: 5,
+                comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment.",
+                image: "https://i.postimg.cc/NfgKf5Dn/A82bcd6170dd140609703274c90378b65f.webp"
+            },
+            {
+                name: "Mason C",
+                rating: 4,
+                comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process.",
+                image: "https://i.postimg.cc/902r9Mhr/A9f3fcf59311b43e4b6b18ac66cf300fep.webp"
+            },
+            {
+                name: "Mia S",
+                rating: 5,
+                comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use.",
+                image: "https://i.postimg.cc/XYPq8xWM/Aa699005a0f24453f817f25c5d0fc47e8q.webp"
+            },
+            {
+                name: "Lucas P",
+                rating: 4,
+                comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
+            }
+        ]
+    },
+	    "1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Sophia J",
+                rating: 5,
+                comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard.",
+                image: "https://i.postimg.cc/Kj54D2GQ/A06dccdda61e14ce9b1e317e6441ebbf02.webp"
+            },
+            {
+                name: "James T",
+                rating: 4,
+                comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better.",
+                image: "https://i.postimg.cc/RZp6Y4cD/A1a529c7b97514d4fbfd2c670bdba4a49o.webp"
+            },
+            {
+                name: "Olivia M",
+                rating: 5,
+                comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze.",
+                image: "https://i.postimg.cc/HsBVJdPk/A225d44270f4d47078cbeb74e5ec03668p.webp"
+            },
+            {
+                name: "William D",
+                rating: 4,
+                comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase.",
+                image: "https://i.postimg.cc/wBSt6245/A34b47c5b4ad5404e9ccf6b51d5ce8216-N.webp"
+            },
+            {
+                name: "Emma B",
+                rating: 5,
+                comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer.",
+                image: "https://i.postimg.cc/Cx5dkXWH/A42991ec3758443239dc3c43a418a2699a.webp"
+            },
+            {
+                name: "Liam K",
+                rating: 4,
+                comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time.",
+                image: "https://i.postimg.cc/rpd0X3jF/A6a59818e87e64640acbae4b87afa0cd5t.webp"
+            },
+            {
+                name: "Ava L",
+                rating: 5,
+                comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system.",
+                image: "https://i.postimg.cc/pTzmyj3w/A6e78d7d8f58d4e319a222840a5f7b58e-B.webp"
+            },
+            {
+                name: "Noah F",
+                rating: 4,
+                comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions.",
+                image: "https://i.postimg.cc/y6hJHFm9/A769beb9eda0e4e7fa194110c2331aad0d.webp"
+            },
+            {
+                name: "Isabella H",
+                rating: 5,
+                comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment.",
+                image: "https://i.postimg.cc/NfgKf5Dn/A82bcd6170dd140609703274c90378b65f.webp"
+            },
+            {
+                name: "Mason C",
+                rating: 4,
+                comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process.",
+                image: "https://i.postimg.cc/902r9Mhr/A9f3fcf59311b43e4b6b18ac66cf300fep.webp"
+            },
+            {
+                name: "Mia S",
+                rating: 5,
+                comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use.",
+                image: "https://i.postimg.cc/XYPq8xWM/Aa699005a0f24453f817f25c5d0fc47e8q.webp"
+            },
+            {
+                name: "Lucas P",
+                rating: 4,
+                comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
+            }
+        ]
+    },
+
 		  };
 		  
 
