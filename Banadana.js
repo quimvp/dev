@@ -8249,7 +8249,104 @@ const productData = {
             },
         ]
     },
-			
+		
+	"Mini Camera WiFi HD 1080P Hidden IP Night Vision Camcorder Home Security Cam": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+                image: "https://i.postimg.cc/pr0F1DhK/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great.",
+                image: "https://i.postimg.cc/g2xvQBKj/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend.",
+                image: "https://i.postimg.cc/4xjzgb85/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great camera for monitoring my home. The night vision feature is impressive and the app is user-friendly.",
+                image: "https://i.postimg.cc/XJkF9MnH/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for discreet home security. The hidden design is perfect for inconspicuous monitoring.",
+                image: "https://i.postimg.cc/KjcTN9zZ/download-4.jpg"
+            },
+        ]
+    },
+	"X5 Mini Camera Wireless 1080P Surveillance Security Cam with 32GB SD Card": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+				image:"https://i.postimg.cc/1zP3w84S/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home security. The WiFi connectivity is seamless, and the night vision is very clear.",
+				image:"https://i.postimg.cc/K8tY1PGQ/download-1.jpg",
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this tiny camera! It's easy to set up and the motion detection feature works perfectly."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great camera for monitoring my home. The included 32GB SD card provides plenty of storage."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
+            },
+        ]
+    },
+	"Alarm Clock Mini Camera 1080P HD WiFi IR Night Vision Motion Detection": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This alarm clock camera is fantastic! It looks just like a regular clock and the video quality is excellent."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for discreet home security. The WiFi connectivity is seamless, and the night vision is very clear."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this hidden camera! It's easy to set up and the motion detection feature works perfectly."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great camera for monitoring my home. The design is discreet and it provides clear video footage."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
+            },
+        ]
+    } 
 		  };
 		  
 
