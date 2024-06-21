@@ -8323,7 +8323,8 @@ const productData = {
             {
                 name: "Chris M.",
                 rating: 5,
-                comment: "This alarm clock camera is fantastic! It looks just like a regular clock and the video quality is excellent."
+                comment: "This alarm clock camera is fantastic! It looks just like a regular clock and the video quality is excellent.",
+				image:"https://i.postimg.cc/wTgnQ9FH/download-29.jpg"
             },
             {
                 name: "Alex T.",
