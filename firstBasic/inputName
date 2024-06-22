@@ -1,0 +1,13 @@
+package firstjava;
+import java.util.Scanner;
+
+public class inputName{
+    public static void main(String[] args){
+       System.out.println("Enter the name : ");
+       Scanner sc = new Scanner(System.in);
+       String s =sc.next();
+
+       System.out.println("Java welcome you "+s+" in the programming world");
+
+    }
+}
