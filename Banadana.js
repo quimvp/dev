@@ -8005,7 +8005,7 @@ const productData = {
             }
         ]
     }, 
-    "Gym Abdominal Muscle Stimulator Hip Trainer EMS Fitness Equipment": {
+    "4Pcs Gym Abdominal Muscle Stimulator Hip Trainer EMS Fitness Equipment": {
         averageRating: 5.0,
         reviews: [
             {
