@@ -8437,6 +8437,95 @@ const productData = {
             }
         ]
     },
+	"Wireless Car Air Compressor Electric Tire Inflator Pump for Motorcycle Bicycle Boat AUTO Tyre Balls": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This air compressor is fantastic! It's so easy to use and the wireless feature is a game-changer.",
+                image: "https://i.postimg.cc/bY6NYrSm/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my motorcycle and bike tires. The digital display is clear and the pump works quickly.",
+                image: "https://i.postimg.cc/1zp3yKDF/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this inflator! It's portable and powerful, making it perfect for all my inflation needs.",
+                image: "https://i.postimg.cc/R0r0rYJ9/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great tool for keeping my car and boat tires properly inflated. The automatic shut-off feature is very convenient.",
+                image: "https://i.postimg.cc/XqDVs16R/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my sports balls and bicycle tires. Highly recommend this air compressor!",
+                image: "https://i.postimg.cc/jSnjFT5Z/download-4.jpg"
+            },
+            {
+                name: "Emily W.",
+                rating: 5,
+                comment: "This inflator is very efficient and the battery lasts long enough to inflate all my tires.",
+                image: "https://i.postimg.cc/hjs4dPyP/download-5.jpg"
+            },
+            {
+                name: "Mark D.",
+                rating: 5,
+                comment: "The portability of this air compressor makes it a perfect companion for road trips.",
+                image: "https://i.postimg.cc/5yt4qdT5/download-6.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 5,
+                comment: "Easy to use and highly effective. The digital display is a great feature.",
+                image: "https://i.postimg.cc/rFPmjs8D/download-7.jpg"
+            },
+            {
+                name: "Liam G.",
+                rating: 5,
+                comment: "The best air compressor I've owned. It works quickly and the automatic shut-off is very useful.",
+                image: "https://i.postimg.cc/W3TbzJ7H/download-8.jpg"
+            }
+        ]
+    },
+	"USB Rechargable EMS Muscle Stimulator ABS Arm 3 IN 1 Trainer Pad": {
+        averageRating: 5.0,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This EMS stimulator is fantastic! It's easy to use and very effective. My muscles feel stronger already."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home workouts. The rechargeable battery is convenient, and the intensity settings are great."
+            },
+            {
+                name: "Jordan P.",
+                rating: 5,
+                comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the device is well-made."
+            },
+        ]
+    },
 
 		  };
 		  
