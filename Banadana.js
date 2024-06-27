@@ -7426,8 +7426,8 @@ const productData = {
 		  "Large Room Essential Oil Diffuser | 18.6oz, Remote Control, Timer, 7 Colors": {
 			averageRating: 4.7,
 			reviews: [
-			  { name: "Harper Y.", rating: 5, comment: "Perfect for large rooms, the remote control is a great feature." },
-			  { name: "Elijah Z.", rating: 4.8, comment: "Works well and the timer function is very convenient." },
+			  { name: "Harper Y.", rating: 5, comment: "Perfect for large rooms, the remote control is a great feature.",image:"https://i.postimg.cc/HkmPTY4S/download.jpg" },
+			  { name: "Elijah Z.", rating: 4.8, comment: "Works well and the timer function is very convenient.",image:"https://i.postimg.cc/WbgHRFrF/download-1.jpg"}, 
 			  { name: "Aria A.", rating: 4.7, comment: "Lovely diffuser, adds a great ambiance to the room." },
 			  { name: "James B.", rating: 4.6, comment: "Good quality, but wish it had a longer timer setting." },
 			  { name: "Ava C.", rating: 4.9, comment: "Great product, works as described and looks beautiful." },
