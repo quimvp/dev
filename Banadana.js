@@ -1173,54 +1173,132 @@ const productData = {
 			comment: "This product is a solid solution for managing arthritis leg pain and joint rehabilitation. It provides relief and gradually improves joint function. It's been a valuable addition to my daily routine, even though I'd appreciate more immediate relief."
 		}]
 	},
-	"Powerful Muscle Relief: Massage Gun": {
-		averageRating: 4.8,
-		reviews: [{
-			name: "Alex R.",
-			rating: 5,
-			comment: "This massage gun is a game-changer for muscle relief. It's powerful and provides deep relaxation. I use it after workouts, and it helps with recovery."
-		}, {
-			name: "Sophia C.",
-			rating: 4,
-			comment: "Great for targeting specific areas and relieving tension. The only downside is that it can be a bit noisy, but the performance is worth it."
-		}, {
-			name: "Michael B.",
-			rating: 5,
-			comment: "I've noticed a significant improvement in my flexibility and recovery time, you better get yours"
-		},{
-			name: "Daniel R.",
-			rating: 5,
-			comment: "it's a fantastic tool for anyone seeking quick muscle relaxation."
-		}]
-	},
-	"Wireless Sleep Mask with Adjustable Headphones": {
-		averageRating: 4.8,
-		reviews: [{
-			name: "Sophia M.",
-			rating: 5,
-			comment: "I love that it's washable. I can listen to relaxing music or white noise and enjoy a peaceful night's sleep. Highly recommended."
-		}, {
-			name: "Lucas P.",
-			rating: 4,
-			comment: "The audio quality is good, but I wish it had a longer battery life."
-		}, {
-			name: "Oliver G.",
-			rating: 5,
-			comment: "It's like a personal sleep sanctuary. The adjustable design is great, and the washable feature keeps it fresh. I've been enjoying restful nights since I got it."
-		}, {
-			name: "Mia L.",
-			rating: 5,
-			comment: "Great sleep aid."
-		}, {
-			name: "David M.",
-			rating: 5,
-			comment: "I love it."
-		}, {
-			name: "Sophie L.",
-			rating: 4,
-			comment: "👌"
-		}]
-	},
+
+  "Wireless Sleep Mask with Adjustable Headphones": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Sophia M.",
+                rating: 5,
+                comment: "I love that it's washable. I can listen to relaxing music or white noise and enjoy a peaceful night's sleep. Highly recommended."
+            },
+            {
+                name: "Lucas P.",
+                rating: 4,
+                comment: "The audio quality is good, but I wish it had a longer battery life."
+            },
+            {
+                name: "Oliver G.",
+                rating: 5,
+                comment: "It's like a personal sleep sanctuary. The adjustable design is great, and the washable feature keeps it fresh. I've been enjoying restful nights since I got it."
+            },
+            {
+                name: "Mia L.",
+                rating: 5,
+                comment: "Great sleep aid."
+            },
+            {
+                name: "David M.",
+                rating: 5,
+                comment: "I love it."
+            },
+            {
+                name: "Sophie L.",
+                rating: 4,
+                comment: "👌"
+            },
+            {
+                name: "Emily R.",
+                rating: 5,
+                comment: "The best sleep mask I've ever used. The headphones are comfortable, and the sound quality is excellent."
+            },
+            {
+                name: "Jack H.",
+                rating: 5,
+                comment: "This sleep mask has improved my sleep quality significantly. The adjustable headphones are a fantastic feature."
+            },
+            {
+                name: "Liam W.",
+                rating: 5,
+                comment: "Highly recommend this sleep mask. It's comfortable, and the audio quality is top-notch."
+            },
+            {
+                name: "Ava S.",
+                rating: 5,
+                comment: "Perfect for relaxing before bed. The sound quality is great, and the mask is very comfortable."
+            },
+            {
+                name: "Noah T.",
+                rating: 5,
+                comment: "This mask has been a game-changer for my sleep. The headphones are comfortable, and the mask itself is very soft."
+            },
+            {
+                name: "Charlotte N.",
+                rating: 5,
+                comment: "I love this sleep mask! It's comfortable and the sound quality is excellent."
+            },
+            {
+                name: "Mason D.",
+                rating: 4,
+                comment: "Great product, but I wish the battery lasted longer."
+            },
+            {
+                name: "Amelia K.",
+                rating: 5,
+                comment: "The adjustable design is fantastic, and the sound quality is superb. Highly recommend."
+            },
+            {
+                name: "Ethan J.",
+                rating: 5,
+                comment: "This sleep mask has helped me get better sleep. The headphones are a great addition."
+            },
+            {
+                name: "Isabella V.",
+                rating: 5,
+                comment: "Very comfortable and the sound quality is great. It's perfect for a good night's sleep."
+            },
+            {
+                name: "Logan B.",
+                rating: 5,
+                comment: "I've tried many sleep masks, and this one is by far the best. The headphones are a great touch."
+            },
+            {
+                name: "Mia P.",
+                rating: 5,
+                comment: "The perfect sleep aid. The mask is comfortable and the sound quality is excellent."
+            },
+            {
+                name: "James C.",
+                rating: 5,
+                comment: "Great for blocking out noise and light. The headphones are comfortable and sound great."
+            },
+            {
+                name: "Ella F.",
+                rating: 5,
+                comment: "I can't sleep without this mask now. The headphones are comfortable and the mask is very soft."
+            },
+            {
+                name: "Benjamin R.",
+                rating: 4,
+                comment: "Good product, but the battery could last longer."
+            },
+            {
+                name: "Sofia H.",
+                rating: 5,
+                comment: "Excellent sleep mask. The sound quality is great and it's very comfortable."
+            },
+            {
+                name: "Lucas S.",
+                rating: 5,
+                comment: "This mask has helped me get better sleep. The headphones are comfortable and the sound quality is good."
+            },
+            {
+                name: "Avery W.",
+                rating: 5,
+                comment: "Highly recommend this sleep mask. It's comfortable and the sound quality is excellent."
+            }
+        ]
+    },
 	"Electric Foot Grinder for Smooth, Healthy Feet": {
 		averageRating: 4.8,
 		reviews: [{
@@ -8526,7 +8604,237 @@ const productData = {
             },
         ]
     },
-
+	"350ml Electric Protein Shaker Mixing Cup - Self Stirring Water Bottle": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This shaker is fantastic! It's so easy to use and mixes my protein shakes perfectly every time."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my gym sessions. The self-stirring feature is very convenient and the bottle is easy to clean."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4,
+                comment: "Love this shaker! It's compact, efficient, and makes mixing drinks a breeze. Highly recommend. Only wish the battery life was a bit longer."
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great product for fitness enthusiasts. It's easy to use and you can feel the quality. The one-button switch is very handy."
+            },
+            {
+                name: "Sam K.",
+                rating: 4,
+                comment: "Exactly what I needed for my protein shakes. The automatic mixing is a game-changer, and it's well-built. Could be a bit quieter."
+            },
+        ]
+    },
+	"Electric Abs Abdominal Trainer Toning Belt EMS Muscle Stimulator Toner": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This toning belt is fantastic! It's easy to use and very effective. My abs feel stronger already.",
+                image: "https://i.postimg.cc/d1PPVsxD/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home workouts. The EMS technology really works, and the belt is comfortable to wear.",
+                image: "https://i.postimg.cc/kMN9DS9C/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend.",
+                image: "https://i.postimg.cc/m28syGt6/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 5,
+                comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable.",
+                image: "https://i.postimg.cc/htvqC3m4/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.7,
+                comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the belt is well-made.",
+                image: "https://i.postimg.cc/659KZQ5v/download-4.jpg"
+            },
+            {
+                name: "Emily W.",
+                rating: 4.8,
+                comment: "This stimulator is very efficient and easy to use. The battery lasts long enough for multiple sessions.",
+                image: "https://i.postimg.cc/x1ZVByGv/download-5.jpg"
+            },
+            {
+                name: "Mark D.",
+                rating: 5,
+                comment: "The portability of this toning belt makes it a perfect companion for my fitness journey.",
+                image: "https://i.postimg.cc/x8nwLsY2/download-6.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 4.7,
+                comment: "Easy to use and highly effective. The EMS technology is a great feature.",
+                image: "https://i.postimg.cc/vBrR1JJh/download-7.jpg"
+            },
+            {
+                name: "Liam G.",
+                rating: 4.9,
+                comment: "The best muscle stimulator I've used. It works quickly and the results are noticeable.",
+                image: "https://i.postimg.cc/tgVGbZDL/download-8.jpg"
+            }
+        ]
+    },
+	"Compact & Convenient Electric Razor for Men - USB Rechargeable, Wet & Dry": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This razor is fantastic! It's easy to use and gives a close shave every time. The USB charging is very convenient.",
+                image: "https://i.postimg.cc/ZR4mLYF2/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my travel needs. The compact size and wet/dry use make it versatile and effective.",
+                image: "https://i.postimg.cc/k58Mcpr6/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this razor! It's compact, easy to use, and the battery life is great. Highly recommend.",
+                image: "https://i.postimg.cc/cJQZYtYf/download-10.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great razor for home and travel. The one-button operation is very handy, and it provides a smooth shave.",
+                image: "https://i.postimg.cc/Mpfz6FpP/download-11.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for my daily shave. The USB charging is a big plus and it works well both wet and dry.",
+                image: "https://i.postimg.cc/RCGSXtYR/download-2.jpg"
+            },
+            {
+                name: "Emily W.",
+                rating: 4.9,
+                comment: "This razor is very efficient and easy to use. The compact design makes it perfect for travel.",
+                image: "https://i.postimg.cc/bNJzMJcj/download-3.jpg"
+            },
+            {
+                name: "Mark D.",
+                rating: 5,
+                comment: "The portability of this razor makes it a perfect companion for my travels. Great performance and easy to clean.",
+                image: "https://i.postimg.cc/0Q0kgKy9/download-4.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 4.7,
+                comment: "Easy to use and highly effective. The wet/dry feature is a great addition.",
+                image: "https://i.postimg.cc/B60SwBsh/download-5.jpg"
+            },
+            {
+                name: "Liam G.",
+                rating: 4.8,
+                comment: "The best razor I've owned. It works quickly and the results are always smooth.",
+                image: "https://i.postimg.cc/qqmpqfKY/download-6.jpg"
+            },
+            {
+                name: "Noah F.",
+                rating: 4.6,
+                comment: "This razor performs well both at home and on the go. The one-button operation is very convenient.",
+                image: "https://i.postimg.cc/nrVHnVXB/download-7.jpg"
+            },
+            {
+                name: "Mia S.",
+                rating: 5,
+                comment: "Fantastic razor! The USB charging and wet/dry use make it perfect for my needs.",
+                image: "https://i.postimg.cc/BQVqG04P/download-8.jpg"
+            },
+            {
+                name: "Lucas P.",
+                rating: 4.7,
+                comment: "Reliable and effective. The compact size is perfect for travel, and it gives a great shave.",
+                image: "https://i.postimg.cc/XvM4pkZV/download-9.jpg"
+            }
+        ]
+    },
+	"Portable Fascia Gun Deep Tissue Massage Mini Lightweight Adjustable Speed": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This fascia gun is fantastic! It's easy to use and provides great relief for my sore muscles.",
+                image: "https://i.postimg.cc/1tfkBgVW/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for home use. The adjustable speed settings make it versatile and effective.",
+                image: "https://i.postimg.cc/Wzq5Fgqv/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this massage gun! It's compact, lightweight, and really helps with muscle recovery.",
+                image: "https://i.postimg.cc/Cx0V0L91/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great device for deep tissue massage. It's easy to handle and the battery life is impressive.",
+                image: "https://i.postimg.cc/nV6Jd1kq/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for my post-workout recovery. The adjustable speeds are very convenient.",
+                image: "https://i.postimg.cc/kDrfxGWt/download-4.jpg"
+            },
+            {
+                name: "Emily W.",
+                rating: 4.7,
+                comment: "This massage gun is very efficient and easy to use. The adjustable speed settings are a great feature.",
+                image: "https://i.postimg.cc/43LCpvy7/download-5.jpg"
+            },
+            {
+                name: "Mark D.",
+                rating: 4.9,
+                comment: "The portability of this fascia gun makes it perfect for my gym bag. Great performance and easy to clean.",
+                image: "https://i.postimg.cc/26MPKz4C/download-6.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 4.6,
+                comment: "Easy to use and highly effective. The deep tissue massage feature is a game-changer.",
+                image: "https://i.postimg.cc/WbgPxJWC/download-7.jpg"
+            },
+            {
+                name: "Liam G.",
+                rating: 4.8,
+                comment: "The best massage gun I've owned. It works quickly and the results are always satisfying.",
+                image: "https://i.postimg.cc/fRvQRQhv/download-8.jpg"
+            },
+            {
+                name: "Noah F.",
+                rating: 4.7,
+                comment: "This fascia gun performs well both at home and on the go. The adjustable speed settings are very convenient.",
+                image: "https://i.postimg.cc/bvNcGVyf/download-9.jpg"
+            }
+        ]
+    },
 		  };
 		  
 
