@@ -9123,7 +9123,7 @@ const productData = {
             }
         ]
     },
-	"WJG Wi-fi Surveillance Camera 1080P 5Ghz Wifi Camera Outdoor": {
+	"4Pcs MSL Wi-fi Surveillance Camera 1080P 5Ghz Wifi Camera Outdoor": {
         averageRating: 4.9,
         reviews: [
             {
