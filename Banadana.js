@@ -8835,6 +8835,136 @@ const productData = {
             }
         ]
     },
+	"Automatic Foam Soap Dispensers For Bathroom Smart Washing Hand Machine": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This soap dispenser is fantastic! It's easy to use and very convenient.",
+                image: "https://i.postimg.cc/KjrYs6ZQ/download-2.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my bathroom. The USB charging is a great feature and it works perfectly.",
+                image: "https://i.postimg.cc/SQWjsMW8/download.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this soap dispenser! It's stylish and very practical. Highly recommend."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my bathroom. The automatic dispensing is very convenient and hygienic."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+    "Wall Mounted Black Roll Paper Storage Rack Induction Aromatherapy Tissue Holder": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This tissue holder is amazing! The aromatherapy feature is a great addition and it looks sleek in my bathroom.",
+                image: "https://i.postimg.cc/G2RwSHHw/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my bathroom. The induction aromatherapy works perfectly and it keeps everything organized.",
+                image: "https://i.postimg.cc/bJRcXptG/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this tissue holder! It's stylish and very practical. Highly recommend.",
+                image: "https://i.postimg.cc/rsF6M31f/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my bathroom. The automatic aroma release is very convenient and keeps the bathroom fresh."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"Mini Wifi IP Camera 1080P Baby Monitor Indoor Safety Security Camcorder": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This camera is fantastic! The video quality is clear and the night vision works great."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for monitoring my baby. The audio feature is very handy and the setup was easy."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this camera! It's small and easy to hide. Highly recommend for home security."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my home security system. The night vision and audio features are very useful."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for indoor surveillance. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"GIRIER Tuya WiFi Smart IR Remote Control Hub": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This remote control hub is fantastic! It integrates perfectly with Alexa and Google Home.",
+                image: "https://i.postimg.cc/HxTW8S0y/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for controlling all my devices. The setup was easy and it works flawlessly.",
+                image: "https://i.postimg.cc/Fs6KCVvM/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this smart hub! It's small and easy to hide. Highly recommend for home automation.",
+                image: "https://i.postimg.cc/Xvf7JM5W/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my smart home setup. The voice control feature is very convenient.",
+                image: "https://i.postimg.cc/LsK824nv/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for controlling multiple devices. The quality is excellent and it's very easy to use.",
+                image: "https://i.postimg.cc/T3W3z5Yp/download-4.jpg"
+            }
+        ]
+    },
 		  };
 		  
 
