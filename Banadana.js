@@ -8998,6 +8998,163 @@ const productData = {
             }
         ]
     },
+	"Ultra-Thin Tiny Mini Voice Recorder 8GB Sound Activated Dictaphone": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This voice recorder is fantastic! The sound quality is clear and the noise reduction works great.",
+                image: "https://i.postimg.cc/sDPkvpfk/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for recording meetings. The sound activation feature is very handy and the setup was easy.",
+                image: "https://i.postimg.cc/Cx7p6bWG/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this recorder! It's small and easy to hide. Highly recommend for discreet recording.",
+                image: "https://i.postimg.cc/1zz1xfQL/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my recording equipment. The noise reduction and sound activation features are very useful.",
+                image: "https://i.postimg.cc/Y9Gc9ZjR/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use.",
+                image: "https://i.postimg.cc/mr6fTBZh/download-4.jpg"
+            },
+            {
+                name: "Sophia L.",
+                rating: 5,
+                comment: "The best recorder I've used so far. The sound is crystal clear and the design is so sleek!",
+                image: "https://i.postimg.cc/nz6yQ2DJ/download-5.jpg"
+            },
+            {
+                name: "Michael B.",
+                rating: 5,
+                comment: "Amazing product! The voice activation is spot on, and the recordings are very clear.",
+                image: "https://i.postimg.cc/rsxvG41t/download-6.jpg"
+            },
+            {
+                name: "Emily W.",
+                rating: 4.6,
+                comment: "Very handy and easy to use. The thin design makes it very portable.",
+                image: "https://i.postimg.cc/28fpkHYd/download-7.jpg"
+            },
+            {
+                name: "Daniel H.",
+                rating: 4.7,
+                comment: "Great for lectures and meetings. The noise reduction is very effective.",
+                image: "https://i.postimg.cc/1RFh1kk5/download-8.jpg"
+            },
+            {
+                name: "Laura G.",
+                rating: 4.8,
+                comment: "Superb quality and easy to operate. Highly recommended for professionals.",
+                image: "https://i.postimg.cc/CxFWDzzz/download-9.jpg"
+            }
+        ]
+    },
+	"2.8 inch LCD Door Viewer Camera Night Vision Doorbell": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This door viewer camera is fantastic! The night vision is clear and the LCD display is sharp."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for monitoring my front door. The wide viewing angle and photo shooting features are very useful."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this doorbell camera! It's easy to install and works great. Highly recommend for home security."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my home security system. The night vision and wide-angle lens are very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for monitoring my front door. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"2.8\" LCD Screen Electronic Door Viewer Bell Night Door Camera": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This door viewer camera is fantastic! The night vision is clear and the LCD display is sharp."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for monitoring my front door. The photo recording feature is very useful."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this doorbell camera! It's easy to install and works great. Highly recommend for home security."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my home security system. The night vision and photo recording features are very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Exactly what I needed for monitoring my front door. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"WJG Wi-fi Surveillance Camera 1080P 5Ghz Wifi Camera Outdoor": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This surveillance camera is fantastic! The video quality is clear and the 5Ghz Wifi connection is stable.",
+				image:"https://i.postimg.cc/B6L60h39/download-19.jpg"
+            },
+            { 
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for outdoor security. The zoom feature is very useful and the night vision works great."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this camera! It's easy to install and the waterproof design is perfect for outdoor use."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my home security system. The two-way audio and night vision features are very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.9,
+                comment: "Exactly what I needed for monitoring my home. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+
 		  };
 		  
 
