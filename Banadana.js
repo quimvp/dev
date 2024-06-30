@@ -8965,6 +8965,39 @@ const productData = {
             }
         ]
     },
+	"Bathroom Electric Towel Rack Smart Heated Towel Radiator with UV Lamp": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This towel rack is amazing! The heating and UV lamp features are fantastic. Keeps my towels warm and germ-free.",
+                image: "https://i.postimg.cc/G2RwSHHw/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my bathroom. The thermostatic control works perfectly and it looks sleek.",
+                image: "https://i.postimg.cc/bJRcXptG/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this towel rack! It's stylish and very practical. Highly recommend.",
+                image: "https://i.postimg.cc/rsF6M31f/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my bathroom. The automatic temperature control is very convenient and keeps the towels at the perfect warmth."
+            },
+            {
+                name: "Sam K.",
+                rating: 5,
+                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
 		  };
 		  
 
