@@ -3,16 +3,3 @@
   "features": {
   }
 }
-docker run --volume $(pwd):/repo \
-    'mcr.microsoft.com/oryx/build:latest' \
-    oryx build /repo --output /repo
-
-# run
-
-# the -p/--publish and -e/--env flags specify and open a host port
-docker run --detach --rm \
-    --volume $(pwd):/app \
-    --env PORT=8080 \
-    --publish 8080:8080 \
-    'mcr.microsoft.com/oryx/node:10' \
-    sh -c 'oryx create-script -appPath /app && /run.sh'
