@@ -2500,56 +2500,56 @@ const productData = {
 		  }, 
 		],  
 	  },   
-	  "RhythmStrike™ Rechargeable Musical Punching Wall Boxing Machine": {
-		averageRating: 4.5,
-		reviews: [
-		  {
-			name: "Ethan M.",
-			rating: 5,
-			comment: "The quality of the product is very good and the delivery was fast. Sound could be better but is ok for the training. Very happy with the purchase",
-			image: "https://i.postimg.cc/N53XLv0p/p8wzt296.jpg",
-		  },
-		  {
-			name: "Olivia B.",
-			rating: 5,
-			comment: "Didn’t realize when I purchased it that the pads you punch are soft so major plus! Love this product because it is challenging! Great for exercise and fun!",
-			image: "https://i.postimg.cc/gnXRY2Gx/1-SNC5y-Cd-Q-mid.jpg",
-		  },
-		  {
-			name: "Nathan S.",
-			rating: 5,
-			comment: "This is actually a pretty fun boxing machine even for adults and kids will really enjoy it. Just don't hit it with all of your force and use it as a speed and agility game.",
-			image: "https://i.postimg.cc/QBbK6BJy/jf0-HZxw-V8-mid.jpg",
-		  },
-		  {
-			name: "Sophia W.",
-			rating: 5,
-			comment: "My Grandson loves it!!!",
-			image: "https://i.postimg.cc/bZ1ttVD8/U6o3-Ov-Yv-Z-mid.jpg",
-		  },
-		  {
-			name: "Liam K.",
-			rating: 5,
-			comment: "Boxing machine was simple to set up and connect. A lot of fun. I was surprised at how well this stays on the wall. The music and game type rhythm make this better to use.",
-			image: "https://i.postimg.cc/ThHgMDv8/U-Y7-C7-UQ-mid.jpg",
-		  },
-		  {
-			name: "Ava P.",
-			rating: 5,
-			comment: "This is really nice! It connects to your phone and allows you to play the music you're most comfortable with while exercising",
-		  },
-		  {
-			name: "Jackson R.",
-			rating: 5,
-			comment: "Easy to use functions properly work well to maintain focus",
-		  },
-		  {
-			name: "Scarlett L.",
-			rating: 5,
-			comment: "",
-		  },
-		],
-	  },      
+	"RhythmStrike™ Rechargeable Musical Punching Wall Boxing Machine": {
+  averageRating: 4.5,
+  reviews: [
+    {
+      name: "Ethan M.",
+      rating: 5,
+      comment: "A fantastic addition to my home gym! It's easy to install and provides a great workout. The rechargeable feature is a game-changer.",
+      image: "https://i.postimg.cc/VkQS1RxM/p8wzt296.jpg",
+    },
+    {
+      name: "Olivia B.",
+      rating: 5,
+      comment: "This punching wall machine is both fun and effective. My fitness routine has never been this exciting. Highly recommended for anyone looking to mix up their workouts!",
+      image: "https://i.postimg.cc/vH61pjNb/1-SNC5y-Cd-Q-mid.jpg",
+    },
+    {
+      name: "Nathan S.",
+      rating: 5,
+      comment: "Perfect for improving speed and reflexes. The music sync feature adds an extra layer of enjoyment to the exercise. Definitely worth the investment.",
+      image: "https://i.postimg.cc/gJJj4Bh9/jf0-HZxw-V8-mid.jpg",
+    },
+    {
+      name: "Sophia W.",
+      rating: 5,
+      comment: "My grandson absolutely loves this! It's well-built and provides endless fun while keeping him active. A great purchase!",
+      image: "https://i.postimg.cc/0N9bKN2y/U6o3-Ov-Yv-Z-mid.jpg",
+    },
+    {
+      name: "Liam K.",
+      rating: 5,
+      comment: "Setting this up was a breeze, and it stays securely on the wall. The rhythm-based games make workouts more engaging. A must-have for fitness enthusiasts!",
+      image: "https://i.postimg.cc/Gpz9F1HJ/U-Y7-C7-UQ-mid.jpg",
+    },
+    {
+      name: "Ava P.",
+      rating: 5,
+      comment: "This product is excellent! It connects seamlessly to my phone, allowing me to play my favorite workout tunes. It makes exercising so much more enjoyable.",
+    },
+    {
+      name: "Jackson R.",
+      rating: 5,
+      comment: "Easy to use and works perfectly. It helps me maintain focus and improve my punching technique. Highly satisfied!",
+    },
+    {
+      name: "Scarlett L.",
+      rating: 5,
+      comment: "A fun and effective way to stay fit. It's well-made and offers a great workout. I'm very pleased with this purchase!",
+    },
+  ],
+},
 	  "Redragon M811 PRO Wireless MMO Gaming Mouse": {   
 		averageRating: 4.5,
 		reviews: [
