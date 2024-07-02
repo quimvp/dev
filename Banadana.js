@@ -9154,6 +9154,99 @@ const productData = {
             }
         ]
     },
+	"Mini Pen Activated Voice Recorder Espia U Disk 8GB": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This pen recorder is amazing! The audio quality is clear and the noise reduction works great.",
+                image: "https://i.postimg.cc/4xDs2fjv/download-1.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for discreet recording. The sound activation feature is very handy and the setup was easy.",
+                image: "https://i.postimg.cc/XqYbBpyW/download.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording.",
+                image: "https://i.postimg.cc/V6RwNjv4/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.8,
+                comment: "Great addition to my recording tools. The noise reduction and sound activation features are very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.7,
+                comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"Q70 500-Hour Voice Recorder with Magnetic Absorption, Noise Reduction, and MP3 Playback": {
+        averageRating: 4.9,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This recorder is amazing! The long recording time and magnetic absorption are very convenient.",
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for long recordings. The sound activation feature is very handy and the setup was easy.",
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording.",
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great addition to my recording tools. The noise reduction and sound activation features are very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.9,
+                comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
+	"T1 USB Hidden Camera Finder - Spy Lens, Wiretapping, GPS Tracker Detector": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This gadget is amazing! It easily detects hidden cameras and GPS trackers."
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for ensuring my privacy. The device is easy to use and very effective."
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.7,
+                comment: "Love this gadget! It's small and easy to carry. Highly recommend for personal security."
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.8,
+                comment: "Great addition to my security tools. The sound signal finder is very effective."
+            },
+            {
+                name: "Sam K.",
+                rating: 4.9,
+                comment: "Exactly what I needed for detecting hidden devices. The quality is excellent and it's very easy to use."
+            }
+        ]
+    },
 
 		  };
 		  
