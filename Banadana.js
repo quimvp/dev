@@ -9247,6 +9247,107 @@ const productData = {
             }
         ]
     },
+	"Portable EMS Neck Massager - Electric Cervical Vertebra Pain Relief": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This neck massager is fantastic! It really helps relieve my neck pain.",
+                image: "https://i.postimg.cc/MKqR8GSD/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for shoulder relaxation. The EMS technology is very effective.",
+                image: "https://i.postimg.cc/TYJVyD9F/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this massager! It's easy to use and provides great relief.",
+                image: "https://i.postimg.cc/JhGZddLC/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great for neck pain relief. The portable design is a big plus.",
+                image: "https://i.postimg.cc/3wVmMC84/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.6,
+                comment: "Exactly what I needed for my sore muscles. Very effective and easy to use.",
+                image: "https://i.postimg.cc/7ZPgSZt6/download-4.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.6,
+                comment: "It’s very effective. I use it after long working hours.",
+                image: "https://i.postimg.cc/4x8pPRj1/download-5.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "I love the portable design and multiple modes.",
+                image: "https://i.postimg.cc/Y21gVWJ0/download-6.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.8,
+                comment: "Very helpful for my shoulder relaxation.",
+                image: "https://i.postimg.cc/fyhdyz0M/download-7.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 4.7,
+                comment: "Perfect for using anywhere, anytime.",
+                image: "https://i.postimg.cc/fLdXMtyH/download-8.jpg"
+            },
+            {
+                name: "Chris M.",
+                rating: 4.9,
+                comment: "Relieves pain effectively. Highly recommended.",
+                image: "https://i.postimg.cc/cCMn8pQw/download-9.jpg"
+            }
+        ]
+    },
+	"Electric Leg Massager - Wireless Rechargeable Air Compression for Pain Relief": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This leg massager is fantastic! It really helps relieve my leg pain.",
+                image: "https://i.postimg.cc/26dtV5Xw/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for calf muscle relaxation. The air compression is very effective.",
+                image: "https://i.postimg.cc/T3hBCfpd/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this massager! It's easy to use and provides great relief.",
+                image: "https://i.postimg.cc/76rcHzXh/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great for leg pain relief. The wireless design is a big plus.",
+                image: "https://i.postimg.cc/6QvgxcrF/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.9,
+                comment: "Exactly what I needed for my sore muscles. Very effective and easy to use.",
+                image: "https://i.postimg.cc/Mp4NLNQy/download-4.jpg"
+            }
+        ]
+    },
+	
 
 		  };
 		  
