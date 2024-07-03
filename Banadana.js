@@ -9347,6 +9347,136 @@ const productData = {
             }
         ]
     },
+	"3-in-1 Wireless Charger Stand - Magsafe, Airpods Pro, Apple Watch Fast Charging Station": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Chris M.",
+                rating: 5,
+                comment: "This charger is fantastic! It charges all my devices quickly and efficiently.",
+                image: "https://i.postimg.cc/L4btjSKB/download.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 5,
+                comment: "Perfect for my desk. The Magsafe compatibility is a game-changer.",
+                image: "https://i.postimg.cc/d3LGgHdy/download-1.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.8,
+                comment: "Love this charger! It's easy to use and keeps everything organized.",
+                image: "https://i.postimg.cc/PqQbD8TP/download-2.jpg"
+            },
+            {
+                name: "Taylor R.",
+                rating: 4.7,
+                comment: "Great for charging multiple devices at once. The design is sleek.",
+                image: "https://i.postimg.cc/MKfyDLzk/download-3.jpg"
+            },
+            {
+                name: "Sam K.",
+                rating: 4.9,
+                comment: "Exactly what I needed for my charging needs. Very effective and stylish.",
+                image: "https://i.postimg.cc/ZRY8xK5j/download-4.jpg"
+            },
+            {
+                name: "Chris M.",
+                rating: 4.7,
+                comment: "Highly recommended for anyone with multiple Apple devices.",
+                image: "https://i.postimg.cc/RFPcs53m/download-5.jpg"
+            },
+            {
+                name: "Alex T.",
+                rating: 4.8,
+                comment: "Charges my devices quickly and efficiently. Love the design.",
+                image: "https://i.postimg.cc/Xqm9WfcD/download-6.jpg"
+            },
+            {
+                name: "Jordan P.",
+                rating: 4.7,
+                comment: "Very convenient and works perfectly with my devices.",
+                image: "https://i.postimg.cc/zGmTPkfy/download-7.jpg"
+            }
+        ]
+    },
+	"6MP Indoor Security WIFI Camera - IP 2-Way Audio, HD Night Vision, AI Human Detect": {
+        averageRating: 4.8,
+        reviews: [
+            {
+                name: "Sophia M.",
+                rating: 5,
+                comment: "The camera quality is fantastic, and the AI detection really helps reduce false alarms. Highly recommend!",
+                image: "https://i.postimg.cc/bwjmWnYw/download.jpg"
+            },
+            {
+                name: "Lucas P.",
+                rating: 4.7,
+                comment: "Great camera for home security. The night vision is clear and the 2-way audio is very convenient.",
+                image: "https://i.postimg.cc/sfvHhy0s/download-1.jpg"
+            },
+            {
+                name: "Oliver G.",
+                rating: 5,
+                comment: "Easy to set up and use. The AI detection is a game-changer for home security.",
+                image: "https://i.postimg.cc/52qsVtjq/download-2.jpg"
+            },
+            {
+                name: "Mia L.",
+                rating: 4.8,
+                comment: "Very satisfied with this purchase. The camera works perfectly and provides peace of mind.",
+                image: "https://i.postimg.cc/4Nc8WPg0/download-3.jpg"
+            },
+            {
+                name: "David M.",
+                rating: 5,
+                comment: "The video quality is excellent and the AI human detection is very accurate.",
+                image: "https://i.postimg.cc/BZkY5ydD/download-4.jpg"
+            },
+            {
+                name: "Sophie L.",
+                rating: 4.6,
+                comment: "Great value for the price. The camera has all the features I need for home security.",
+                image: "https://i.postimg.cc/0Nkc2qwg/download-5.jpg"
+            },
+            {
+                name: "Chris M.",
+                rating: 4.7,
+                comment: "Highly recommend this camera. The night vision is clear and the AI detection is very helpful.",
+                image: "https://i.postimg.cc/KY0Q1sP1/download-6.jpg"
+            }
+        ]
+    },
+	"HD 1080P Wearable Body Pen Camera - Mini DVR Camcorder Micro Camera": {
+        averageRating: 4.7,
+        reviews: [
+            {
+                name: "Sophia M.",
+                rating: 5,
+                comment: "Extremely handy and covert, perfect for recording discreetly. Video quality is superb for such a small device.",
+                image: "https://i.postimg.cc/66vLKQm2/download.jpg"
+            },
+            {
+                name: "Lucas P.",
+                rating: 4.6,
+                comment: "Good build quality and very easy to use. It's perfect for recording lectures.",
+                image: "https://i.postimg.cc/ydwm9qk8/download-1.jpg"
+            },
+            {
+                name: "Oliver G.",
+                rating: 4.8,
+                comment: "The camera is discreet and records clear video. Great for personal security.",
+                image: "https://i.postimg.cc/kGKxvjbF/download-2.jpg"
+            },
+            {
+                name: "Mia L.",
+                rating: 5,
+                comment: "Very satisfied with the purchase. It's small, easy to operate, and provides great video quality.",
+                image: "https://i.postimg.cc/kXPNgd0j/download-3.jpg"
+            }
+        ]
+    },
+
 	
 
 		  };
