@@ -9187,23 +9187,23 @@ const productData = {
             }
         ]
     },
-	"Q70 500-Hour Voice Recorder with Magnetic Absorption, Noise Reduction, and MP3 Playback": {
+    "Q70 500-Hour Voice Recorder with Magnetic Absorption, Noise Reduction, and MP3 Playback": {
         averageRating: 4.9,
         reviews: [
             {
                 name: "Chris M.",
                 rating: 5,
-                comment: "This recorder is amazing! The long recording time and magnetic absorption are very convenient.",
+                comment: "This recorder is amazing! The long recording time and magnetic absorption are very convenient."
             },
             {
                 name: "Alex T.",
                 rating: 5,
-                comment: "Perfect for long recordings. The sound activation feature is very handy and the setup was easy.",
+                comment: "Perfect for long recordings. The sound activation feature is very handy and the setup was easy."
             },
             {
                 name: "Jordan P.",
                 rating: 4.8,
-                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording.",
+                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording."
             },
             {
                 name: "Taylor R.",
@@ -9217,7 +9217,7 @@ const productData = {
             }
         ]
     },
-	"T1 USB Hidden Camera Finder - Spy Lens, Wiretapping, GPS Tracker Detector": {
+    "T1 USB Hidden Camera Finder - Spy Lens, Wiretapping, GPS Tracker Detector": {
         averageRating: 4.8,
         reviews: [
             {
@@ -9247,7 +9247,7 @@ const productData = {
             }
         ]
     },
-	"Portable EMS Neck Massager - Electric Cervical Vertebra Pain Relief": {
+    "Portable EMS Neck Massager - Electric Cervical Vertebra Pain Relief": {
         averageRating: 4.7,
         reviews: [
             {
@@ -9312,7 +9312,7 @@ const productData = {
             }
         ]
     },
-	"Electric Leg Massager - Wireless Rechargeable Air Compression for Pain Relief": {
+    "Electric Leg Massager - Wireless Rechargeable Air Compression for Pain Relief": {
         averageRating: 4.8,
         reviews: [
             {
@@ -9347,7 +9347,7 @@ const productData = {
             }
         ]
     },
-	"3-in-1 Wireless Charger Stand - Magsafe, Airpods Pro, Apple Watch Fast Charging Station": {
+    "3-in-1 Wireless Charger Stand - Magsafe, Airpods Pro, Apple Watch Fast Charging Station": {
         averageRating: 4.7,
         reviews: [
             {
@@ -9400,7 +9400,7 @@ const productData = {
             }
         ]
     },
-	"6MP Indoor Security WIFI Camera - IP 2-Way Audio, HD Night Vision, AI Human Detect": {
+    "6MP Indoor Security WIFI Camera - IP 2-Way Audio, HD Night Vision, AI Human Detect": {
         averageRating: 4.8,
         reviews: [
             {
@@ -9447,7 +9447,7 @@ const productData = {
             }
         ]
     },
-	"HD 1080P Wearable Body Pen Camera - Mini DVR Camcorder Micro Camera": {
+    "HD 1080P Wearable Body Pen Camera - Mini DVR Camcorder Micro Camera": {
         averageRating: 4.7,
         reviews: [
             {
@@ -9475,7 +9475,7 @@ const productData = {
                 image: "https://i.postimg.cc/kXPNgd0j/download-3.jpg"
             }
         ]
-    },
+    } 
 
 	
 
