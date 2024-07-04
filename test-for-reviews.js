@@ -5427,41 +5427,47 @@ const productData = {
 		  }
 		]
 	  },
-	  "ExecutiveEssence™ Men's 6-in-1 Business Luxury Gift Set": {
-		averageRating: 5,
-		reviews: [
-		  {
-			name: "Samantha L",
+"ExecutiveEssence™ Men's 6-in-1 Business Luxury Gift Set": {
+	averageRating: 4.9,
+	reviews: [
+		{
+			name: "Michael T",
 			rating: 5,
-			comment: "Surprised my husband with this gift set for his promotion, and he absolutely loved it! The items are all high-quality and perfect for his professional look. Highly recommend!"
-		  },
-		  {
-			name: "Jessica M",
+			comment: "Great quality and stylish. My brother loved it!",
+			image: "https://i.postimg.cc/CKJqgmXJ/download-13.jpg"
+		},
+		{
+			name: "Sarah J",
 			rating: 5,
-			comment: "Bought this as a surprise gift for my boyfriend, and he was thrilled with it! The set is beautifully packaged, and the items are all stylish and useful. Definitely recommend it for surprising your man!"
-		  },
-		  {
-			name: "Alexandra K",
+			comment: "Bought it for my husband. He uses everything in the set daily!",
+			image: "https://i.postimg.cc/8s8FH3fk/download-14.jpg"
+		},
+		{
+			name: "Chris P",
+			rating: 4,
+			comment: "Solid gift, though the pen could be better.",
+			image: "https://i.postimg.cc/hj5QJhSd/download-15.jpg"
+		},
+		{
+			name: "Anna K",
 			rating: 5,
-			comment: "I surprised my dad with this gift set for Father's Day, and he was so happy with it! The quality of the items is outstanding, and it's such a thoughtful and practical gift. Highly recommend for surprising the men in your life!"
-		  },
-		  {
-			name: "Emily S",
+			comment: "Excellent gift for my dad. He was very impressed!",
+			image: "https://i.postimg.cc/500FN8MJ/download-16.jpg"
+		},
+		{
+			name: "Laura B",
 			rating: 5,
-			comment: "Got this gift set as a surprise for my brother's birthday, and he couldn't stop raving about it! The items are all top-notch quality, and it's such a classy and useful gift. Definitely recommend for surprising the special men in your life!"
-		  },
-		  {
-			name: "Madison C",
+			comment: "Perfect anniversary gift for my husband. He loved it!",
+			image: "https://i.postimg.cc/Kj3ktFzs/download-17.jpg"
+		},
+		{
+			name: "David R",
 			rating: 5,
-			comment: "I surprised my fiancé with this gift set for our anniversary, and he was blown away by it! The items are all so stylish and practical, and it's such a perfect gift for any occasion. Highly recommend for surprising your man!"
-		  },
-		  {
-			name: "Hannah W",
-			rating: 5,
-			comment: "Surprised my husband with this gift set for Christmas, and he was so impressed! The quality of the items exceeded our expectations, and it's such a thoughtful and useful gift. Definitely recommend for surprising the men in your life!"
-		  }
-		]
-	  },
+			comment: "High-quality and very useful. I use it every day.",
+			image: "https://i.postimg.cc/vmGVkpqc/download-18.jpg"
+		}
+	]
+}, 
 	  "TurboChase™ Wireless Gravity Sports Car Remote Control Electric Cat Toy": {
 		averageRating: 4.8,
 		reviews: [
