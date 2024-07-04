@@ -9093,7 +9093,7 @@ const productData = {
             }
         ]
     },
-	"2.8\" LCD Screen Electronic Door Viewer Bell Night Door Camera": {
+	"2.8 inch LCD Screen Electronic Door Viewer Bell Night Door Camera": {
         averageRating: 4.8,
         reviews: [
             {
