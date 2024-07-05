@@ -8059,1429 +8059,740 @@ const productData = {
         ]
     },
 	"OmniGrip 3-in-1 Gaming Headphone & Controller Holder": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This holder is perfect for my gaming setup. It keeps everything organized and looks great.",
-                image: "https://i.postimg.cc/MHfZ402Q/611-GVJWn-Bi-L.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Sturdy and easy to install. The extra weight adds to its stability, making it perfect for my desk."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this product! It fits my headphones and controllers perfectly and keeps my desk clean and tidy."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great holder with a non-slip base. It keeps everything organized and looks fantastic."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed to keep my gaming area organized. Highly recommend!"
-            }
-        ]
-    }, 
-    "4 Pcs Gym Abdominal Muscle Stimulator Hip Trainer EMS Fitness Equipment": { 
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This muscle stimulator is amazing! It's easy to use and I've seen great results in my abs and hips."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "I love how portable this device is. Perfect for home workouts and really effective."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Fantastic product! The EMS technology really works, and I can feel my muscles getting stronger."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great addition to my fitness routine. The adjustable intensity levels are perfect for customizing my workouts."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed to tone my abs and hips. Highly recommend this stimulator!"
-            }
-        ]
-    },
-	"1080P HD Mini Camera - Portable BodyCam with Night Vision": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This mini camera is fantastic! The video quality is excellent, and it's so easy to carry around."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my bike rides. The night vision works great, and the videos are very clear."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this camera! It's small, portable, and the 1080P resolution is amazing. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great body cam for daily use. The battery life is impressive and it captures clear videos even at night."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my security job. The night vision is excellent, and it's very easy to use."
-            }
-        ]
-    },
-	"172LED Solar Light Outdoor Waterproof Motion Sensor Floodlight with Remote Control": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This solar light is amazing! The motion sensor works perfectly, and it lights up my backyard beautifully."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Excellent product! The remote control is very convenient, and the light is bright and reliable."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this floodlight! It’s easy to install and provides great illumination for my patio."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great quality and the three lighting modes are very useful. Highly recommend for any outdoor space."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my garage. The waterproof design is perfect for any weather conditions."
-            }
-        ]
-    },
-	"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for discreet home security. The P2P technology ensures a secure connection."
-            }
-        ]
-    },
-	"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4,
-                comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for discreet home security. The P2P technology ensures a secure connection."
-            },
-        ]
-    },
-	"COOSPO HW9 Armband Heart Rate Monitor - HR Zones, Calories, BLE5.0, ANT+": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This heart rate monitor is fantastic! Accurate readings and very comfortable to wear."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my cycling sessions. The BLE5.0 and ANT+ connectivity is seamless."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this HRM! It works great with Zwift and Peloton. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4,
-                comment: "Great addition to my fitness gear. The HR zones and calorie tracking are very helpful."
-            },
-            {
-                name: "Sam K.",
-                rating: 4,
-                comment: "Exactly what I needed for accurate heart rate monitoring during workouts."
-            },
-        ]
-    },
-		
-	"Mini Camera WiFi HD 1080P Hidden IP Night Vision Camcorder Home Security Cam": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
-                image: "https://i.postimg.cc/pr0F1DhK/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great.",
-                image: "https://i.postimg.cc/g2xvQBKj/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend.",
-                image: "https://i.postimg.cc/4xjzgb85/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great camera for monitoring my home. The night vision feature is impressive and the app is user-friendly.",
-                image: "https://i.postimg.cc/XJkF9MnH/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for discreet home security. The hidden design is perfect for inconspicuous monitoring.",
-                image: "https://i.postimg.cc/KjcTN9zZ/download-4.jpg"
-            },
-        ]
-    },
-	"X5 Mini Camera Wireless 1080P Surveillance Security Cam with 32GB SD Card": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
-				image:"https://i.postimg.cc/1zP3w84S/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home security. The WiFi connectivity is seamless, and the night vision is very clear.",
-				image:"https://i.postimg.cc/K8tY1PGQ/download-1.jpg",
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this tiny camera! It's easy to set up and the motion detection feature works perfectly."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great camera for monitoring my home. The included 32GB SD card provides plenty of storage."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
-            },
-        ]
-    },
-	"Alarm Clock Mini Camera 1080P HD WiFi IR Night Vision Motion Detection": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This alarm clock camera is fantastic! It looks just like a regular clock and the video quality is excellent.",
-				image:"https://i.postimg.cc/wTgnQ9FH/download-29.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for discreet home security. The WiFi connectivity is seamless, and the night vision is very clear."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this hidden camera! It's easy to set up and the motion detection feature works perfectly."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great camera for monitoring my home. The design is discreet and it provides clear video footage."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
-            },
-        ]
-    },
-	
-	"1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Sophia J",
-                rating: 5,
-                comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard.",
-                image: "https://i.postimg.cc/Kj54D2GQ/A06dccdda61e14ce9b1e317e6441ebbf02.webp"
-            },
-            {
-                name: "James T",
-                rating: 4,
-                comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better.",
-                image: "https://i.postimg.cc/RZp6Y4cD/A1a529c7b97514d4fbfd2c670bdba4a49o.webp"
-            },
-            {
-                name: "Olivia M",
-                rating: 5,
-                comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze.",
-                image: "https://i.postimg.cc/HsBVJdPk/A225d44270f4d47078cbeb74e5ec03668p.webp"
-            },
-            {
-                name: "William D",
-                rating: 4,
-                comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase.",
-                image: "https://i.postimg.cc/wBSt6245/A34b47c5b4ad5404e9ccf6b51d5ce8216-N.webp"
-            },
-            {
-                name: "Emma B",
-                rating: 5,
-                comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer.",
-                image: "https://i.postimg.cc/Cx5dkXWH/A42991ec3758443239dc3c43a418a2699a.webp"
-            },
-            {
-                name: "Liam K",
-                rating: 4,
-                comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time.",
-                image: "https://i.postimg.cc/rpd0X3jF/A6a59818e87e64640acbae4b87afa0cd5t.webp"
-            },
-            {
-                name: "Ava L",
-                rating: 5,
-                comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system.",
-                image: "https://i.postimg.cc/pTzmyj3w/A6e78d7d8f58d4e319a222840a5f7b58e-B.webp"
-            },
-            {
-                name: "Noah F",
-                rating: 4,
-                comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions.",
-                image: "https://i.postimg.cc/y6hJHFm9/A769beb9eda0e4e7fa194110c2331aad0d.webp"
-            },
-            {
-                name: "Isabella H",
-                rating: 5,
-                comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment.",
-                image: "https://i.postimg.cc/NfgKf5Dn/A82bcd6170dd140609703274c90378b65f.webp"
-            },
-            {
-                name: "Mason C",
-                rating: 4,
-                comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process.",
-                image: "https://i.postimg.cc/902r9Mhr/A9f3fcf59311b43e4b6b18ac66cf300fep.webp"
-            },
-            {
-                name: "Mia S",
-                rating: 5,
-                comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use.",
-                image: "https://i.postimg.cc/XYPq8xWM/Aa699005a0f24453f817f25c5d0fc47e8q.webp"
-            },
-            {
-                name: "Lucas P",
-                rating: 4,
-                comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
-            }
-        ]
-    },
-	    "1080p HD Wireless Security Camera - Full Color Night Vision, Indoor/Outdoor, 2-Way Audio": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Sophia J",
-                rating: 5,
-                comment: "The full-color night vision on this camera is outstanding! It's like watching in daylight. The two-way audio is clear, and it's perfect for keeping an eye on my backyard.",
-                image: "https://i.postimg.cc/Kj54D2GQ/A06dccdda61e14ce9b1e317e6441ebbf02.webp"
-            },
-            {
-                name: "James T",
-                rating: 4,
-                comment: "Solid security camera with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better.",
-                image: "https://i.postimg.cc/RZp6Y4cD/A1a529c7b97514d4fbfd2c670bdba4a49o.webp"
-            },
-            {
-                name: "Olivia M",
-                rating: 5,
-                comment: "Highly recommend this camera! The video quality is superb, and the full-color night vision really adds an extra layer of security. Setup was a breeze.",
-                image: "https://i.postimg.cc/HsBVJdPk/A225d44270f4d47078cbeb74e5ec03668p.webp"
-            },
-            {
-                name: "William D",
-                rating: 4,
-                comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase.",
-                image: "https://i.postimg.cc/wBSt6245/A34b47c5b4ad5404e9ccf6b51d5ce8216-N.webp"
-            },
-            {
-                name: "Emma B",
-                rating: 5,
-                comment: "Excellent security camera! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer.",
-                image: "https://i.postimg.cc/Cx5dkXWH/A42991ec3758443239dc3c43a418a2699a.webp"
-            },
-            {
-                name: "Liam K",
-                rating: 4,
-                comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time.",
-                image: "https://i.postimg.cc/rpd0X3jF/A6a59818e87e64640acbae4b87afa0cd5t.webp"
-            },
-            {
-                name: "Ava L",
-                rating: 5,
-                comment: "I'm very impressed with this camera. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system.",
-                image: "https://i.postimg.cc/pTzmyj3w/A6e78d7d8f58d4e319a222840a5f7b58e-B.webp"
-            },
-            {
-                name: "Noah F",
-                rating: 4,
-                comment: "This camera performs well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions.",
-                image: "https://i.postimg.cc/y6hJHFm9/A769beb9eda0e4e7fa194110c2331aad0d.webp"
-            },
-            {
-                name: "Isabella H",
-                rating: 5,
-                comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment.",
-                image: "https://i.postimg.cc/NfgKf5Dn/A82bcd6170dd140609703274c90378b65f.webp"
-            },
-            {
-                name: "Mason C",
-                rating: 4,
-                comment: "Great camera with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process.",
-                image: "https://i.postimg.cc/902r9Mhr/A9f3fcf59311b43e4b6b18ac66cf300fep.webp"
-            },
-            {
-                name: "Mia S",
-                rating: 5,
-                comment: "Fantastic security camera! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use.",
-                image: "https://i.postimg.cc/XYPq8xWM/Aa699005a0f24453f817f25c5d0fc47e8q.webp"
-            },
-            {
-                name: "Lucas P",
-                rating: 4,
-                comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
-            }
-        ]
-    },
-	"Wireless Car Air Compressor Electric Tire Inflator Pump for Motorcycle Bicycle Boat AUTO Tyre Balls": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This air compressor is fantastic! It's so easy to use and the wireless feature is a game-changer.",
-                image: "https://i.postimg.cc/bY6NYrSm/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my motorcycle and bike tires. The digital display is clear and the pump works quickly.",
-                image: "https://i.postimg.cc/1zp3yKDF/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this inflator! It's portable and powerful, making it perfect for all my inflation needs.",
-                image: "https://i.postimg.cc/R0r0rYJ9/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great tool for keeping my car and boat tires properly inflated. The automatic shut-off feature is very convenient.",
-                image: "https://i.postimg.cc/XqDVs16R/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my sports balls and bicycle tires. Highly recommend this air compressor!",
-                image: "https://i.postimg.cc/jSnjFT5Z/download-4.jpg"
-            },
-            {
-                name: "Emily W.",
-                rating: 5,
-                comment: "This inflator is very efficient and the battery lasts long enough to inflate all my tires.",
-                image: "https://i.postimg.cc/hjs4dPyP/download-5.jpg"
-            },
-            {
-                name: "Mark D.",
-                rating: 5,
-                comment: "The portability of this air compressor makes it a perfect companion for road trips.",
-                image: "https://i.postimg.cc/5yt4qdT5/download-6.jpg"
-            },
-            {
-                name: "Sophia L.",
-                rating: 5,
-                comment: "Easy to use and highly effective. The digital display is a great feature.",
-                image: "https://i.postimg.cc/rFPmjs8D/download-7.jpg"
-            },
-            {
-                name: "Liam G.",
-                rating: 5,
-                comment: "The best air compressor I've owned. It works quickly and the automatic shut-off is very useful.",
-                image: "https://i.postimg.cc/W3TbzJ7H/download-8.jpg"
-            }
-        ]
-    },
-	"USB Rechargable EMS Muscle Stimulator ABS Arm 3 IN 1 Trainer Pad": {
-        averageRating: 5.0,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This EMS stimulator is fantastic! It's easy to use and very effective. My muscles feel stronger already."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home workouts. The rechargeable battery is convenient, and the intensity settings are great."
-            },
-            {
-                name: "Jordan P.",
-                rating: 5,
-                comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the device is well-made."
-            },
-        ]
-    },
-	"350ml Electric Protein Shaker Mixing Cup - Self Stirring Water Bottle": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This shaker is fantastic! It's so easy to use and mixes my protein shakes perfectly every time."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my gym sessions. The self-stirring feature is very convenient and the bottle is easy to clean."
-            },
-            {
-                name: "Jordan P.",
-                rating: 4,
-                comment: "Love this shaker! It's compact, efficient, and makes mixing drinks a breeze. Highly recommend. Only wish the battery life was a bit longer."
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great product for fitness enthusiasts. It's easy to use and you can feel the quality. The one-button switch is very handy."
-            },
-            {
-                name: "Sam K.",
-                rating: 4,
-                comment: "Exactly what I needed for my protein shakes. The automatic mixing is a game-changer, and it's well-built. Could be a bit quieter."
-            },
-        ]
-    },
-	"Electric Abs Abdominal Trainer Toning Belt EMS Muscle Stimulator Toner": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This toning belt is fantastic! It's easy to use and very effective. My abs feel stronger already.",
-                image: "https://i.postimg.cc/d1PPVsxD/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home workouts. The EMS technology really works, and the belt is comfortable to wear.",
-                image: "https://i.postimg.cc/kMN9DS9C/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend.",
-                image: "https://i.postimg.cc/m28syGt6/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 5,
-                comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable.",
-                image: "https://i.postimg.cc/htvqC3m4/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.7,
-                comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the belt is well-made.",
-                image: "https://i.postimg.cc/659KZQ5v/download-4.jpg"
-            },
-            {
-                name: "Emily W.",
-                rating: 4.8,
-                comment: "This stimulator is very efficient and easy to use. The battery lasts long enough for multiple sessions.",
-                image: "https://i.postimg.cc/x1ZVByGv/download-5.jpg"
-            },
-            {
-                name: "Mark D.",
-                rating: 5,
-                comment: "The portability of this toning belt makes it a perfect companion for my fitness journey.",
-                image: "https://i.postimg.cc/x8nwLsY2/download-6.jpg"
-            },
-            {
-                name: "Sophia L.",
-                rating: 4.7,
-                comment: "Easy to use and highly effective. The EMS technology is a great feature.",
-                image: "https://i.postimg.cc/vBrR1JJh/download-7.jpg"
-            },
-            {
-                name: "Liam G.",
-                rating: 4.9,
-                comment: "The best muscle stimulator I've used. It works quickly and the results are noticeable.",
-                image: "https://i.postimg.cc/tgVGbZDL/download-8.jpg"
-            }
-        ]
-    },
-	"Compact & Convenient Electric Razor for Men - USB Rechargeable, Wet & Dry": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This razor is fantastic! It's easy to use and gives a close shave every time. The USB charging is very convenient.",
-                image: "https://i.postimg.cc/ZR4mLYF2/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my travel needs. The compact size and wet/dry use make it versatile and effective.",
-                image: "https://i.postimg.cc/k58Mcpr6/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this razor! It's compact, easy to use, and the battery life is great. Highly recommend.",
-                image: "https://i.postimg.cc/cJQZYtYf/download-10.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great razor for home and travel. The one-button operation is very handy, and it provides a smooth shave.",
-                image: "https://i.postimg.cc/Mpfz6FpP/download-11.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Exactly what I needed for my daily shave. The USB charging is a big plus and it works well both wet and dry.",
-                image: "https://i.postimg.cc/RCGSXtYR/download-2.jpg"
-            },
-            {
-                name: "Emily W.",
-                rating: 4.9,
-                comment: "This razor is very efficient and easy to use. The compact design makes it perfect for travel.",
-                image: "https://i.postimg.cc/bNJzMJcj/download-3.jpg"
-            },
-            {
-                name: "Mark D.",
-                rating: 5,
-                comment: "The portability of this razor makes it a perfect companion for my travels. Great performance and easy to clean.",
-                image: "https://i.postimg.cc/0Q0kgKy9/download-4.jpg"
-            },
-            {
-                name: "Sophia L.",
-                rating: 4.7,
-                comment: "Easy to use and highly effective. The wet/dry feature is a great addition.",
-                image: "https://i.postimg.cc/B60SwBsh/download-5.jpg"
-            },
-            {
-                name: "Liam G.",
-                rating: 4.8,
-                comment: "The best razor I've owned. It works quickly and the results are always smooth.",
-                image: "https://i.postimg.cc/qqmpqfKY/download-6.jpg"
-            },
-            {
-                name: "Noah F.",
-                rating: 4.6,
-                comment: "This razor performs well both at home and on the go. The one-button operation is very convenient.",
-                image: "https://i.postimg.cc/nrVHnVXB/download-7.jpg"
-            },
-            {
-                name: "Mia S.",
-                rating: 5,
-                comment: "Fantastic razor! The USB charging and wet/dry use make it perfect for my needs.",
-                image: "https://i.postimg.cc/BQVqG04P/download-8.jpg"
-            },
-            {
-                name: "Lucas P.",
-                rating: 4.7,
-                comment: "Reliable and effective. The compact size is perfect for travel, and it gives a great shave.",
-                image: "https://i.postimg.cc/XvM4pkZV/download-9.jpg"
-            }
-        ]
-    },
-	"Portable Fascia Gun Deep Tissue Massage Mini Lightweight Adjustable Speed": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This fascia gun is fantastic! It's easy to use and provides great relief for my sore muscles.",
-                image: "https://i.postimg.cc/1tfkBgVW/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for home use. The adjustable speed settings make it versatile and effective.",
-                image: "https://i.postimg.cc/Wzq5Fgqv/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this massage gun! It's compact, lightweight, and really helps with muscle recovery.",
-                image: "https://i.postimg.cc/Cx0V0L91/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great device for deep tissue massage. It's easy to handle and the battery life is impressive.",
-                image: "https://i.postimg.cc/nV6Jd1kq/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Exactly what I needed for my post-workout recovery. The adjustable speeds are very convenient.",
-                image: "https://i.postimg.cc/kDrfxGWt/download-4.jpg"
-            },
-            {
-                name: "Emily W.",
-                rating: 4.7,
-                comment: "This massage gun is very efficient and easy to use. The adjustable speed settings are a great feature.",
-                image: "https://i.postimg.cc/43LCpvy7/download-5.jpg"
-            },
-            {
-                name: "Mark D.",
-                rating: 4.9,
-                comment: "The portability of this fascia gun makes it perfect for my gym bag. Great performance and easy to clean.",
-                image: "https://i.postimg.cc/26MPKz4C/download-6.jpg"
-            },
-            {
-                name: "Sophia L.",
-                rating: 4.6,
-                comment: "Easy to use and highly effective. The deep tissue massage feature is a game-changer.",
-                image: "https://i.postimg.cc/WbgPxJWC/download-7.jpg"
-            },
-            {
-                name: "Liam G.",
-                rating: 4.8,
-                comment: "The best massage gun I've owned. It works quickly and the results are always satisfying.",
-                image: "https://i.postimg.cc/fRvQRQhv/download-8.jpg"
-            },
-            {
-                name: "Noah F.",
-                rating: 4.7,
-                comment: "This fascia gun performs well both at home and on the go. The adjustable speed settings are very convenient.",
-                image: "https://i.postimg.cc/bvNcGVyf/download-9.jpg"
-            }
-        ]
-    },
-	"Automatic Foam Soap Dispensers For Bathroom Smart Washing Hand Machine": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This soap dispenser is fantastic! It's easy to use and very convenient.",
-                image: "https://i.postimg.cc/KjrYs6ZQ/download-2.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my bathroom. The USB charging is a great feature and it works perfectly.",
-                image: "https://i.postimg.cc/SQWjsMW8/download.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this soap dispenser! It's stylish and very practical. Highly recommend."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my bathroom. The automatic dispensing is very convenient and hygienic."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-    "Wall Mounted Black Roll Paper Storage Rack Induction Aromatherapy Tissue Holder": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This tissue holder is amazing! The aromatherapy feature is a great addition and it looks sleek in my bathroom.",
-                image: "https://i.postimg.cc/G2RwSHHw/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my bathroom. The induction aromatherapy works perfectly and it keeps everything organized.",
-                image: "https://i.postimg.cc/bJRcXptG/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this tissue holder! It's stylish and very practical. Highly recommend.",
-                image: "https://i.postimg.cc/rsF6M31f/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my bathroom. The automatic aroma release is very convenient and keeps the bathroom fresh."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-	"Mini Wifi IP Camera 1080P Baby Monitor Indoor Safety Security Camcorder": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This camera is fantastic! The video quality is clear and the night vision works great."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for monitoring my baby. The audio feature is very handy and the setup was easy."
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this camera! It's small and easy to hide. Highly recommend for home security."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my home security system. The night vision and audio features are very useful."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Exactly what I needed for indoor surveillance. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-	"GIRIER Tuya WiFi Smart IR Remote Control Hub": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This remote control hub is fantastic! It integrates perfectly with Alexa and Google Home.",
-                image: "https://i.postimg.cc/HxTW8S0y/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for controlling all my devices. The setup was easy and it works flawlessly.",
-                image: "https://i.postimg.cc/Fs6KCVvM/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this smart hub! It's small and easy to hide. Highly recommend for home automation.",
-                image: "https://i.postimg.cc/Xvf7JM5W/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my smart home setup. The voice control feature is very convenient.",
-                image: "https://i.postimg.cc/LsK824nv/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Exactly what I needed for controlling multiple devices. The quality is excellent and it's very easy to use.",
-                image: "https://i.postimg.cc/T3W3z5Yp/download-4.jpg"
-            }
-        ]
-    },
-	"Bathroom Electric Towel Rack Smart Heated Towel Radiator with UV Lamp": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This towel rack is amazing! The heating and UV lamp features are fantastic. Keeps my towels warm and germ-free.",
-                image: "https://i.postimg.cc/G2RwSHHw/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my bathroom. The thermostatic control works perfectly and it looks sleek.",
-                image: "https://i.postimg.cc/bJRcXptG/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this towel rack! It's stylish and very practical. Highly recommend.",
-                image: "https://i.postimg.cc/rsF6M31f/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my bathroom. The automatic temperature control is very convenient and keeps the towels at the perfect warmth."
-            },
-            {
-                name: "Sam K.",
-                rating: 5,
-                comment: "Exactly what I needed for my bathroom. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-	"Ultra-Thin Tiny Mini Voice Recorder 8GB Sound Activated Dictaphone": {
-            averageRating: 4.8,
-            reviews: [
-                {
-                    name: "Chris M.",
-                    rating: 5,
-                    comment: "This voice recorder is fantastic! The sound quality is clear and the noise reduction works great.",
-                    image: "https://i.postimg.cc/sDPkvpfk/download.jpg"
-                },
-                {
-                    name: "Alex T.",
-                    rating: 5,
-                    comment: "Perfect for recording meetings. The sound activation feature is very handy and the setup was easy.",
-                    image: "https://i.postimg.cc/Cx7p6bWG/download-1.jpg"
-                },
-                {
-                    name: "Jordan P.",
-                    rating: 4.6,
-                    comment: "Love this recorder! It's small and easy to hide. Highly recommend for discreet recording.",
-                    image: "https://i.postimg.cc/1zz1xfQL/download-2.jpg"
-                },
-                {
-                    name: "Taylor R.",
-                    rating: 4.7,
-                    comment: "Great addition to my recording equipment. The noise reduction and sound activation features are very useful.",
-                    image: "https://i.postimg.cc/Y9Gc9ZjR/download-3.jpg"
-                },
-                {
-                    name: "Sam K.",
-                    rating: 4.8,
-                    comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use.",
-                    image: "https://i.postimg.cc/mr6fTBZh/download-4.jpg"
-                },
-                {
-                    name: "Sophia L.",
-                    rating: 5,
-                    comment: "The best recorder I've used so far. The sound is crystal clear and the design is so sleek!",
-                    image: "https://i.postimg.cc/nz6yQ2DJ/download-5.jpg"
-                },
-                {
-                    name: "Michael B.",
-                    rating: 5,
-                    comment: "Amazing product! The voice activation is spot on, and the recordings are very clear.",
-                    image: "https://i.postimg.cc/rsxvG41t/download-6.jpg"
-                },
-                {
-                    name: "Emily W.",
-                    rating: 4.6,
-                    comment: "Very handy and easy to use. The thin design makes it very portable.",
-                    image: "https://i.postimg.cc/28fpkHYd/download-7.jpg"
-                },
-                {
-                    name: "Daniel H.",
-                    rating: 4.7,
-                    comment: "Great for lectures and meetings. The noise reduction is very effective.",
-                    image: "https://i.postimg.cc/1RFh1kk5/download-8.jpg"
-                },
-                {
-                    name: "Laura G.",
-                    rating: 4.8,
-                    comment: "Superb quality and easy to operate. Highly recommended for professionals.",
-                    image: "https://i.postimg.cc/CxFWDzzz/download-9.jpg"
-                }
-            ]
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Chris M.",
+            rating: 5,
+            comment: "This holder is perfect for my gaming setup. It keeps everything organized and looks great.",
+            image: "https://i.postimg.cc/MHfZ402Q/611-GVJWn-Bi-L.jpg"
         },
-        "2.8 inch LCD Door Viewer Camera Night Vision Doorbell": {
-            averageRating: 4.8,
-            reviews: [
-                {
-                    name: "Chris M.",
-                    rating: 5,
-                    comment: "This door viewer camera is fantastic! The night vision is clear and the LCD display is sharp."
-                },
-                {
-                    name: "Alex T.",
-                    rating: 5,
-                    comment: "Perfect for monitoring my front door. The wide viewing angle and photo shooting features are very useful."
-                },
-                {
-                    name: "Jordan P.",
-                    rating: 4.6,
-                    comment: "Love this doorbell camera! It's easy to install and works great. Highly recommend for home security."
-                },
-                {
-                    name: "Taylor R.",
-                    rating: 4.7,
-                    comment: "Great addition to my home security system. The night vision and wide-angle lens are very effective."
-                },
-                {
-                    name: "Sam K.",
-                    rating: 4.8,
-                    comment: "Exactly what I needed for monitoring my front door. The quality is excellent and it's very easy to use."
-                }
-            ]
+        {
+            name: "Alex T.",
+            rating: 5,
+            comment: "Sturdy and easy to install. The extra weight adds to its stability, making it perfect for my desk."
         },
-        "2.8 inch LCD Screen Electronic Door Viewer Bell Night Door Camera": {
-            averageRating: 4.8,
-            reviews: [
-                {
-                    name: "Chris M.",
-                    rating: 5,
-                    comment: "This door viewer camera is fantastic! The night vision is clear and the LCD display is sharp."
-                },
-                {
-                    name: "Alex T.",
-                    rating: 5,
-                    comment: "Perfect for monitoring my front door. The photo recording feature is very useful."
-                },
-                {
-                    name: "Jordan P.",
-                    rating: 4.6,
-                    comment: "Love this doorbell camera! It's easy to install and works great. Highly recommend for home security."
-                },
-                {
-                    name: "Taylor R.",
-                    rating: 4.7,
-                    comment: "Great addition to my home security system. The night vision and photo recording features are very effective."
-                },
-                {
-                    name: "Sam K.",
-                    rating: 4.8,
-                    comment: "Exactly what I needed for monitoring my front door. The quality is excellent and it's very easy to use."
-                }
-            ]
+        {
+            name: "Jordan P.",
+            rating: 5,
+            comment: "Love this product! It fits my headphones and controllers perfectly and keeps my desk clean and tidy."
         },
-        "4Pcs MSL Wi-fi Surveillance Camera 1080P 5Ghz Wifi Camera Outdoor": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This surveillance camera is fantastic! The video quality is clear and the 5Ghz Wifi connection is stable.",
-                image: "https://i.postimg.cc/B6L60h39/download-19.jpg"
-            },
-            { 
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for outdoor security. The zoom feature is very useful and the night vision works great."
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this camera! It's easy to install and the waterproof design is perfect for outdoor use."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my home security system. The two-way audio and night vision features are very effective."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.9,
-                comment: "Exactly what I needed for monitoring my home. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-    "Mini Pen Activated Voice Recorder Espia U Disk 8GB": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This pen recorder is amazing! The audio quality is clear and the noise reduction works great.",
-                image: "https://i.postimg.cc/4xDs2fjv/download-1.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for discreet recording. The sound activation feature is very handy and the setup was easy.",
-                image: "https://i.postimg.cc/XqYbBpyW/download.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording.",
-                image: "https://i.postimg.cc/V6RwNjv4/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.8,
-                comment: "Great addition to my recording tools. The noise reduction and sound activation features are very effective."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.7,
-                comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-    "Q70 500-Hour Voice Recorder with Magnetic Absorption, Noise Reduction, and MP3 Playback": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This recorder is amazing! The long recording time and magnetic absorption are very convenient."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for long recordings. The sound activation feature is very handy and the setup was easy."
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this recorder! It's small and easy to carry. Highly recommend for professional recording."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great addition to my recording tools. The noise reduction and sound activation features are very effective."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.9,
-                comment: "Exactly what I needed for high-quality recordings. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-    "T1 USB Hidden Camera Finder - Spy Lens, Wiretapping, GPS Tracker Detector": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This gadget is amazing! It easily detects hidden cameras and GPS trackers."
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for ensuring my privacy. The device is easy to use and very effective."
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.7,
-                comment: "Love this gadget! It's small and easy to carry. Highly recommend for personal security."
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.8,
-                comment: "Great addition to my security tools. The sound signal finder is very effective."
-            },
-            {
-                name: "Sam K.",
-                rating: 4.9,
-                comment: "Exactly what I needed for detecting hidden devices. The quality is excellent and it's very easy to use."
-            }
-        ]
-    },
-    "Portable EMS Neck Massager - Electric Cervical Vertebra Pain Relief": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This neck massager is fantastic! It really helps relieve my neck pain.",
-                image: "https://i.postimg.cc/MKqR8GSD/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for shoulder relaxation. The EMS technology is very effective.",
-                image: "https://i.postimg.cc/TYJVyD9F/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this massager! It's easy to use and provides great relief.",
-                image: "https://i.postimg.cc/JhGZddLC/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great for neck pain relief. The portable design is a big plus.",
-                image: "https://i.postimg.cc/3wVmMC84/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.6,
-                comment: "Exactly what I needed for my sore muscles. Very effective and easy to use.",
-                image: "https://i.postimg.cc/7ZPgSZt6/download-4.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.6,
-                comment: "It’s very effective. I use it after long working hours.",
-                image: "https://i.postimg.cc/4x8pPRj1/download-5.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "I love the portable design and multiple modes.",
-                image: "https://i.postimg.cc/Y21gVWJ0/download-6.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.8,
-                comment: "Very helpful for my shoulder relaxation.",
-                image: "https://i.postimg.cc/fyhdyz0M/download-7.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 4.7,
-                comment: "Perfect for using anywhere, anytime.",
-                image: "https://i.postimg.cc/fLdXMtyH/download-8.jpg"
-            },
-            {
-                name: "Chris M.",
-                rating: 4.9,
-                comment: "Relieves pain effectively. Highly recommended.",
-                image: "https://i.postimg.cc/cCMn8pQw/download-9.jpg"
-            }
-        ]
-    },
-    "Electric Leg Massager - Wireless Rechargeable Air Compression for Pain Relief": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This leg massager is fantastic! It really helps relieve my leg pain.",
-                image: "https://i.postimg.cc/26dtV5Xw/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for calf muscle relaxation. The air compression is very effective.",
-                image: "https://i.postimg.cc/T3hBCfpd/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this massager! It's easy to use and provides great relief.",
-                image: "https://i.postimg.cc/76rcHzXh/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great for leg pain relief. The wireless design is a big plus.",
-                image: "https://i.postimg.cc/6QvgxcrF/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.9,
-                comment: "Exactly what I needed for my sore muscles. Very effective and easy to use.",
-                image: "https://i.postimg.cc/Mp4NLNQy/download-4.jpg"
-            }
-        ]
-    },
-    "3-in-1 Wireless Charger Stand - Magsafe, Airpods Pro, Apple Watch Fast Charging Station": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Chris M.",
-                rating: 5,
-                comment: "This charger is fantastic! It charges all my devices quickly and efficiently.",
-                image: "https://i.postimg.cc/L4btjSKB/download.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 5,
-                comment: "Perfect for my desk. The Magsafe compatibility is a game-changer.",
-                image: "https://i.postimg.cc/d3LGgHdy/download-1.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.8,
-                comment: "Love this charger! It's easy to use and keeps everything organized.",
-                image: "https://i.postimg.cc/PqQbD8TP/download-2.jpg"
-            },
-            {
-                name: "Taylor R.",
-                rating: 4.7,
-                comment: "Great for charging multiple devices at once. The design is sleek.",
-                image: "https://i.postimg.cc/MKfyDLzk/download-3.jpg"
-            },
-            {
-                name: "Sam K.",
-                rating: 4.9,
-                comment: "Exactly what I needed for my charging needs. Very effective and stylish.",
-                image: "https://i.postimg.cc/ZRY8xK5j/download-4.jpg"
-            },
-            {
-                name: "Chris M.",
-                rating: 4.7,
-                comment: "Highly recommended for anyone with multiple Apple devices.",
-                image: "https://i.postimg.cc/RFPcs53m/download-5.jpg"
-            },
-            {
-                name: "Alex T.",
-                rating: 4.8,
-                comment: "Charges my devices quickly and efficiently. Love the design.",
-                image: "https://i.postimg.cc/Xqm9WfcD/download-6.jpg"
-            },
-            {
-                name: "Jordan P.",
-                rating: 4.7,
-                comment: "Very convenient and works perfectly with my devices.",
-                image: "https://i.postimg.cc/zGmTPkfy/download-7.jpg"
-            }
-        ]
-    },
-    "6MP Indoor Security WIFI Camera - IP 2-Way Audio, HD Night Vision, AI Human Detect": {
-        averageRating: 4.8,
-        reviews: [
-            {
-                name: "Sophia M.",
-                rating: 5,
-                comment: "The camera quality is fantastic, and the AI detection really helps reduce false alarms. Highly recommend!",
-                image: "https://i.postimg.cc/bwjmWnYw/download.jpg"
-            },
-            {
-                name: "Lucas P.",
-                rating: 4.7,
-                comment: "Great camera for home security. The night vision is clear and the 2-way audio is very convenient.",
-                image: "https://i.postimg.cc/sfvHhy0s/download-1.jpg"
-            },
-            {
-                name: "Oliver G.",
-                rating: 5,
-                comment: "Easy to set up and use. The AI detection is a game-changer for home security.",
-                image: "https://i.postimg.cc/52qsVtjq/download-2.jpg"
-            },
-            {
-                name: "Mia L.",
-                rating: 4.8,
-                comment: "Very satisfied with this purchase. The camera works perfectly and provides peace of mind.",
-                image: "https://i.postimg.cc/4Nc8WPg0/download-3.jpg"
-            },
-            {
-                name: "David M.",
-                rating: 5,
-                comment: "The video quality is excellent and the AI human detection is very accurate.",
-                image: "https://i.postimg.cc/BZkY5ydD/download-4.jpg"
-            },
-            {
-                name: "Sophie L.",
-                rating: 4.6,
-                comment: "Great value for the price. The camera has all the features I need for home security.",
-                image: "https://i.postimg.cc/0Nkc2qwg/download-5.jpg"
-            },
-            {
-                name: "Chris M.",
-                rating: 4.7,
-                comment: "Highly recommend this camera. The night vision is clear and the AI detection is very helpful.",
-                image: "https://i.postimg.cc/KY0Q1sP1/download-6.jpg"
-            }
-        ]
-    },
-    "HD 1080P Wearable Body Pen Camera - Mini DVR Camcorder Micro Camera": {
-        averageRating: 4.7,
-        reviews: [
-            {
-                name: "Sophia M.",
-                rating: 5,
-                comment: "Extremely handy and covert, perfect for recording discreetly. Video quality is superb for such a small device.",
-                image: "https://i.postimg.cc/66vLKQm2/download.jpg"
-            },
-            {
-                name: "Lucas P.",
-                rating: 4.6,
-                comment: "Good build quality and very easy to use. It's perfect for recording lectures.",
-                image: "https://i.postimg.cc/ydwm9qk8/download-1.jpg"
-            },
-            {
-                name: "Oliver G.",
-                rating: 4.8,
-                comment: "The camera is discreet and records clear video. Great for personal security.",
-                image: "https://i.postimg.cc/kGKxvjbF/download-2.jpg"
-            },
-            {
-                name: "Mia L.",
-                rating: 5,
-                comment: "Very satisfied with the purchase. It's small, easy to operate, and provides great video quality.",
-                image: "https://i.postimg.cc/kXPNgd0j/download-3.jpg"
-            }
-        ]
-    }, 
+        {
+            name: "Taylor R.",
+            rating: 5,
+            comment: "Great holder with a non-slip base. It keeps everything organized and looks fantastic."
+        },
+        {
+            name: "Sam K.",
+            rating: 5,
+            comment: "Exactly what I needed to keep my gaming area organized. Highly recommend!"
+        }
+    ]
+}, 
+"4 Pcs Gym Abdominal Muscle Stimulator Hip Trainer EMS Fitness Equipment": { 
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Ben L.",
+            rating: 5,
+            comment: "This muscle stimulator is amazing! It's easy to use and I've seen great results in my abs and hips."
+        },
+        {
+            name: "Diane H.",
+            rating: 5,
+            comment: "I love how portable this device is. Perfect for home workouts and really effective."
+        },
+        {
+            name: "Karen W.",
+            rating: 5,
+            comment: "Fantastic product! The EMS technology really works, and I can feel my muscles getting stronger."
+        },
+        {
+            name: "Mike J.",
+            rating: 5,
+            comment: "Great addition to my fitness routine. The adjustable intensity levels are perfect for customizing my workouts."
+        },
+        {
+            name: "Natalie S.",
+            rating: 5,
+            comment: "Exactly what I needed to tone my abs and hips. Highly recommend this stimulator!"
+        }
+    ]
+},
+"1080P HD Mini Camera - Portable BodyCam with Night Vision": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Olivia F.",
+            rating: 5,
+            comment: "This mini camera is fantastic! The video quality is excellent, and it's so easy to carry around."
+        },
+        {
+            name: "Ethan R.",
+            rating: 5,
+            comment: "Perfect for my bike rides. The night vision works great, and the videos are very clear."
+        },
+        {
+            name: "Lily B.",
+            rating: 5,
+            comment: "Love this camera! It's small, portable, and the 1080P resolution is amazing. Highly recommend."
+        },
+        {
+            name: "Noah K.",
+            rating: 5,
+            comment: "Great body cam for daily use. The battery life is impressive and it captures clear videos even at night."
+        },
+        {
+            name: "Sophia G.",
+            rating: 5,
+            comment: "Exactly what I needed for my security job. The night vision is excellent, and it's very easy to use."
+        }
+    ]
+},
+"172LED Solar Light Outdoor Waterproof Motion Sensor Floodlight with Remote Control": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Jack D.",
+            rating: 5,
+            comment: "This solar light is amazing! The motion sensor works perfectly, and it lights up my backyard beautifully."
+        },
+        {
+            name: "Isabella M.",
+            rating: 5,
+            comment: "Excellent product! The remote control is very convenient, and the light is bright and reliable."
+        },
+        {
+            name: "Henry C.",
+            rating: 5,
+            comment: "Love this floodlight! It’s easy to install and provides great illumination for my patio."
+        },
+        {
+            name: "Grace H.",
+            rating: 5,
+            comment: "Great quality and the three lighting modes are very useful. Highly recommend for any outdoor space."
+        },
+        {
+            name: "Liam V.",
+            rating: 5,
+            comment: "Exactly what I needed for my garage. The waterproof design is perfect for any weather conditions."
+        }
+    ]
+},
+"Mini Wireless WiFi Remote Monitor Camera - Tiny Smart IP Camera with 32GB SD Card": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Ava T.",
+            rating: 5,
+            comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent."
+        },
+        {
+            name: "Lucas R.",
+            rating: 5,
+            comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great."
+        },
+        {
+            name: "Emma N.",
+            rating: 5,
+            comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend."
+        },
+        {
+            name: "Mason W.",
+            rating: 5,
+            comment: "Great camera for monitoring my home. The 32GB SD card provides plenty of storage, and the app is user-friendly."
+        },
+        {
+            name: "Harper S.",
+            rating: 5,
+            comment: "Exactly what I needed for discreet home security. The P2P technology ensures a secure connection."
+        }
+    ]
+},
+"COOSPO HW9 Armband Heart Rate Monitor - HR Zones, Calories, BLE5.0, ANT+": {
+    averageRating: 4.9,
+    reviews: [
+        {
+            name: "Zoe B.",
+            rating: 5,
+            comment: "This heart rate monitor is fantastic! Accurate readings and very comfortable to wear."
+        },
+        {
+            name: "Max H.",
+            rating: 5,
+            comment: "Perfect for my cycling sessions. The BLE5.0 and ANT+ connectivity is seamless."
+        },
+        {
+            name: "Ella G.",
+            rating: 5,
+            comment: "Love this HRM! It works great with Zwift and Peloton. Highly recommend."
+        },
+        {
+            name: "James L.",
+            rating: 4,
+            comment: "Great addition to my fitness gear. The HR zones and calorie tracking are very helpful."
+        },
+        {
+            name: "Aiden Y.",
+            rating: 4,
+            comment: "Exactly what I needed for accurate heart rate monitoring during workouts."
+        }
+    ]
+},
+"Mini Camera WiFi HD 1080P Hidden IP Night Vision Camcorder Home Security Cam": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Natalie R.",
+            rating: 5,
+            comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+            image: "https://i.postimg.cc/pr0F1DhK/download.jpg"
+        },
+        {
+            name: "Evan M.",
+            rating: 5,
+            comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great.",
+            image: "https://i.postimg.cc/g2xvQBKj/download-1.jpg"
+        },
+        {
+            name: "Lily J.",
+            rating: 5,
+            comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend.",
+            image: "https://i.postimg.cc/4xjzgb85/download-2.jpg"
+        },
+        {
+            name: "Oliver A.",
+            rating: 5,
+            comment: "Great camera for monitoring my home. The night vision feature is impressive and the app is user-friendly.",
+            image: "https://i.postimg.cc/XJkF9MnH/download-3.jpg"
+        },
+        {
+            name: "Chloe W.",
+            rating: 5,
+            comment: "Exactly what I needed for discreet home security. The hidden design is perfect for inconspicuous monitoring.",
+            image: "https://i.postimg.cc/KjcTN9zZ/download-4.jpg"
+        }
+    ]
+},
+"X5 Mini Camera Wireless 1080P Surveillance Security Cam with 32GB SD Card": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Sophie K.",
+            rating: 5,
+            comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+            image: "https://i.postimg.cc/1zP3w84S/download.jpg"
+        },
+        {
+            name: "Liam F.",
+            rating: 5,
+            comment: "Perfect for home security. The WiFi connectivity is seamless, and the night vision is very clear.",
+            image: "https://i.postimg.cc/K8tY1PGQ/download-1.jpg"
+        },
+        {
+            name: "Grace D.",
+            rating: 5,
+            comment: "Love this tiny camera! It's easy to set up and the motion detection feature works perfectly."
+        },
+        {
+            name: "Benjamin H.",
+            rating: 5,
+            comment: "Great camera for monitoring my home. The included 32GB SD card provides plenty of storage."
+        },
+        {
+            name: "Mia P.",
+            rating: 5,
+            comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
+        }
+    ]
+},
+"Alarm Clock Mini Camera 1080P HD WiFi IR Night Vision Motion Detection": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Nina G.",
+            rating: 5,
+            comment: "This alarm clock camera is fantastic! It looks just like a regular clock and the video quality is excellent.",
+            image: "https://i.postimg.cc/wTgnQ9FH/download-29.jpg"
+        },
+        {
+            name: "Oscar R.",
+            rating: 5,
+            comment: "Perfect for discreet home security. The WiFi connectivity is seamless, and the night vision is very clear."
+        },
+        {
+            name: "Hannah T.",
+            rating: 5,
+            comment: "Love this hidden camera! It's easy to set up and the motion detection feature works perfectly."
+        },
+        {
+            name: "Caleb S.",
+            rating: 5,
+            comment: "Great camera for monitoring my home. The design is discreet and it provides clear video footage."
+        },
+        {
+            name: "Ava L.",
+            rating: 5,
+            comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
+        }
+    ]
+},
+"1080P Pet Collar HD Camera with Video Recording Wireless Mini Body Cam for Indoor/Outdoor": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Dylan F.",
+            rating: 5,
+            comment: "This pet collar camera is amazing! The video quality is clear and it's perfect for keeping an eye on my pet."
+        },
+        {
+            name: "Zoe M.",
+            rating: 5,
+            comment: "Perfect for outdoor walks. The video recording is smooth and the camera is lightweight."
+        },
+        {
+            name: "Eli J.",
+            rating: 5,
+            comment: "Love this camera! It's easy to attach and the footage is fantastic. Highly recommend for pet owners."
+        },
+        {
+            name: "Scarlett P.",
+            rating: 5,
+            comment: "Great quality and the camera is very durable. It's perfect for capturing my pet's adventures."
+        },
+        {
+            name: "Milo K.",
+            rating: 5,
+            comment: "Exactly what I needed to monitor my pet's activities. The camera is reliable and easy to use."
+        }
+    ]
+},
+"HD 1080P Wifi Alarm Clock Camera With Temperature Humidity Monitor Indoors Desk Alarm Clock Video Security Surveillance Camera": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Layla H.",
+            rating: 5,
+            comment: "This alarm clock camera is fantastic! The video quality is excellent and the temperature and humidity monitor is a great feature."
+        },
+        {
+            name: "Jake N.",
+            rating: 5,
+            comment: "Perfect for discreet home security. The WiFi connectivity is seamless, and the additional monitoring features are very useful."
+        },
+        {
+            name: "Maya B.",
+            rating: 5,
+            comment: "Love this hidden camera! It's easy to set up and the footage is clear. Highly recommend."
+        },
+        {
+            name: "Sebastian L.",
+            rating: 5,
+            comment: "Great camera for monitoring my home. The design is discreet and it provides clear video footage."
+        },
+        {
+            name: "Ella F.",
+            rating: 5,
+            comment: "Exactly what I needed for discreet home security. The additional features are excellent."
+        }
+    ]
+},
+"Wireless Car Air Compressor Electric Tire Inflator Pump for Motorcycle Bicycle Boat AUTO Tyre Balls": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Chris M.",
+            rating: 5,
+            comment: "This air compressor is fantastic! It's so easy to use and the wireless feature is a game-changer.",
+            image: "https://i.postimg.cc/bY6NYrSm/download.jpg"
+        },
+        {
+            name: "Alex T.",
+            rating: 5,
+            comment: "Perfect for my motorcycle and bike tires. The digital display is clear and the pump works quickly.",
+            image: "https://i.postimg.cc/1zp3yKDF/download-1.jpg"
+        },
+        {
+            name: "Jordan P.",
+            rating: 5,
+            comment: "Love this inflator! It's portable and powerful, making it perfect for all my inflation needs.",
+            image: "https://i.postimg.cc/R0r0rYJ9/download-2.jpg"
+        },
+        {
+            name: "Taylor R.",
+            rating: 5,
+            comment: "Great tool for keeping my car and boat tires properly inflated. The automatic shut-off feature is very convenient.",
+            image: "https://i.postimg.cc/XqDVs16R/download-3.jpg"
+        },
+        {
+            name: "Sam K.",
+            rating: 5,
+            comment: "Exactly what I needed for my sports balls and bicycle tires. Highly recommend this air compressor!",
+            image: "https://i.postimg.cc/jSnjFT5Z/download-4.jpg"
+        },
+        {
+            name: "Emily W.",
+            rating: 5,
+            comment: "This inflator is very efficient and the battery lasts long enough to inflate all my tires.",
+            image: "https://i.postimg.cc/hjs4dPyP/download-5.jpg"
+        },
+        {
+            name: "Mark D.",
+            rating: 5,
+            comment: "The portability of this air compressor makes it a perfect companion for road trips.",
+            image: "https://i.postimg.cc/5yt4qdT5/download-6.jpg"
+        },
+        {
+            name: "Sophia L.",
+            rating: 5,
+            comment: "Easy to use and highly effective. The digital display is a great feature.",
+            image: "https://i.postimg.cc/rFPmjs8D/download-7.jpg"
+        },
+        {
+            name: "Liam G.",
+            rating: 5,
+            comment: "The best air compressor I've owned. It works quickly and the automatic shut-off is very useful.",
+            image: "https://i.postimg.cc/W3TbzJ7H/download-8.jpg"
+        }
+    ]
+},
+"USB Rechargable EMS Muscle Stimulator ABS Arm 3 IN 1 Trainer Pad": {
+    averageRating: 5.0,
+    reviews: [
+        {
+            name: "Zach B.",
+            rating: 5,
+            comment: "This EMS stimulator is fantastic! It's easy to use and very effective. My muscles feel stronger already."
+        },
+        {
+            name: "Eva R.",
+            rating: 5,
+            comment: "Perfect for home workouts. The rechargeable battery is convenient, and the intensity settings are great."
+        },
+        {
+            name: "Jude F.",
+            rating: 5,
+            comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend."
+        },
+        {
+            name: "Olivia N.",
+            rating: 5,
+            comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable."
+        },
+        {
+            name: "Henry T.",
+            rating: 5,
+            comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the device is well-made."
+        }
+    ]
+},
+"350ml Electric Protein Shaker Mixing Cup - Self Stirring Water Bottle": {
+    averageRating: 4.7,
+    reviews: [
+        {
+            name: "Luna M.",
+            rating: 5,
+            comment: "This shaker is fantastic! It's so easy to use and mixes my protein shakes perfectly every time."
+        },
+        {
+            name: "Ethan S.",
+            rating: 5,
+            comment: "Perfect for my gym sessions. The self-stirring feature is very convenient and the bottle is easy to clean."
+        },
+        {
+            name: "Nina K.",
+            rating: 4,
+            comment: "Love this shaker! It's compact, efficient, and makes mixing drinks a breeze. Highly recommend. Only wish the battery life was a bit longer."
+        },
+        {
+            name: "Owen J.",
+            rating: 5,
+            comment: "Great product for fitness enthusiasts. It's easy to use and you can feel the quality. The one-button switch is very handy."
+        },
+        {
+            name: "Ivy D.",
+            rating: 4,
+            comment: "Exactly what I needed for my protein shakes. The automatic mixing is a game-changer, and it's well-built. Could be a bit quieter."
+        }
+    ]
+},
+"Electric Abs Abdominal Trainer Toning Belt EMS Muscle Stimulator Toner": {
+    averageRating: 4.8,
+    reviews: [
+        {
+            name: "Mila H.",
+            rating: 5,
+            comment: "This toning belt is fantastic! It's easy to use and very effective. My abs feel stronger already.",
+            image: "https://i.postimg.cc/d1PPVsxD/download.jpg"
+        },
+        {
+            name: "Noah R.",
+            rating: 5,
+            comment: "Perfect for home workouts. The EMS technology really works, and the belt is comfortable to wear.",
+            image: "https://i.postimg.cc/kMN9DS9C/download-1.jpg"
+        },
+        {
+            name: "Ella P.",
+            rating: 4.6,
+            comment: "Love this muscle stimulator! It's compact, wireless, and really helps with muscle toning. Highly recommend.",
+            image: "https://i.postimg.cc/m28syGt6/download-2.jpg"
+        },
+        {
+            name: "Liam J.",
+            rating: 5,
+            comment: "Great device for fitness enthusiasts. It's easy to use and you can feel it working. The results are noticeable.",
+            image: "https://i.postimg.cc/htvqC3m4/download-3.jpg"
+        },
+        {
+            name: "Zoe S.",
+            rating: 4.7,
+            comment: "Exactly what I needed for my fitness routine. The EMS technology really works, and the belt is well-made.",
+            image: "https://i.postimg.cc/659KZQ5v/download-4.jpg"
+        },
+        {
+            name: "Luna W.",
+            rating: 4.8,
+            comment: "This stimulator is very efficient and easy to use. The battery lasts long enough for multiple sessions.",
+            image: "https://i.postimg.cc/x1ZVByGv/download-5.jpg"
+        },
+        {
+            name: "Max L.",
+            rating: 5,
+            comment: "The portability of this toning belt makes it a perfect companion for my fitness journey.",
+            image: "https://i.postimg.cc/x8nwLsY2/download-6.jpg"
+        },
+        {
+            name: "Ava F.",
+            rating: 4.7,
+            comment: "Easy to use and highly effective. The EMS technology is a great feature.",
+            image: "https://i.postimg.cc/vBrR1JJh/download-7.jpg"
+        },
+        {
+            name: "Leo T.",
+            rating: 4.9,
+            comment: "The best muscle stimulator I've used. It works quickly and the results are noticeable.",
+            image: "https://i.postimg.cc/tgVGbZDL/download-8.jpg"
+        }
+    ]
+},
+"Compact & Convenient Electric Razor for Men - USB Rechargeable, Wet & Dry": {
+    averageRating: 4.7,
+    reviews: [
+        {
+            name: "Nina M.",
+            rating: 5,
+            comment: "This razor is fantastic! It's easy to use and gives a close shave every time. The USB charging is very convenient.",
+            image: "https://i.postimg.cc/ZR4mLYF2/download.jpg"
+        },
+        {
+            name: "Liam B.",
+            rating: 5,
+            comment: "Perfect for my travel needs. The compact size and wet/dry use make it versatile and effective.",
+            image: "https://i.postimg.cc/k58Mcpr6/download-1.jpg"
+        },
+        {
+            name: "Ava T.",
+            rating: 4.6,
+            comment: "Love this razor! It's compact, easy to use, and the battery life is great. Highly recommend.",
+            image: "https://i.postimg.cc/cJQZYtYf/download-10.jpg"
+        },
+        {
+            name: "Owen G.",
+            rating: 4.7,
+            comment: "Great razor for home and travel. The one-button operation is very handy, and it provides a smooth shave.",
+            image: "https://i.postimg.cc/Mpfz6FpP/download-11.jpg"
+        },
+        {
+            name: "Ella R.",
+            rating: 4.8,
+            comment: "Exactly what I needed for my daily shave. The USB charging is a big plus and it works well both wet and dry.",
+            image: "https://i.postimg.cc/RCGSXtYR/download-2.jpg"
+        },
+        {
+            name: "Max K.",
+            rating: 4.9,
+            comment: "This razor is very efficient and easy to use. The compact design makes it perfect for travel.",
+            image: "https://i.postimg.cc/bNJzMJcj/download-3.jpg"
+        },
+        {
+            name: "Sophia J.",
+            rating: 5,
+            comment: "The portability of this razor makes it a perfect companion for my travels. Great performance and easy to clean.",
+            image: "https://i.postimg.cc/0Q0kgKy9/download-4.jpg"
+        },
+        {
+            name: "Lucas P.",
+            rating: 4.7,
+            comment: "Easy to use and highly effective. The wet/dry feature is a great addition.",
+            image: "https://i.postimg.cc/B60SwBsh/download-5.jpg"
+        },
+        {
+            name: "Zoe F.",
+            rating: 4.8,
+            comment: "The best razor I've owned. It works quickly and the results are always smooth.",
+            image: "https://i.postimg.cc/qqmpqfKY/download-6.jpg"
+        },
+        {
+            name: "Mia S.",
+            rating: 4.6,
+            comment: "This razor performs well both at home and on the go. The one-button operation is very convenient.",
+            image: "https://i.postimg.cc/nrVHnVXB/download-7.jpg"
+        },
+        {
+            name: "Leo D.",
+            rating: 5,
+            comment: "Fantastic razor! The USB charging and wet/dry use make it perfect for my needs.",
+            image: "https://i.postimg.cc/BQVqG04P/download-8.jpg"
+        },
+        {
+            name: "Emily W.",
+            rating: 4.7,
+            comment: "Reliable and effective. The compact size is perfect for travel, and it gives a great shave.",
+            image: "https://i.postimg.cc/XvM4pkZV/download-9.jpg"
+        }
+    ]
+},
+"Portable Fascia Gun Deep Tissue Massage Mini Lightweight Adjustable Speed": {
+    averageRating: 4.7,
+    reviews: [
+        {
+            name: "Ryan T.",
+            rating: 5,
+            comment: "This fascia gun is fantastic! It's easy to use and provides great relief for my sore muscles.",
+            image: "https://i.postimg.cc/1tfkBgVW/download.jpg"
+        },
+        {
+            name: "Amelia H.",
+            rating: 5,
+            comment: "Perfect for home use. The adjustable speed settings make it versatile and effective.",
+            image: "https://i.postimg.cc/Wzq5Fgqv/download-1.jpg"
+        },
+        {
+            name: "Jackson R.",
+            rating: 4.6,
+            comment: "Love this massage gun! It's compact, lightweight, and really helps with muscle recovery.",
+            image: "https://i.postimg.cc/Cx0V0L91/download-2.jpg"
+        },
+        {
+            name: "Sophie L.",
+            rating: 4.7,
+            comment: "Great device for deep tissue massage. It's easy to handle and the battery life is impressive.",
+            image: "https://i.postimg.cc/nV6Jd1kq/download-3.jpg"
+        },
+        {
+            name: "Dylan W.",
+            rating: 4.8,
+            comment: "Exactly what I needed for my post-workout recovery. The adjustable speeds are very convenient.",
+            image: "https://i.postimg.cc/kDrfxGWt/download-4.jpg"
+        },
+        {
+            name: "Lily F.",
+            rating: 4.7,
+            comment: "This massage gun is very efficient and easy to use. The adjustable speed settings are a great feature.",
+            image: "https://i.postimg.cc/43LCpvy7/download-5.jpg"
+        },
+        {
+            name: "James B.",
+            rating: 4.9,
+            comment: "The portability of this fascia gun makes it perfect for my gym bag. Great performance and easy to clean.",
+            image: "https://i.postimg.cc/26MPKz4C/download-6.jpg"
+        },
+        {
+            name: "Grace M.",
+            rating: 4.6,
+            comment: "Easy to use and highly effective. The deep tissue massage feature is a game-changer.",
+            image: "https://i.postimg.cc/WbgPxJWC/download-7.jpg"
+        },
+        {
+            name: "Oliver P.",
+            rating: 4.8,
+            comment: "The best massage gun I've owned. It works quickly and the results are always satisfying.",
+            image: "https://i.postimg.cc/fRvQRQhv/download-8.jpg"
+        },
+        {
+            name: "Sophia K.",
+            rating: 4.7,
+            comment: "This fascia gun performs well both at home and on the go. The adjustable speed settings are very convenient.",
+            image: "https://i.postimg.cc/bvNcGVyf/download-9.jpg"
+        }
+    ]
+},
+  "6MP Indoor Security WIFI Camera - IP 2-Way Audio, HD Night Vision, AI Human Detect": {
+    averageRating: 4.8,
+    reviews: [
+        {
+            name: "Sophia M.",
+            rating: 5,
+            comment: "The camera quality is fantastic, and the AI detection really helps reduce false alarms. Highly recommend!",
+            image: "https://i.postimg.cc/bwjmWnYw/download.jpg"
+        },
+        {
+            name: "Lucas P.",
+            rating: 4.7,
+            comment: "Great camera for home security. The night vision is clear and the 2-way audio is very convenient.",
+            image: "https://i.postimg.cc/sfvHhy0s/download-1.jpg"
+        },
+        {
+            name: "Oliver G.",
+            rating: 5,
+            comment: "Easy to set up and use. The AI detection is a game-changer for home security.",
+            image: "https://i.postimg.cc/52qsVtjq/download-2.jpg"
+        },
+        {
+            name: "Mia L.",
+            rating: 4.8,
+            comment: "Very satisfied with this purchase. The camera works perfectly and provides peace of mind.",
+            image: "https://i.postimg.cc/4Nc8WPg0/download-3.jpg"
+        },
+        {
+            name: "David M.",
+            rating: 5,
+            comment: "The video quality is excellent and the AI human detection is very accurate.",
+            image: "https://i.postimg.cc/BZkY5ydD/download-4.jpg"
+        },
+        {
+            name: "Sophie L.",
+            rating: 4.6,
+            comment: "Great value for the price. The camera has all the features I need for home security.",
+            image: "https://i.postimg.cc/0Nkc2qwg/download-5.jpg"
+        },
+        {
+            name: "Isabella H.",
+            rating: 4.7,
+            comment: "Highly recommend this camera. The night vision is clear and the AI detection is very helpful.",
+            image: "https://i.postimg.cc/KY0Q1sP1/download-6.jpg"
+        }
+    ]
+},
+"HD 1080P Wearable Body Pen Camera - Mini DVR Camcorder Micro Camera": {
+    averageRating: 4.7,
+    reviews: [
+        {
+            name: "Emily T.",
+            rating: 5,
+            comment: "Extremely handy and covert, perfect for recording discreetly. Video quality is superb for such a small device.",
+            image: "https://i.postimg.cc/66vLKQm2/download.jpg"
+        },
+        {
+            name: "Michael B.",
+            rating: 4.6,
+            comment: "Good build quality and very easy to use. It's perfect for recording lectures.",
+            image: "https://i.postimg.cc/ydwm9qk8/download-1.jpg"
+        },
+        {
+            name: "Grace K.",
+            rating: 4.8,
+            comment: "The camera is discreet and records clear video. Great for personal security.",
+            image: "https://i.postimg.cc/kGKxvjbF/download-2.jpg"
+        },
+        {
+            name: "James L.",
+            rating: 5,
+            comment: "Very satisfied with the purchase. It's small, easy to operate, and provides great video quality.",
+            image: "https://i.postimg.cc/kXPNgd0j/download-3.jpg"
+        }
+    ]
+},
 		  };
 		  
 
