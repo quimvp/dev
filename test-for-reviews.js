@@ -8793,6 +8793,47 @@ const productData = {
         }
     ]
 },
+"HD 1080P Wireless Pet Collar Camera - No WiFi Needed, Mini Body Cam for Indoor/Outdoor": {
+	averageRating: 4.9,
+	reviews: [
+		{
+			name: "Sophia M.",
+			rating: 5,
+			comment: "This collar camera is amazing! It captures clear video and is easy to use. Perfect for keeping an eye on my dog when I'm not home.",
+			image: "https://i.postimg.cc/X7SjzsCG/download-19.jpg"
+		},
+		{
+			name: "Lucas P.",
+			rating: 4.7,
+			comment: "Great quality and very convenient. I love that it doesn't require WiFi.",
+			image: "https://i.postimg.cc/j503bnQX/download.jpg"
+		},
+		{
+			name: "Oliver G.",
+			rating: 4.8,
+			comment: "Excellent camera for my cat. It's lightweight and captures great footage.",
+			image: "https://i.postimg.cc/xdbph3H8/download-1.jpg"
+		},
+		{
+			name: "Mia L.",
+			rating: 5,
+			comment: "Very happy with this purchase. The camera is easy to set up and use, and the video quality is superb.",
+			image: "https://i.postimg.cc/1XMvwCxC/download-2.jpg"
+		},
+		{
+			name: "David M.",
+			rating: 4.9,
+			comment: "Fantastic product! My dog seems comfortable wearing it and the video quality is excellent.",
+			image: "https://i.postimg.cc/Ss6TNQgp/download-3.jpg"
+		},
+		{
+			name: "Sophie L.",
+			rating: 4.6,
+			comment: "Very useful camera. It's lightweight and doesn't bother my cat at all. Highly recommended.",
+			image: "https://i.postimg.cc/brq6GX5S/download-4.jpg"
+		}
+	]
+},
 		  };
 		  
 
