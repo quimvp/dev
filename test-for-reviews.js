@@ -8834,6 +8834,90 @@ const productData = {
 		}
 	]
 },
+"8MP 4K IP Bullet Camera Night Vision CCTV Dual Light Smart AI Motion Detection Security Cam": {
+	averageRating: 4.8,
+	reviews: [
+		{
+			name: "Michael B.",
+			rating: 5,
+			comment: "The image quality is fantastic, and the AI motion detection works perfectly. Highly recommend for home security.",
+			image: "https://i.postimg.cc/brt3FQ58/download.jpg"
+		},
+		{
+			name: "Sarah L.",
+			rating: 4,
+			comment: "Easy to install and the night vision is very clear. The dual light source is a great feature.",
+			image: "https://i.postimg.cc/CMBP1gxt/download-1.jpg"
+		},
+		{
+			name: "David R.",
+			rating: 5,
+			comment: "Perfect for monitoring my business premises. The 4K resolution provides excellent detail.",
+			image: "https://i.postimg.cc/6QWb548L/download-2.jpg"
+		},
+		{
+			name: "Emma W.",
+			rating: 5,
+			comment: "Great camera for the price. The weatherproof casing makes it ideal for outdoor use.",
+			image: "https://i.postimg.cc/k4DjWrF2/download-3.jpg"
+		},
+		{
+			name: "John D.",
+			rating: 4,
+			comment: "The smart AI motion detection is very accurate. It only alerts me for real events.",
+			image: "https://i.postimg.cc/rpfndyW6/download-4.jpg"
+		},
+		{
+			name: "Olivia P.",
+			rating: 5,
+			comment: "I've been using this camera for a few months now and it works flawlessly. Highly recommended.",
+			image: "https://i.postimg.cc/qRY1Lmjj/download-5.jpg"
+		},
+		{
+			name: "Noah S.",
+			rating: 5,
+			comment: "Excellent camera with great features. The installation was straightforward.",
+			image: "https://i.postimg.cc/66kH4m7Q/download-6.jpg"
+		}
+	]
+},
+"XMeye 4MP POE IP Camera IR Motion Detection CCTV Video Surveillance": {
+	averageRating: 4.6,
+	reviews: [
+		{
+			name: "Chris M.",
+			rating: 5,
+			comment: "The video quality is excellent, and the motion detection is very accurate. Great for home security.",
+			image: "https://i.postimg.cc/xdqmj93F/download.jpg"
+		},
+		{
+			name: "Alex T.",
+			rating: 4,
+			comment: "Easy to install and the built-in mic works well. The infrared feature is a nice addition.",
+			image: "https://i.postimg.cc/pXYzqGdk/download-1.jpg"
+		},
+		{
+			name: "Jordan P.",
+			rating: 5,
+			comment: "Very reliable camera with clear video and good motion detection. Worth the price.",
+			image: "https://i.postimg.cc/HkY5Kwcm/download-2.jpg"
+		},
+		{
+			name: "Taylor R.",
+			rating: 4,
+			comment: "Great camera, but the app could be more user-friendly. Overall, very satisfied.",
+			image: "https://i.postimg.cc/cJjnrPD1/download-3.jpg"
+		},
+		{
+			name: "Sam K.",
+			rating: 5,
+			comment: "Excellent for both indoor and outdoor use. The face detection feature is very useful.",
+			image: "https://i.postimg.cc/GmXY14Gy/download-4.jpg"
+		}
+	]
+},
+
+
 		  };
 		  
 
