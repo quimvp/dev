@@ -8916,8 +8916,773 @@ const productData = {
 		}
 	]
 },
+"Mini home Surveillance Camera - Built-in Battery, Night Vision, Motion Detection, No WiFi, No App": {
+	averageRating: 4.8,
+	reviews: [
+		{
+			name: "Chris M.",
+			rating: 5,
+			comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+			images: "https://i.postimg.cc/VLQcWmyh/71-Eh8-IXHUx-L.jpg"
+		},
+		{
+			name: "Alex T.",
+			rating: 5,
+			comment: "Perfect for home security. The small size makes it easy to hide, and the motion detection works great.",
+			images: "https://i.postimg.cc/tC3Grwp4/download-13.jpg"
+		},
+		{
+			name: "Jordan P.",
+			rating: 5,
+			comment: "Love this tiny camera! It's easy to set up and provides clear video footage. Highly recommend.",
+			images: "https://i.postimg.cc/JhnwzhJs/download-14.jpg"
+		},
+		{
+			name: "Taylor R.",
+			rating: 5,
+			comment: "Great camera for monitoring my home. The night vision feature is impressive and it's very discreet.",
+			images: "https://i.postimg.cc/bwqc4gwH/download-26.jpg"
+		},
+		{
+			name: "Sam K.",
+			rating: 5,
+			comment: "Exactly what I needed for discreet home security. The hidden design is perfect for inconspicuous monitoring.",
+			images: "https://i.postimg.cc/g24Fphw9/download-27.jpg"
+		},
+		{
+			name: "Sophia J.",
+			rating: 5,
+			comment: "The small size and full-color night vision on this camera are outstanding! It's like watching in daylight. Perfect for keeping an eye on my backyard."
+		},
+		{
+			name: "James T.",
+			rating: 4,
+			comment: "Solid security camera with great features. The small size makes it easy to hide. Only wish the battery life was a bit longer."
+		},
+		{
+			name: "Olivia M.",
+			rating: 5,
+			comment: "Highly recommend this camera! The video quality is superb, and the small size really adds an extra layer of security. Setup was a breeze."
+		},
+		{
+			name: "William D.",
+			rating: 4,
+			comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
+		},
+		{
+			name: "Emma B.",
+			rating: 5,
+			comment: "Excellent security camera! The compact design is very handy for discreet monitoring. The night vision is a game-changer."
+		},
+		{
+			name: "Liam K.",
+			rating: 4,
+			comment: "Very good camera for home security. Easy to set up and use. The night vision is clear, and the small size is perfect for hiding. The only minor issue was the initial setup time."
+		},
+		{
+			name: "Ava L.",
+			rating: 5,
+			comment: "I'm very impressed with this camera. The full-color night vision is amazing, and its size makes it perfect for hidden surveillance."
+		},
+		{
+			name: "Noah F.",
+			rating: 4,
+			comment: "This camera performs well both day and night. The small size is very convenient. My only suggestion would be to improve the setup instructions."
+		},
+		{
+			name: "Isabella H.",
+			rating: 5,
+			comment: "I love this security camera! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment."
+		},
+		{
+			name: "Mason C.",
+			rating: 4,
+			comment: "Great camera with excellent features. The small size is perfect for discreet monitoring. Would have liked a quicker setup process."
+		},
+		{
+			name: "Mia S.",
+			rating: 5,
+			comment: "Fantastic security camera! The full-color night vision and compact size make it perfect for home security. Easy to set up and use."
+		},
+		{
+			name: "Lucas P.",
+			rating: 4,
+			comment: "Reliable and effective. The full-color night vision is impressive, and the small size is perfect for hiding. Setup took a bit longer, but it was worth it."
+		},
+		{
+			name: "Oliver G.",
+			rating: 5,
+			comment: "The compact design is great, and the hidden feature keeps it discreet. I've been enjoying peace of mind since I got it."
+		},
+		{
+			name: "David M.",
+			rating: 5,
+			comment: "I love this mini camera. It's perfect for discreet monitoring."
+		},
+		{
+			name: "Sophia L.",
+			rating: 4,
+			comment: "👌 Small and effective."
+		},
+		{
+			name: "Ethan R.",
+			rating: 5,
+			comment: "This camera is a great investment. The night vision works perfectly, and it's easy to use without WiFi. The small size makes it easy to hide."
+		},
+		{
+			name: "Amelia V.",
+			rating: 5,
+			comment: "I bought this camera for my elderly parents' home. It's been fantastic for keeping an eye on them without them having to fuss with apps or WiFi. The small size is a big plus."
+		},
+		{
+			name: "Benjamin S.",
+			rating: 4,
+			comment: "The motion detection is very sensitive and effective. The small size is convenient. I just wish the battery life was a bit longer."
+		},
+		{
+			name: "Charlotte K.",
+			rating: 5,
+			comment: "A wonderful product. The clarity and quality of the video are impressive, and it's very easy to install. The small size makes it discreet."
+		},
+		{
+			name: "Daniel H.",
+			rating: 5,
+			comment: "I use this camera to monitor my small office. It's perfect because I don't need to connect it to the office WiFi. The small size makes it easy to place anywhere."
+		},
+		{
+			name: "Ella J.",
+			rating: 4,
+			comment: "Good camera overall. The setup was straightforward, and the night vision is clear. However, the battery needs frequent charging."
+		},
+		{
+			name: "Aiden W.",
+			rating: 5,
+			comment: "This camera is perfect for my needs. The image quality is great, and I love that it doesn't rely on WiFi or an app. The small size is very practical."
+		},
+		{
+			name: "Grace P.",
+			rating: 5,
+			comment: "Excellent quality and easy to use. The small size makes it very discreet. I have recommended it to all my friends."
+		},
+		{
+			name: "Henry C.",
+			rating: 4,
+			comment: "The camera works well, but I had a bit of trouble with the initial setup. Once it was up and running, it worked perfectly. The small size is a bonus."
+		},
+		{
+			name: "Sophie M.",
+			rating: 5,
+			comment: "This mini camera is perfect for discreet home security. Highly recommended."
+		},
+		{
+			name: "Alex B.",
+			rating: 5,
+			comment: "This is the best camera I've purchased for home security. It's easy to set up, and the small size is fantastic for hiding."
+		},
+		{
+			name: "Jack R.",
+			rating: 4,
+			comment: "Good value for money. The night vision is clear, and the motion detection works well. The small size is very convenient."
+		},
+		{
+			name: "Emily D.",
+			rating: 5,
+			comment: "Highly satisfied with this camera. It's discreet and provides excellent video quality. The small size is perfect for hidden surveillance."
+		},
+		{
+			name: "Michael W.",
+			rating: 5,
+			comment: "This camera exceeded my expectations. It's very easy to use and provides great security for my home. The small size makes it perfect for hiding."
+		}
+	]
+},
 
+"4Pcs MSL Wi-fi Surveillance Camera 1080P 5Ghz Wifi Camera Outdoor": {
+	averageRating: 4.8,
+	reviews: [
+		{
+			name: "Chris M.",
+			rating: 5,
+			comment: "These cameras are fantastic! The video quality is excellent, and the setup was easy.",
+			images: "https://i.postimg.cc/VLQcWmyh/71-Eh8-IXHUx-L.jpg"
+		},
+		{
+			name: "Alex T.",
+			rating: 5,
+			comment: "Perfect for home security. The WiFi connectivity is seamless, and remote monitoring works great.",
+			images: "https://i.postimg.cc/tC3Grwp4/download-13.jpg"
+		},
+		{
+			name: "Jordan P.",
+			rating: 5,
+			comment: "Love these cameras! They provide clear video footage and are easy to set up. Highly recommend.",
+			images: "https://i.postimg.cc/JhnwzhJs/download-14.jpg"
+		},
+		{
+			name: "Taylor R.",
+			rating: 5,
+			comment: "Great cameras for monitoring my home. The night vision feature is impressive and the app is user-friendly.",
+			images: "https://i.postimg.cc/bwqc4gwH/download-26.jpg"
+		},
+		{
+			name: "Sam K.",
+			rating: 5,
+			comment: "Exactly what I needed for discreet home security. The design is perfect for inconspicuous monitoring.",
+			images: "https://i.postimg.cc/g24Fphw9/download-27.jpg"
+		},
+		{
+			name: "Sophia J.",
+			rating: 5,
+			comment: "The video quality on these cameras is outstanding! They work great day and night."
+		},
+		{
+			name: "James T.",
+			rating: 4,
+			comment: "Solid security cameras with great features. The installation was straightforward, and the app is user-friendly. Only wish the WiFi range was a bit better."
+		},
+		{
+			name: "Olivia M.",
+			rating: 5,
+			comment: "Highly recommend these cameras! The video quality is superb, and the night vision really adds an extra layer of security. Setup was a breeze."
+		},
+		{
+			name: "William D.",
+			rating: 4,
+			comment: "Great for both indoor and outdoor use. The motion detection is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
+		},
+		{
+			name: "Emma B.",
+			rating: 5,
+			comment: "Excellent security cameras! The two-way audio is very handy for communicating with my family when I'm away. The full-color night vision is a game-changer."
+		},
+		{
+			name: "Liam K.",
+			rating: 4,
+			comment: "Very good cameras for home security. Easy to set up and use. The night vision is clear, and the audio works well. The only minor issue was the initial setup time."
+		},
+		{
+			name: "Ava L.",
+			rating: 5,
+			comment: "I'm very impressed with these cameras. The full-color night vision is amazing, and the app makes it easy to monitor everything. A fantastic addition to our security system."
+		},
+		{
+			name: "Noah F.",
+			rating: 4,
+			comment: "These cameras perform well both day and night. The two-way audio feature is very convenient. My only suggestion would be to improve the setup instructions."
+		},
+		{
+			name: "Isabella H.",
+			rating: 5,
+			comment: "I love these security cameras! The full-color night vision is so clear, and the motion detection is very responsive. It's definitely worth the investment."
+		},
+		{
+			name: "Mason C.",
+			rating: 4,
+			comment: "Great cameras with excellent features. The app is easy to navigate, and the video quality is top-notch. Would have liked a quicker setup process."
+		},
+		{
+			name: "Mia S.",
+			rating: 5,
+			comment: "Fantastic security cameras! The full-color night vision and two-way audio make it perfect for home security. Easy to set up and use."
+		},
+		{
+			name: "Lucas P.",
+			rating: 4,
+			comment: "Reliable and effective. The full-color night vision is impressive, and the app control is convenient. Setup took a bit longer, but it was worth it."
+		},
+		{
+			name: "Sophia M.",
+			rating: 5,
+			comment: "These cameras are exactly what I needed for my home security. The video quality is fantastic, and the installation was straightforward."
+		},
+		{
+			name: "David M.",
+			rating: 4,
+			comment: "Very pleased with these cameras. They offer great video quality and the night vision is excellent. The only minor issue was the initial setup process."
+		},
+		{
+			name: "Emily R.",
+			rating: 5,
+			comment: "These cameras are great for home security. The motion detection is very accurate, and the app is easy to use. Highly recommended."
+		},
+		{
+			name: "Ethan B.",
+			rating: 4,
+			comment: "Solid performance from these cameras. The video quality is excellent, and the night vision works well. Setup was a bit tricky but worth it."
+		},
+		{
+			name: "Olivia J.",
+			rating: 5,
+			comment: "I love these cameras! The video quality is superb, and the night vision is clear. They provide excellent security for my home."
+		},
+		{
+			name: "Daniel K.",
+			rating: 4,
+			comment: "Very good cameras for the price. The video quality is great, and the night vision is impressive. Setup could be easier, but overall a good purchase."
+		},
+		{
+			name: "Samantha W.",
+			rating: 5,
+			comment: "These cameras are fantastic for home security. The video quality is excellent, and the app is user-friendly. Highly recommended."
+		},
+		{
+			name: "Michael H.",
+			rating: 4,
+			comment: "Good quality cameras with clear video footage. The night vision works well, and the app is easy to use. Setup took some time but was worth it."
+		},
+		{
+			name: "Emma T.",
+			rating: 5,
+			comment: "I am very happy with these cameras. The video quality is excellent, and the night vision is clear. They provide great security for my home."
+		},
+		{
+			name: "Ryan G.",
+			rating: 4,
+			comment: "These cameras offer solid performance and great video quality. The night vision is clear, and the app is easy to navigate. Setup could be smoother."
+		},
+		{
+			name: "Grace L.",
+			rating: 5,
+			comment: "Excellent cameras for home security. The video quality is superb, and the night vision is impressive. Highly recommend these cameras."
+		},
+		{
+			name: "Christopher N.",
+			rating: 4,
+			comment: "Good cameras with great video quality. The night vision works well, and the app is user-friendly. Setup took a bit longer than expected."
+		},
+		{
+			name: "Hannah F.",
+			rating: 5,
+			comment: "These cameras are perfect for monitoring my home. The video quality is excellent, and the night vision is clear. Highly recommended."
+		},
+		{
+			name: "Joshua P.",
+			rating: 4,
+			comment: "Very good cameras with solid performance. The video quality is great, and the night vision is clear. Setup was a bit tricky but worth it."
+		},
+		{
+			name: "Abigail S.",
+			rating: 5,
+			comment: "I love these cameras! The video quality is fantastic, and the night vision is clear. They provide excellent security for my home."
+		}
+	]
+},
 
+"Ultra-Thin Tiny Mini Voice Recorder 8GB Sound Activated Dictaphone": {
+	averageRating: 4.9,
+	reviews: [
+		{
+			name: "Chris M.",
+			rating: 5,
+			comment: "This mini voice recorder is fantastic! It's incredibly thin and easy to hide. The sound quality is excellent, and it's perfect for recording meetings discreetly."
+		},
+		{
+			name: "Alex T.",
+			rating: 5,
+			comment: "Perfect for capturing important lectures. The sound activation feature works flawlessly, and it's so small that no one notices it."
+		},
+		{
+			name: "Jordan P.",
+			rating: 5,
+			comment: "Love this tiny recorder! It's easy to use and provides clear audio. Highly recommend for anyone needing a discreet recording device."
+		},
+		{
+			name: "Taylor R.",
+			rating: 5,
+			comment: "Great for personal notes. The ultra-thin design makes it easy to carry in my pocket, and the audio quality is top-notch."
+		},
+		{
+			name: "Sam K.",
+			rating: 5,
+			comment: "Exactly what I needed for discreet recording. The sound activation is very sensitive and captures everything I need."
+		},
+		{
+			name: "Sophia J.",
+			rating: 5,
+			comment: "The size and quality of this recorder are impressive. It's perfect for covert recording, and the battery life is excellent."
+		},
+		{
+			name: "James T.",
+			rating: 4,
+			comment: "Solid voice recorder with great features. The thin design makes it easy to hide. Only wish the storage was expandable."
+		},
+		{
+			name: "Olivia M.",
+			rating: 5,
+			comment: "Highly recommend this recorder! The audio quality is superb, and the ultra-thin design is perfect for discreet use."
+		},
+		{
+			name: "William D.",
+			rating: 4,
+			comment: "Great for both professional and personal use. The sound activation is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
+		},
+		{
+			name: "Emma B.",
+			rating: 5,
+			comment: "Excellent voice recorder! The ultra-thin design is very handy for discreet recording. The sound quality is a game-changer."
+		},
+		{
+			name: "Liam K.",
+			rating: 4,
+			comment: "Very good recorder for lectures and meetings. Easy to set up and use. The sound quality is clear, and the thin design is perfect for carrying. The only minor issue was the initial setup time."
+		},
+		{
+			name: "Ava L.",
+			rating: 5,
+			comment: "I'm very impressed with this recorder. The sound quality is amazing, and its size makes it perfect for hidden recording."
+		},
+		{
+			name: "Noah F.",
+			rating: 4,
+			comment: "This recorder performs well both in noisy and quiet environments. The small size is very convenient. My only suggestion would be to improve the setup instructions."
+		},
+		{
+			name: "Isabella H.",
+			rating: 5,
+			comment: "I love this voice recorder! The sound quality is so clear, and the activation feature is very responsive. It's definitely worth the investment."
+		},
+		{
+			name: "Mason C.",
+			rating: 4,
+			comment: "Great recorder with excellent features. The small size is perfect for discreet recording. Would have liked a quicker setup process."
+		},
+		{
+			name: "Mia S.",
+			rating: 5,
+			comment: "Fantastic voice recorder! The sound activation and ultra-thin design make it perfect for recording discreetly. Easy to set up and use."
+		},
+		{
+			name: "Lucas P.",
+			rating: 4,
+			comment: "Reliable and effective. The sound quality is impressive, and the small size is perfect for hiding. Setup took a bit longer, but it was worth it."
+		},
+		{
+			name: "Oliver G.",
+			rating: 5,
+			comment: "The compact design is great, and the hidden feature keeps it discreet. I've been using it for meetings, and it's very effective."
+		},
+		{
+			name: "David M.",
+			rating: 5,
+			comment: "I love this mini voice recorder. It's perfect for discreet recording and the sound quality is fantastic."
+		},
+		{
+			name: "Sophia L.",
+			rating: 4,
+			comment: "👌 Small and effective."
+		},
+		{
+			name: "Ethan R.",
+			rating: 5,
+			comment: "This recorder is a great investment. The sound quality is excellent, and it's easy to use without drawing attention."
+		},
+		{
+			name: "Amelia V.",
+			rating: 5,
+			comment: "I bought this recorder for my elderly parents to use for personal notes. It's been fantastic for capturing their thoughts without them having to fuss with complicated devices."
+		},
+		{
+			name: "Benjamin S.",
+			rating: 4,
+			comment: "The sound activation is very sensitive and effective. The small size is convenient. I just wish the battery life was a bit longer."
+		},
+		{
+			name: "Charlotte K.",
+			rating: 5,
+			comment: "A wonderful product. The clarity and quality of the audio are impressive, and it's very easy to use. The small size makes it discreet."
+		},
+		{
+			name: "Daniel H.",
+			rating: 5,
+			comment: "I use this recorder to take notes during meetings. It's perfect because it's easy to carry and doesn't require much setup."
+		},
+		{
+			name: "Ella J.",
+			rating: 4,
+			comment: "Good recorder overall. The setup was straightforward, and the sound quality is clear. However, the battery needs frequent charging."
+		},
+		{
+			name: "Aiden W.",
+			rating: 5,
+			comment: "This recorder is perfect for my needs. The sound quality is great, and I love that it's so small and portable."
+		},
+		{
+			name: "Grace P.",
+			rating: 5,
+			comment: "Excellent quality and easy to use. The small size makes it very discreet. I have recommended it to all my friends."
+		},
+		{
+			name: "Henry C.",
+			rating: 4,
+			comment: "The recorder works well, but I had a bit of trouble with the initial setup. Once it was up and running, it worked perfectly."
+		},
+		{
+			name: "Sophie M.",
+			rating: 5,
+			comment: "This mini recorder is perfect for discreet recording. Highly recommended."
+		},
+		{
+			name: "Alex B.",
+			rating: 5,
+			comment: "This is the best recorder I've purchased. It's easy to set up, and the quality is fantastic."
+		},
+		{
+			name: "Jack R.",
+			rating: 4,
+			comment: "Good value for money. The sound quality is clear, and the activation works well. The small size is very convenient."
+		},
+		{
+			name: "Emily D.",
+			rating: 5,
+			comment: "Highly satisfied with this recorder. It's discreet and provides excellent audio quality."
+		},
+		{
+			name: "Michael W.",
+			rating: 5,
+			comment: "This recorder exceeded my expectations. It's very easy to use and provides great sound quality."
+		}
+	]
+},
+"Alarm Clock Mini Surveillance Camera 1080P HD WiFi IR Night Vision Motion Detection for Home Security": {
+	averageRating: 4.4,
+	reviews: [
+		{
+			name: "Sophia M.",
+			rating: 5,
+			comment: "This alarm clock camera is amazing! It fits perfectly in my bedroom and provides clear video. The night vision is a great feature."
+		},
+		{
+			name: "Liam J.",
+			rating: 4,
+			comment: "Good camera with decent video quality. The WiFi connection is stable and the motion detection works well."
+		},
+		{
+			name: "Emma R.",
+			rating: 4,
+			comment: "Very handy for keeping an eye on my living room. The design is discreet and it blends in perfectly."
+		},
+		{
+			name: "Noah P.",
+			rating: 4,
+			comment: "Solid performance overall. The night vision could be a bit clearer, but it's still a great camera."
+		},
+		{
+			name: "Olivia H.",
+			rating: 5,
+			comment: "I love this camera! It's very easy to set up and use. The motion detection is very accurate."
+		},
+		{
+			name: "Ava C.",
+			rating: 4,
+			comment: "Great camera for the price. The WiFi feature is very convenient for remote monitoring."
+		},
+		{
+			name: "Isabella B.",
+			rating: 5,
+			comment: "Excellent for home security. The 1080P video quality is superb and the alarm clock design is very clever."
+		},
+		{
+			name: "Mason K.",
+			rating: 3,
+			comment: "The camera works well, but the setup process was a bit complicated."
+		},
+		{
+			name: "Lucas T.",
+			rating: 4,
+			comment: "Very satisfied with this purchase. The night vision works well and the camera is very discreet."
+		},
+		{
+			name: "Mia N.",
+			rating: 5,
+			comment: "This camera is perfect for monitoring my kids. The video quality is great and the alarm clock design is genius."
+		},
+		{
+			name: "Ethan R.",
+			rating: 4,
+			comment: "Good quality camera with useful features. The WiFi setup was a bit tricky but manageable."
+		},
+		{
+			name: "Harper L.",
+			rating: 5,
+			comment: "Love it! The camera is very discreet and the video quality is excellent."
+		},
+		{
+			name: "James P.",
+			rating: 4,
+			comment: "Works well for my home office. The motion detection is very sensitive and the video quality is clear."
+		},
+		{
+			name: "Amelia W.",
+			rating: 4,
+			comment: "Good camera overall. The night vision is decent and the setup was fairly easy."
+		},
+		{
+			name: "Ella D.",
+			rating: 5,
+			comment: "Excellent product. The alarm clock design is perfect for discreet monitoring."
+		},
+		{
+			name: "Aiden S.",
+			rating: 4,
+			comment: "Very useful for home security. The motion detection works well and the camera is well hidden."
+		},
+		{
+			name: "Grace B.",
+			rating: 5,
+			comment: "Fantastic camera! The video quality is top-notch and the alarm clock design is very discreet."
+		},
+		{
+			name: "Jackson M.",
+			rating: 3,
+			comment: "The camera is good, but the app could use some improvements."
+		},
+		{
+			name: "Sophie G.",
+			rating: 4,
+			comment: "Great value for the price. The WiFi connection is stable and the video quality is clear."
+		},
+		{
+			name: "Benjamin H.",
+			rating: 5,
+			comment: "Love this camera! It's very discreet and the video quality is excellent."
+		},
+		{
+			name: "Charlotte A.",
+			rating: 4,
+			comment: "Good camera for home security. The motion detection is very accurate."
+		},
+		{
+			name: "Jack F.",
+			rating: 4,
+			comment: "Works well overall. The night vision is decent and the WiFi feature is very convenient."
+		},
+		{
+			name: "Henry K.",
+			rating: 5,
+			comment: "Very satisfied with this camera. The video quality is superb and the alarm clock design is very clever."
+		},
+		{
+			name: "Emily W.",
+			rating: 4,
+			comment: "Good camera for monitoring my home. The setup was a bit tricky, but the video quality is great."
+		},
+		{
+			name: "Logan R.",
+			rating: 4,
+			comment: "Solid performance. The night vision could be clearer, but overall it's a great camera."
+		},
+		{
+			name: "Lily P.",
+			rating: 5,
+			comment: "This camera is perfect for home security. The video quality is excellent and the alarm clock design is very discreet."
+		},
+		{
+			name: "Jacob V.",
+			rating: 4,
+			comment: "Good quality camera. The WiFi connection is stable and the motion detection works well."
+		},
+		{
+			name: "Zoe C.",
+			rating: 5,
+			comment: "Fantastic product. The video quality is superb and the alarm clock design is very clever."
+		},
+		{
+			name: "Alexander L.",
+			rating: 4,
+			comment: "Works well for my needs. The night vision is decent and the setup was fairly easy."
+		},
+		{
+			name: "Riley J.",
+			rating: 3,
+			comment: "The camera is good, but the app could be more user-friendly."
+		},
+		{
+			name: "Hannah S.",
+			rating: 4,
+			comment: "Good value for the price. The video quality is clear and the motion detection is accurate."
+		},
+		{
+			name: "Michael T.",
+			rating: 5,
+			comment: "Love this camera! It's very discreet and the video quality is excellent."
+		},
+		{
+			name: "Avery W.",
+			rating: 4,
+			comment: "Good camera for home security. The setup was a bit tricky but the video quality is great."
+		},
+		{
+			name: "Daniel G.",
+			rating: 4,
+			comment: "Solid performance overall. The night vision could be clearer, but it's still a great camera."
+		},
+		{
+			name: "Luna H.",
+			rating: 5,
+			comment: "This camera is perfect for monitoring my home. The video quality is great and the alarm clock design is genius."
+		},
+		{
+			name: "Sebastian B.",
+			rating: 4,
+			comment: "Very useful for home security. The motion detection works well and the camera is well hidden."
+		},
+		{
+			name: "Ella R.",
+			rating: 5,
+			comment: "Excellent product. The alarm clock design is perfect for discreet monitoring."
+		},
+		{
+			name: "Mila T.",
+			rating: 4,
+			comment: "Great value for the price. The WiFi connection is stable and the video quality is clear."
+		},
+		{
+			name: "Luke D.",
+			rating: 5,
+			comment: "Love this camera! It's very discreet and the video quality is excellent."
+		},
+		{
+			name: "Levi F.",
+			rating: 4,
+			comment: "Good quality camera. The WiFi connection is stable and the motion detection works well."
+		},
+		{
+			name: "Aria K.",
+			rating: 5,
+			comment: "Fantastic camera! The video quality is top-notch and the alarm clock design is very discreet."
+		},
+		{
+			name: "Ellie J.",
+			rating: 4,
+			comment: "Good camera for monitoring my home. The night vision is decent and the setup was fairly easy."
+		},
+		{
+			name: "David S.",
+			rating: 3,
+			comment: "The camera is good, but the app could use some improvements."
+		},
+		{
+			name: "Scarlett V.",
+			rating: 4,
+			comment: "Great value for the price. The video quality is clear and the motion detection is accurate."
+		},
+		{
+			name: "Samuel P.",
+			rating: 5,
+			comment: "Very satisfied with this camera. The video quality is superb and the alarm clock design is very clever."
+		},
+		{
+			name: "Stella M.",
+			rating: 4,
+			comment: "Works well for my needs. The night vision is decent and the setup was fairly easy."
+		},
+		{
+			name: "Owen B.",
+			rating: 3,
+			comment: "The camera works well, but the app could be more user-friendly."
+		}
+	]
+},
 		  };
 		  
 
