@@ -8275,37 +8275,207 @@ const productData = {
     ]
 },
 "X5 Mini Camera Wireless 1080P Surveillance Security Cam with 32GB SD Card": {
-    averageRating: 5.0,
-    reviews: [
-        {
-            name: "Sophie K.",
-            rating: 5,
-            comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
-            image: "https://i.postimg.cc/1zP3w84S/download.jpg"
-        },
-        {
-            name: "Liam F.",
-            rating: 5,
-            comment: "Perfect for home security. The WiFi connectivity is seamless, and the night vision is very clear.",
-            image: "https://i.postimg.cc/K8tY1PGQ/download-1.jpg"
-        },
-        {
-            name: "Grace D.",
-            rating: 5,
-            comment: "Love this tiny camera! It's easy to set up and the motion detection feature works perfectly."
-        },
-        {
-            name: "Benjamin H.",
-            rating: 5,
-            comment: "Great camera for monitoring my home. The included 32GB SD card provides plenty of storage."
-        },
-        {
-            name: "Mia P.",
-            rating: 5,
-            comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
-        }
-    ]
-},
+	averageRating: 4.6,
+	reviews: [
+		{
+			name: "Sophie K.",
+			rating: 5,
+			comment: "This mini camera is fantastic! It's so small and discreet, and the video quality is excellent.",
+			image: "https://i.postimg.cc/1zP3w84S/download.jpg"
+		},
+		{
+			name: "Liam F.",
+			rating: 5,
+			comment: "Perfect for home security. The WiFi connectivity is seamless, and the night vision is very clear.",
+			image: "https://i.postimg.cc/K8tY1PGQ/download-1.jpg"
+		},
+		{
+			name: "Grace D.",
+			rating: 5,
+			comment: "Love this tiny camera! It's easy to set up and the motion detection feature works perfectly."
+		},
+		{
+			name: "Benjamin H.",
+			rating: 5,
+			comment: "Great camera for monitoring my home. The included 32GB SD card provides plenty of storage."
+		},
+		{
+			name: "Mia P.",
+			rating: 5,
+			comment: "Exactly what I needed for discreet home security. The night vision and motion detection are excellent features."
+		},
+		{
+			name: "Ella T.",
+			rating: 4,
+			comment: "The camera works well overall, but the battery life could be better."
+		},
+		{
+			name: "Noah J.",
+			rating: 4,
+			comment: "Good quality camera. The setup was a bit tricky but the video quality is excellent."
+		},
+		{
+			name: "Isabella W.",
+			rating: 4,
+			comment: "Very useful for home security. The night vision is clear and the motion detection is accurate."
+		},
+		{
+			name: "James R.",
+			rating: 4,
+			comment: "Solid performance, but the WiFi connectivity could be more stable."
+		},
+		{
+			name: "Ava M.",
+			rating: 4,
+			comment: "Great camera for the price. The included SD card is a nice bonus."
+		},
+		{
+			name: "Lucas P.",
+			rating: 4,
+			comment: "The video quality is good, but I had some issues with the app."
+		},
+		{
+			name: "Amelia G.",
+			rating: 5,
+			comment: "Love how small and discreet this camera is. Perfect for monitoring my pets."
+		},
+		{
+			name: "Henry K.",
+			rating: 4,
+			comment: "Good camera overall. The night vision works well, but the motion detection could be more sensitive."
+		},
+		{
+			name: "Olivia H.",
+			rating: 5,
+			comment: "This camera is fantastic! The video quality is superb and the setup was very easy."
+		},
+		{
+			name: "Jackson L.",
+			rating: 4,
+			comment: "Reliable camera for home security. The video quality is clear and the WiFi setup was straightforward."
+		},
+		{
+			name: "Emma N.",
+			rating: 4,
+			comment: "Very good camera. The motion detection works well, but I wish the battery lasted longer."
+		},
+		{
+			name: "Alexander B.",
+			rating: 5,
+			comment: "Great for keeping an eye on my kids. The night vision is clear and the camera is very discreet."
+		},
+		{
+			name: "Sophia J.",
+			rating: 4,
+			comment: "The camera works well, but the app could be more user-friendly."
+		},
+		{
+			name: "Benjamin S.",
+			rating: 5,
+			comment: "Excellent camera! The video quality is top-notch and the included SD card is very convenient."
+		},
+		{
+			name: "Charlotte A.",
+			rating: 4,
+			comment: "Good quality camera. The setup was easy and the night vision is impressive."
+		},
+		{
+			name: "Liam C.",
+			rating: 4,
+			comment: "Works well for my needs. The video quality is clear and the camera is very discreet."
+		},
+		{
+			name: "Mia L.",
+			rating: 5,
+			comment: "Love this camera! It's perfect for home security and the night vision is excellent."
+		},
+		{
+			name: "Ethan W.",
+			rating: 4,
+			comment: "Good camera overall. The WiFi setup was a bit tricky but the video quality is great."
+		},
+		{
+			name: "Ava D.",
+			rating: 4,
+			comment: "Very useful for home security. The motion detection works well and the camera is well hidden."
+		},
+		{
+			name: "William R.",
+			rating: 5,
+			comment: "Fantastic camera! The video quality is excellent and the setup was easy."
+		},
+		{
+			name: "Harper T.",
+			rating: 4,
+			comment: "Great camera for the price. The night vision is clear and the included SD card is a nice bonus."
+		},
+		{
+			name: "Jack F.",
+			rating: 4,
+			comment: "Good quality camera. The WiFi connectivity could be more stable, but the video quality is excellent."
+		},
+		{
+			name: "Emily P.",
+			rating: 5,
+			comment: "Love how small and discreet this camera is. Perfect for monitoring my home."
+		},
+		{
+			name: "Logan S.",
+			rating: 4,
+			comment: "Solid performance, but the app could use some improvements."
+		},
+		{
+			name: "Isabella M.",
+			rating: 4,
+			comment: "Good camera overall. The night vision works well and the setup was fairly easy."
+		},
+		{
+			name: "James K.",
+			rating: 5,
+			comment: "This camera is fantastic! The video quality is superb and the motion detection is very accurate."
+		},
+		{
+			name: "Sophia L.",
+			rating: 4,
+			comment: "The camera works well, but the battery life could be better."
+		},
+		{
+			name: "Benjamin T.",
+			rating: 4,
+			comment: "Good quality camera. The setup was a bit tricky but the video quality is excellent."
+		},
+		{
+			name: "Olivia R.",
+			rating: 4,
+			comment: "Very useful for home security. The night vision is clear and the motion detection is accurate."
+		},
+		{
+			name: "Henry J.",
+			rating: 5,
+			comment: "Excellent camera! The video quality is top-notch and the included SD card is very convenient."
+		},
+		{
+			name: "Liam M.",
+			rating: 4,
+			comment: "Good quality camera. The setup was easy and the night vision is impressive."
+		},
+		{
+			name: "Ava G.",
+			rating: 4,
+			comment: "Works well for my needs. The video quality is clear and the camera is very discreet."
+		},
+		{
+			name: "Mia K.",
+			rating: 5,
+			comment: "Love this camera! It's perfect for home security and the night vision is excellent."
+		},
+		{
+			name: "Ethan D.",
+			rating: 4,
+			comment: "Good camera overall. The WiFi setup was a bit tricky but the video quality is great."
+		}
+	]
+}, 
 "Alarm Clock Mini Camera 1080P HD WiFi IR Night Vision Motion Detection": {
     averageRating: 5.0,
     reviews: [
