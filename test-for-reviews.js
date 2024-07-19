@@ -11086,7 +11086,7 @@ const productData = {
 	]
 },
 
-"Ultra-Thin Tiny Mini Voice Recorder 8GB Sound Activated Dictaphone": {
+"Ultra-Thin Tiny Mini Voice Recorder 8GB Sound Activated Dictaphone": { 
 	averageRating: 4.9,
 	reviews: [
 		{
