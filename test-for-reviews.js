@@ -11092,82 +11092,98 @@ const productData = {
 		{
 			name: "Chris M.",
 			rating: 5,
-			comment: "This mini voice recorder is fantastic! It's incredibly thin and easy to hide. The sound quality is excellent, and it's perfect for recording meetings discreetly."
+			comment: "This mini voice recorder is fantastic! It's incredibly thin and easy to hide. The sound quality is excellent, and it's perfect for recording meetings discreetly.",
+			image: "https://i.postimg.cc/gkXd8pzw/download.jpg"
 		},
 		{
 			name: "Alex T.",
 			rating: 5,
-			comment: "Perfect for capturing important lectures. The sound activation feature works flawlessly, and it's so small that no one notices it."
+			comment: "Perfect for capturing important lectures. The sound activation feature works flawlessly, and it's so small that no one notices it.",
+			image: "https://i.postimg.cc/wv2xfQZ7/download-1.jpg"
 		},
 		{
 			name: "Jordan P.",
 			rating: 5,
-			comment: "Love this tiny recorder! It's easy to use and provides clear audio. Highly recommend for anyone needing a discreet recording device."
+			comment: "Love this tiny recorder! It's easy to use and provides clear audio. Highly recommend for anyone needing a discreet recording device.",
+			image: "https://i.postimg.cc/zfSqvkJ0/download-10.jpg"
 		},
 		{
 			name: "Taylor R.",
 			rating: 5,
-			comment: "Great for personal notes. The ultra-thin design makes it easy to carry in my pocket, and the audio quality is top-notch."
+			comment: "Great for personal notes. The ultra-thin design makes it easy to carry in my pocket, and the audio quality is top-notch.",
+			image: "https://i.postimg.cc/3Rt7CJ0G/download-11.jpg"
 		},
 		{
 			name: "Sam K.",
 			rating: 5,
-			comment: "Exactly what I needed for discreet recording. The sound activation is very sensitive and captures everything I need."
+			comment: "Exactly what I needed for discreet recording. The sound activation is very sensitive and captures everything I need.",
+			image: "https://i.postimg.cc/RhqmP5wD/download-12.jpg"
 		},
 		{
 			name: "Sophia J.",
 			rating: 5,
-			comment: "The size and quality of this recorder are impressive. It's perfect for covert recording, and the battery life is excellent."
+			comment: "The size and quality of this recorder are impressive. It's perfect for covert recording, and the battery life is excellent.",
+			image: "https://i.postimg.cc/02TvC4jV/download-13.jpg"
 		},
 		{
 			name: "James T.",
 			rating: 4,
-			comment: "Solid voice recorder with great features. The thin design makes it easy to hide. Only wish the storage was expandable."
+			comment: "Solid voice recorder with great features. The thin design makes it easy to hide. Only wish the storage was expandable.",
+			image: "https://i.postimg.cc/NGPBKFcq/download-14.jpg"
 		},
 		{
 			name: "Olivia M.",
 			rating: 5,
-			comment: "Highly recommend this recorder! The audio quality is superb, and the ultra-thin design is perfect for discreet use."
+			comment: "Highly recommend this recorder! The audio quality is superb, and the ultra-thin design is perfect for discreet use.",
+			image: "https://i.postimg.cc/KjV2wqNv/download-15.jpg"
 		},
 		{
 			name: "William D.",
 			rating: 4,
-			comment: "Great for both professional and personal use. The sound activation is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase."
+			comment: "Great for both professional and personal use. The sound activation is very sensitive and accurate. Setup took a bit longer than expected but overall a great purchase.",
+			image: "https://i.postimg.cc/J7T4jKjF/download-2.jpg"
 		},
 		{
 			name: "Emma B.",
 			rating: 5,
-			comment: "Excellent voice recorder! The ultra-thin design is very handy for discreet recording. The sound quality is a game-changer."
+			comment: "Excellent voice recorder! The ultra-thin design is very handy for discreet recording. The sound quality is a game-changer.",
+			image: "https://i.postimg.cc/pXpVC8ZL/download-3.jpg"
 		},
 		{
 			name: "Liam K.",
 			rating: 4,
-			comment: "Very good recorder for lectures and meetings. Easy to set up and use. The sound quality is clear, and the thin design is perfect for carrying. The only minor issue was the initial setup time."
+			comment: "Very good recorder for lectures and meetings. Easy to set up and use. The sound quality is clear, and the thin design is perfect for carrying. The only minor issue was the initial setup time.",
+			image: "https://i.postimg.cc/L509R6HS/download-4.jpg"
 		},
 		{
 			name: "Ava L.",
 			rating: 5,
-			comment: "I'm very impressed with this recorder. The sound quality is amazing, and its size makes it perfect for hidden recording."
+			comment: "I'm very impressed with this recorder. The sound quality is amazing, and its size makes it perfect for hidden recording.",
+			image: "https://i.postimg.cc/T1PdZWvQ/download-5.jpg"
 		},
 		{
 			name: "Noah F.",
 			rating: 4,
-			comment: "This recorder performs well both in noisy and quiet environments. The small size is very convenient. My only suggestion would be to improve the setup instructions."
+			comment: "This recorder performs well both in noisy and quiet environments. The small size is very convenient. My only suggestion would be to improve the setup instructions.",
+			image: "https://i.postimg.cc/wjNq8pnK/download-6.jpg"
 		},
 		{
 			name: "Isabella H.",
 			rating: 5,
-			comment: "I love this voice recorder! The sound quality is so clear, and the activation feature is very responsive. It's definitely worth the investment."
+			comment: "I love this voice recorder! The sound quality is so clear, and the activation feature is very responsive. It's definitely worth the investment.",
+			image: "https://i.postimg.cc/sDqjNX69/download-7.jpg"
 		},
 		{
 			name: "Mason C.",
 			rating: 4,
-			comment: "Great recorder with excellent features. The small size is perfect for discreet recording. Would have liked a quicker setup process."
+			comment: "Great recorder with excellent features. The small size is perfect for discreet recording. Would have liked a quicker setup process.",
+			image: "https://i.postimg.cc/NMsBHrFY/download-8.jpg"
 		},
 		{
 			name: "Mia S.",
 			rating: 5,
-			comment: "Fantastic voice recorder! The sound activation and ultra-thin design make it perfect for recording discreetly. Easy to set up and use."
+			comment: "Fantastic voice recorder! The sound activation and ultra-thin design make it perfect for recording discreetly. Easy to set up and use.",
+			image: "https://i.postimg.cc/k5dn7Hd2/download-9.jpg"
 		},
 		{
 			name: "Lucas P.",
