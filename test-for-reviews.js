@@ -2475,18 +2475,161 @@ const productData = {
 		],  
 	  },
 	  "HeatEase™ Electric Heated Shoulder Massager and Neck Wrap": {   
-		averageRating: 5,
-		reviews: [
-		  {
-			name: "Hana A.",
-			rating: 5,
-			comment:
-			  "Great product, great for relieving neck and shoulder pain, will be buying one again for my mom 👍", 
-			image:
-			  "https://i.postimg.cc/L6pFz0SJ/A2cfb2d6cb6f34843aa2cf21d273657493-1.jpg",    
-		  },  
-		],  
-	  },  
+        averageRating: 5,
+        reviews: [
+            {
+                name: "Hana A.",
+                rating: 5,
+                comment: "Great product, great for relieving neck and shoulder pain, will be buying one again for my mom 👍", 
+                image: "https://i.postimg.cc/L6pFz0SJ/A2cfb2d6cb6f34843aa2cf21d273657493-1.jpg"
+            },
+            {
+                name: "John D.",
+                rating: 5,
+                comment: "This massager is a lifesaver! It provides instant relief and the heat function is fantastic."
+            },
+            {
+                name: "Emma W.",
+                rating: 5,
+                comment: "Perfect for my chronic shoulder pain. The heat is soothing and the massage is just right."
+            },
+            {
+                name: "Sophia T.",
+                rating: 5,
+                comment: "I use this every day after work. It’s incredibly relaxing and helps with my neck tension."
+            },
+            {
+                name: "James M.",
+                rating: 5,
+                comment: "Bought this for my wife and she loves it. It’s very effective for shoulder pain relief."
+            },
+            {
+                name: "Olivia P.",
+                rating: 5,
+                comment: "Amazing product! The heat and massage combo works wonders for my neck stiffness."
+            },
+            {
+                name: "Liam K.",
+                rating: 5,
+                comment: "This is a must-have for anyone with neck or shoulder pain. The heat function is very comforting."
+            },
+            {
+                name: "Isabella H.",
+                rating: 5,
+                comment: "The best massager I’ve ever used. It’s easy to use and provides great relief."
+            },
+            {
+                name: "Mason B.",
+                rating: 5,
+                comment: "Very effective for muscle pain. The heat helps to relax my shoulders quickly."
+            },
+            {
+                name: "Ava J.",
+                rating: 5,
+                comment: "Highly recommend this product. It’s perfect for relaxing after a long day."
+            },
+            {
+                name: "Ethan S.",
+                rating: 5,
+                comment: "Great value for money. The massager is powerful and the heat function is amazing."
+            },
+            {
+                name: "Mia L.",
+                rating: 5,
+                comment: "I bought this for my mom and she loves it. It’s very effective for her shoulder pain."
+            },
+            {
+                name: "Lucas G.",
+                rating: 5,
+                comment: "Fantastic massager. The heat really penetrates deep and provides excellent relief."
+            },
+            {
+                name: "Amelia F.",
+                rating: 5,
+                comment: "Very soothing and effective. I use it every evening to unwind and relieve tension."
+            },
+            {
+                name: "Henry T.",
+                rating: 5,
+                comment: "This massager has been a great help for my neck pain. The heat and massage are perfect."
+            },
+            {
+                name: "Harper N.",
+                rating: 5,
+                comment: "Love this product! It’s easy to use and provides great relief for my shoulder pain."
+            },
+            {
+                name: "Jack R.",
+                rating: 5,
+                comment: "This is exactly what I needed for my neck pain. The heat function is very effective."
+            },
+            {
+                name: "Ella V.",
+                rating: 5,
+                comment: "Highly effective massager. The heat is very soothing and helps with muscle relaxation."
+            },
+            {
+                name: "Sebastian C.",
+                rating: 5,
+                comment: "Great product for the price. The massage and heat combination is very therapeutic."
+            },
+            {
+                name: "Avery W.",
+                rating: 5,
+                comment: "I use this every night before bed. It’s incredibly relaxing and helps me sleep better."
+            },
+            {
+                name: "Emily H.",
+                rating: 5,
+                comment: "Bought this for my husband and he loves it. It’s very effective for his shoulder pain."
+            },
+            {
+                name: "Benjamin J.",
+                rating: 5,
+                comment: "Excellent massager. The heat function is very comforting and the massage is great."
+            },
+            {
+                name: "Lily P.",
+                rating: 5,
+                comment: "This massager is a game-changer for my neck pain. The heat and massage are perfect."
+            },
+            {
+                name: "Logan M.",
+                rating: 5,
+                comment: "Highly recommend this product. It’s very effective for neck and shoulder pain."
+            },
+            {
+                name: "Chloe S.",
+                rating: 5,
+                comment: "Great for relieving tension. The heat function adds an extra level of comfort."
+            },
+            {
+                name: "Alexander D.",
+                rating: 5,
+                comment: "This massager is fantastic. It’s easy to use and provides great relief for my shoulder pain."
+            },
+            {
+                name: "Sofia B.",
+                rating: 5,
+                comment: "Love this product! It’s very effective for my neck pain and the heat is very soothing."
+            },
+            {
+                name: "Daniel K.",
+                rating: 5,
+                comment: "Bought this for my wife and she loves it. It’s very effective for her shoulder pain."
+            },
+            {
+                name: "Grace L.",
+                rating: 5,
+                comment: "This massager is amazing. The heat function is very comforting and helps with muscle relaxation."
+            },
+            {
+                name: "William F.",
+                rating: 5,
+                comment: "Highly recommend this product. It’s perfect for relaxing after a long day."
+            }
+        ]
+    },
 	  "RosyEmbrace™ 25/40cm Teddy Rose Bear Heart with Artificial Roses": {  
 		averageRating: 4.5,
 		reviews: [
@@ -2500,56 +2643,406 @@ const productData = {
 		  }, 
 		],  
 	  },   
-	"RhythmStrike™ Rechargeable Musical Punching Wall Boxing Machine": {
-  averageRating: 4.5,
-  reviews: [
-    {
-      name: "Ethan M.",
-      rating: 5,
-      comment: "A fantastic addition to my home gym! It's easy to install and provides a great workout. The rechargeable feature is a game-changer.",
-      image: "https://i.postimg.cc/VkQS1RxM/p8wzt296.jpg",
+	  "RhythmStrike™ Rechargeable Musical Punching Wall Boxing Machine": {
+        averageRating: 4.5,
+        reviews: [
+            {
+                name: "Ethan M.",
+                rating: 5,
+                comment: "A fantastic addition to my home gym! It's easy to install and provides a great workout. The rechargeable feature is a game-changer.",
+                image: "https://i.postimg.cc/VkQS1RxM/p8wzt296.jpg"
+            },
+            {
+                name: "Olivia B.",
+                rating: 5,
+                comment: "This punching wall machine is both fun and effective. My fitness routine has never been this exciting. Highly recommended for anyone looking to mix up their workouts!",
+                image: "https://i.postimg.cc/vH61pjNb/1-SNC5y-Cd-Q-mid.jpg"
+            },
+            {
+                name: "Nathan S.",
+                rating: 5,
+                comment: "Perfect for improving speed and reflexes. The music sync feature adds an extra layer of enjoyment to the exercise. Definitely worth the investment.",
+                image: "https://i.postimg.cc/gJJj4Bh9/jf0-HZxw-V8-mid.jpg"
+            },
+            {
+                name: "Sophia W.",
+                rating: 5,
+                comment: "My grandson absolutely loves this! It's well-built and provides endless fun while keeping him active. A great purchase!",
+                image: "https://i.postimg.cc/0N9bKN2y/U6o3-Ov-Yv-Z-mid.jpg"
+            },
+            {
+                name: "Liam K.",
+                rating: 5,
+                comment: "Setting this up was a breeze, and it stays securely on the wall. The rhythm-based games make workouts more engaging. A must-have for fitness enthusiasts!",
+                image: "https://i.postimg.cc/Gpz9F1HJ/U-Y7-C7-UQ-mid.jpg"
+            },
+            {
+                name: "Ava P.",
+                rating: 5,
+                comment: "This product is excellent! It connects seamlessly to my phone, allowing me to play my favorite workout tunes. It makes exercising so much more enjoyable."
+            },
+            {
+                name: "Jackson R.",
+                rating: 5,
+                comment: "Easy to use and works perfectly. It helps me maintain focus and improve my punching technique. Highly satisfied!"
+            },
+            {
+                name: "Scarlett L.",
+                rating: 5,
+                comment: "A fun and effective way to stay fit. It's well-made and offers a great workout. I'm very pleased with this purchase!"
+            },
+            {
+                name: "Mason T.",
+                rating: 4,
+                comment: "Great machine but could use more workout programs. Still, it's a solid addition to my home gym."
+            },
+            {
+                name: "Lily J.",
+                rating: 4,
+                comment: "It's fun and engaging. The rechargeable feature is handy, but the battery life could be longer."
+            },
+            {
+                name: "Alexander V.",
+                rating: 5,
+                comment: "Fantastic for improving hand-eye coordination. The music sync feature is a great touch."
+            },
+            {
+                name: "Grace H.",
+                rating: 4,
+                comment: "Good product but a bit pricey. The quality is excellent and it's a great workout tool."
+            },
+            {
+                name: "Michael B.",
+                rating: 5,
+                comment: "Love it! Keeps me motivated and adds variety to my workouts. Highly recommended."
+            },
+            {
+                name: "Emma L.",
+                rating: 4,
+                comment: "Very effective for cardio workouts. The setup was easy but it took a bit longer than expected."
+            },
+            {
+                name: "Lucas N.",
+                rating: 5,
+                comment: "Perfect for my small apartment gym. Doesn't take up much space and is very effective."
+            },
+            {
+                name: "Amelia G.",
+                rating: 4,
+                comment: "It's a great workout tool but the app could be more user-friendly."
+            },
+            {
+                name: "James K.",
+                rating: 5,
+                comment: "My kids and I love it! It's fun and helps us stay active together."
+            },
+            {
+                name: "Harper S.",
+                rating: 4,
+                comment: "Good quality product. The music sync feature is fun but sometimes lags a bit."
+            },
+            {
+                name: "Henry P.",
+                rating: 5,
+                comment: "A must-have for anyone serious about boxing or fitness. Works as advertised."
+            },
+            {
+                name: "Avery C.",
+                rating: 4,
+                comment: "Great for home workouts. Wish it had more game options, but still very satisfied."
+            },
+            {
+                name: "Daniel J.",
+                rating: 5,
+                comment: "Excellent product. Helps improve my reflexes and the workout is intense."
+            },
+            {
+                name: "Madison R.",
+                rating: 4,
+                comment: "Effective and fun to use. The installation instructions could be clearer."
+            },
+            {
+                name: "Logan F.",
+                rating: 5,
+                comment: "The best workout device I've bought. Keeps me motivated and the music sync is awesome."
+            },
+            {
+                name: "Ella W.",
+                rating: 4,
+                comment: "Good for fitness enthusiasts. The only drawback is the initial setup time."
+            },
+            {
+                name: "Samuel D.",
+                rating: 5,
+                comment: "Perfect for daily workouts. The rechargeable battery lasts long enough for my sessions."
+            },
+            {
+                name: "Scarlett J.",
+                rating: 4,
+                comment: "Great addition to my fitness routine. The app needs some improvements, though."
+            },
+            {
+                name: "Leo H.",
+                rating: 5,
+                comment: "My favorite workout tool. The rhythm games are challenging and fun."
+            },
+            {
+                name: "Chloe E.",
+                rating: 4,
+                comment: "Effective and fun. The battery could last longer, but overall a great product."
+            },
+            {
+                name: "Jack M.",
+                rating: 5,
+                comment: "Highly recommend. It's fun and keeps me active. Worth every penny."
+            },
+            {
+                name: "Sofia B.",
+                rating: 4,
+                comment: "Good quality, works well. The app could be more intuitive."
+            },
+            {
+                name: "Mason G.",
+                rating: 5,
+                comment: "Excellent for improving my boxing skills. The setup was straightforward."
+            },
+            {
+                name: "Zoe L.",
+                rating: 4,
+                comment: "Fun and effective. The only issue is the occasional app lag."
+            },
+            {
+                name: "Benjamin V.",
+                rating: 5,
+                comment: "A fun way to stay fit. My kids love it too. Great for family workouts."
+            },
+            {
+                name: "Aria T.",
+                rating: 4,
+                comment: "Good product. The music sync feature is great but could be improved."
+            },
+            {
+                name: "Lucas J.",
+                rating: 5,
+                comment: "Perfect for home use. The rhythm games make it much more engaging."
+            },
+            {
+                name: "Layla K.",
+                rating: 4,
+                comment: "Very effective. The installation was a bit tricky but worth it."
+            },
+            {
+                name: "Jacob S.",
+                rating: 5,
+                comment: "Great for staying active at home. The music feature keeps me motivated."
+            },
+            {
+                name: "Mila F.",
+                rating: 4,
+                comment: "Works well and is fun to use. The battery could last longer."
+            }
+        ]
     },
-    {
-      name: "Olivia B.",
-      rating: 5,
-      comment: "This punching wall machine is both fun and effective. My fitness routine has never been this exciting. Highly recommended for anyone looking to mix up their workouts!",
-      image: "https://i.postimg.cc/vH61pjNb/1-SNC5y-Cd-Q-mid.jpg",
+	"Portable Fruit Juice Blenders Summer Personal Electric Mini Bottle Home USB 6 Blades Juicer Cup": {
+        averageRating: 4.6,
+        reviews: [
+            {
+                name: "Emily R.",
+                rating: 5,
+                comment: "This portable blender is fantastic! It's so convenient for making fresh smoothies on the go."
+            },
+            {
+                name: "John D.",
+                rating: 5,
+                comment: "I love this juicer cup! The USB charging feature is so handy and the blades are really powerful."
+            },
+            {
+                name: "Olivia M.",
+                rating: 5,
+                comment: "Perfect for my morning shakes. It's easy to use and clean, and the size is just right for my bag."
+            },
+            {
+                name: "James S.",
+                rating: 4,
+                comment: "Great little blender for the price. The battery life could be longer, but overall I'm very happy with it."
+            },
+            {
+                name: "Sophia T.",
+                rating: 5,
+                comment: "This blender is a game-changer for my healthy lifestyle. I can blend fresh juices anywhere."
+            },
+            {
+                name: "Liam B.",
+                rating: 4,
+                comment: "Very convenient and works well. The motor is powerful, but it's a bit noisy."
+            },
+            {
+                name: "Ava N.",
+                rating: 5,
+                comment: "Love it! I use it every day for my protein shakes. The 6 blades make blending super smooth."
+            },
+            {
+                name: "Noah K.",
+                rating: 4,
+                comment: "Good product for on-the-go use. It blends well but the capacity is a bit small for my needs."
+            },
+            {
+                name: "Isabella J.",
+                rating: 5,
+                comment: "Highly recommend this portable blender. It's easy to clean and the USB charging is very convenient."
+            },
+            {
+                name: "Mason L.",
+                rating: 4,
+                comment: "Works great for quick smoothies. The only downside is the battery needs frequent charging."
+            },
+            {
+                name: "Mia P.",
+                rating: 5,
+                comment: "The perfect solution for fresh juices on the go. Compact and powerful, it fits easily in my bag."
+            },
+            {
+                name: "Ethan W.",
+                rating: 4,
+                comment: "Effective and easy to use. The blades are sharp, but it can be a bit loud during blending."
+            },
+            {
+                name: "Charlotte G.",
+                rating: 5,
+                comment: "This blender is amazing! It's portable, efficient, and the USB charging makes it super convenient."
+            },
+            {
+                name: "Aiden H.",
+                rating: 4,
+                comment: "Good for travel and quick smoothies. The battery life could be better, but it blends well."
+            },
+            {
+                name: "Amelia F.",
+                rating: 5,
+                comment: "Fantastic portable blender. The six blades make blending a breeze, and it's easy to clean."
+            },
+            {
+                name: "Lucas P.",
+                rating: 4,
+                comment: "Works well for on-the-go use. The capacity is a bit small, but it's very convenient."
+            },
+            {
+                name: "Harper C.",
+                rating: 5,
+                comment: "Love this blender! It's perfect for my morning smoothies and easy to carry around."
+            },
+            {
+                name: "Ella V.",
+                rating: 4,
+                comment: "Great for making quick shakes. The motor is powerful, but it could be a bit quieter."
+            },
+            {
+                name: "Henry T.",
+                rating: 5,
+                comment: "This portable blender is a must-have for anyone on the go. It works efficiently and is easy to use."
+            },
+            {
+                name: "Avery L.",
+                rating: 4,
+                comment: "Very useful and convenient. The USB charging is great, but the battery could last longer."
+            },
+            {
+                name: "Grace M.",
+                rating: 5,
+                comment: "Perfect for fresh juices and smoothies. The portable design is excellent for travel."
+            },
+            {
+                name: "William J.",
+                rating: 4,
+                comment: "Good blender for its size. The capacity is a bit limited, but it's great for quick blends."
+            },
+            {
+                name: "Sophie B.",
+                rating: 5,
+                comment: "Highly recommend this juicer cup. It's powerful, portable, and easy to clean."
+            },
+            {
+                name: "Jack R.",
+                rating: 4,
+                comment: "Great for quick and easy smoothies. The only downside is the frequent need for recharging."
+            },
+            {
+                name: "Lily K.",
+                rating: 5,
+                comment: "This blender is a game-changer. It's compact, efficient, and perfect for on-the-go use."
+            },
+            {
+                name: "Daniel A.",
+                rating: 4,
+                comment: "Works well for travel. The battery life could be better, but the blending power is great."
+            },
+            {
+                name: "Zoe D.",
+                rating: 5,
+                comment: "Love this portable blender. It's easy to use, clean, and perfect for fresh juices."
+            },
+            {
+                name: "Matthew S.",
+                rating: 4,
+                comment: "Very convenient and works well. The motor is powerful, but it can be a bit noisy."
+            },
+            {
+                name: "Aria T.",
+                rating: 5,
+                comment: "Fantastic for making smoothies on the go. The USB charging is a huge plus."
+            },
+            {
+                name: "Logan E.",
+                rating: 4,
+                comment: "Good product overall. The battery needs frequent charging, but it blends well."
+            },
+            {
+                name: "Riley N.",
+                rating: 5,
+                comment: "Highly recommend this blender. It's portable, efficient, and easy to clean."
+            },
+            {
+                name: "Nathan L.",
+                rating: 4,
+                comment: "Works great for quick blends. The capacity is a bit small, but it's very convenient."
+            },
+            {
+                name: "Mila F.",
+                rating: 5,
+                comment: "Perfect for fresh juices and smoothies. The six blades make blending super easy."
+            },
+            {
+                name: "Jackson W.",
+                rating: 4,
+                comment: "Good for on-the-go use. The battery life could be better, but it blends efficiently."
+            },
+            {
+                name: "Hannah P.",
+                rating: 5,
+                comment: "Love this portable blender! It's compact, powerful, and easy to carry around."
+            },
+            {
+                name: "Levi C.",
+                rating: 4,
+                comment: "Very useful for quick smoothies. The motor is powerful, but it could be quieter."
+            },
+            {
+                name: "Samantha G.",
+                rating: 5,
+                comment: "This blender is amazing! It's easy to use, clean, and perfect for my morning shakes."
+            },
+            {
+                name: "Caleb H.",
+                rating: 4,
+                comment: "Works well for travel. The battery needs frequent charging, but the blending power is great."
+            },
+            {
+                name: "Zoe B.",
+                rating: 5,
+                comment: "Highly recommend this juicer cup. It's powerful, portable, and easy to clean."
+            }
+        ]
     },
-    {
-      name: "Nathan S.",
-      rating: 5,
-      comment: "Perfect for improving speed and reflexes. The music sync feature adds an extra layer of enjoyment to the exercise. Definitely worth the investment.",
-      image: "https://i.postimg.cc/gJJj4Bh9/jf0-HZxw-V8-mid.jpg",
-    },
-    {
-      name: "Sophia W.",
-      rating: 5,
-      comment: "My grandson absolutely loves this! It's well-built and provides endless fun while keeping him active. A great purchase!",
-      image: "https://i.postimg.cc/0N9bKN2y/U6o3-Ov-Yv-Z-mid.jpg",
-    },
-    {
-      name: "Liam K.",
-      rating: 5,
-      comment: "Setting this up was a breeze, and it stays securely on the wall. The rhythm-based games make workouts more engaging. A must-have for fitness enthusiasts!",
-      image: "https://i.postimg.cc/Gpz9F1HJ/U-Y7-C7-UQ-mid.jpg",
-    },
-    {
-      name: "Ava P.",
-      rating: 5,
-      comment: "This product is excellent! It connects seamlessly to my phone, allowing me to play my favorite workout tunes. It makes exercising so much more enjoyable.",
-    },
-    {
-      name: "Jackson R.",
-      rating: 5,
-      comment: "Easy to use and works perfectly. It helps me maintain focus and improve my punching technique. Highly satisfied!",
-    },
-    {
-      name: "Scarlett L.",
-      rating: 5,
-      comment: "A fun and effective way to stay fit. It's well-made and offers a great workout. I'm very pleased with this purchase!",
-    },
-  ],
-},
 	  "Redragon M811 PRO Wireless MMO Gaming Mouse": {   
 		averageRating: 4.5,
 		reviews: [
@@ -6331,7 +6824,7 @@ const productData = {
 			}
 		]
 	},
-	"WiFi Camera Clock - 1080P HD Security Cam, Motion Detection, Night Vision, Real-Time App Monitoring": {
+"WiFi Camera Clock - 1080P HD Security Cam, Motion Detection, Night Vision, Real-Time App Monitoring": {
     averageRating: 4.7,
     reviews: [
         {
@@ -6400,9 +6893,109 @@ const productData = {
             name: "Lucas P",
             rating: 4,
             comment: "Effective and reliable. The motion detection and night vision are very useful features. Setup took a bit longer than expected, but the camera works great."
+        },
+        {
+            name: "Grace H",
+            rating: 5,
+            comment: "The perfect addition to my home security system. The video quality is clear and the night vision is excellent. Highly recommend this product!"
+        },
+        {
+            name: "Benjamin A",
+            rating: 5,
+            comment: "Amazing quality for the price. The real-time app monitoring is a huge plus and makes it easy to check in on my home from anywhere."
+        },
+        {
+            name: "Zoe C",
+            rating: 4,
+            comment: "Good value for money. The camera does a great job with motion detection and the app is straightforward to use. Setup could be a bit more intuitive."
+        },
+        {
+            name: "Henry M",
+            rating: 5,
+            comment: "Love this camera clock! It's discreet, the video quality is excellent, and the app is very user-friendly. Perfect for home security."
+        },
+        {
+            name: "Ava B",
+            rating: 5,
+            comment: "The night vision on this camera is outstanding. I can monitor my home even in complete darkness. Highly recommend!"
+        },
+        {
+            name: "Jack D",
+            rating: 4,
+            comment: "Great product overall. The motion detection is sensitive and the video quality is clear. Setup was a bit tricky, but it's worth the effort."
+        },
+        {
+            name: "Ella T",
+            rating: 5,
+            comment: "Very pleased with this purchase. The camera is discreet, and the app monitoring makes it easy to keep an eye on things when I'm away."
+        },
+        {
+            name: "Liam W",
+            rating: 5,
+            comment: "Excellent hidden camera. The HD quality is fantastic and the app is very convenient. A must-have for anyone looking to increase their home security."
+        },
+        {
+            name: "Chloe G",
+            rating: 5,
+            comment: "This camera clock is exactly what I needed for discreet monitoring. The setup was simple and the video quality is great. Highly recommend!"
+        },
+        {
+            name: "Mason F",
+            rating: 4,
+            comment: "Good quality camera. The night vision and motion detection work well. Setup instructions could be clearer, but overall it's a solid product."
+        },
+        {
+            name: "Emily R",
+            rating: 5,
+            comment: "Fantastic product! The video quality is excellent and the app makes it easy to monitor in real-time. Setup was quick and easy."
+        },
+        {
+            name: "Ethan S",
+            rating: 5,
+            comment: "Great hidden camera for security. The motion detection is accurate and the night vision is clear. The app is very user-friendly."
+        },
+        {
+            name: "Lily J",
+            rating: 5,
+            comment: "This camera clock is perfect for keeping an eye on things discreetly. The video quality is excellent and the app monitoring is very convenient."
+        },
+        {
+            name: "Daniel N",
+            rating: 4,
+            comment: "Very effective hidden camera. The motion detection and night vision are excellent. Setup was a bit challenging, but it's a great product overall."
+        },
+        {
+            name: "Avery K",
+            rating: 5,
+            comment: "Love this camera! The HD video quality is superb and the app makes it easy to monitor everything. Highly recommend."
+        },
+        {
+            name: "Harper L",
+            rating: 5,
+            comment: "Great addition to my home security. The camera is discreet, the video quality is excellent, and the app is easy to use."
+        },
+        {
+            name: "Logan B",
+            rating: 4,
+            comment: "Good hidden camera. The motion detection is sensitive and the night vision works well. Setup instructions could be clearer."
+        },
+        {
+            name: "Sophia Q",
+            rating: 5,
+            comment: "This camera clock has exceeded my expectations. The real-time app monitoring is very convenient and the video quality is excellent."
+        },
+        {
+            name: "James V",
+            rating: 5,
+            comment: "Highly recommend this product. The HD quality is amazing and the app is very user-friendly. Perfect for discreet monitoring."
+        },
+        {
+            name: "Olivia Y",
+            rating: 5,
+            comment: "This camera clock is fantastic for home security. The night vision is clear and the motion detection is very sensitive. Great product!"
         }
     ]
-}, 
+},
 	"Solar Security Light Alarm - Waterproof PIR LED Motion Sensor, 129dB Loud Siren, Outdoor Use": {
 		averageRating: 4.8,
 		reviews: [
@@ -6468,31 +7061,261 @@ const productData = {
 			}
 		]
 	},
-	"Mini Surveillance Camera - Built-in Battery, Night Vision, Motion Detection, No WiFi, No App": {
-		averageRating: 4.5,
-		reviews: [
-			{
-				name: "Sophia J",
-				rating: 5,
-				comment: "This mini surveillance camera is great! The built-in battery lasts long, and the night vision is surprisingly clear. It's perfect for discreet monitoring without needing WiFi."
-			},
-			{
-				name: "James T",
-				rating: 4,
-				comment: "Good quality camera with useful features. The motion detection is sensitive and accurate. It's simple to use without needing any app, which is a plus."
-			},
-			{
-				name: "Olivia M",
-				rating: 5,
-				comment: "Highly recommend this mini camera! The battery life is excellent, and the night vision works perfectly. It's easy to set up and does not require WiFi or an app."
-			},
-			{
-				name: "William D",
-				rating: 4,
-				comment: "Very effective surveillance camera. The built-in battery and motion detection work well. It's a bit small, but it does the job nicely without needing any internet connection."
-			}
-		]
-	},
+"Mini Surveillance Camera - Built-in Battery, Night Vision, Motion Detection, No WiFi, No App": {
+    averageRating: 4.5,
+    reviews: [
+        {
+            name: "Sophia J",
+            rating: 5,
+            comment: "This mini surveillance camera is great! The built-in battery lasts long, and the night vision is surprisingly clear. It's perfect for discreet monitoring without needing WiFi."
+        },
+        {
+            name: "James T",
+            rating: 4,
+            comment: "Good quality camera with useful features. The motion detection is sensitive and accurate. It's simple to use without needing any app, which is a plus."
+        },
+        {
+            name: "Olivia M",
+            rating: 5,
+            comment: "Highly recommend this mini camera! The battery life is excellent, and the night vision works perfectly. It's easy to set up and does not require WiFi or an app."
+        },
+        {
+            name: "William D",
+            rating: 4,
+            comment: "Very effective surveillance camera. The built-in battery and motion detection work well. It's a bit small, but it does the job nicely without needing any internet connection."
+        },
+        {
+            name: "Liam B",
+            rating: 5,
+            comment: "Great little camera for quick and easy monitoring. No need for WiFi or apps makes it very convenient."
+        },
+        {
+            name: "Emma K",
+            rating: 5,
+            comment: "Impressed with the battery life and the clarity of the night vision. Perfect for my needs."
+        },
+        {
+            name: "Noah F",
+            rating: 4,
+            comment: "Good camera, works as described. The motion detection is a bit too sensitive at times."
+        },
+        {
+            name: "Ava G",
+            rating: 5,
+            comment: "Love this camera! It's easy to hide and provides great quality footage."
+        },
+        {
+            name: "Isabella R",
+            rating: 5,
+            comment: "This camera is perfect for my small business. No need for complicated setups."
+        },
+        {
+            name: "Mason E",
+            rating: 4,
+            comment: "Very functional camera. The only downside is that it is a bit small and sometimes hard to place."
+        },
+        {
+            name: "Sophia P",
+            rating: 5,
+            comment: "Great camera for the price. The built-in battery is a huge plus."
+        },
+        {
+            name: "Lucas L",
+            rating: 4,
+            comment: "Good camera, but I wish it had a bit more battery life."
+        },
+        {
+            name: "Mia T",
+            rating: 5,
+            comment: "The night vision is excellent and the motion detection works well. Highly recommend."
+        },
+        {
+            name: "Elijah W",
+            rating: 5,
+            comment: "This camera is perfect for discreet monitoring. The video quality is good."
+        },
+        {
+            name: "Amelia H",
+            rating: 5,
+            comment: "Very happy with this purchase. The camera is easy to use and provides great quality footage."
+        },
+        {
+            name: "Ethan A",
+            rating: 4,
+            comment: "Good camera for the price. The motion detection could be a bit better."
+        },
+        {
+            name: "Avery Y",
+            rating: 5,
+            comment: "The built-in battery and no need for WiFi make this camera very convenient."
+        },
+        {
+            name: "Harper J",
+            rating: 5,
+            comment: "Great little camera. The night vision is clear and the battery life is decent."
+        },
+        {
+            name: "Logan C",
+            rating: 4,
+            comment: "Works well for my needs. The only issue is the motion detection being too sensitive at times."
+        },
+        {
+            name: "Evelyn V",
+            rating: 5,
+            comment: "Very impressed with this camera. It does exactly what it says."
+        },
+        {
+            name: "Oliver N",
+            rating: 4,
+            comment: "Good camera, but the battery could last a bit longer."
+        },
+        {
+            name: "Aria Z",
+            rating: 5,
+            comment: "Excellent camera for the price. The night vision is very clear."
+        },
+        {
+            name: "Lucas M",
+            rating: 5,
+            comment: "Great camera for quick and easy monitoring. No need for WiFi or apps makes it very convenient."
+        },
+        {
+            name: "Charlotte B",
+            rating: 4,
+            comment: "Good camera, works as described. The motion detection is a bit too sensitive at times."
+        },
+        {
+            name: "Mason P",
+            rating: 5,
+            comment: "Love this camera! It's easy to hide and provides great quality footage."
+        },
+        {
+            name: "Isabella Q",
+            rating: 5,
+            comment: "This camera is perfect for my small business. No need for complicated setups."
+        },
+        {
+            name: "Mia K",
+            rating: 4,
+            comment: "Very functional camera. The only downside is that it is a bit small and sometimes hard to place."
+        },
+        {
+            name: "Noah O",
+            rating: 5,
+            comment: "Great camera for the price. The built-in battery is a huge plus."
+        },
+        {
+            name: "Emma F",
+            rating: 4,
+            comment: "Good camera, but I wish it had a bit more battery life."
+        },
+        {
+            name: "Olivia A",
+            rating: 5,
+            comment: "The night vision is excellent and the motion detection works well. Highly recommend."
+        },
+        {
+            name: "Liam G",
+            rating: 5,
+            comment: "This camera is perfect for discreet monitoring. The video quality is good."
+        },
+        {
+            name: "Sophia L",
+            rating: 5,
+            comment: "Very happy with this purchase. The camera is easy to use and provides great quality footage."
+        },
+        {
+            name: "James S",
+            rating: 4,
+            comment: "Good camera for the price. The motion detection could be a bit better."
+        },
+        {
+            name: "Ava N",
+            rating: 5,
+            comment: "The built-in battery and no need for WiFi make this camera very convenient."
+        },
+        {
+            name: "Charlotte M",
+            rating: 5,
+            comment: "Great little camera. The night vision is clear and the battery life is decent."
+        },
+        {
+            name: "Elijah D",
+            rating: 4,
+            comment: "Works well for my needs. The only issue is the motion detection being too sensitive at times."
+        },
+        {
+            name: "Amelia R",
+            rating: 5,
+            comment: "Very impressed with this camera. It does exactly what it says."
+        },
+        {
+            name: "Ethan P",
+            rating: 4,
+            comment: "Good camera, but the battery could last a bit longer."
+        },
+        {
+            name: "Mia S",
+            rating: 5,
+            comment: "Excellent camera for the price. The night vision is very clear."
+        },
+        {
+            name: "Aiden J",
+            rating: 5,
+            comment: "Great camera for quick and easy monitoring. No need for WiFi or apps makes it very convenient."
+        },
+        {
+            name: "Emma B",
+            rating: 4,
+            comment: "Good camera, works as described. The motion detection is a bit too sensitive at times."
+        },
+        {
+            name: "Sophia E",
+            rating: 5,
+            comment: "Love this camera! It's easy to hide and provides great quality footage."
+        },
+        {
+            name: "Noah M",
+            rating: 5,
+            comment: "This camera is perfect for my small business. No need for complicated setups."
+        },
+        {
+            name: "Isabella T",
+            rating: 4,
+            comment: "Very functional camera. The only downside is that it is a bit small and sometimes hard to place."
+        },
+        {
+            name: "Liam H",
+            rating: 5,
+            comment: "Great little camera for quick and easy monitoring. No need for WiFi or apps makes it very convenient."
+        },
+        {
+            name: "Ella Q",
+            rating: 5,
+            comment: "Impressed with the battery life and the clarity of the night vision. Perfect for my needs."
+        },
+        {
+            name: "Evelyn F",
+            rating: 4,
+            comment: "Good camera, works as described. The motion detection is a bit too sensitive at times."
+        },
+        {
+            name: "Logan R",
+            rating: 5,
+            comment: "Love this camera! It's easy to hide and provides great quality footage."
+        },
+        {
+            name: "Oliver Y",
+            rating: 5,
+            comment: "This camera is perfect for my small business. No need for complicated setups."
+        },
+        {
+            name: "Charlotte W",
+            rating: 4,
+            comment: "Very functional camera. The only downside is that it is a bit small and sometimes hard to place."
+        }
+    ]
+},
 	"Fifth-Generation Capsule Phone - Android Type-C, Infrared Remote Control, Smart Home Adapter": {
 		averageRating: 4.7,
 		reviews: [
@@ -6820,31 +7643,426 @@ const productData = {
 				}
 			]
 		},
-		"EMS Muscle Stimulator - 8 Pad Abs Trainer, USB Rechargeable Abdominal Muscle Toner": {
-			averageRating: 4.6,
-			reviews: [
-				{
-					name: "Olivia M",
-					rating: 5,
-					comment: "Fantastic muscle stimulator! It’s really helping me tone my abs. Easy to use and effective."
-				},
-				{
-					name: "William D",
-					rating: 4,
-					comment: "Good product. The USB rechargeable feature is convenient. Takes time to see results but worth it."
-				},
-				{
-					name: "Emma B",
-					rating: 5,
-					comment: "Love this muscle stimulator. It’s compact and easy to use. Definitely feel the difference."
-				},
-				{
-					name: "Liam K",
-					rating: 4,
-					comment: "Works well, but the pads could be a bit stickier. Overall, very satisfied."
-				}
-			]
+	"EMS Muscle Stimulator - 8 Pad Abs Trainer, USB Rechargeable Abdominal Muscle Toner": {
+    averageRating: 4.6,
+    reviews: [
+        {
+            name: "Olivia M",
+            rating: 5,
+            comment: "Fantastic muscle stimulator! It’s really helping me tone my abs. Easy to use and effective."
+        },
+        {
+            name: "William D",
+            rating: 4,
+            comment: "Good product. The USB rechargeable feature is convenient. Takes time to see results but worth it."
+        },
+        {
+            name: "Emma B",
+            rating: 5,
+            comment: "Love this muscle stimulator. It’s compact and easy to use. Definitely feel the difference."
+        },
+        {
+            name: "Liam K",
+            rating: 4,
+            comment: "Works well, but the pads could be a bit stickier. Overall, very satisfied."
+        },
+        {
+            name: "Sophia J",
+            rating: 5,
+            comment: "Amazing product! I've seen noticeable changes in my abs. Easy to charge and use."
+        },
+        {
+            name: "James T",
+            rating: 5,
+            comment: "This stimulator is a game-changer! It’s helping me stay fit without much effort. Highly recommend."
+        },
+        {
+            name: "Isabella H",
+            rating: 5,
+            comment: "I love this abs trainer! It's so easy to use, and the results are fantastic. Worth every penny."
+        },
+        {
+            name: "Mason C",
+            rating: 4,
+            comment: "Good quality muscle toner. The rechargeable feature is a big plus. Takes a bit to see results, but it works."
+        },
+        {
+            name: "Mia S",
+            rating: 5,
+            comment: "Very effective muscle stimulator. Easy to apply and definitely makes a difference in my workouts."
+        },
+        {
+            name: "Lucas P",
+            rating: 5,
+            comment: "Excellent product. The USB recharge makes it very convenient, and it's really helping tone my abs."
+        },
+        {
+            name: "Ava L",
+            rating: 5,
+            comment: "Great abs trainer! Easy to use and recharge. I can feel my muscles getting stronger."
+        },
+        {
+            name: "Noah F",
+            rating: 4,
+            comment: "Works as described. I’m seeing results, but the pads could be stickier. Overall, a great buy."
+        },
+        {
+            name: "Charlotte B",
+            rating: 5,
+            comment: "This muscle stimulator is wonderful! It’s helping me tone my abs efficiently. Highly recommend."
+        },
+        {
+            name: "Ethan A",
+            rating: 5,
+            comment: "Fantastic product. The convenience of USB charging and the effectiveness make it a must-have."
+        },
+        {
+            name: "Amelia H",
+            rating: 4,
+            comment: "Good stimulator. It’s helping me tone my muscles, though the pads could adhere better."
+        },
+        {
+            name: "Benjamin G",
+            rating: 5,
+            comment: "Highly recommend this abs trainer. It’s easy to use and charge. I’m seeing great results!"
+        },
+        {
+            name: "Lily J",
+            rating: 5,
+            comment: "Love this product! The USB rechargeable feature is so convenient. I can definitely feel my abs toning."
+        },
+        {
+            name: "Lucas N",
+            rating: 4,
+            comment: "Good value for money. It works well, but the adhesive on the pads could be better."
+        },
+        {
+            name: "Harper Q",
+            rating: 5,
+            comment: "Great muscle stimulator! It’s effective and easy to use. I’m seeing great results."
+        },
+        {
+            name: "Henry M",
+            rating: 5,
+            comment: "Very happy with this purchase. The stimulator is easy to use and recharge. It’s helping me stay fit."
+        },
+        {
+            name: "Zoe K",
+            rating: 4,
+            comment: "Works well for toning abs. The rechargeable feature is handy, though the pads could stick better."
+        },
+        {
+            name: "Grace T",
+            rating: 5,
+            comment: "Love this abs trainer! It’s simple to use and very effective. I can see and feel the difference."
+        },
+        {
+            name: "Owen S",
+            rating: 5,
+            comment: "Great product. Easy to charge and use. It’s really helping me tone my abdominal muscles."
+        },
+        {
+            name: "Ella N",
+            rating: 4,
+            comment: "Good product overall. The USB charging is convenient. Seeing results, but pads could be stickier."
+        },
+        {
+            name: "Aiden B",
+            rating: 5,
+            comment: "Fantastic muscle stimulator. It’s effective and easy to recharge. I’m very pleased with it."
+        },
+        {
+            name: "Mila V",
+            rating: 5,
+            comment: "Highly recommend this product. It’s helping me tone my abs without much effort. Very effective."
+        },
+        {
+            name: "Sebastian L",
+            rating: 4,
+            comment: "Good stimulator. Works as described. The adhesive pads could be improved, but overall, it's a good buy."
+        },
+        {
+            name: "Scarlett R",
+            rating: 5,
+            comment: "Love this abs trainer! It’s helping me get toned. The USB recharge is very convenient."
+        },
+        {
+            name: "Alexander F",
+            rating: 5,
+            comment: "This muscle stimulator is great! Easy to use, effective, and the rechargeable feature is a plus."
+        },
+        {
+            name: "Emily C",
+            rating: 4,
+            comment: "Good product. I can feel the difference, though the pads need better adhesion. Overall, satisfied."
+        },
+        {
+            name: "Daniel W",
+            rating: 5,
+            comment: "Excellent abs trainer. The USB charging is very convenient, and it’s helping me tone my muscles."
+        },
+        {
+            name: "Avery J",
+            rating: 5,
+            comment: "Highly effective muscle stimulator. Easy to use and recharge. I’m seeing great results."
+        },
+        {
+            name: "Jack K",
+            rating: 4,
+            comment: "Works well, but the pads could stick better. Overall, very satisfied with the product."
+        },
+        {
+            name: "Victoria S",
+            rating: 5,
+            comment: "Great product! The USB rechargeable feature is very convenient, and it’s helping me tone my abs."
+        },
+        {
+            name: "Logan D",
+            rating: 5,
+            comment: "Very pleased with this muscle stimulator. It’s easy to use and I can feel the results."
+        },
+        {
+            name: "Chloe M",
+            rating: 4,
+            comment: "Good stimulator. Works well, though the pads could be stickier. Seeing results, so I’m happy."
+        },
+        {
+            name: "Henry Z",
+            rating: 5,
+            comment: "Love this product! It’s easy to charge and use. I can definitely feel my abs toning."
+        },
+        {
+            name: "Ava H",
+            rating: 5,
+            comment: "Fantastic abs trainer. The USB charging is so convenient. Highly recommend for toning muscles."
+        },
+        {
+            name: "James R",
+            rating: 4,
+            comment: "Good value for money. Works as described, though the adhesive could be better."
+        },
+        {
+            name: "Lily P",
+            rating: 5,
+            comment: "Highly effective muscle stimulator. Easy to use and recharge. I’m seeing great results."
+        },
+        {
+            name: "Noah G",
+            rating: 5,
+            comment: "Great product. Easy to charge and use. It’s really helping me tone my abdominal muscles."
+        },
+        {
+            name: "Isabella F",
+            rating: 4,
+            comment: "Good product overall. The USB charging is convenient. Seeing results, but pads could be stickier."
+        }
+    ]
+},
+"LuxSpa Elite Supreme Collapsible Foot Spa with Constant Temperature, Silent Heating, and One-Click": {
+	averageRating: 4.6,
+	reviews: [
+		{
+			name: "Olivia M.",
+			rating: 5,
+			comment: "This foot spa is amazing! The constant temperature and silent heating make it incredibly relaxing."
 		},
+		{
+			name: "James S.",
+			rating: 4,
+			comment: "Great product for home use. The one-click operation is very convenient."
+		},
+		{
+			name: "Emma T.",
+			rating: 5,
+			comment: "I love how easy it is to store this foot spa. It collapses down and fits perfectly in my closet."
+		},
+		{
+			name: "Liam H.",
+			rating: 4,
+			comment: "The silent heating is a game-changer. It's so quiet, I can use it while watching TV."
+		},
+		{
+			name: "Sophia K.",
+			rating: 5,
+			comment: "Perfect for unwinding after a long day. The constant temperature feature is fantastic."
+		},
+		{
+			name: "Noah J.",
+			rating: 4,
+			comment: "Good quality foot spa. The heating is effective, but it could heat up a bit faster."
+		},
+		{
+			name: "Ava R.",
+			rating: 5,
+			comment: "Love this foot spa! It's like having a mini spa at home. Highly recommend."
+		},
+		{
+			name: "Isabella B.",
+			rating: 4,
+			comment: "Very convenient and easy to use. The collapsible design is a big plus."
+		},
+		{
+			name: "Mason L.",
+			rating: 5,
+			comment: "Great for relaxing my feet after a long day. The one-click operation is super handy."
+		},
+		{
+			name: "Mia P.",
+			rating: 4,
+			comment: "Overall a good foot spa. The temperature control works well, but it takes a bit to warm up."
+		},
+		{
+			name: "Ethan D.",
+			rating: 5,
+			comment: "This foot spa is a lifesaver. It's quiet, easy to use, and very relaxing."
+		},
+		{
+			name: "Charlotte G.",
+			rating: 4,
+			comment: "Nice foot spa for home use. The silent heating is great, but I wish it had more massage functions."
+		},
+		{
+			name: "Lucas W.",
+			rating: 5,
+			comment: "Highly recommend this foot spa. The collapsible design makes it easy to store."
+		},
+		{
+			name: "Harper N.",
+			rating: 4,
+			comment: "Good product for the price. The constant temperature feature is very comfortable."
+		},
+		{
+			name: "Amelia F.",
+			rating: 5,
+			comment: "Fantastic foot spa! It's quiet, heats up nicely, and is very easy to use."
+		},
+		{
+			name: "Benjamin R.",
+			rating: 4,
+			comment: "Great for relaxing at home. The one-click operation is very user-friendly."
+		},
+		{
+			name: "Ella K.",
+			rating: 5,
+			comment: "I love this foot spa! It's perfect for relieving foot pain and stress."
+		},
+		{
+			name: "Henry T.",
+			rating: 4,
+			comment: "Good quality spa. The heating is nice, but I wish it had more features."
+		},
+		{
+			name: "Avery C.",
+			rating: 5,
+			comment: "This foot spa is amazing. The constant temperature and silent heating are perfect."
+		},
+		{
+			name: "Jack M.",
+			rating: 4,
+			comment: "Very convenient and easy to store. The collapsible design is a big advantage."
+		},
+		{
+			name: "Scarlett B.",
+			rating: 5,
+			comment: "Love this foot spa! The one-click operation makes it so easy to use."
+		},
+		{
+			name: "Alexander P.",
+			rating: 4,
+			comment: "Nice and quiet. The heating is good, but it could be a bit faster."
+		},
+		{
+			name: "Grace H.",
+			rating: 5,
+			comment: "Perfect for home use. The constant temperature feature is very relaxing."
+		},
+		{
+			name: "William D.",
+			rating: 4,
+			comment: "Overall a good foot spa. The silent heating is nice, but it could use more massage options."
+		},
+		{
+			name: "Aubrey L.",
+			rating: 5,
+			comment: "Highly recommend this foot spa. It's quiet, heats up quickly, and is very relaxing."
+		},
+		{
+			name: "Michael S.",
+			rating: 4,
+			comment: "Great product for home use. The one-click operation is very convenient."
+		},
+		{
+			name: "Ella F.",
+			rating: 5,
+			comment: "I love how easy it is to store this foot spa. It collapses down and fits perfectly in my closet."
+		},
+		{
+			name: "Daniel G.",
+			rating: 4,
+			comment: "The silent heating is a game-changer. It's so quiet, I can use it while watching TV."
+		},
+		{
+			name: "Chloe J.",
+			rating: 5,
+			comment: "Perfect for unwinding after a long day. The constant temperature feature is fantastic."
+		},
+		{
+			name: "Sebastian R.",
+			rating: 4,
+			comment: "Good quality foot spa. The heating is effective, but it could heat up a bit faster."
+		},
+		{
+			name: "Lily M.",
+			rating: 5,
+			comment: "Love this foot spa! It's like having a mini spa at home. Highly recommend."
+		},
+		{
+			name: "Matthew C.",
+			rating: 4,
+			comment: "Very convenient and easy to use. The collapsible design is a big plus."
+		},
+		{
+			name: "Aria P.",
+			rating: 5,
+			comment: "Great for relaxing my feet after a long day. The one-click operation is super handy."
+		},
+		{
+			name: "Jackson T.",
+			rating: 4,
+			comment: "Overall a good foot spa. The temperature control works well, but it takes a bit to warm up."
+		},
+		{
+			name: "Riley N.",
+			rating: 5,
+			comment: "This foot spa is a lifesaver. It's quiet, easy to use, and very relaxing."
+		},
+		{
+			name: "Evelyn L.",
+			rating: 4,
+			comment: "Nice foot spa for home use. The silent heating is great, but I wish it had more massage functions."
+		},
+		{
+			name: "Levi S.",
+			rating: 5,
+			comment: "Highly recommend this foot spa. The collapsible design makes it easy to store."
+		},
+		{
+			name: "Madison B.",
+			rating: 4,
+			comment: "Good product for the price. The constant temperature feature is very comfortable."
+		},
+		{
+			name: "David R.",
+			rating: 5,
+			comment: "Fantastic foot spa! It's quiet, heats up nicely, and is very easy to use."
+		},
+		{
+			name: "Abigail M.",
+			rating: 4,
+			comment: "Great for relaxing at home. The one-click operation is very user-friendly."
+		}
+	]
+},
 		"Interactive Mini RC Robot Toys - Talking, Singing, Dancing & Storytelling, Perfect Gift for Kids": {
 			averageRating: 4.8,
 			reviews: [
@@ -7761,59 +8979,219 @@ const productData = {
             }
         ]
     },
-	"200000mAh Portable Solar Power Bank - Fast Charging, Waterproof with SOS Flashlight": {
-        averageRating: 4.9,
-        reviews: [
-            {
-                name: "Lisa G.",
-                rating: 5,
-                comment: "This power bank is fantastic for camping trips! The solar charging feature is a game-changer.",
-                image: "https://i.postimg.cc/2ymK3Q2p/download.jpg"
-            },
-            {
-                name: "John P.",
-                rating: 5,
-                comment: "Incredibly durable and the SOS flashlight is very useful. Fast charging works great for my devices.",
-                image: "https://i.postimg.cc/7Y9pGWFK/download-1.jpg"
-            },
-            {
-                name: "Emily R.",
-                rating: 4,
-                comment: "Love the capacity and waterproof feature. It's a bit heavy, but worth it for the power it provides.",
-                image: "https://i.postimg.cc/ht36M7Px/download-2.jpg"
-            },
-            {
-                name: "Mike T.",
-                rating: 5,
-                comment: "Perfect for hiking and long trips. The solar panel works well, and the flashlight is a great addition.",
-                image: "https://i.postimg.cc/XvGhP7pP/download-3.jpg"
-            },
-            {
-                name: "Sophia H.",
-                rating: 5,
-                comment: "Excellent power bank with amazing battery life. The fast charging is very efficient and reliable.",
-                image: "https://i.postimg.cc/W14xM7jT/download-4.jpg"
-            },
-            {
-                name: "Daniel R.",
-                rating: 5,
-                comment: "Great for emergencies. The SOS flashlight is a brilliant feature and the solar charging is very effective.",
-                image: "https://i.postimg.cc/FKMqX5SH/download-5.jpg"
-            },
-            {
-                name: "Jessica F.",
-                rating: 5,
-                comment: "This power bank has been a lifesaver on multiple occasions. Highly recommend it for anyone who loves the outdoors.",
-                image: "https://i.postimg.cc/85LY1KdB/download-6.jpg"
-            },
-            {
-                name: "Mark W.",
-                rating: 5,
-                comment: "The best power bank I've ever owned. It holds a charge for a long time and the solar feature is very convenient.",
-                image: "https://i.postimg.cc/sxc0WMNM/download-7.jpg"
-            }
-        ]
-    },
+"200000mAh Portable Solar Power Bank - Fast Charging, Waterproof with SOS Flashlight": {
+    averageRating: 4.9,
+    reviews: [
+        {
+            name: "Lisa G.",
+            rating: 5,
+            comment: "This power bank is fantastic for camping trips! The solar charging feature is a game-changer.",
+            image: "https://i.postimg.cc/2ymK3Q2p/download.jpg"
+        },
+        {
+            name: "John P.",
+            rating: 5,
+            comment: "Incredibly durable and the SOS flashlight is very useful. Fast charging works great for my devices.",
+            image: "https://i.postimg.cc/7Y9pGWFK/download-1.jpg"
+        },
+        {
+            name: "Emily R.",
+            rating: 4,
+            comment: "Love the capacity and waterproof feature. It's a bit heavy, but worth it for the power it provides.",
+            image: "https://i.postimg.cc/ht36M7Px/download-2.jpg"
+        },
+        {
+            name: "Mike T.",
+            rating: 5,
+            comment: "Perfect for hiking and long trips. The solar panel works well, and the flashlight is a great addition.",
+            image: "https://i.postimg.cc/XvGhP7pP/download-3.jpg"
+        },
+        {
+            name: "Sophia H.",
+            rating: 5,
+            comment: "Excellent power bank with amazing battery life. The fast charging is very efficient and reliable.",
+            image: "https://i.postimg.cc/W14xM7jT/download-4.jpg"
+        },
+        {
+            name: "Daniel R.",
+            rating: 5,
+            comment: "Great for emergencies. The SOS flashlight is a brilliant feature and the solar charging is very effective.",
+            image: "https://i.postimg.cc/FKMqX5SH/download-5.jpg"
+        },
+        {
+            name: "Jessica F.",
+            rating: 5,
+            comment: "This power bank has been a lifesaver on multiple occasions. Highly recommend it for anyone who loves the outdoors.",
+            image: "https://i.postimg.cc/85LY1KdB/download-6.jpg"
+        },
+        {
+            name: "Mark W.",
+            rating: 5,
+            comment: "The best power bank I've ever owned. It holds a charge for a long time and the solar feature is very convenient.",
+            image: "https://i.postimg.cc/sxc0WMNM/download-7.jpg"
+        },
+        {
+            name: "Hannah K.",
+            rating: 5,
+            comment: "Amazing product! The battery life is incredible and it charges my phone multiple times."
+        },
+        {
+            name: "Brian L.",
+            rating: 5,
+            comment: "Very sturdy and reliable power bank. The solar charging is a fantastic feature."
+        },
+        {
+            name: "Olivia S.",
+            rating: 4,
+            comment: "The power bank is a bit heavy, but it works perfectly and charges my devices quickly."
+        },
+        {
+            name: "David M.",
+            rating: 5,
+            comment: "Perfect for outdoor activities. The SOS flashlight is very useful in emergencies."
+        },
+        {
+            name: "Ella J.",
+            rating: 5,
+            comment: "This power bank has exceeded my expectations. The solar charging works well even on cloudy days."
+        },
+        {
+            name: "Ethan A.",
+            rating: 5,
+            comment: "Great for travel. The fast charging is very efficient and the power bank is waterproof."
+        },
+        {
+            name: "Grace N.",
+            rating: 5,
+            comment: "I love the capacity of this power bank. It charges my phone and tablet multiple times."
+        },
+        {
+            name: "Samuel O.",
+            rating: 4,
+            comment: "The power bank is very durable, but it is a bit bulky. Overall, very satisfied."
+        },
+        {
+            name: "Ava B.",
+            rating: 5,
+            comment: "Fantastic power bank! The solar charging and flashlight make it perfect for camping."
+        },
+        {
+            name: "Lucas C.",
+            rating: 5,
+            comment: "Highly recommend this power bank. The battery life is impressive and it charges devices quickly."
+        },
+        {
+            name: "Mia D.",
+            rating: 5,
+            comment: "This power bank is perfect for outdoor adventures. The waterproof feature is a huge plus."
+        },
+        {
+            name: "Alexander E.",
+            rating: 4,
+            comment: "The power bank works well, but it is a bit heavy. The solar charging is a great feature."
+        },
+        {
+            name: "Charlotte F.",
+            rating: 5,
+            comment: "Excellent power bank! The fast charging is very efficient and the battery lasts a long time."
+        },
+        {
+            name: "Matthew G.",
+            rating: 5,
+            comment: "Great for emergencies. The SOS flashlight and solar charging are very useful."
+        },
+        {
+            name: "Lily H.",
+            rating: 5,
+            comment: "This power bank has been a lifesaver on many occasions. Highly recommend it."
+        },
+        {
+            name: "Henry I.",
+            rating: 5,
+            comment: "The best power bank I've ever owned. It holds a charge for a long time and is very durable."
+        },
+        {
+            name: "Zoe J.",
+            rating: 5,
+            comment: "Amazing product! The battery life is incredible and it charges my phone multiple times."
+        },
+        {
+            name: "Jack K.",
+            rating: 5,
+            comment: "Very sturdy and reliable power bank. The solar charging is a fantastic feature."
+        },
+        {
+            name: "Sofia L.",
+            rating: 4,
+            comment: "The power bank is a bit heavy, but it works perfectly and charges my devices quickly."
+        },
+        {
+            name: "Daniel M.",
+            rating: 5,
+            comment: "Perfect for outdoor activities. The SOS flashlight is very useful in emergencies."
+        },
+        {
+            name: "Emily N.",
+            rating: 5,
+            comment: "This power bank has exceeded my expectations. The solar charging works well even on cloudy days."
+        },
+        {
+            name: "Michael O.",
+            rating: 5,
+            comment: "Great for travel. The fast charging is very efficient and the power bank is waterproof."
+        },
+        {
+            name: "Ella P.",
+            rating: 5,
+            comment: "I love the capacity of this power bank. It charges my phone and tablet multiple times."
+        },
+        {
+            name: "Ethan Q.",
+            rating: 4,
+            comment: "The power bank is very durable, but it is a bit bulky. Overall, very satisfied."
+        },
+        {
+            name: "Grace R.",
+            rating: 5,
+            comment: "Fantastic power bank! The solar charging and flashlight make it perfect for camping."
+        },
+        {
+            name: "Lucas S.",
+            rating: 5,
+            comment: "Highly recommend this power bank. The battery life is impressive and it charges devices quickly."
+        },
+        {
+            name: "Mia T.",
+            rating: 5,
+            comment: "This power bank is perfect for outdoor adventures. The waterproof feature is a huge plus."
+        },
+        {
+            name: "Alexander U.",
+            rating: 4,
+            comment: "The power bank works well, but it is a bit heavy. The solar charging is a great feature."
+        },
+        {
+            name: "Charlotte V.",
+            rating: 5,
+            comment: "Excellent power bank! The fast charging is very efficient and the battery lasts a long time."
+        },
+        {
+            name: "Matthew W.",
+            rating: 5,
+            comment: "Great for emergencies. The SOS flashlight and solar charging are very useful."
+        },
+        {
+            name: "Lily X.",
+            rating: 5,
+            comment: "This power bank has been a lifesaver on many occasions. Highly recommend it."
+        },
+        {
+            name: "Henry Y.",
+            rating: 5,
+            comment: "The best power bank I've ever owned. It holds a charge for a long time and is very durable."
+        }
+    ]
+},
 	"Electric Posture Corrector Back Brace - USB Rechargeable, Lumbar Massager, Spine Stretcher": {
         averageRating: 4.7,
         reviews: [
@@ -8271,6 +9649,186 @@ const productData = {
             rating: 5,
             comment: "Exactly what I needed for discreet home security. The hidden design is perfect for inconspicuous monitoring.",
             image: "https://i.postimg.cc/KjcTN9zZ/download-4.jpg"
+        },
+        {
+            name: "Amelia B.",
+            rating: 5,
+            comment: "Small but mighty! This camera delivers excellent performance and is very reliable."
+        },
+        {
+            name: "Lucas C.",
+            rating: 5,
+            comment: "Great purchase! The camera is easy to hide and the quality is better than expected."
+        },
+        {
+            name: "Mia H.",
+            rating: 5,
+            comment: "Very impressed with this mini camera. The night vision works perfectly."
+        },
+        {
+            name: "Aiden D.",
+            rating: 5,
+            comment: "The perfect solution for discreet home security. Very happy with this purchase."
+        },
+        {
+            name: "Sophia E.",
+            rating: 5,
+            comment: "Easy to set up and use. The video quality is fantastic, even in low light."
+        },
+        {
+            name: "James F.",
+            rating: 5,
+            comment: "Excellent camera for the price. It works well and the app is very convenient."
+        },
+        {
+            name: "Grace G.",
+            rating: 5,
+            comment: "This camera is exactly what I needed for discreet monitoring. Highly recommend."
+        },
+        {
+            name: "Benjamin H.",
+            rating: 5,
+            comment: "Very satisfied with this camera. The WiFi connectivity and remote viewing are great features."
+        },
+        {
+            name: "Ella I.",
+            rating: 5,
+            comment: "Great little camera. The video quality is very good and it's easy to hide."
+        },
+        {
+            name: "Liam J.",
+            rating: 5,
+            comment: "Perfect for keeping an eye on things at home. The night vision is excellent."
+        },
+        {
+            name: "Ava K.",
+            rating: 5,
+            comment: "Impressed with the quality and functionality of this mini camera. Highly recommend."
+        },
+        {
+            name: "Noah L.",
+            rating: 5,
+            comment: "The camera works flawlessly and the app is easy to navigate. Great buy!"
+        },
+        {
+            name: "Charlotte M.",
+            rating: 5,
+            comment: "This is a great camera for discreet monitoring. The setup was quick and easy."
+        },
+        {
+            name: "William N.",
+            rating: 5,
+            comment: "Excellent product. The video quality is superb and the night vision is very clear."
+        },
+        {
+            name: "Harper O.",
+            rating: 5,
+            comment: "Very pleased with this purchase. The camera is small, discreet, and works perfectly."
+        },
+        {
+            name: "Ethan P.",
+            rating: 5,
+            comment: "Great camera for the price. Easy to install and the quality is outstanding."
+        },
+        {
+            name: "Isabella Q.",
+            rating: 5,
+            comment: "The perfect camera for home security. The video quality is excellent."
+        },
+        {
+            name: "Logan R.",
+            rating: 5,
+            comment: "Very happy with this camera. The night vision and remote monitoring are great features."
+        },
+        {
+            name: "Emily S.",
+            rating: 5,
+            comment: "This camera is perfect for discreet security. The quality is very good."
+        },
+        {
+            name: "Mason T.",
+            rating: 5,
+            comment: "Great little camera for the price. The video quality is better than expected."
+        },
+        {
+            name: "Aria U.",
+            rating: 5,
+            comment: "This camera works perfectly for my needs. The night vision is very clear."
+        },
+        {
+            name: "Henry V.",
+            rating: 5,
+            comment: "Very satisfied with this purchase. The camera is easy to use and provides great quality."
+        },
+        {
+            name: "Mila W.",
+            rating: 5,
+            comment: "This camera is small, discreet, and provides excellent video quality. Highly recommend."
+        },
+        {
+            name: "Jackson X.",
+            rating: 5,
+            comment: "The perfect camera for home security. The WiFi connectivity and app are very convenient."
+        },
+        {
+            name: "Scarlett Y.",
+            rating: 5,
+            comment: "Very impressed with this mini camera. The video quality is outstanding."
+        },
+        {
+            name: "Sebastian Z.",
+            rating: 5,
+            comment: "Great little camera. Easy to set up and provides clear video footage."
+        },
+        {
+            name: "Aubrey A.",
+            rating: 5,
+            comment: "The night vision is excellent and the camera is very discreet. Highly recommend."
+        },
+        {
+            name: "Daniel B.",
+            rating: 5,
+            comment: "Very happy with this purchase. The camera works perfectly and the app is user-friendly."
+        },
+        {
+            name: "Ella C.",
+            rating: 5,
+            comment: "This camera is exactly what I needed for home security. Great quality and easy to use."
+        },
+        {
+            name: "Matthew D.",
+            rating: 5,
+            comment: "Excellent camera for the price. The night vision and remote viewing are great features."
+        },
+        {
+            name: "Chloe E.",
+            rating: 5,
+            comment: "Very satisfied with this mini camera. The video quality is very good."
+        },
+        {
+            name: "Levi F.",
+            rating: 5,
+            comment: "The perfect solution for discreet home security. Highly recommend this camera."
+        },
+        {
+            name: "Victoria G.",
+            rating: 5,
+            comment: "Great little camera. Easy to hide and provides excellent video quality."
+        },
+        {
+            name: "David H.",
+            rating: 5,
+            comment: "This camera is very reliable and the video quality is fantastic."
+        },
+        {
+            name: "Zoe I.",
+            rating: 5,
+            comment: "Very impressed with this mini camera. The night vision works perfectly."
+        },
+        {
+            name: "Joseph J.",
+            rating: 5,
+            comment: "Great camera for the price. Easy to set up and use."
         }
     ]
 },
@@ -9048,6 +10606,96 @@ const productData = {
 			rating: 5,
 			comment: "Excellent camera with great features. The installation was straightforward.",
 			image: "https://i.postimg.cc/66kH4m7Q/download-6.jpg"
+		},
+		{
+			name: "Alice T.",
+			rating: 5,
+			comment: "This camera exceeded my expectations. The 4K resolution and night vision are top-notch."
+		},
+		{
+			name: "Brian K.",
+			rating: 4,
+			comment: "Solid performance and clear images. The setup was a bit tricky, but worth it."
+		},
+		{
+			name: "Charlotte M.",
+			rating: 5,
+			comment: "The dual light feature is amazing. It switches to color mode when motion is detected at night."
+		},
+		{
+			name: "Daniel J.",
+			rating: 5,
+			comment: "Highly satisfied with this purchase. The security cam provides peace of mind."
+		},
+		{
+			name: "Evelyn B.",
+			rating: 4,
+			comment: "Good camera, but the app interface could be more user-friendly."
+		},
+		{
+			name: "George F.",
+			rating: 5,
+			comment: "Crystal clear video quality and the night vision is exceptional."
+		},
+		{
+			name: "Hannah R.",
+			rating: 5,
+			comment: "The AI motion detection is very effective and reduces false alarms."
+		},
+		{
+			name: "Isaac M.",
+			rating: 5,
+			comment: "Very impressed with the build quality and performance of this camera."
+		},
+		{
+			name: "Jackie T.",
+			rating: 4,
+			comment: "Good value for money. The camera performs well in various conditions."
+		},
+		{
+			name: "Karen N.",
+			rating: 5,
+			comment: "Excellent security camera with top-notch features."
+		},
+		{
+			name: "Liam P.",
+			rating: 5,
+			comment: "Reliable and high-quality security camera. Highly recommended."
+		},
+		{
+			name: "Mia K.",
+			rating: 5,
+			comment: "The 4K resolution is impressive, and the camera works great day and night."
+		},
+		{
+			name: "Nathan S.",
+			rating: 4,
+			comment: "Great camera, but I wish the app had more features."
+		},
+		{
+			name: "Olivia R.",
+			rating: 5,
+			comment: "The dual light feature is very useful for night-time monitoring."
+		},
+		{
+			name: "Patrick M.",
+			rating: 5,
+			comment: "Easy to set up and provides excellent video quality."
+		},
+		{
+			name: "Quinn L.",
+			rating: 4,
+			comment: "Good camera, but the motion detection could be improved."
+		},
+		{
+			name: "Rachel H.",
+			rating: 5,
+			comment: "Highly recommend this camera for anyone looking to improve their home security."
+		},
+		{
+			name: "Steven G.",
+			rating: 5,
+			comment: "Great value for money. The camera performs excellently in all conditions."
 		}
 	]
 },
@@ -9853,6 +11501,217 @@ const productData = {
 		}
 	]
 },
+"CleanAir™ Smart Ashtray: Instantly Removes Smoke and Odor - Essential Smoking Accessory": {
+	averageRating: 4.6,
+	reviews: [
+		{
+			name: "John D.",
+			rating: 5,
+			comment: "This smart ashtray is a game-changer! It removes smoke and odor instantly. My home smells so much better."
+		},
+		{
+			name: "Emily R.",
+			rating: 4,
+			comment: "Great product for smokers. The design is sleek and it works efficiently. I just wish the battery lasted longer."
+		},
+		{
+			name: "Michael B.",
+			rating: 5,
+			comment: "Love this ashtray! It's perfect for keeping my car fresh and free from smoke odor."
+		},
+		{
+			name: "Sarah K.",
+			rating: 5,
+			comment: "A must-have for any smoker. It really does eliminate smoke and odor quickly."
+		},
+		{
+			name: "David L.",
+			rating: 4,
+			comment: "Works well and looks good. The only downside is the cleaning process could be easier."
+		},
+		{
+			name: "Laura M.",
+			rating: 5,
+			comment: "Fantastic product! My office stays fresh, and my colleagues appreciate the lack of smoke smell."
+		},
+		{
+			name: "James T.",
+			rating: 4,
+			comment: "Very effective at removing smoke. The design is modern and fits well with my home decor."
+		},
+		{
+			name: "Sophia N.",
+			rating: 5,
+			comment: "This ashtray has been a lifesaver. No more lingering smoke odor in my living room."
+		},
+		{
+			name: "Chris P.",
+			rating: 4,
+			comment: "Good ashtray for the price. It works well, but it could be a bit quieter."
+		},
+		{
+			name: "Olivia H.",
+			rating: 5,
+			comment: "Highly recommend this ashtray. It keeps my home smelling fresh and clean."
+		},
+		{
+			name: "Ethan W.",
+			rating: 4,
+			comment: "The ashtray does its job well. The only issue is that it needs to be emptied frequently."
+		},
+		{
+			name: "Ava F.",
+			rating: 5,
+			comment: "Perfect for my smoking area. The smoke and odor removal is very effective."
+		},
+		{
+			name: "Noah J.",
+			rating: 4,
+			comment: "Great product. It works efficiently, but the battery life could be improved."
+		},
+		{
+			name: "Isabella C.",
+			rating: 5,
+			comment: "This ashtray is amazing! No more smoke smell in my house. It's very easy to use."
+		},
+		{
+			name: "Liam G.",
+			rating: 4,
+			comment: "Very good ashtray. It does a great job, but I wish it had a larger capacity."
+		},
+		{
+			name: "Mia V.",
+			rating: 5,
+			comment: "Love it! The smart technology really works. My car no longer smells like smoke."
+		},
+		{
+			name: "Alexander H.",
+			rating: 4,
+			comment: "Effective at removing smoke. The design is nice, but it could be easier to clean."
+		},
+		{
+			name: "Ella W.",
+			rating: 5,
+			comment: "Highly recommend this ashtray. It keeps my living space fresh and odor-free."
+		},
+		{
+			name: "Lucas S.",
+			rating: 4,
+			comment: "Works well overall. The smoke removal is quick, but the noise level could be lower."
+		},
+		{
+			name: "Amelia B.",
+			rating: 5,
+			comment: "Fantastic product! It's a must-have for any smoker. My house smells so much better now."
+		},
+		{
+			name: "Henry K.",
+			rating: 4,
+			comment: "Good ashtray. It does its job, but the battery needs to be charged often."
+		},
+		{
+			name: "Harper D.",
+			rating: 5,
+			comment: "This ashtray is perfect for my office. No more smoke odor lingering around."
+		},
+		{
+			name: "Evelyn R.",
+			rating: 4,
+			comment: "Great for home use. It removes smoke and odor effectively, but the cleaning could be simpler."
+		},
+		{
+			name: "Mason L.",
+			rating: 5,
+			comment: "Love this ashtray! It's efficient and keeps my car smelling fresh."
+		},
+		{
+			name: "Lily P.",
+			rating: 4,
+			comment: "Very useful product. The smoke removal is quick, but it could be quieter."
+		},
+		{
+			name: "Jackson A.",
+			rating: 5,
+			comment: "Highly recommend this smart ashtray. It works perfectly and is very easy to use."
+		},
+		{
+			name: "Scarlett M.",
+			rating: 4,
+			comment: "Good product for smokers. It keeps the smoke and odor away, but the battery life could be better."
+		},
+		{
+			name: "William T.",
+			rating: 5,
+			comment: "Fantastic ashtray. It really does remove smoke and odor instantly."
+		},
+		{
+			name: "Avery J.",
+			rating: 4,
+			comment: "Effective and easy to use. The design is sleek, but it could be more silent."
+		},
+		{
+			name: "Logan C.",
+			rating: 5,
+			comment: "Love this ashtray! It keeps my home smelling fresh and is very effective."
+		},
+		{
+			name: "Zoe L.",
+			rating: 4,
+			comment: "Great ashtray. It works well, but the battery needs frequent charging."
+		},
+		{
+			name: "Benjamin W.",
+			rating: 5,
+			comment: "Highly recommend. It keeps my living space odor-free and is very easy to clean."
+		},
+		{
+			name: "Hannah N.",
+			rating: 4,
+			comment: "Good product overall. It removes smoke efficiently, but it could be quieter."
+		},
+		{
+			name: "Michael S.",
+			rating: 5,
+			comment: "Excellent ashtray. It removes smoke and odor instantly, and my car smells great."
+		},
+		{
+			name: "Emily B.",
+			rating: 4,
+			comment: "Very effective. The smoke removal is quick, but it could be more silent."
+		},
+		{
+			name: "Daniel R.",
+			rating: 5,
+			comment: "Love this ashtray! It's a must-have for any smoker. My office stays fresh."
+		},
+		{
+			name: "Ella K.",
+			rating: 4,
+			comment: "Works well. The smoke removal is effective, but the cleaning process could be easier."
+		},
+		{
+			name: "Jacob M.",
+			rating: 5,
+			comment: "Fantastic product. It keeps my home odor-free and is very efficient."
+		},
+		{
+			name: "Madison F.",
+			rating: 4,
+			comment: "Good ashtray for smokers. It works well, but the battery life could be better."
+		},
+		{
+			name: "Joshua P.",
+			rating: 5,
+			comment: "Highly recommend this ashtray. It's efficient and keeps my car smelling fresh."
+		},
+		{
+			name: "Sofia J.",
+			rating: 4,
+			comment: "Great product. The smoke removal is quick, but it could be quieter."
+		}
+	]
+},
+
 		  };
 		  
 
