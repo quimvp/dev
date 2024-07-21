@@ -1,0 +1,206 @@
+//+------------------------------------------------------------------+
+//|                                            MTF Stochastic EA.mq5 |
+//|                                      Copyright 2024, Trung Messi |
+//|                     https://www.mql5.com/en/users/trungmessi1997 |
+//+------------------------------------------------------------------+
+#property copyright "Copyright 2024, Trung Messi"
+#property link      "https://www.mql5.com/en/users/trungmessi1997"
+#property version   "1.00"
+
+#include <Trade\Trade.mqh>
+#include <Trade\PositionInfo.mqh>
+#include <Trade\DealInfo.mqh>
+#include <Trade\SymbolInfo.mqh>
+
+string         EAName                  = "Breakout Trading BOT";
+input int      MagicNumber             = 31197;
+CPositionInfo c_positionInfo;
+COrderInfo    c_OrderInfo;
+CTrade        c_Trade;
+
+input int      MaxSpread               = 210;                  // Maximum acceptable spread in points for trade
+
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
+int OnInit() {
+   return(INIT_SUCCEEDED);
+}
+
+//+------------------------------------------------------------------+
+//| Expert tick function                                             |
+//+------------------------------------------------------------------+
+void OnTick() {
+   double ask=SymbolInfoDouble(Symbol(),SYMBOL_ASK);
+   double bid=SymbolInfoDouble(Symbol(),SYMBOL_BID);
+   double spread=ask-bid;
+   int spreadPoints=(int)MathRound(spread/SymbolInfoDouble(Symbol(),SYMBOL_POINT));
+
+   if(spreadPoints > MaxSpread) {
+      Print("Spread too high to trading.");
+      return;
+   }
+   
+   if(isNewBar()) {
+      //--- input parameters
+      double lotSize = 0.1;
+      double stopLoss = 0 * CalculateAdjustPoint(); // in pips
+      double takeProfit = 100 * CalculateAdjustPoint(); // in pips
+      double breakoutBuffer = 50 * CalculateAdjustPoint(); // in pips
+
+      // Delete All Pending Orders
+      DeleteAllPendingOrders();
+
+      //--- get the previous candle's high and low
+      double prevOpen = iOpen(_Symbol, PERIOD_CURRENT, 1);
+      double prevClose = iClose(_Symbol, PERIOD_CURRENT, 1);
+      double prevHigh = iHigh(_Symbol, PERIOD_CURRENT, 1);
+      double prevLow = iLow(_Symbol, PERIOD_CURRENT, 1);
+      double prevC2Open = iOpen(_Symbol, PERIOD_CURRENT, 2);
+      double prevC2Close = iClose(_Symbol, PERIOD_CURRENT, 2);
+      double prevC2High = iHigh(_Symbol, PERIOD_CURRENT, 2);
+      double prevC2Low = iLow(_Symbol, PERIOD_CURRENT, 2);
+
+      //--- calculate the Buy Stop and Sell Stop levels
+      double buyStopLevel = NormalizeDouble(prevC2High, _Digits);
+      double sellStopLevel = NormalizeDouble(prevC2Low, _Digits);
+
+      // Check Stops Level
+      long stopsLevel = SymbolInfoInteger(_Symbol, SYMBOL_TRADE_STOPS_LEVEL);
+      double minStopDistance = stopsLevel * _Point;
+
+      // Bullish Bar
+      if(prevClose > prevC2Close) {
+         if(buyStopLevel > (ask + minStopDistance)) {
+            takeProfit = takeProfit == 0 ? 0 : NormalizeDouble(buyStopLevel + takeProfit, _Digits);
+            stopLoss = stopLoss == 0 ? 0 : NormalizeDouble(buyStopLevel - stopLoss, _Digits);
+            if(!c_Trade.BuyStop(lotSize, buyStopLevel, Symbol(), stopLoss, takeProfit, ORDER_TIME_SPECIFIED_DAY, TimeCurrent() + 96 * 60 * 60, NULL)) {
+               Print("Error placing Buy Stop order: ", GetLastError());
+            }
+         } else {
+            Print("Buy Stop level is too close to the current price.");
+         }
+      } else if(prevClose < prevC2Close) { // Bearish Bar
+         if(sellStopLevel < (bid - minStopDistance)) {
+            takeProfit = takeProfit == 0 ? 0 : NormalizeDouble(sellStopLevel - takeProfit, _Digits);
+            stopLoss = stopLoss == 0 ? 0 : NormalizeDouble(sellStopLevel + stopLoss, _Digits);
+            if(!c_Trade.SellStop(lotSize, sellStopLevel, Symbol(), stopLoss, takeProfit, ORDER_TIME_SPECIFIED_DAY, TimeCurrent() + 96 * 60 * 60, NULL)) {
+               Print("Error placing Sell Stop order: ", GetLastError());
+            }
+         } else {
+            Print("Sell Stop level is too close to the current price.");
+         }
+      }
+   }
+}
+
+
+
+//+------------------------------------------------------------------+
+//| Open pending order                                               |
+//+------------------------------------------------------------------+
+uint ExecuteOrder(double lotSize, ENUM_ORDER_TYPE type, double price, double tp, double sl) {
+   MqlTradeRequest request = {};
+   MqlTradeResult result = {};
+// Prepare a request
+   request.action    = TRADE_ACTION_PENDING;
+   request.symbol    = Symbol();
+   request.volume    = lotSize;
+   request.type      = type;
+   request.price     = price;
+   if(type == ORDER_TYPE_BUY_STOP) {
+      request.tp        = tp == 0.0 ? 0.0 : NormalizeDouble(price + tp, _Digits);
+      request.sl        = sl == 0.0 ? 0.0 : NormalizeDouble(price - sl, _Digits);
+   } else if(type == ORDER_TYPE_SELL_STOP) {
+      request.tp        = tp == 0.0 ? 0.0 : NormalizeDouble(price - tp, _Digits);
+      request.sl        = sl == 0.0 ? 0.0 : NormalizeDouble(price + sl, _Digits);
+   }
+   request.deviation = 2;
+   request.magic     = MagicNumber;
+   request.comment   = EAName;
+// Send order
+   if(!OrderSend(request, result)) {
+      ZeroMemory(request);
+      ZeroMemory(result);
+      PrintFormat("Order Send error %d", GetLastError());
+   } else {
+      string msg = "Order successfully! ID: ";
+      Print(StringConcatenate(msg, result.request_id, " || Lot: ", result.volume, " || Price: ", result.price));
+   }
+
+   return result.request_id;
+}
+
+//+------------------------------------------------------------------+
+//|Calculate Symbol adjust point                                     |
+//+------------------------------------------------------------------+
+double CalculateAdjustPoint() {
+//--- tuning for 3 or 5 digits
+   int digits_adjust=1;
+   if(_Digits==3 || _Digits==5) {
+      digits_adjust=10;
+   }
+   return SymbolInfoDouble(_Symbol, SYMBOL_POINT)*digits_adjust;
+}
+
+//+------------------------------------------------------------------+
+//| Returns true if a new bar has appeared for a symbol/period pair  |
+//+------------------------------------------------------------------+
+bool isNewBar() {
+//--- memorize the time of opening of the last bar in the static variable
+   static long last_time=0;
+//--- current time
+   long lastbar_time=SeriesInfoInteger(Symbol(),Period(),SERIES_LASTBAR_DATE);
+
+//--- if it is the first call of the function
+   if(last_time==0) {
+      //--- set the time and exit
+      last_time=lastbar_time;
+      return(false);
+   }
+
+//--- if the time differs
+   if(last_time!=lastbar_time) {
+      //--- memorize the time and return true
+      last_time=lastbar_time;
+      return(true);
+   }
+//--- if we passed to this line, then the bar is not new; return false
+   return(false);
+}
+
+//+------------------------------------------------------------------+
+//| Check for open orders                                           |
+//+------------------------------------------------------------------+
+bool HasOpenOrders() {
+   bool hasOrders = false;
+   int totalPositions = PositionsTotal();
+   for(int i = totalPositions-1; i >= 0; i--) {
+      if(c_positionInfo.SelectByIndex(i)) {
+
+         if(c_positionInfo.Magic() == MagicNumber) {
+            hasOrders = true;
+            break;
+         }
+      }
+   }
+
+   return hasOrders;
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void DeleteAllPendingOrders() {
+   ulong ticket = 0;
+   for(int i = 0; i < OrdersTotal(); i ++) {
+      if(c_OrderInfo.SelectByIndex(i)) {
+         string OrderSymbol       = c_OrderInfo.Symbol();
+         ulong  Ticket            = c_OrderInfo.Ticket();
+         if(OrderSymbol == _Symbol) {
+            c_Trade.OrderDelete(Ticket);
+         }
+      }
+   }
+}
+//+------------------------------------------------------------------+
