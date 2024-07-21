@@ -1,0 +1,549 @@
+//+------------------------------------------------------------------+
+//|                                            MTF Stochastic EA.mq5 |
+//|                                      Copyright 2024, Trung Messi |
+//|                     https://www.mql5.com/en/users/trungmessi1997 |
+//+------------------------------------------------------------------+
+#property copyright "Copyright 2024, Trung Messi"
+#property link      "https://www.mql5.com/en/users/trungmessi1997"
+#property version   "1.00"
+
+#include <Trade\Trade.mqh>
+#include <Trade\PositionInfo.mqh>
+#include <Indicators\Indicator.mqh>
+#include <Trade\DealInfo.mqh>
+#include <Trade\SymbolInfo.mqh>
+#include <Trade\AccountInfo.mqh>
+#include <ChartObjects\ChartObjectsTxtControls.mqh>
+
+
+CDealInfo deal;
+CTrade trade;
+CPositionInfo m_positionInfo;
+CSymbolInfo   m_symbol;
+CAccountInfo  m_account;
+
+string         EAName                  = "Expert Stochastic BOT";
+input int      MagicNumber             = 31197;
+input int      KPeriod                 = 21;
+input int      DPeriod                 = 3;
+input int      Slowing                 = 3;
+
+input int      BuyLevel                = 10;
+input int      SellLevel               = 90;
+input int      TPBuyLevel              = 80;
+input int      TPSellLevel             = 20;
+
+input int      StopLoss                = 1000;                    // Stop loss in points, 0 to disable
+input int      TakeProfit              = 500;                  // Take profit in points, 0 to disable
+input double   TradeLot                = 0.01;                 // Trade lot size
+input int      TrailingStop            = 150;                  // Trailing stop (in points)
+input int      TrailingStep            = 50;                   // Trailing step (in points)
+input bool     UseDCA                  = true;                 // Use DCA method
+input int      DCAPriceStep            = 3;                    // DCA price ex: XAUUSD: Current: 1933. Last Sell: 1930 => Active
+input int      DCAMultiplication       = 2;                    // DCA lot size Multiplication initial lot and total open position count
+int            MinimumProfit           = 1;
+
+input int      MaxSpread               = 210;                  // Maximum acceptable spread in points for trade
+
+double         LastBuyPrice;
+double         LastSellPrice;
+int            TotalSellCnt;
+int            TotalBuyCnt;
+double         TakeProfitPrice;
+double         StopLossPrice;
+double         TrailingStopPrice;
+double         TrailingStepPrice;
+double         TrailingClosePrice;
+
+double         StochasticM1;
+double         StochasticM5;
+double         StochasticM15;
+double         StochasticM30;
+double         StochasticH1;
+double         StochasticH4;
+
+int            StochLowerCnt    = 0;
+bool           StochLowerBreak  = false;
+double         StochLowerBreakLevel = 60;
+int            StochHigherCnt   = 0;
+bool           StochHigherBreak = false;
+double         StochHigherBreakLevel = 40;
+double         BuyArrayNumbers[] = {0, 1, 2};
+double         SellArrayNumbers[] = {7, 8, 9};
+
+enum E_Signal {
+   NONE = 0,
+   BUY = 1,
+   SELL = 2,
+   CLOSE_PROFIT = 3,
+   CLOSE_ALL = 4,
+   CLOSE_BUYS = 5,
+   CLOSE_SELLS = 6,
+};
+
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
+int OnInit() {
+//--- create timer
+   EventSetTimer(60);
+
+   TakeProfitPrice   = TakeProfit   * CalculateAdjustPoint();
+   StopLossPrice     = StopLoss     * CalculateAdjustPoint();
+   TrailingStopPrice = TrailingStop * CalculateAdjustPoint();
+   TrailingStepPrice = TrailingStep * CalculateAdjustPoint();
+   TrailingClosePrice= 10 * CalculateAdjustPoint();
+
+   return(INIT_SUCCEEDED);
+}
+
+//+------------------------------------------------------------------+
+//| Expert deinitialization function                                 |
+//+------------------------------------------------------------------+
+void OnDeinit(const int reason) {
+//--- destroy timer
+   EventKillTimer();
+}
+
+//+------------------------------------------------------------------+
+//| Expert tick function                                             |
+//+------------------------------------------------------------------+
+void OnTick() {
+//if(TrailingStop==0 || TrailingStep==0) {
+//   return;
+//}
+
+   UpdateLastOrderPrice();
+//---
+   Trailing();
+//---
+   double ask=SymbolInfoDouble(Symbol(),SYMBOL_ASK);
+   double bid=SymbolInfoDouble(Symbol(),SYMBOL_BID);
+   double spread=ask-bid;
+   int spreadPoints=(int)MathRound(spread/SymbolInfoDouble(Symbol(),SYMBOL_POINT));
+
+   if(spreadPoints > MaxSpread) {
+      return;
+   }
+
+   E_Signal signal = GetSignal();
+
+// Execute Trading Signals
+   ExecuteTrading(signal);
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void ExecuteTrading(E_Signal signal) {
+   double ask=SymbolInfoDouble(Symbol(),SYMBOL_ASK);
+   double bid=SymbolInfoDouble(Symbol(),SYMBOL_BID);
+   double askLastPriceNumber = GetLastDigitBeforeDecimal(ask);
+   double bidLastPriceNumber = GetLastDigitBeforeDecimal(bid);
+
+   if(signal == BUY && IsNumberInArray(askLastPriceNumber, BuyArrayNumbers)) {
+      if(UseDCA) {
+         if(LastBuyPrice - ask >= DCAPriceStep || TotalBuyCnt == 0) {
+            // Buy
+            OpenBuy(TradeLot);
+         }
+      } else if(PositionsTotal() == 0) {
+         // Buy
+         OpenBuy(TradeLot);
+      }
+      // Reset flag
+      //StochLowerCnt = 0;
+      StochLowerBreak = false;
+   }
+
+   if(signal == SELL && IsNumberInArray(bidLastPriceNumber, SellArrayNumbers)) {
+      if(UseDCA) {
+         if(bid - LastSellPrice >= DCAPriceStep || TotalSellCnt == 0) {
+            // Buy
+            OpenSell(TradeLot);
+         }
+      } else if(PositionsTotal() == 0) {
+         // Sell
+         OpenSell(TradeLot);
+      }
+      // Reset flag
+      //StochHigherCnt = 0;
+      StochHigherBreak = false;
+   }
+
+   if(signal == CLOSE_BUYS) {
+      CloseProfitTrades(POSITION_TYPE_BUY, true);
+   }
+
+   if(signal == CLOSE_SELLS) {
+      CloseProfitTrades(POSITION_TYPE_SELL, true);
+   }
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+E_Signal GetSignal() {
+   E_Signal signal = NONE;
+// Get Buy signal
+   if(GetBuySignal()) {
+      signal = BUY;
+   }
+// Get Sell signal
+   if(GetSellSignal()) {
+      signal = SELL;
+   }
+// Get Close All Buy signal
+   if(GetCloseAllBuys()) {
+      signal = CLOSE_BUYS;
+   }
+
+// Get Close All Sell signal
+   if(GetCloseAllSells()) {
+      signal = CLOSE_SELLS;
+   }
+// Get Close All position signal
+
+
+   return signal;
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+bool GetBuySignal() {
+   double stochVal = GetStochasticValue(PERIOD_CURRENT);
+
+// The first time Stochastic value below Buy Level then update count
+   if(StochLowerCnt == 0 && stochVal <= BuyLevel) {
+      StochLowerCnt += 1;
+   }
+
+// If Stochastic lower count > 0 and Stoch break boolean is fale.
+// And this time Stochastic breakeven then set stoch break is true to detect next time Stochastic lower
+   if(StochLowerCnt > 0 && !StochLowerBreak && stochVal >= StochLowerBreakLevel) {
+      StochLowerBreak = true;
+   }
+
+// If Stochastic value count > 0. That means stoch was created lower one time
+// And if stoch break is false. That means stoch
+   if(StochLowerCnt > 0 && StochLowerBreak && stochVal <= BuyLevel) {
+      StochLowerCnt += 1;
+   }
+
+// When stochastic create bottom with even number then go to buy.
+   return StochLowerCnt > 0 && StochLowerBreak && stochVal <= BuyLevel;
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+bool GetSellSignal() {
+   double stochVal = GetStochasticValue(PERIOD_CURRENT);
+
+// The first time Stochastic value below Buy Level then update count
+   if(StochHigherCnt == 0 && stochVal >= SellLevel) {
+      StochHigherCnt += 1;
+   }
+
+// If Stochastic higher count > 0 and Stoch break boolean is fale.
+// And this time Stochastic breakeven then set stoch break is true to detect next time Stochastic higher
+   if(StochHigherCnt > 0 && !StochHigherBreak && stochVal <= StochHigherBreakLevel) {
+      StochHigherBreak = true;
+   }
+
+// If Stochastic value count > 0. That means stoch was created lower one time
+// And if stoch break is false. That means stoch
+   if(StochHigherCnt > 0 && StochHigherBreak && stochVal >= SellLevel) {
+      StochHigherCnt += 1;
+   }
+
+// When stochastic create bottom with even number then go to buy.
+   return StochHigherCnt > 0 && StochHigherBreak && stochVal >= SellLevel;
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+E_Signal GetCloseAllBuys() {
+   double stochVal = GetStochasticValue(PERIOD_CURRENT);
+   if((TotalBuyCnt > 1 || stochVal >= TPBuyLevel) && GetOrdersProfit(POSITION_TYPE_BUY) > 0) {
+      return CLOSE_BUYS;
+   }
+
+   return NONE;
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+E_Signal GetCloseAllSells() {
+   double stochVal = GetStochasticValue(PERIOD_CURRENT);
+   if((TotalSellCnt > 1 || stochVal <= TPSellLevel) && GetOrdersProfit(POSITION_TYPE_SELL) > 0) {
+      return CLOSE_SELLS;
+   }
+
+   return NONE;
+}
+
+//+------------------------------------------------------------------+
+// Helper Function
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|Function to extract a specific digit from the price               |
+//+------------------------------------------------------------------+
+int GetLastDigitBeforeDecimal(double price) {
+// Convert the price to a string with 3 decimal places
+   string price_str = DoubleToString(price, 3);
+
+// Find the position of the decimal point
+   int decimal_pos = StringFind(price_str, ".");
+
+// Check if the position is valid (should be, since DoubleToString guarantees a decimal point)
+   if (decimal_pos <= 0) {
+      Print("Invalid price format!");
+      return -1;
+   }
+
+// Extract the last digit before the decimal point
+   string digit_str = StringSubstr(price_str, decimal_pos - 1, 1);
+   return StringToInteger(digit_str);
+}
+
+//+------------------------------------------------------------------+
+//|Function to check if a number exists in the array                 |
+//+------------------------------------------------------------------+
+bool IsNumberInArray(double number, const double &arr[]) {
+   int size = ArraySize(arr);
+   for (int i = 0; i < size; i++) {
+      if (arr[i] == number) {
+         return true; // Number found in the array
+      }
+   }
+   return false; // Number not found in the array
+}
+
+//+------------------------------------------------------------------+
+//| Get stochastic value by time frame                               |
+//+------------------------------------------------------------------+
+double GetStochasticValue(ENUM_TIMEFRAMES timeFrame) {
+   double main[];
+   int stoch = iStochastic(_Symbol, timeFrame, KPeriod, DPeriod, Slowing, MODE_EMA, STO_LOWHIGH);
+   CopyBuffer(stoch,MAIN_LINE,0,1,main);
+
+   return main[0];
+}
+
+//+------------------------------------------------------------------+
+//| Get EMA value by time frame                                      |
+//+------------------------------------------------------------------+
+double GetEMAValue(ENUM_TIMEFRAMES timeFrame, int emaPeriod) {
+   double main[];
+   int ema = iMA(_Symbol, timeFrame, emaPeriod, 0, MODE_EMA, PRICE_CLOSE);
+   ArraySetAsSeries(main, true);
+   CopyBuffer(ema, 0, 0, 1, main);
+
+   return main[0];
+}
+
+//+------------------------------------------------------------------+
+//|Calculate lot size by strategy: DCA, v.v                          |
+//+------------------------------------------------------------------+
+double CalculateLotSize(ENUM_POSITION_TYPE type) {
+   double lot = TradeLot;
+   if(UseDCA) {
+      int totalPositions = PositionsTotal();
+      if(totalPositions == 0) {
+         return TradeLot;
+      }
+      if(type == POSITION_TYPE_BUY) {
+         if(TotalBuyCnt == 0) {
+            return TradeLot;
+         }
+         lot = TradeLot * DCAMultiplication * TotalBuyCnt;
+      } else {
+         if(TotalSellCnt == 0) {
+            return TradeLot;
+         }
+         lot = TradeLot * DCAMultiplication * TotalSellCnt;
+      }
+   }
+   return lot;
+}
+
+//+------------------------------------------------------------------+
+//|Calculate Symbol adjust point                                     |
+//+------------------------------------------------------------------+
+double CalculateAdjustPoint() {
+//--- tuning for 3 or 5 digits
+   int digits_adjust=1;
+   if(_Digits==3 || _Digits==5) {
+      digits_adjust=10;
+   }
+   return SymbolInfoDouble(_Symbol, SYMBOL_POINT)*digits_adjust;
+}
+
+//+------------------------------------------------------------------+
+//|Open buy position                                                 |
+//+------------------------------------------------------------------+
+void OpenBuy(double Lot) {
+   MqlTradeRequest request= {};
+   MqlTradeResult result= {};
+// Prepare a request
+   request.action    = TRADE_ACTION_DEAL;
+   request.symbol    = Symbol();
+   request.volume    = CalculateLotSize(POSITION_TYPE_BUY);
+   request.type      = ORDER_TYPE_BUY;
+   request.price     = SymbolInfoDouble(Symbol(), SYMBOL_ASK);
+   request.tp        = TakeProfit==0.0?0.0 : NormalizeDouble(SymbolInfoDouble(Symbol(),SYMBOL_ASK) + TakeProfitPrice, _Digits);
+   request.sl        = StopLoss==0.0?0.0 :NormalizeDouble(SymbolInfoDouble(Symbol(),SYMBOL_ASK) - StopLossPrice, _Digits);
+   request.deviation = 2;
+   request.magic     = MagicNumber;
+   request.comment   = EAName;
+// Send order
+   if(!OrderSend(request, result)) {
+      ZeroMemory(request);
+      ZeroMemory(result);
+      PrintFormat("Order Send error %d", GetLastError());
+   } else {
+      LastBuyPrice   = result.price;
+      string msg = "Order successfully! ID: ";
+      Print(StringConcatenate(msg, result.request_id, " || Lot: ", result.volume, " || Price: ", result.price));
+   }
+}
+
+//+------------------------------------------------------------------+
+//| Open sell position                                               |
+//+------------------------------------------------------------------+
+void OpenSell(double Lot) {
+   MqlTradeRequest request= {};
+   MqlTradeResult result= {};
+// Prepare a request
+   request.action    = TRADE_ACTION_DEAL;
+   request.symbol    = Symbol();
+   request.volume    = CalculateLotSize(POSITION_TYPE_SELL);
+   request.type      = ORDER_TYPE_SELL;
+   request.price     = SymbolInfoDouble(Symbol(), SYMBOL_BID);
+   request.tp        = TakeProfit==0.0?0.0 : NormalizeDouble(SymbolInfoDouble(Symbol(),SYMBOL_BID) - TakeProfitPrice, _Digits);
+   request.sl        = StopLoss==0.0?0.0 : NormalizeDouble(SymbolInfoDouble(Symbol(),SYMBOL_BID) + StopLossPrice, _Digits);
+   request.deviation = 2;
+   request.magic     = MagicNumber;
+   request.comment   = EAName;
+// Send order
+   if(!OrderSend(request, result)) {
+      ZeroMemory(request);
+      ZeroMemory(result);
+      PrintFormat("Order Send error %d", GetLastError());
+   } else {
+      LastSellPrice  = result.price;
+      string msg = "Order successfully! ID: ";
+      Print(StringConcatenate(msg, result.request_id, " || Lot: ", result.volume, " || Price: ", result.price));
+   }
+}
+
+//+------------------------------------------------------------------+
+//| Close all profit trade                                        |
+//+------------------------------------------------------------------+
+void CloseProfitTrades(ENUM_POSITION_TYPE type, bool closeAll = false) {
+   int totalPositions = PositionsTotal();
+   for(int i = totalPositions-1; i >= 0; i--) {
+      if(m_positionInfo.SelectByIndex(i)) {
+         ulong ticket = m_positionInfo.Ticket();
+         double profit = m_positionInfo.Profit();
+         if(m_positionInfo.PositionType() == type && (profit >= MinimumProfit || closeAll)) {
+            trade.PositionClose(ticket);
+            if(m_positionInfo.PositionType() == POSITION_TYPE_BUY) {
+               LastBuyPrice = 0.0;
+            } else {
+               LastSellPrice = 0.0;
+            }
+         }
+      }
+   }
+}
+
+//+------------------------------------------------------------------+
+//| Update Last Order Price                                          |
+//+------------------------------------------------------------------+
+double GetOrdersProfit(ENUM_POSITION_TYPE type) {
+   double lBuyProfit = 0.0;
+   double lSellProfit = 0.0;
+   int totalPositions = PositionsTotal();
+   for(int i = totalPositions-1; i >= 0; i--) {
+      if(m_positionInfo.SelectByIndex(i)) {
+         double oProfit = m_positionInfo.Profit();
+         if(m_positionInfo.PositionType() == POSITION_TYPE_BUY) {
+            lBuyProfit += oProfit;
+         }
+         if(m_positionInfo.PositionType() == POSITION_TYPE_SELL) {
+            lSellProfit += oProfit;
+         }
+      }
+   }
+
+   return type == POSITION_TYPE_BUY ? lBuyProfit : lSellProfit;
+}
+
+//+------------------------------------------------------------------+
+//| Update Last Order Price                                          |
+//+------------------------------------------------------------------+
+void UpdateLastOrderPrice() {
+   TotalBuyCnt = 0;
+   TotalSellCnt = 0;
+   double lBuyPrice = 0.0;
+   double lSellPrice = 0.0;
+   int totalPositions = PositionsTotal();
+   for(int i = totalPositions-1; i >= 0; i--) {
+      if(m_positionInfo.SelectByIndex(i)) {
+         double oPrice = m_positionInfo.PriceOpen();
+         if(m_positionInfo.PositionType() == POSITION_TYPE_BUY) {
+            lBuyPrice = oPrice;
+            lBuyPrice = oPrice < lBuyPrice ? oPrice : lBuyPrice;
+            TotalBuyCnt += 1;
+         }
+         if(m_positionInfo.PositionType() == POSITION_TYPE_SELL) {
+            lSellPrice = lSellPrice;
+            lSellPrice = oPrice > lSellPrice ? oPrice : lSellPrice;
+            TotalSellCnt += 1;
+         }
+      }
+   }
+}
+
+//+------------------------------------------------------------------+
+//| Trailing                                                         |
+//+------------------------------------------------------------------+
+void Trailing() {
+   if(TrailingStop==0) {
+      return;
+   }
+   for(int i=PositionsTotal()-1; i>=0; i--) // returns the number of open positions
+      if(m_positionInfo.SelectByIndex(i))
+         if(m_positionInfo.Symbol()==_Symbol && m_positionInfo.Magic()==MagicNumber) {
+            if(m_positionInfo.PositionType()==POSITION_TYPE_BUY) {
+               if(m_positionInfo.PriceCurrent()-m_positionInfo.PriceOpen()>TrailingStopPrice+TrailingStepPrice) {
+                  if(m_positionInfo.StopLoss()<m_positionInfo.PriceCurrent()-(TrailingStopPrice+TrailingStepPrice)) {
+                     double sl = NormalizeDouble(m_positionInfo.PriceCurrent()-TrailingStopPrice, _Digits);
+                     double tp = m_positionInfo.TakeProfit();
+                     trade.PositionModify(m_positionInfo.Ticket(), sl, tp);
+                  }
+               } else if(m_positionInfo.PriceOpen()-m_positionInfo.PriceCurrent() > TrailingStopPrice) {
+                  trade.PositionModify(m_positionInfo.Ticket(), m_positionInfo.StopLoss(), NormalizeDouble(m_positionInfo.PriceOpen()+TrailingClosePrice, _Digits));
+               }
+            } else {
+               if(m_positionInfo.PriceOpen()-m_positionInfo.PriceCurrent()>TrailingStopPrice+TrailingStepPrice) {
+                  if((m_positionInfo.StopLoss()>(m_positionInfo.PriceCurrent()+(TrailingStopPrice+TrailingStepPrice))) ||
+                        (m_positionInfo.StopLoss()==0)) {
+                     double sl = NormalizeDouble(m_positionInfo.PriceCurrent()+TrailingStopPrice, _Digits);
+                     double tp = m_positionInfo.TakeProfit();
+                     trade.PositionModify(m_positionInfo.Ticket(), sl, tp);
+                  }
+               } else if(m_positionInfo.PriceCurrent()-m_positionInfo.PriceOpen() > TrailingStopPrice) {
+                  trade.PositionModify(m_positionInfo.Ticket(), m_positionInfo.StopLoss(), NormalizeDouble(m_positionInfo.PriceOpen()-TrailingClosePrice, _Digits));
+               }
+            }
+
+         }
+}
+//+------------------------------------------------------------------+
