@@ -937,11 +937,14 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"MS-CEINTL.vscode-language-pack-zh-hans",
+				"ZainChen.json"
 			]
 		}
 
 	}
+	
 	
 
 
