@@ -68,6 +68,7 @@ def obtener_opcion() -> int:
 while True:
     mostrar_productos()
     print("[1] Agregar, [2] Eliminar, [3] Actualizar, [4] Salir")
+    
     opcion = obtener_opcion()
     if opcion == 1:
         agregar_producto()
