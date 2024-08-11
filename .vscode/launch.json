@@ -9,58 +9,108 @@
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Launch Edge",
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Launch Firefox",
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Launch Safari",
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Launch Edge (Chromium)",
             "request": "launch",
             "type": "msedge",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Launch Chrome (Incognito)",
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "{MakGitDevFork}/src",
+            "webRoot": "{MakGitDevFork}/src"
         },
         {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal", // or "integrated terminal"
+            "console": "integratedTerminal"
         },
         {
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
-            "<node_internals>/**"
+                "<node_internals>/**"
             ],
             "program": "${file}"
+        },
+        {
+            "type": "msedge",
+            "name": "Launch Microsoft Edge",
+            "request": "launch",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222"
+            ],
+            "url": "/Users/amakki/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.5/out/startpage/index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "msedge",
+            "name": "Launch Microsoft Edge in headless mode",
+            "request": "launch",
+            "runtimeArgs": [
+                "--headless",
+                "--remote-debugging-port=9222"
+            ],
+            "url": "/Users/amakki/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.5/out/startpage/index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "vscode-edge-devtools.debug",
+            "name": "Open Edge DevTools",
+            "request": "attach",
+            "url": "/Users/amakki/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.5/out/startpage/index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch Edge Headless and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge in headless mode",
+                "Open Edge DevTools"
+            ]
+        },
+        {
+            "name": "Launch Edge and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge",
+                "Open Edge DevTools"
+            ]
         }
     ],
 }
