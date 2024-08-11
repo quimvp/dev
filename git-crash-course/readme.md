@@ -1,5 +1,7 @@
 ## Commits
 
+## Remotes
+
 ## Branches
 
 ## Stashing
