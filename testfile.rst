@@ -8,3 +8,5 @@ Before creating RST documents, install the RST content quality tools available f
 - Spell check extension for VS Code Editor
 - Style check extension for VS Code Editor
 - RST syntax check extension for VS Code Editor 
+
+I am now making changes.
