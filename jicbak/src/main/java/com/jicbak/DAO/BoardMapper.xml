@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.jicbak.DAO.BoardMapper">
+    <sql id="boardTitle">
+        <choose>
+            <when test="boardTitle != null">
+                #{boardTitle}
+            </when>
+            <otherwise>
+                '제목없음'
+            </otherwise>
+        </choose>
+    </sql>
+    
+    <sql id="boardContent">
+        <choose>
+            <when test="boardContent != null">
+                #{boardContent}
+            </when>
+            <otherwise>
+                '내용없음'
+            </otherwise>
+        </choose>
+    </sql>
+    
+    <insert id="insertBoard" parameterType="BoardDTO">
+        INSERT INTO board VALUES 
+        (0, 
+        <include refid="boardTitle"/>, 
+        <include refid="boardContent"/>,
+        #{boardWriter}, SYSDATE())
+    </insert>
+    
+    <update id="updateBoard" parameterType="BoardDTO">
+        UPDATE board SET 
+        boardTitle = <include refid="boardTitle"/>,
+        boardContent = <include refid="boardContent"/>,
+        boardWriter = #{boardWriter}
+        WHERE boardId = #{boardId}
+    </update>
+    
+    <delete id="deleteBoard" parameterType="int">
+        DELETE FROM board WHERE boardId = #{boardId}
+    </delete>
+    
+    <select id="selectOneBoard" parameterType="int" resultType="BoardDTO">
+        SELECT * FROM board WHERE boardId = #{boardId}
+    </select>
+    
+    <select id="selectSearchBoard" parameterType="java.util.HashMap" resultType="BoardDTO">
+        SELECT * FROM board
+    </select>
+    
+    <select id="selectAllBoard" resultType="BoardDTO">
+        SELECT * FROM board
+    </select>
+</mapper>
