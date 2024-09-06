@@ -1,0 +1,33 @@
+name: Build ISO Workflow
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-iso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Prepare configuration file
+        env:
+          SUB_URL: ${{ secrets.SUB_URL }}
+          DNS_IP: ${{ secrets.DNS_IP }}
+        run: |
+          curl -sSL https://raw.githubusercontent.com/tests-always-included/mo/master/mo -o /usr/local/bin/mo && sudo chmod +x /usr/local/bin/mo
+          mkdir -p build
+          mo templates/ppgw.ini > build/ppgw.ini
+
+      - name: Run Docker container to generate ISO
+        run: |
+          docker run --rm -v ./build:/data sliamb/ppgwiso:latest
+
+      - name: Upload ISO
+        uses: actions/upload-artifact@v4
+        with:
+          name: clash-gateway
+          path: build
