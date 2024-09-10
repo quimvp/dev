@@ -1,0 +1,18 @@
+name: Shell Script Workflow
+
+on: push
+
+jobs:
+    first_job:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout Repo
+          uses: actions/checkout@v4
+          
+        - name: List Repo Files
+          run: ls -ltra
+
+        - name: Executing Shell Script
+          run: |
+            chmod +x ascii-script1.sh
+            ./ascii-script1.sh
