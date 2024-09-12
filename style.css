@@ -1,0 +1,64 @@
+/* Algemene body-styling voor een lichtgrijze achtergrond */
+body {
+    background-color: #2d2d2d; /* Lichtgrijs, zoals ChatGPT dark mode */
+    color: #e0e0e0; /* Lichtgrijze tekstkleur voor leesbaarheid */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Menu-styling voor een donkerder grijze achtergrond */
+nav {
+    background-color: #1e1e1e; /* Donkergrijs voor het menu */
+    overflow: hidden;
+}
+
+/* Stijling voor het lijstmenu */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    float: left;
+    position: relative;
+}
+
+/* Links in het menu */
+nav ul li a {
+    display: block;
+    color: #e0e0e0; /* Lichte tekstkleur */
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Hover-effect voor menu-items */
+nav ul li a:hover {
+    background-color: #333; /* Iets donkerder grijs bij hover */
+}
+
+/* Dropdown-menu-styling */
+nav ul li ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #1e1e1e; /* Zelfde donkergrijze achtergrond voor dropdown */
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+nav ul li ul li a {
+    padding: 10px 20px;
+}
+
+/* Clearfix voor de navigatiebalk */
+nav::after {
+    content: "";
+    clear: both;
+    display: table;
+}
