@@ -1006,7 +1006,7 @@ gateway-prd-us-east1-b-5wqx: 234.14
 |  |  |  |  experiments: 19.636
 |  |  |  |  required_action: 0.007
 |  |  |  |  authorized_ip_coro: 0
-|  |  starting_guild_connect: 0.077
+|  |  starting_guild_connect 0.077
 |  |  presence_started: 6.095
 |  |  guilds_started: 0.125
 |  |  guilds_connect: 157.682
@@ -1015,4 +1015,6 @@ gateway-prd-us-east1-b-5wqx: 234.14
 |  |  build_ready: 0.373
 |  |  clean_ready: 0.001
 |  |  optimize_ready: 0.027
-|  |  split_ready: 0.005
+        |  |  split_ready: 0.005 
+
+
