@@ -10,4 +10,4 @@ function setup() {
     if (mouseIsPressed){
         rect(mouseX, mouseY, 20, 35)
         }
-  }
+  } 
