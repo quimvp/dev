@@ -1,3 +1,7 @@
 {
-    "runOnSave.defaultRunIn": "terminal"
+    "runOnSave.defaultRunIn": "terminal",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
 }
