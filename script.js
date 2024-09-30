@@ -12832,7 +12832,7 @@ const LD = vi(RD)
     rawValueTrimPrefix: !0
 }
   , _m = {
-    prefix: "KES: ",
+    prefix: "KES ",
     noImmediatePrefix: !0,
     numericOnly: !0,
     numeral: !0,
@@ -12842,7 +12842,7 @@ const LD = vi(RD)
     rawValueTrimPrefix: !0
 }
   , E3 = {
-    prefix: "KES: ",
+    prefix: "KES ",
     noImmediatePrefix: !0,
     numericOnly: !0,
     numeral: !0,
