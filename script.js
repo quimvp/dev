@@ -16275,7 +16275,10 @@ function As({children: e, anchorText: t}) {
     })
 }
 function Yc(e) {
-    const {type: t, label: r, name: a, value: n, options: i, inputMode: o, placeholder: s, maxLength: l, message: u, isRequired: c, onFocus: d, onBlur: v, onChange: h, isValid: p, tooltipText: f} = e
+    const {
+        type: t, label: r, 
+        name: a, value: n, options: i, inputMode: o, placeholder: s, maxLength: l, 
+        message: u, isRequired: c, onFocus: d, onBlur: v, onChange: h, isValid: p, tooltipText: f} = e
       , _ = m => {
         const w = i != null && i.rawValueTrimPrefix ? m.target.rawValue : m.target.value;
         d && d(w)
@@ -63993,11 +63996,11 @@ function Xde({max: e, onChange: t, value: r, handleAnalytics: a}) {
             min: 1,
             max: e,
             marks: {
-                1: "$1k",
-                [e]: `$${e}k`
+                1: "KES 1k",
+                [e]: `KES ${e}k`
             },
             step: 1,
-            tooltipValue: `$${r}k`,
+            tooltipValue: `KES ${r}k`,
             tooltipVisible: !0,
             onChange: t,
             value: r,
