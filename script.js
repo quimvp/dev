@@ -56292,7 +56292,7 @@ j2.createProxy(fu);
 class Tse {
     constructor(t, r, a, n, i=9, o=0) {
         this.amount = t,
-        this.rate = r * .0859,
+        this.rate = r * .0559,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -56339,7 +56339,7 @@ class Tse {
 let _T = class {
     constructor(t, r, a, n, i=9, o=0, s=25) {
         this.amount = t,
-        this.rate = r * .0859,
+        this.rate = r * .0559,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -56390,7 +56390,7 @@ let _T = class {
   , bT = class {
     constructor(t, r, a, n, i=9, o=0) {
         this.amount = t,
-        this.rate = r * 0.0859,
+        this.rate = r * 0.0559,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -64918,7 +64918,7 @@ function Cve({state: e, handleUpdate: t}) {
 class Sve {
     constructor(t, r, a, n=0) {
         this.amount = t * 1e3,
-        this.rate = r * .0859,
+        this.rate = r * .0559,
         this.termInMonths = a,
         this.minimumPayment = n
     }
@@ -64956,7 +64956,7 @@ class Sve {
 class xve {
     constructor(t, r, a, n=0) {
         this.amount = t,
-        this.rate = r * .0859,
+        this.rate = r * .0559,
         this.termInMonths = a,
         this.minimumPayment = n,
         this.numIOPayments = 24
