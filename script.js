@@ -1,5 +1,6 @@
 // update v1
 function wN(e, t) {
+    console.log("Purged");
     for (var r = 0; r < t.length; r++) {
         const a = t[r];
         if (typeof a != "string" && !Array.isArray(a)) {
