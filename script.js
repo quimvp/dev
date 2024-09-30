@@ -12945,7 +12945,7 @@ function Ie() {
     ,
     Ie.apply(this, arguments)
 }
-    
+
 function Na(e) {
     "@babel/helpers - typeof";
     return Na = typeof Symbol == "function" && typeof Symbol.iterator == "symbol" ? function(t) {
@@ -64080,7 +64080,7 @@ function $x({state: e, handleUpdate: t}) {
                         }), S.jsx(fN, {
                             label: "Remaining Years",
                             min: 5,
-                            max: 30,
+                            max: 10,
                             onChange: t.yearsRemaining,
                             value: e.currentLoanInformation.yearsRemaining,
                             handleAnalytics: r
@@ -64168,7 +64168,7 @@ function zx({state: e, handleUpdate: t}) {
                             label: "Loan Term (in years)",
                             sublabel: tve[e.displayType],
                             min: 5,
-                            max: 20,
+                            max: 10,
                             value: a,
                             onChange: t.term,
                             handleAnalytics: i
@@ -64312,7 +64312,7 @@ function ove({value: e, onChange: t, isValid: r, message: a, handleAnalytics: n}
             inputMode: "numeric",
             options: _m,
             name: "monthlyPayment",
-            label: "$",
+            label: "KES",
             placeholder: "",
             value: e,
             isValid: r,
@@ -64354,7 +64354,7 @@ function lve({value: e, onChange: t, isValid: r, message: a, handleAnalytics: n}
             inputMode: "numeric",
             options: _m,
             name: "monthlyPayment",
-            label: "$",
+            label: "KES",
             placeholder: "",
             value: e,
             isValid: r,
