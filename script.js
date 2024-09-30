@@ -64079,7 +64079,7 @@ function $x({state: e, handleUpdate: t}) {
                             handleAnalytics: r
                         }), S.jsx(fN, {
                             label: "Remaining Years",
-                            min: 5,
+                            min: 1,
                             max: 10,
                             onChange: t.yearsRemaining,
                             value: e.currentLoanInformation.yearsRemaining,
@@ -64899,7 +64899,7 @@ function Cve({state: e, handleUpdate: t}) {
                             className: "h4",
                             children: "Ready to get started?"
                         }), S.jsx("a", {
-                            href: "/apply",
+                            href: "/loans/prequalify/",
                             className: "button button__dark-teal button__width-310 dropshadow dropshadow__hover-off",
                             children: "Check Your Rate In 1 Minute"
                         })]
