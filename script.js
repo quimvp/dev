@@ -56917,7 +56917,7 @@ const ux = LoanPaymentBox = e => {
                                 }), S.jsx(Wh, {
                                     type: "amount",
                                     title: "Loan Amount",
-                                    amount: r.amount * 1e4 // TODO: UPDATE LATER
+                                    amount: r.amount * 1e3 // TODO: UPDATE LATER
                                 })]
                             })]
                         }), s === "payments" && S.jsxs("div", {
