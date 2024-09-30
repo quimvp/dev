@@ -64894,7 +64894,7 @@ function Cve({state: e, handleUpdate: t}) {
                             className: "h4",
                             children: "Ready to get started?"
                         }), S.jsx("a", {
-                            href: "/application/?ACT=SS&SC=CARF01",
+                            href: "/apply",
                             className: "button button__dark-teal button__width-310 dropshadow dropshadow__hover-off",
                             children: "Check Your Rate In 1 Minute"
                         })]
@@ -64914,7 +64914,7 @@ function Cve({state: e, handleUpdate: t}) {
 class Sve {
     constructor(t, r, a, n=0) {
         this.amount = t * 1e3,
-        this.rate = r * .01,
+        this.rate = r * .859,
         this.termInMonths = a,
         this.minimumPayment = n
     }
@@ -64952,7 +64952,7 @@ class Sve {
 class xve {
     constructor(t, r, a, n=0) {
         this.amount = t,
-        this.rate = r * .01,
+        this.rate = r * .859,
         this.termInMonths = a,
         this.minimumPayment = n,
         this.numIOPayments = 24
