@@ -1,4 +1,4 @@
-
+// update v1
 function wN(e, t) {
     for (var r = 0; r < t.length; r++) {
         const a = t[r];
@@ -56291,7 +56291,7 @@ j2.createProxy(fu);
 class Tse {
     constructor(t, r, a, n, i=9, o=0) {
         this.amount = t,
-        this.rate = r * .03,
+        this.rate = r * .859,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -56338,7 +56338,7 @@ class Tse {
 let _T = class {
     constructor(t, r, a, n, i=9, o=0, s=25) {
         this.amount = t,
-        this.rate = r * .01,
+        this.rate = r * .859,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -56389,7 +56389,7 @@ let _T = class {
   , bT = class {
     constructor(t, r, a, n, i=9, o=0) {
         this.amount = t,
-        this.rate = r * .01,
+        this.rate = r * 0.859,
         this.termInMonths = a,
         this.yearsUntilGraduation = n,
         this.gracePeriod = i,
@@ -56504,7 +56504,7 @@ function lx({amount: e, rate: t, term: r, yearsUntilGraduation: a, gracePeriod: 
 const Ise = e => {
     const t = {
         min: 1e3,
-        max: 5e5
+        max: 4e5
     }
       , r = parseFloat(e);
     return r < t.min || r > t.max ? "Loan amount must be between KES 1,000 and KES 400,000" : !0
@@ -56512,18 +56512,18 @@ const Ise = e => {
   , Dse = e => {
     const t = {
         min: 1,
-        max: 30
+        max: 10
     }
       , r = parseInt(e);
     return r < t.min || r > t.max ? "Loan term must be between 1 and 10 years" : !0
 }
   , Use = e => {
     const t = {
-        min: 1,
-        max: 20
+        min: 5,
+        max: 32
     }
       , r = parseFloat(e);
-    return r < t.min || r > t.max ? "Interest rate must be between 1% and 32%" : !0
+    return r < t.min || r > t.max ? "Interest rate must be between 5% and 32%" : !0
 }
   , Fse = e => parseInt(e) > 10 ? "Years in school must not exceed 10" : !0
   , Ose = e => !0
@@ -56916,7 +56916,7 @@ const ux = LoanPaymentBox = e => {
                                 }), S.jsx(Wh, {
                                     type: "amount",
                                     title: "Loan Amount",
-                                    amount: r.amount * 1e3
+                                    amount: r.amount * 1e4 // TODO: UPDATE LATER
                                 })]
                             })]
                         }), s === "payments" && S.jsxs("div", {
@@ -63405,11 +63405,11 @@ function s0({max: e, onChange: t, value: r, handleAnalytics: a}) {
             min: 1,
             max: e,
             marks: {
-                1: "$1k",
-                [e]: `$${e}k`
+                1: "KES 1k",
+                [e]: `KES ${e}k`
             },
             step: 1,
-            tooltipValue: `$${r}k`,
+            tooltipValue: `KES ${r}k`,
             tooltipVisible: !0,
             onChange: t,
             value: r,
