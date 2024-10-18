@@ -3,22 +3,12 @@ import math
 def decimalToBinary(num):
     if num >= 1:
         decimalToBinary(num // 2)
+    
+    print(f"{num % 2}", end='')
 
-    print(num % 2, end='')
 
-
-def binaryToDecimal(binString, /, display):
-    values = []
-    binString = binString[::-1]
-    for i in range(len(binString)):
-        if binString[i] == '1':
-            values.append(2**i)
-    if display:
-        print(sum(values))
-    else:
-
-        return sum(values)
-
+def binaryToDecimal(binString):
+    return sum([x[1] for x in [(k,int(v)*2**k) for k,v in enumerate(binString[::-1])]])
 
 def floating_point(bin_string,shift):
     shift = (bin_string.index(".") ) + shift  
@@ -38,5 +28,4 @@ def floating_point(bin_string,shift):
     return res
 
 
-print(floating_point("0.0001",2))
-print("Hello")
+print(decimalToBinary(13*6))
