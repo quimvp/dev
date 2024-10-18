@@ -39,3 +39,4 @@ def floating_point(bin_string,shift):
 
 
 print(floating_point("0.0001",2))
+print("Hello")
