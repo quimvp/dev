@@ -1,31 +1,18 @@
-import math
+class Dog:
 
-def decimalToBinary(num):
-    if num >= 1:
-        decimalToBinary(num // 2)
+    def __init__(self,name,colour):
+        self.name = name
+        self.colour = colour
+
+    def bark(times):
+        for i in range(times):
+            print("Woof")
+
+class Puppy(Dog):
+
+    def __init__(self,name,colour):
+        super().__init__(name,colour)
     
-    print(f"{num % 2}", end='')
-
-
-def binaryToDecimal(binString):
-    return sum([x[1] for x in [(k,int(v)*2**k) for k,v in enumerate(binString[::-1])]])
-
-def floating_point(bin_string,shift):
-    shift = (bin_string.index(".") ) + shift  
-    bin_string = bin_string.replace(".","")
-    bin_string = list(bin_string)
-    bin_string.insert(shift,".")
-    print(bin_string)
-
-    bin_string = "".join(x for x in bin_string).split(".")
-    denary_bin = binaryToDecimal(bin_string[0], display=False)
-    decimal_bin = sum([
-        x[1] for x in [(k, float(v) * float(pow(2,-(k+1))) )
-                       for k, v in enumerate(bin_string[1]) if int(v) == 1]])
-
-    res = float(denary_bin) + decimal_bin
-
-    return res
-
-
-print(decimalToBinary(13*6))
+dog1 = Dog("Elliot","White")
+puppy1 = Puppy("Jake","Black")
+print(dog1,puppy1)
