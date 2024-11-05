@@ -6,10 +6,10 @@ jobs:
         steps:
         - name: Basic commands
           run: |
-          cat /etc/*release*
-          cat /proc/version
-          git --version
-          sudo apt-get install cowsay -y
+            cat /etc/*release*
+            cat /proc/version
+            git --version
+            sudo apt-get install cowsay -y
 
     second_job:
         runs-on: ubuntu-latest
@@ -19,5 +19,5 @@ jobs:
           uses: actions/checkout@v4
         - name: List all content
           run: |
-          ls -la *
-          ls -l README.md
+            ls -la *
+            ls -l README.md
