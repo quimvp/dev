@@ -1,11 +1,18 @@
 
 name: Second workflow testing
 on: push
+
+# Environment variables at workflow level
 env:
-    CONTAINER_REGISTRY: dockerio
-    CONTAINER_REGISTRY_USER_NAME: ravi
-    CONTAINER_REGISTRY_USER_PASSWORD: password
+    CONTAINER_REGISTRY: docker.io
     IMAGE_NAME: github-actions-nginx
+
+    # This variable defined at Repository level, not at organization level, to use across workflows
+    #CONTAINER_REGISTRY_USER_NAME: ravi
+
+    # This secret at Repository level, not at organization level, to use across workflows
+    #CONTAINER_REGISTRY_USER_PASSWORD: password
+
 
 jobs:
     first_job:
@@ -46,8 +53,12 @@ jobs:
         runs-on: ubuntu-latest
         needs: [first_job, second_job]
         steps:
-        - name: Docker builds
+        - name: Docker build
           run: |
             echo docker build -t ${{ env.CONTAINER_REGISTRY}}/${DOCKER_USER_NAME}/${IMAGE_NAME}:latest .
-
-
+        - name: Docker Login
+          run: |
+            echo docker login --user-name= --password=${{ secrets.CONTAINER_REGISTRY_USER_PASSWORD}}
+        - name: Docker Push or Publish
+          run: |
+            echo docker push ${{ env.CONTAINER_REGISTRY}}/${DOCKER_USER_NAME}/${IMAGE_NAME}:latest
