@@ -10,4 +10,7 @@ jobs:
           run: ls
         - name: Check Kernel Version
           run: cat /proc/version
+        - name: Git Version check
+          run: git --version
+
 
