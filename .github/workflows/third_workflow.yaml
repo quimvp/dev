@@ -1,8 +1,9 @@
 
 name: Third Workflow Testing
 on:
-   schedule:
-     - cron: "*/1 * * * *" 
+  workflow_dispatch:
+  #schedule:
+  #  cron: 
 
 jobs:
     first_job:
