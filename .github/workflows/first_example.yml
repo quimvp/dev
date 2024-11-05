@@ -4,21 +4,20 @@ jobs:
     first_job:
         runs-on: ubuntu-latest
         steps:
-        - name: Check Ubuntu distribution
-          run: cat /etc/*release*
-        - name: List files
-          run: ls
-        - name: Check Kernel Version
-          run: cat /proc/version
-        - name: Git Version check
-          run: git --version
+        - name: Basic commands
+          run: |
+          cat /etc/*release*
+          cat /proc/version
+          git --version
+          sudo apt-get install cowsay -y
 
     second_job:
         runs-on: ubuntu-latest
+        needs: first_job
         steps:
         - name: Git clone
           uses: actions/checkout@v4
         - name: List all content
-          run: ls -la
-        - name: List README.md
-          run: ls -l README.md
+          run: |
+          ls -la *
+          ls -l README.md
