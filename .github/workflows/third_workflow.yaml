@@ -1,7 +1,6 @@
 
 name: Third Workflow Testing
 on: workflow_dispatch
-
 jobs:
     first_job:
         runs-on: ubuntu-latest
