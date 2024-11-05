@@ -1,9 +1,6 @@
 
 name: Third Workflow Testing
-on:
-  workflow_dispatch:
-  #schedule:
-  #  cron: 
+on: workflow_dispatch
 
 jobs:
     first_job:
