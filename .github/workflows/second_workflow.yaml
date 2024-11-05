@@ -1,6 +1,12 @@
 
 name: Second workflow testing
 on: push
+env:
+    CONTAINER_REGISTRY: dockerio
+    CONTAINER_REGISTRY_USER_NAME: ravi
+    CONTAINER_REGISTRY_USER_PASSWORD: password
+    IMAGE_NAME: github-actions-nginx
+
 jobs:
     first_job:
         runs-on: ubuntu-latest
@@ -35,3 +41,13 @@ jobs:
             name: dragon-txt-file
         - name: Show dragon.txt file
           run:  cat dragon.txt
+
+    third_job:
+        runs-on: ubuntu-latest
+        needs: [first_job, second_job]
+        steps:
+        - name: Docker builds
+          run: |
+            echo docker build -t ${{ env.CONTAINER_REGISTRY}}/${DOCKER_USER_NAME}/${IMAGE_NAME}:latest .
+
+
