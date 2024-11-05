@@ -8,6 +8,6 @@ jobs:
           run: cat /etc/*release*
         - name: List files
           run: ls
-        - name: Read file
-          run: cat README.md
+        - name: Check Kernel Version
+          run: cat /proc/version
 
