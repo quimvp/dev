@@ -1,0 +1,13 @@
+name: First workflow testing
+on: push
+jobs:
+    first_job:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Check Ubuntu distribution
+          run: cat /etc/*release*
+        - name: List files
+          run: ls
+        - name: Read file
+          run: cat README.md
+
