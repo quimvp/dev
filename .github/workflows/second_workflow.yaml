@@ -1,5 +1,7 @@
 
-name: Second workflow testing
+name: Second Workflow Testing
+
+# Workflow Triggers: https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows
 on: push
 
 # Environment variables at workflow level
@@ -12,7 +14,6 @@ env:
 
     # This secret at Repository level, not at organization level, to use across workflows
     #CONTAINER_REGISTRY_USER_PASSWORD: password
-
 
 jobs:
     first_job:

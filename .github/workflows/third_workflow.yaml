@@ -1,0 +1,16 @@
+
+name: Third Workflow Testing
+on:
+   schedule:
+     - cron: "*/1 * * * *" 
+
+jobs:
+    first_job:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Basic commands
+          run: |
+            cat /etc/*release*
+            cat /proc/version
+            git --version
+            sudo apt-get install cowsay -y

@@ -1,4 +1,5 @@
-name: First workflow testing
+
+name: First Workflow Testing
 on: push
 jobs:
     first_job:
