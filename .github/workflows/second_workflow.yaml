@@ -55,10 +55,10 @@ jobs:
         steps:
         - name: Docker build
           run: |
-            echo docker build -t ${{ env.CONTAINER_REGISTRY}}/${DOCKER_USER_NAME}/${IMAGE_NAME}:latest .
+            echo docker build -t ${{ env.CONTAINER_REGISTRY}}/${{ vars.CONTAINER_REGISTRY_USER_NAME }}/${IMAGE_NAME}:latest .
         - name: Docker Login
           run: |
-            echo docker login --user-name= --password=${{ secrets.CONTAINER_REGISTRY_USER_PASSWORD}}
+            echo docker login --user-name=${{ vars.CONTAINER_REGISTRY_USER_NAME }} --password=${{ secrets.CONTAINER_REGISTRY_USER_PASSWORD }}
         - name: Docker Push or Publish
           run: |
-            echo docker push ${{ env.CONTAINER_REGISTRY}}/${DOCKER_USER_NAME}/${IMAGE_NAME}:latest
+            echo docker push ${{ env.CONTAINER_REGISTRY}}/${{ vars.CONTAINER_REGISTRY_USER_NAME }}/${IMAGE_NAME}:latest
