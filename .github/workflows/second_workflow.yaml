@@ -11,6 +11,13 @@ jobs:
             cat /proc/version
             git --version
             sudo apt-get install cowsay -y
+        - name: Execute Cowsay command
+          run: cowsay -f dragon "Run for cover, I am a DRAGON....RAWR" >> dragon.txt
+        - name: Upload dragon.txt file
+          uses: actions/upload-artifact@v3
+          with:
+            name: dragon-txt-file
+            path: dragon.txt
 
     second_job:
         runs-on: ubuntu-latest
@@ -22,3 +29,9 @@ jobs:
           run: |
             ls -la *
             ls -l README.md
+        - name: Download dragon.txt file
+          uses: actions/download-artifact@v3
+          with:
+            name: dragon-txt-file
+        - name: Show dragon.txt file
+          run:  cat dragon.txt
