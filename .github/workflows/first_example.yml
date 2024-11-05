@@ -19,6 +19,6 @@ jobs:
         - name: Git clone
           uses: actions/checkout@v4
         - name: List all content
-          run: ls -l
+          run: ls -la
         - name: List README.md
           run: ls -l README.md
