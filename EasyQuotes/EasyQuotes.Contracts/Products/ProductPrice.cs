@@ -12,7 +12,6 @@ namespace EasyQuotes.Contracts.Products
         {
             return !thePrice.IsDeficit();
         }
-
         
     }
 

@@ -9,13 +9,7 @@ namespace EasyQuotes.Contracts.Orders
         public Product OrderedProduct{get; init;} = productOrdered;
 
         public int Quantity {get; init;} = quantity > 0 ? quantity : throw new InvalidQuantityException();
-
-        //public OrderStatus Status {get; init;} = status;
-
-        public Money GetLineTotal()
-        {
-            return new Money(OrderedProduct.PriceEach);
-        }
+        
     }
 
     public enum OrderStatus:ushort

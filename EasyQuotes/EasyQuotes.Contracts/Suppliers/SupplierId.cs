@@ -8,6 +8,10 @@ namespace EasyQuotes.Contracts.Suppliers
             return tin >= 10000000L;
         } 
 
+        public static readonly Null = new(10000000);
+
+        
+
         public long Value {get; init;} = IsValidId(tin) ? tin : throw new InvalidIDException("Given id is  not valid TIN.");
 
         public override int GetHashCode()
