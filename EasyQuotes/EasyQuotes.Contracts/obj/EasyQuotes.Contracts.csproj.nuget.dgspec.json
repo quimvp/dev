@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thabiso\\source\\repos\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj": {}
+    "C:\\Users\\Thabiso\\source\\repos\\dev\\dev\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thabiso\\source\\repos\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj": {
+    "C:\\Users\\Thabiso\\source\\repos\\dev\\dev\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thabiso\\source\\repos\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Thabiso\\source\\repos\\dev\\dev\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj",
         "projectName": "EasyQuotes.Contracts",
-        "projectPath": "C:\\Users\\Thabiso\\source\\repos\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj",
+        "projectPath": "C:\\Users\\Thabiso\\source\\repos\\dev\\dev\\EasyQuotes\\EasyQuotes.Contracts\\EasyQuotes.Contracts.csproj",
         "packagesPath": "C:\\Users\\Thabiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thabiso\\source\\repos\\EasyQuotes\\EasyQuotes.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Thabiso\\source\\repos\\dev\\dev\\EasyQuotes\\EasyQuotes.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

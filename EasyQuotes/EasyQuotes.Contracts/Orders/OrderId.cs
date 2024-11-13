@@ -7,7 +7,7 @@ namespace EasyQuotes.Contracts.Orders
             return idValue >= 0L;
         }
 
-        public static readonly OrderId Null = new(0L);
+        //public static readonly OrderId Null = new(0L);
 
         public static readonly OrderId Default = new(1L);
 

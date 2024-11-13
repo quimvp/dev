@@ -1,3 +1,5 @@
+using EasyQuotes.Contracts.Commerce;
+
 namespace EasyQuotes.Contracts.Products
 {
     public class ProductPrice(Product theProduct, Money price, int year)

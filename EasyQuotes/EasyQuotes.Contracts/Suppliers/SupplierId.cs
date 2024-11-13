@@ -2,17 +2,17 @@ namespace EasyQuotes.Contracts.Suppliers
 {
     public sealed class SupplierId(long tin)
     {
-        private bool IsValidId(long id)
+        private static bool IsValidId(long id)
         {
-            if (tin <=0) return false;
-            return tin >= 10000000L;
+            if (id <=0) return false;
+            return id >= 10000000L;
         } 
 
-        public static readonly Null = new(10000000);
+        public static readonly SupplierId Default = new(10000000);
 
         
 
-        public long Value {get; init;} = IsValidId(tin) ? tin : throw new InvalidIDException("Given id is  not valid TIN.");
+        public long Value {get; init;} = IsValidId(tin) ? tin : throw new InvalidSupplierTinException();
 
         public override int GetHashCode()
         {
@@ -44,7 +44,7 @@ namespace EasyQuotes.Contracts.Suppliers
         {
             return left.Equals(right);
         }
-
-        
     }
+
+    public class InvalidSupplierTinException(string msg="Given TIN does not appear to be valid."):ArgumentException(message:msg);
 }
