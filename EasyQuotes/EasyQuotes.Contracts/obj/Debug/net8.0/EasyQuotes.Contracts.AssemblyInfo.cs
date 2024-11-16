@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyQuotes.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c9e6ca1cc7a613dc4859ee637393f76a021088a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8daa3f3083d54cae5ddc9a2d3f78f934df3bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyQuotes.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyQuotes.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@ using EasyQuotes.Contracts.Suppliers;
 
 namespace EasyQuotes.Contracts.Clients
 {
-    public class Client(ClientId id, string nameOfClient, Contact contact, ClientType clientType)
+    public class Client(ClientId id, string nameOfClient, Contact contact, ClientType clientType = ClientType.Business)
     {
         public ClientId Id {get; init;} = id;
 
