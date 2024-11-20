@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webight</title>
+    <link rel="icon" href="logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1 style="font-size: 100px;">Web·ight</h1>
+        <img src="logo.png" alt="Human">
+    </header>
+    <div class="centered">
+        <div class="tabCon">
+            <div class="tabs">
+                <div class="tab active" onclick="openTab(event, 'tab1')">Home</div>
+                <div class="tab" onclick="openTab(event, 'tab2')">Special</div>
+                <div class="tab" onclick="openTab(event, 'tab3')">About</div>
+                <div class="tab" onclick="openTab(event, 'tab4')">Settings</div>
+            </div>
+            <div id="tab1" class="tab-content active">
+                <h1 id="Title">Home</h1>
+                <p id="centered">Welcome home.</p>
+                
+            </div>
+            <div id="tab2" class="tab-content">
+                <h2 id="Title">Special</h2>
+                <p id="centered">This is the content for Tab 2.</p>
+            </div>
+            <div id="tab3" class="tab-content">
+                <h2 id="Title">About</h2>
+                <p id="centered">This is the content for Tab 3.</p>
+            </div>
+            <div id="tab4" class="tab-content">
+                <h2 id="Title">Settings</h2>
+                <p id="centered">This is the content for Tab 3.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2021 Webite</p>
+    </footer>
+</body>
+</html>
